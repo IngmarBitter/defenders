@@ -1,2 +1,2 @@
-# defenders
+# Defenders
 Defenders class notes
