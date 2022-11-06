@@ -11,7 +11,9 @@ Three Class Purposes
 ====================
 
 [x] To train Christians to understand, articulate, and defend basic Christian truths
+
 [x] To reach out with the Gospel to those who have not yet come to know Christ.
+
 [x] To be a heart-warming fellowship of mutual encouragement and care.
 
 Teaching Content
