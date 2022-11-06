@@ -54,13 +54,13 @@ Topics
 
 Resources
 =========
-http://www.reasonablefaith.org Christian Doctrine and Apologetics in general
-https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3 Outlines, Podcasts and transcripts 
-http://creation.com/ Creation and Evolution 
-https://www.str.org/ Apologetics & Social issues
-http://www.studylight.org/ Tons of Bible Translations, 10 in parallel, commentaries, articles, news
-http://biblegateway.com   http://biblos.com   http://biblehub.com   http://www.blueletterbible.org
-https://www.logos.com/ best PC software for Bible study, but $$$
+- http://www.reasonablefaith.org Christian Doctrine and Apologetics in general
+- https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3 Outlines, Podcasts and transcripts 
+- http://creation.com/ Creation and Evolution 
+- https://www.str.org/ Apologetics & Social issues
+- http://www.studylight.org/ Tons of Bible Translations, 10 in parallel, commentaries, articles, news
+- http://biblegateway.com   http://biblos.com   http://biblehub.com   http://www.blueletterbible.org
+- https://www.logos.com/ best PC software for Bible study, but $$$
 
 
 <sub><sup>Version 0.1<sub><sup>
