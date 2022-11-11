@@ -28,7 +28,7 @@ Apologetics
 Topics
 ======
 
-1. Christian Testimonies <sub><sup>How to make it an effective evangelism tool<sub><sup>
+1. [Christian Testimony](Testimony/Testimony.slides.html) <sub><sup>How to make it an effective evangelism tool<sub><sup>
 1. Foundations of Christian Doctrine & Apologetics <sub><sup>What it is, Why to study it<sub><sup>
 1. Doctrine of Revelation <sub><sup>Authority, General & Special Revelation, Biblical Inerrancy, Bible Canonicity<sub><sup>
 1. Doctrine of God 
