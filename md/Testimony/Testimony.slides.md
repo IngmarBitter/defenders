@@ -60,12 +60,19 @@ You are the world's foremost expert of your own history!
 * Homework: write your testimony story
 * [**Example**](TestimonyIngmar.html)
 
+---
+## Code
+
+```rust linenumbers
+this is i32 fixed width font 
+and rust highlighting
+```
 
 <!-- Markdeep slides stuff -->
 <script>
     markdeepSlidesOptions = {
         aspectRatio: 16 / 9,
-        theme: 'dark',
+        theme: '../markdeep-slides/themes/dark.css',
         fontSize: 28,
         diagramZoom: 1.0,
         totalSlideNumber: false,
