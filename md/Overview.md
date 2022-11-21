@@ -34,7 +34,7 @@ Topics
 1. Doctrine of God 
  1. God is .. <sub><sup>Knowing God, Self-Existing, Eternal, Omnipresent, Immutable, Immaterial, Omniscient, Holy, Loving<sub><sup>.
  1. God must exist <sub><sup>Properly Basic Belief, Leibnitz argument from Contingency, Kalam Cosmological Argument, Teleological Argument from Fine-tuning, Moral Argument from Absolute Moral Values, Ontological Argument<sub><sup>
- 1. Problem of Evil/Suffering/Hell <sub><sup>Why does God not prevent all three? Christianity has the best answer<sub><sup>
+ 1. Problem of Evil/Suffering/Hell <sub><sup>Why does God not prevent all three? Christianity has the best answer, [gives comfort](../docs/Evil.emotion/Evil.emotion.slides.html))}<sub><sup>
 2. Doctrine of the Trinity <sub><sup>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model<sub><sup>
 3. Doctrine of Christ <sub><sup>Deity and Humanity of Christ, History of Explanations, Possible Model<sub><sup>
 4. Doctrine of the Holy Spirit <sub><sup>Deity, Personhood, Role in Salvation, Ministry to believers<sub><sup>
