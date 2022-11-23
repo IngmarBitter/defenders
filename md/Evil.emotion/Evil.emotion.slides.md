@@ -47,7 +47,7 @@ God sometimes ...
 ![](jesus.heals.jpg style="float: right; width: 8rem")
 
 * Had dinner at the home of rejected men 
-* Weaped with the mother loosing her child Lazarus
+* Weeped with the mother loosing her child Lazarus
 * Healed the sick 
 * Sacrificed for the ones he loved
 
