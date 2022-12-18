@@ -51,6 +51,7 @@ Topics
 15. False religions <sub><sup>Islam, Roman Catholic, LDS, Jehovah Witnesses Key believes, counter apologetics<sub><sup>
 16. 12 Rules for Life, Jesus’ edition <sub><sup>How Jesus would improve upon Jordan Peterson’s book<sub><sup>
 17. 5 Love Languages <sub><sup>Great relationship advice from a Christian councillor<sub><sup>
+18. Calvinism, Armenianism, Molinism <sub><sup>How to harmonize God's sovereignty and our free will.<sub><sup>
 
 Resources
 =========
