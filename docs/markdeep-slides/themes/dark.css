@@ -223,6 +223,13 @@ a[href^="#citation-"] {
     font-weight: bold;
 }
 
+/* tables */
+.md table {
+    font-size: inherit;
+    /* not sure why it doesn't automatically inherit the body's font size */
+    color: black;
+    background-color: lightgray;
+}
 
 /* endnotes and bibliography */
 .md .endnote,

@@ -61,12 +61,6 @@ You are the world's foremost expert of your own history!
 * [**Example**](TestimonyIngmar.html)
 
 ---
-## Code
-
-```rust linenumbers
-this is i32 fixed width font 
-and rust highlighting
-```
 
 <!-- Markdeep slides stuff -->
 <script>
