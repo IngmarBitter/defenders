@@ -1,18 +1,24 @@
 <meta charset="utf-8" emacsmode="-*- markdown -*-"><link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/slate.css?">
 
-# Eternal Security of the Elect
+# Eternal Security 
 
-*** Assurance of Salvation ***
+## Preservation (Calvinism)
 
 C: **Once saved - always saved**. (always unconditional)
 
-Needs to show that throwing away salvation is impossible <br>(impossibility of regenerate Christians disavowing belief, or becoming apostates or false teachers).
+Needs to show that throwing away salvation is impossible <br>(impossibility of regenerate Christians disavowing belief and becoming apostates).
+
+## Perseverance (Arminianism, Molinism)
 
 A,M: **Once belief saves - always belief saves**. (always conditional)
 
-Needs to show that throwing away salvation is possible. <br>(real examples of regenerate Christians disavowing belief, or becoming apostates or false teachers).
+Needs to show that throwing away salvation is possible. <br>(real examples of regenerate Christians disavowing belief and becoming apostates).
+
+## The Difference
+There is no danger of loosing salvation, as that would imply that it was unintended. Similarly there is no danger of someone steeling our salvation. The subsequent verses will make this clear and all three interpretation views agree on this. The differentiation comes when considering if genuine Christians can change to genuinely disbelieve, to disavow Jesus and through that to intentionally throw away salvation.  All three views again agree that the latter state of not believing implies not being saved. The crucial disagreement is if the transition form genuine belief to genuine unbelief is possible. Hence, in the following we will not look at loosing salvation, but only at throwing away salvation.
 
 ---
+# Salvation is Secure
 
 ## Romans 8:28-30
 
@@ -275,6 +281,8 @@ Needs to show that throwing away salvation is possible. <br>(real examples of re
 8. 6. and 7. are a logical contradiction
 9. -> at least one of 1. to 7. is not true. Not 7 (bible verse), not 2,4,6,8 (logical conclusion), not 3,5 (biblical and contemporary examples), 1 is the only one left
 10. -> 1 must be false
+
+--
 
 * A,M: good argument
 * C: ???
