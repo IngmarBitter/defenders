@@ -15,7 +15,7 @@ Ingmar Bitter
    Jesus said to him, “ ‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ 
    1 Peter 3:15 HCSB  
 
-![](hope.jpg style="float: right; width: 8rem")
+![](mind.jpg style="float: right; width: 11rem")
 
 * Loving God with our mind includes digging deeper into not so obvious parts of scripture where believers have differed in the past on what the correct interpretation is
 * We will honor difference of opinion
@@ -25,7 +25,7 @@ Ingmar Bitter
 
 ## What
 
-![](threeCircles.jpg style="float:right; width: 9rem")
+![](omnicience.jpg style="float:right; width: 11rem")
 
 1. Calvinism
    1. Emphasizes God's sovereignty, God's choosing us for salvation
@@ -38,7 +38,7 @@ Ingmar Bitter
 
 ## How
 
-![](readingScroll.jpg style="float:right; width: 9rem")
+![](OpenBible.jpg style="float:right; width: 11rem")
 
 * Clarify the distinctives in the views
 * List the most relevant verses / passages for and against each view
