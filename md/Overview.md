@@ -50,7 +50,7 @@ Topics
 17. Homophobia, Transphobia, Islamophobia, SexVsGender, Bigot, Intolerant <sub><sup>What it is, How to respond to being labelled as such @STR. org<sub><sup>
 18. False religions <sub><sup>Islam, Roman Catholic, LDS, Jehovah Witnesses Key believes, counter apologetics<sub><sup>
 19. 12 Rules for Life, Jesus’ edition <sub><sup>How Jesus would improve upon Jordan Peterson’s book<sub><sup>
-20. 5 Love Languages <sub><sup>Great relationship advice from a Christian councillor<sub><sup>
+20. [5 Love Languages](5LoveLanguages/5LoveLanguages.slides.html) <sub><sup>Great relationship advice from a Christian councillor<sub><sup>
 21. [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <sub><sup>How to harmonize God's sovereignty and our free will.<sub><sup>
 22. Constructive Politics <sub><sup>How do 1) have empathy and gain understanding of other views and 2) make our point lovingly to 3) find an acceptable solution.<sub><sup>
 Resources
