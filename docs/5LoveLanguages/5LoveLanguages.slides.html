@@ -133,9 +133,15 @@ Chapter 1 What happens to love after the wedding?
 
 ![](YourLoveLanguage.jpg style="float: right; width: 11rem")
 
-https://5lovelanguages.com/quizzes/love-language
-
-* ...
+* What do you desire most from your spouse?
+* What can s/he do that would hurt most?
+* What do you try to do to please the other?
+* => likely these are similar and are your main love language
+* Sex is a physical need for men
+  * not necessarily an emotional love language
+* Sometimes people have multiple love languages
+* Take the test here:
+  * https://5lovelanguages.com/quizzes/love-language
 
 ---
 
