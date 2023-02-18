@@ -70,11 +70,44 @@ Chapter 1 What happens to love after the wedding?
 
 ![](WordsOfAffirmation.png style="float: right; width: 7rem")
 
-* Words rather than actions
-* Unsolicited compliments 
 * "I love you"
-* Insults can leave you shattered and are not easily forgotten
-* Kind, encouraging, and positive words are truly life-giving
+* Unsolicited compliments 
+* Encougagements
+* Sharing feelings
+* Express forgiveness
+* Kindly request what you like/need
+* NOT Insults => shattering & memorable
+
+---
+
+## Love Language #1: Words of Affirmation
+
+![](WordsOfAffirmation.png style="float: right; width: 7rem")
+
+* Words rather than actions
+* Expressed kindly
+* Privately and in presence of others
+* Indirect to her friends and family
+* Receive with "thank you", not with an immediate return compliment
+* What would you like to hear most?
+* Challenge: a different compliment every day for a month
+
+---
+
+## Love Language #2: Quality Time
+
+![](QualityTime.png style="float: right; width: 7rem")
+
+* Best
+  * Distraction free conversation
+    * Go for a walk & talk
+    * Dinner at a restaurant
+    * Coffee on the chouch
+  * Shared experiences
+    * Afternoon at the beach
+    * Attend concert or sportsgame
+* Practical
+  * Talk while doing home chores together
 
 ---
 
@@ -94,11 +127,37 @@ Chapter 1 What happens to love after the wedding?
 
 ![](ReceivingGifts.png style="float: right; width: 7rem")
 
+* Coffee to the bed in the morning
+* Card or sticky note with a loving message
+* Flowers fresh cut or potted
+* Jewlery (pretty, not necessarily expensive)
+* New car, new house (not every week :-)
+* Gift of self, just being there when support is needed
+
+---
+
+## Love Language #3: Receiving Gifts
+
+![](ReceivingGifts.png style="float: right; width: 7rem")
+
 * Is NOT materialism, the cost of the gift is not the focus 
 * The receiver of gifts thrives on the love, thoughtfulness, and effort behind the gift
 * The perfect gift or gesture shows that you are known, you are cared for, and you are prized above whatever was sacrificed to bring the gift to you
 * A missed birthday, anniversary, or a hasty, thoughtless gift would be disastrous – so would the absence of everyday gestures
 * Gifts are visual representations of love and are treasured greatly.
+* The gift cost is an investment into the relationship
+
+---
+
+## Love Language #4: Acts of Service
+
+![](ActsOfService.png style="float: right; width: 7rem")
+
+* making dinner, vacuuming, laundry, ...
+* paying bills, tax filing, filling forms, ...
+* fixing broken bubls, faucets, seals, ...
+* shopping for food and supplies
+* helping kids with homework, helping in-laws
 
 ---
 
@@ -107,11 +166,12 @@ Chapter 1 What happens to love after the wedding?
 ![](ActsOfService.png style="float: right; width: 7rem")
 
 * Anything you do to ease the burden of responsibilities
-  * vacuuming, laundry, tax filing, ...
   * ideally ask which ones are most hated by your spouse and do those
 * The words he or she most want to hear: "Let me do that for you." 
 * Avoid laziness, broken commitments, and making more work for your spouse
 * Finding ways to serve speaks volumes to the recipient of these acts.
+* OK to ask for a list of desired helps
+* OK to kindly request desired helps 
 
 ---
 
@@ -120,12 +180,23 @@ Chapter 1 What happens to love after the wedding?
 ![](PhysicalTouch.png style="float: right; width: 7rem")
 
 * The bedroom for sure, but not only.
-* Hugs, pats on the back, holding hands, and thoughtful touches on the arm, shoulder, or face
-  * can all be ways to show excitement, concern, care, and love
+* Hugs, holding hands, pats on the back, and thoughtful touches on the arm, shoulder, or face
+* Massage back, shoulder, feet, ...
+* Touch under table in restaurant
+* Hugs for support in crysis
+* For kids: carry, hugs, rough tumble
+
+---
+
+## Love Language #5: Physical Touch
+
+![](PhysicalTouch.png style="float: right; width: 7rem")
+
+* Physical ways to show excitement, concern, care, and love
 * Physical presence and accessibility are crucial
 * Avoid neglect or abuse which can be unforgivable and destructive
 * Physical touch fosters a sense of security and belonging in any relationship
-
+* Read books on sex and massage to get better at them
 
 ---
 
