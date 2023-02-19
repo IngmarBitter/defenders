@@ -269,8 +269,12 @@ Conclusions
 
 Thank you!
 
-Questions?
+**Questions?**
 
+* Further reading:
+  * [Dr Craig: Kalam & Science](https://www.youtube.com/watch?v=6CulBuMCLg0)
+  * [Dr Craig: Kalam & Philosopy](https://www.youtube.com/watch?v=vybNvc6mxMo)
+  * [Dr Craig: Kalam & Defenders class: Natural Theology Part 8-13](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology)
 
 <!-- Markdeep slides stuff -->
 <script>
