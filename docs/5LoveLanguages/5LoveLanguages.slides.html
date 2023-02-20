@@ -218,33 +218,46 @@ Chapter 1 What happens to love after the wedding?
 
 ## Love is a Choice
 
-![](BlankPage.jpg style="float: right; width: 11rem")
+![](HeartHandShake.png style="float: right; width: 11rem")
 
-* ...
+* In-Love is bioligical instinct, lasts 2 years
+* To love is a choice & commitment
+  * Serves the emotional need to feel loved and valued
+  * Is not for my comfort but my spouses comfort
+  * Heeps the spouses love tank full
+  * Can be opposite to personal desires
+  * Is worth the effort => relationship harmony & joy
 
 ---
 
 ## Love Makes the Difference
 
-![](BlankPage.jpg style="float: right; width: 11rem")
+![](SelfWorth.png style="float: right; width: 11rem")
 
-* ...
+* Feeling loved is a basic need
+  * => Also boosts self esteem & significance & security
+* Meeting the emotional love need is great
+  * Great for the loved one
+  * Great for the loving one
+  * Harmony in marriage
 
 ---
 
 ## Loving the Unlovely
 
-![](BlankPage.jpg style="float: right; width: 11rem")
+![](ServeLove.png style="float: right; width: 11rem")
 
-* ...
+* Best to learn about love languages together
+  And to commit speaking them together
+* If not possible, then one-sided commitment
+  * Difficult to do & Uncertain if successful
+  * Some/Only hope for marriage healing
 
----
-
-## Notes
-
-![](BlankPage.jpg style="float: right; width: 11rem")
-
-* ...
+1) Ask how you can be a better spouse<br>
+... do it without arguing in a positive attitude<br>
+2) Only after positive feedback:<br>
+... each month add one daily request<br>
+3) Keep up your end
 
 ---
 
@@ -306,6 +319,14 @@ Commit to take that burden off the other
 * acts of service - do what the partner likes
 * receiving gifts - making dreams of spouse come true
 * quality time - undivided attention to each other
+
+---
+
+## Notes
+
+![](BlankPage.jpg style="float: right; width: 11rem")
+
+* ...
 
 ---
 
