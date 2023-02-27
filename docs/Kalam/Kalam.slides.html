@@ -238,7 +238,7 @@ Conclusions
   * Not bound by time (timeless)
   * Immensely powerful (omnipotent)
   * Necessarily existing (self existing)
-  * Un-embodied mind (a mind can affect the physical world and can decide to create the universe)
+  * Un-embodied mind / consciousness (can affect the physical world and can decide to create the universe)
 
 ---
 
@@ -250,9 +250,9 @@ Conclusions
   * That is God!
 * => God can be the God of
   * Judaism, Christianity, Islam
-* => God cannot be the God of
+* => God is not likely the God of
   * Hinduism, Buddhism
-* => these cannot be true
+* => These cannot be true
   * Atheism
     * Since we now have a good argument for God
   * Agnosticism
