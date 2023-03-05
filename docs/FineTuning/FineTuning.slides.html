@@ -1,0 +1,291 @@
+<meta charset="utf-8" lang="en">
+
+**Teleological Argument from Fine-Tuning**
+   God must exist as the designer of the universe
+
+<small><em><span class="current-date"></span></em></small><br>
+Ingmar Bitter, PhD
+
+---
+
+## Roadmap
+
+![](Cosmos.jpg style="float: right; width: 9rem")
+
+* Science
+* Design
+* Design in Physics & Cosmology
+* Design in Chemistry & Biology
+
+
+---
+
+## Science
+
+![](Science.jpg style="float: right; width: 9rem")
+
+* Science: systematically understand cause and effect via experiment and rational deductions
+  * Operates on prior knowledge and observable and/or inferable data
+  * Results in scientific hypotheses that explain how to understand our world
+  * Inference to the best explanation decides between competing hypotheses
+    * Explanatory power, contrived, unexplained data … 
+
+
+---
+
+## Design
+
+![](rube-goldberg-machine.jpg style="float: right; width: 9rem")
+
+* Design is the complex plan or pattern<br>
+    for a particular purpose<br>
+    inherent in something<br>
+    created by an intelligent agent
+* Science can be used to identify design<br>even if the designer is not available
+  * Rube-Goldberg machines
+  * Archeology
+  * Search for Extra-Terrestrial Life - SETI
+  * Physics & Cosmology
+  * Chemistry & Biology
+
+---
+
+## Identifying Human Design
+
+![](MickyMinnie.jpg style="float: right; width: 9rem")
+
+1. Observe the existence of something
+1. Assume it exists because of chance, law, or design
+1. Assess chance
+  * Probability
+1. Assess law
+  * Necessity
+1. Assess design
+  * Specified Complexity
+* Believe the one that makes the most sense
+  * Clearly human design in this Disney flower example
+
+---
+
+## Argument for Any Design
+
+![](ChanceLawDesign.jpg style="float: right; width: 9rem")
+
+1. Observe the existence of something
+* Assume it exists because of chance, law, or design
+  * Assess chance
+    * Complexity
+  * Assess law
+    * Necessity
+  * Assess design
+    * Specified Complexity 
+* Believe the one that makes the most sense
+  * => Inference to the best explanation
+    * Meaningful even when no designer in sight
+
+
+---
+
+## Design in Physics & Cosmology
+
+![](FineTuningOfTheUniverse.jpg style="float: right; width: 9rem")
+
+* http://www.reasonablefaith.org/finetuning
+
+* The universe is VERY^2 fine tuned for life 
+  * Not by chance
+  * Not by law
+  * By design is reasonable
+  * => Designed for life
+
+---
+
+## Design in Chemistry & Biology
+
+![](Cell.jpg style="float: right; width: 9rem")
+
+* Necessary parts of a living cell (alive means?)
+  * Self sustaining 
+  * Self replicating
+  * Self organizing
+  * Metabolism to grow and duplicate
+  * DNA information storage and replication
+  * Key for mutation and natural selection
+* Where did it come from?
+  * IF the cell could not self assemble from a soup of parts<br>
+    THEN the DNA information would have to be assembled in one shot to match
+  * Was that by Chance? Law? Or Design?
+
+---
+
+## DNA Information Content
+
+![](proteins.jpg style="float: right; width: 9rem")
+
+* DNA encodes all of life’s basics:
+  * Cell wall (membrane & pores) and internal structure, 
+  * Metabolism system (burn food to get ATP, use ATP for work)
+  * DNA copy systems
+* Minimal cell & components need  500 proteins
+  * DNA needs to encode these proteins
+  * Proteins have ~330 amino acids on average
+  * 20e330 amino acid combinations per protein
+  * 20e330 ^ 500 = 10e214500 combinations for the minimal cell
+    * Could the DNA information arise by chance?
+    * How many tries do we have to make those combinations ?
+
+---
+
+## First Cell DNA by Chance ?
+
+![](Combinations.jpg style="float: right; width: 9rem")
+
+* A minimal cell is about 1ym3 in size
+* The earth surface area is 510,000,000km^2 or ~10e24m^2 or 10e36ym^2
+* 1km thick layer around the earth => 10e45ym^3
+  * Space for at most 10e45 minimal cells 
+* Earth life “friendly” for at most 4billion years
+  * 31,556,926 seconds per year
+  * => at most 10e17 seconds or 10e26 nano seconds
+* At most 10e71 chemical reactions trying out DNA combinations
+
+---
+
+## First Cell DNA by Chance ?
+
+![](Spiral8.jpg style="float: right; width: 9rem")
+
+* How often can we try to make a minimal cell?
+  * 10e71 tries
+* What is the expected likelihood of getting it right?
+  * 10e71 / 10e214500 = 10e-214429 
+  * That is<br>
+  1,000,000,000,000,000,000,000,000,000,000<br>
+  ,000,000,000,000,000,000,000,000,000,000<br>
+  ,000,000,000,000,000,000,000,000,000,000<br>
+  (2144 more pages)<br>
+  ,000,000,000,000,000,000,000,000,000,000<br>
+  times fewer tries than needed!!!!! => Not possible
+
+
+---
+
+## First Cell DNA by Law ?
+
+![](LegoTower.png style="float: right; width: 5rem")
+
+* DNA base pairs are of four types: ATCG
+* All four attach with identical bonding to the DNA helix backbone
+  * => There is no law that forces the base pair order
+  * If there was a law, then the sequence would have to be repetitive which prevents useful information
+* Buildup from large priors such as RNA World or proteins first world or clay world are only dreams and are refuted as impossible by atheist scientists in the two other camps
+
+---
+
+## Chemical Evolution: First Cell
+
+![](GodCreated.jpg style="float: right; width: 9rem")
+
+* How did life start on Earth?
+  * Observe the existence of: DNA and the first cell are fine-tuned for life
+  * Assume it exists because of chance, law, or design
+    * Assess chance
+      * => Too complex and improbable to possible be by chance
+    * Assess law
+      * => No law that makes DNA sequence what it needs to be 
+      * => Chemical laws that need to be **violated** for first cell self-assembly
+    * Assess design
+      * Specified Complexity clearly present
+  * Believe the one that makes the most sense
+    * => The fine-tuning for life must have been designed
+    * Inference to the best explanation
+      * meaningful even when no designer in sight
+
+---
+
+## DNA Read-Enzyme Cycle
+
+![](polymerase.jpg style="float: right; width: 9rem")
+
+* DNA read-enzymes are specialized proteins
+* Proteins do not self assemble
+* Proteins are manufactured in the ribosome
+* The ribosome connects amino acids as dictated by the information on the messenger RNA messenger RNA is made by DNA read-enzymes
+* => DNA read-enzymes cannot self assemble and need themselves to be made
+* => First cell self assembly violates chemical laws
+  * There are many other chemical law violations
+
+---
+
+## Does Science Show the Universe was Designed?
+
+![](Cosmos.jpg style="float: right; width: 9rem")
+
+* Physics & Cosmology
+  * Constants & quantities are fine tuned for life 
+  * => Designed for life
+* Chemistry & Biology: The First Cell
+  * DNA sequence & cell operation are fine tuned for life
+  * => Designed for life
+* All other explanations are less rational to believe
+
+---
+
+## What else can we conclude?
+
+![](LovedByGod.jpg style="float: right; width: 9rem")
+
+* The designer must have been
+  * Super smart
+  * Super powerful
+  * Life on earth as his goal
+* Atheism is less rational
+
+* We are not an accident
+* We are wanted by God
+
+Thank you!
+
+---
+
+## Thank you!
+
+![](LovedByGod.jpg style="float: right; width: 9rem")
+
+**Questions?**
+
+* Further reading:
+  * [Dr Craig: FineTuning](http://www.reasonablefaith.org/finetuning)
+  * [Dr Craig: Kalam & Defenders class: Natural Theology Part 14-17](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-excursus-on-natural-theology)
+
+<!-- Markdeep slides stuff -->
+<script>
+    markdeepSlidesOptions = {
+        aspectRatio: 16 / 9,
+        theme: '../markdeep-slides/themes/dark.css',
+        fontSize: 28,
+        diagramZoom: 1.0,
+        totalSlideNumber: false,
+        progressBar: true,
+        breakOnHeadings: false,
+        slideChangeHook: (oldSlide, newSlide) => {},
+        modeChangeHook: (newMode) => {}
+    };
+</script>
+<link rel="stylesheet" href="../markdeep-slides/lib/markdeep-relative-sizes/1.11/relativize.css">
+<link rel="stylesheet" href="../markdeep-slides/markdeep-slides.css">
+<script src="../markdeep-slides/markdeep-slides.js"></script>
+
+<!-- Markdeep stuff -->
+<script>
+    markdeepOptions = {
+        tocStyle: 'none',
+        detectMath: false,
+        onLoad: function() {
+            initSlides();
+        }
+    };
+</script>
+<style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style>
+<script src="../markdeep-slides/lib/markdeep/1.11/markdeep.min.js" charset="utf-8"></script>
+<script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
