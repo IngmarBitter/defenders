@@ -231,28 +231,47 @@ Ingmar Bitter, PhD
 
 ---
 
+## Who IS the designer?
+
+![](LovedByGod.jpg style="float: right; width: 9rem")
+
+* He is separate from the universe he created
+  * => must be immaterial 
+* He is coming up with much better designs than us 
+  * => must be much more intelligent
+  * => an unembodied mind
+* He made the universe a finite amount of time ago
+  * => must have free will to “wait for the right moment”
+  * => He is a immaterial, super-intelligent, free-willed, personal being
+    * an unembodied mind / spiritual being / God
+* => Only Christianity, Judaism and Islam have such a God
+
+---
+
+## Who designed God?
+
+![](LovedByGod.jpg style="float: right; width: 9rem")
+
+* But if God complex and specified, then who designed God?
+  * There is a logical necessity of a designer only for something that comes into existence
+  * God always existed, so there is no designer needed
+  * Other “things” not coming into existence are mathematical truths, e.g. 1+1=2 or e0=1
+  * IF He did come into existence
+    * the we would be faced with an infinite regress of supernatural designers
+      * => That is impossible in the real world
+      * => God not coming into existence is the only logically sound explanation
+
+---
+
 ## What else can we conclude?
 
 ![](LovedByGod.jpg style="float: right; width: 9rem")
 
-* The designer must have been
-  * Super smart
-  * Super powerful
-  * Life on earth as his goal
 * Atheism is less rational
-
 * We are not an accident
 * We are wanted by God
 
-Thank you!
-
 ---
-
-## Thank you!
-
-![](LovedByGod.jpg style="float: right; width: 9rem")
-
-**Questions?**
 
 * Further reading:
   * [Dr Craig: FineTuning](http://www.reasonablefaith.org/finetuning)
