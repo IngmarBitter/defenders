@@ -25,9 +25,8 @@ Video Introduction
 * Values
   * Something being Good or Bad 
   * Something having worth
-    * Love vs Hate, Care vs Torture
+    * Human dignity, Help a stranger in need
 * Duties
-  * Something being Right or Wrong
   * Something we ought to do or not do
     * Donate vs Steal, Tell truth vs Lying
 * It's good to become a doctor or scientist (value)
@@ -55,10 +54,31 @@ Video Introduction
 
 ![](MoralArgument.jpg style="float: right; width: 9rem")
 
-1. If God does not exist, 
-  * objective moral values and duties do not exist. 
+1. If God does not exist,<br> 
+  => there is no moral standard binding for all humans<br>
+  => objective moral values and duties do not exist. 
 2. Objective moral values and duties do exist. 
-3. Therefore, God exists.
+3. => Therefore, God exists.
+
+Premise 1. is logical equivalent to:<br>
+1b. If objective moral values duties do exist,<br>
+  => there is a moral standard binding for all humans<br>
+  => God does exist and His inherent goodness is that standard.<br>
+Hence, 3. does follow logically from 1. and 2.
+
+---
+
+## Moral Argument
+
+![](MoralArgument.jpg style="float: right; width: 9rem")
+
+1. If God does not exist,<br> 
+  => there is no moral standard binding for all humans<br>
+  => objective moral values and duties do not exist. 
+  * *typical atheist view: <br>  morals evolved differently in different societies (=> are subjective)*
+2. Objective moral values and duties do exist. 
+  * *typical conviction: <br>  murder and child abuse are really, always wrong (=> are objective)*
+3. => Therefore, God exists.
 
 ---
 
@@ -68,12 +88,13 @@ Video Introduction
 
 ![](UpOrDown.jpg style="float: right; width: 9rem")
 
-* Science does *not* produce *any* moral values or duties
-* Evolution does *not* produce *objective* values or duties
+* Science does *not* produce *any* moral values/duties
+* Evolution does *not* produce *objective* values/duties
   * Killing innocents, rape and incest are normal in the animal kingdom
+* Morals evolved differently in different societies (=> subjective)
 
 * Only if God does exist and gives us worth and moral laws 
-  * then have moral values and duties
+  * then have moral values and duties,
   * that "are grounded" in God as the reference standard
 
 ---
@@ -89,7 +110,7 @@ Video Introduction
 * NOT saying: Atheists cannot recognize objective moral values
   * Belief in God is not needed know we ought to love our children
 * NOT saying: Atheists cannot make an effective set of ethics laws
-  * Belief in God is not needed for basic human rights
+  * Belief in God is not needed for human rights and good laws
 * AM saying: Labeling something as objectively good 
   * does require grounding in God 
     * => therefore requires belief in God's existence
@@ -114,7 +135,18 @@ Video Introduction
 
 ---
 
-## Atheistic Objective moral values
+## God as grounding for the good
+
+![](GodIsGood.jpg style="float: right; width: 9rem")
+
+* The Euthyphro options 1. and 2. would prevent God from being a valid grounding for good moral values
+* Since option 3. is possible, God can be the grounding
+* Since we need some grounding, option 3. must be the correct one.
+* Also, the options 1. and 2. have strong defeaters
+
+---
+
+## Atheistic Objective Morals
 
 ![](MoralArgument.jpg style="float: right; width: 9rem")
 
@@ -123,10 +155,9 @@ Video Introduction
     * Contrary to common sense
     * No means by which it becomes our objective duties to act according to good values
 
-
 ---
 
-## Atheistic Objective moral values
+## Atheistic Objective Morals
 
 ![](MoralArgument.jpg style="float: right; width: 9rem")
 
