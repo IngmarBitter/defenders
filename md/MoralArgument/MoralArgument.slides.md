@@ -148,12 +148,17 @@ Hence, 3. does follow logically from 1. and 2.
 
 ## Atheistic Objective Morals
 
-![](MoralArgument.jpg style="float: right; width: 9rem")
+1. If God does not exist, objective moral values and duties do not exist. 
+
+![](ExistenceOfNumbers.png style="float: right; width: 9rem")
 
 1. Atheistic Moral Platonism
   * Moral values are real and exist eternally
-    * Contrary to common sense
-    * No means by which it becomes our objective duties to act according to good values
+    * => if true, invalidates premise 1.
+      * Contrary to common sense
+      * No means by which it becomes our objective duties to act according to good values
+      * There are [much better alternatives](ExistenceOfNumbers.png)
+
 
 ---
 
