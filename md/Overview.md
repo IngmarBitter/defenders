@@ -34,7 +34,7 @@ Topics
 4. Doctrine of God 
  1. God is .. <sub><sup>Knowing God, Self-Existing, Eternal, Omnipresent, Immutable, Immaterial, Omniscient, Holy, Loving<sub><sup>.
  1. God must exist <sub><sup>Properly Basic Belief, Leibnitz argument from Contingency, [Kalam Cosmological Argument](Kalam/Kalam.slides.html) , [Teleological Argument from Fine-Tuning](FineTuning/FineTuning.slides.html), [Moral Argument](MoralArgument/MoralArgument.slides.html) from Absolute Moral Values, Ontological Argument<sub><sup>
- 1. Problem of Evil/Suffering/Hell <sub><sup>Why does God not prevent all three? Christianity has the best answer, [gives comfort](../docs/Evil.emotion/Evil.emotion.slides.html))}<sub><sup>
+ 1. Problem of Evil/Suffering/Hell <sub><sup>Why does God not prevent all three? Christianity has the best answer, [gives comfort](Evil.emotion/Evil.emotion.slides.html))}<sub><sup>
 5. Doctrine of the Trinity <sub><sup>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model<sub><sup>
 6. Doctrine of Christ <sub><sup>Deity and Humanity of Christ, History of Explanations, Possible Model<sub><sup>
 7. Doctrine of the Holy Spirit <sub><sup>Deity, Personhood, Role in Salvation, Ministry to believers<sub><sup>
@@ -42,7 +42,7 @@ Topics
 9. Doctrine of Man <sub><sup>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?<sub><sup>
 10. Doctrine of Salvation <sub><sup>How Jesus’s death can be a substitute payment for our own guilt penalty, Baptism, Only Jesus, Can we lose our salvation?<sub><sup>
 11. Doctrine of the Church <sub><sup>The role of believers as the body of Christ<sub><sup>
-12.  Doctrine of the Last Things <sub><sup>Jesus Second Coming, Resurrection of the Saints, the New Heaven and Earth<sub><sup>
+12.  Doctrine of the Last Things <sub><sup>Jesus Second Coming, [Resurrection of the Saints, the New Heaven and Earth](LastThings/AfterDeath.html)<sub><sup>
 13. Church practices <sub><sup>Communion, Spiritual gifts & speaking in tongues, Leadership & women, Divorce and remarriage, Alcohol<sub><sup>
 14. God’s will for me <sub><sup>How to make decisions that God approves and make Him happy<sub><sup>
 15. Tactics <sub><sup>How to share our believes in a gentle and respectful way @Tactics book<sub><sup>
