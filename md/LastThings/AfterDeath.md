@@ -153,11 +153,12 @@ For some of the verses below it's pointed out explicitly that this dualism is im
 
 ## Intertestamental Time
 
-During the intertestamental period, the belief in the resurrection of the dead flourished in Judaism and became a very widespread belief. In Jesus’ day, it was held to by the party of the Pharisees, but it was denied by the sect known as the Sadducees. The Sadducees in Jesus’ day represented the sort of old conservative Jews. They didn’t accept the doctrine of the bodily resurrection of the dead. Nor did they believe there were any rewards and punishments in the afterlife. They held to the older, more primitive, view that Sheol is the only place. So the Sadducees rejected the notion of immortality and resurrection of the dead in the sense that we’ve been describing it. By contrast, the sect of the Pharisees affirmed both the immortality of the soul beyond the death of the body as well as the eventual resurrection of the body and retribution in future life. There would be rewards and punishments.
+During the intertestamental period, the belief in the resurrection of the dead flourished in Judaism and became a very widespread belief. In Jesus’ day, it was held to by the party of the Pharisees, but it was denied by the sect known as the Sadducees. The Sadducees in Jesus’ day represented the sort of old conservative Jews. They didn’t accept the doctrine of the bodily resurrection of the dead. Nor did they believe there were any rewards and punishments in the afterlife. They held to the older, more primitive, view that Sheol is the only place. So the Sadducees rejected the notion of immortality and resurrection of the dead in the sense that we’ve been describing it. By contrast, the sect of the Pharisees affirmed both the immortality of the soul beyond the death of the body as well as the eventual resurrection of the body and retribution in future life. There would be rewards and punishments. <br>
+- William Lane Craig
 
-## New Testament
+## New Testament: Our resurrection
 
-### Acts 23:6-10 Paul: we will be resurrected
+### Acts 23:6-10 Paul: We will be resurrected
 !!!
     6 Then Paul, knowing that one sect was Sadducees and the other Pharisees, cried out among the Sanhedrin, “Brothers, I am a Pharisee, a son of a Pharisee. I am being judged for my hope in the resurrection of the dead.”  7 When he had said this, dissension arose between the Pharisees and the Sadducees, and the assembly was divided.  8 For the **Sadducees say that there is no resurrection, nor angel, nor spirit**. But the **Pharisees acknowledge them all**.<br>
     9 There was a great outcry. The scribes that were from the sect of Pharisees stood up and argued, “We find no evil in this man. But if a spirit or an angel has spoken to him, let us not fight against God.”  10 When much dissension arose, fearing that Paul would be torn to pieces by them, the commander ordered the soldiers to go down and take him from them by force and bring him into the barracks.
@@ -188,6 +189,8 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Jesus is the one through whom we will rise.
 * Jesus rising from the dead is demonstrating that physical death can be overcome and that it is reasonable/rational to have hope for the same for ourselves.
 
+## Believers will be with Christ
+
 ### Philippians 1:21-24 To die is to be with Christ
 !!!
     21 For to me, to continue living is Christ, and **to die is gain**.  22 But if I am to live on in the flesh, this will mean fruitful labor to me. Yet I do not know what I shall choose.  23 I am in a difficult position between the two, **having the desire to depart and to be with Christ, which is far better**.  24 Nevertheless, to remain in the flesh is more needful for your sake.
@@ -197,7 +200,7 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * He is looking forward to this life after death more so than his current physical life
 * He's not contemplating suicide, as he believes he's called to help others get to know and love Jesus.
 
-### 2 Corinthians 5:1-10 earthly and heavenly bodies
+### 2 Corinthians 5:1-10 Earthly and heavenly bodies
 !!!
     1 We know that if our earthly house, this tent, were to be destroyed, **we have an eternal building of God in the heavens**, a house not made with hands. 2 In this one we groan, earnestly desiring to be sheltered with our house which is from heaven. 
 
@@ -217,6 +220,8 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Being in our earthly body means being away from Jesus
   * Dying and being without our earthly body means being with Jesus. That's the better state.
 * Everyone will be judged and receive morally appropriate recompense.
+
+## Hades and Paradise
 
 ### Luke 16:19-31 The rich man and the beggar Lazarus
 !!!
@@ -274,25 +279,19 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Jesus has the authority to judge our lives. 
 * This judgment is waiting for those who already died and they will be raised to face their sentencing to life or judgment.
 
+## Judgment after Jesus returns
+
 ### 1 Corinthians 4:5 Judgment will be after Jesus returns
 !!!
      5 Therefore **judge nothing before the appointed time until the Lord comes**. He will bring to light the hidden things of darkness and will reveal the purposes of the hearts. Then everyone will have commendations from God.
 
 * Christ does not judge us right when we die, but at His second coming.
 
-### 1 Corinthians 3:12-15 eternal rewards for kingdom work
-!!!
-    10 According to the grace of God which has been given to me, as a wise master builder, I have laid the foundation, but another builds on it. Now let each one take heed how he builds on it. 11 For **no one can lay another foundation than that which was laid, which is Jesus Christ**. 12 Now if anyone builds on this foundation with gold, silver, precious stones, wood, hay, or stubble, 13 each one’s work will be revealed. For the Day will declare it, because it will be revealed by fire, and the fire will test what sort of work each has done. 14 **If anyone’s work which he has built on the foundation endures, he will receive a reward**. 15 **If anyone’s work is burned, he will suffer loss. But he himself will be saved, still going through the fire**.
-
-* Jesus is the foundation that ensures we get to heaven.
-* What we build on that foundation can yield additional heavenly rewards, for enduring works precious to God's kingdom, or yield nothing, for works that are not enduring. 
-  * Likely that means works that contribute to growing God's kingdom on earth are rewarded and everything else is irrelevant.
-
 ### Matthew 25:31-46 Jesus separating sheep and goats
 !!!
     31 **“When the Son of Man comes in His glory**, and all the holy angels with Him, then **He will sit on the throne of His glory**. 32 **Before Him will be gathered all nations, and He will separate them** one from another as a shepherd separates his sheep from the goats. 33 He will set the sheep at His right hand, but the goats at the left.
 
-* At Jesus second coming is when He will judge us.
+* Jesus second coming is when He will judge us.
 
 !!!
     34 “Then the King will say to those at His right hand, ‘Come, you blessed of My Father, inherit the kingdom prepared for you since the foundation of the world. 35 For I was hungry and you gave Me food, I was thirsty and you gave Me drink, I was a stranger and you took Me in. 36 I was naked and you clothed Me, I was sick and you visited Me, I was in prison and you came to Me.’<br>
@@ -307,7 +306,6 @@ During the intertestamental period, the belief in the resurrection of the dead f
     45 “He will answer, ‘Truly I say to you, **as you did it not for one of the least of these, you did it not for Me**.’
 
 * Jesus will count lack of compassion as evidence of not caring for Him.
-
 !!!
     46 **“And they will go away into eternal punishment, but the righteous into eternal life**.”
 
@@ -322,6 +320,17 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Doing good and seeking honor will lead to eternal life.
 * Doing evil will lead to tribulation and anguish.
 
+## Heavenly rewards & treasures
+
+### 1 Corinthians 3:12-15 eternal rewards for kingdom work
+!!!
+    10 According to the grace of God which has been given to me, as a wise master builder, I have laid the foundation, but another builds on it. Now let each one take heed how he builds on it. 11 For **no one can lay another foundation than that which was laid, which is Jesus Christ**. 12 Now if anyone builds on this foundation with gold, silver, precious stones, wood, hay, or stubble, 13 each one’s work will be revealed. For the Day will declare it, because it will be revealed by fire, and the fire will test what sort of work each has done. 14 **If anyone’s work which he has built on the foundation endures, he will receive a reward**. 15 **If anyone’s work is burned, he will suffer loss. But he himself will be saved, still going through the fire**.
+
+* Jesus is the foundation that ensures we get to heaven.
+* What we build on that foundation can yield additional heavenly rewards, for enduring works precious to God's kingdom, or yield nothing, for works that are not enduring. 
+  * Likely that means works that contribute to growing God's kingdom on earth are rewarded and everything else is irrelevant.
+
+
 ### Matthew 6:19-21 Store up treasures in heaven
 !!!
     19 “Do not store up for yourselves treasures on earth where moth and rust destroy and where thieves break in and steal. 20 But **store up for yourselves treasures in heaven**, where neither moth nor rust destroys and where thieves do not break in nor steal, 
@@ -334,6 +343,8 @@ During the intertestamental period, the belief in the resurrection of the dead f
 
 * Investing our money, time and energy into something (storing treasures) is what will shape our hearts, our desires. So the motivation for investing in heavenly treasures is not primarily to get rich, but to guard and guide our hearts. Heavenly riches are a nice side effect.
 
+## Jesus return
+
 ### 1 Thessalonians 4:13–17 the dead will be raised and united with Jesus
 !!!
     13 But I would not have you ignorant, brothers, concerning those who are asleep, that you may not grieve as others who have no hope. 14 For if we believe that **Jesus died and arose again**, so **God will bring with Him those who sleep in Jesus**. 15 For this we say to you by the word of the Lord, that **we who are alive and remain until the coming of the Lord will not precede those who are asleep**. 16 For the Lord Himself will descend from heaven with a shout, with the voice of the archangel, and with the trumpet call of God. And **the dead in Christ will rise first**. 17 **Then we who are alive and remain shall be caught up together with them** in the clouds to meet the Lord in the air. And so **we shall be forever with the Lord**.
@@ -342,6 +353,8 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Just as God raised Jesus, He will raise those that died as believers.
 * Dead believers will be united with Christ before believers that are alive when Jesus returns.
 * All believers, past and present, will be with Jesus eternally.
+
+## New Jerusalem & New Heavens and New Earth
 
 ### Isaiah 65:8-25 New Heavens and New Earth with the New Jerusalem
 !!!
@@ -434,13 +447,35 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * There will be *a new heavens* and *a new earth* with a *new Jerusalem* for believers to live in harmoniously with each other and in the presence of God.
 * Even animals will change to be in harmony, with carnivore animals becoming vegetarian. 
 
+### Zechariah 2:4-5  Jerusalem without walls but with God
+!!!    
+    4 and [the angel] said to him, “Run, say to this young man: Jerusalem will be inhabited as villages without walls, because of the multitude of men and animals in her. 5 And I will be like a wall of fire all around her, says the Lord, and I will be as glory in her midst.”
+
+* Jerusalem will have so many people that it will exceed its current geographical limits and not have walls.
+* Jerusalem will be protected through the presence of God in it.
+* There is no context indicating that this is before or after judgment day
+* A quick review of interpretations of this passage regarding timing, done by GPT-4 provided these reasonable alternatives:
+
+  * The timing of the fulfillment of Zechariah 2:4-5 can be a matter of debate among scholars and theologians. There are generally three main views on the timing of this prophecy:
+
+    * (1) Past fulfillment: Some argue that the prophecy was fulfilled during the post-exilic period after the return of the Jewish exiles from Babylon, around the time when Zechariah was prophesying (6th century BCE). According to this interpretation, the vision of a city without walls symbolized the expansion and growth of Jerusalem in that time period.
+
+    * (2) Future fulfillment before Jesus's return: Another interpretation suggests that the prophecy refers to a future Messianic age that will occur before the Second Coming of Jesus. In this view, the prophecy describes a time of peace, prosperity, and divine protection for God's people before the end times events. This interpretation often connects the prophecy to the broader inclusion of Gentiles in God's plan of salvation and the expansion of the people of God beyond the boundaries of ethnic Israel.
+
+    * (3) Future fulfillment after Jesus's return: Some interpreters believe that the fulfillment of Zechariah 2:4-5 will take place after the Second Coming of Jesus and the establishment of the New Jerusalem. This view posits that the prophecy is ultimately fulfilled in the eternal state, when God's people dwell in the New Jerusalem described in Revelation 21. In this case, the wall of fire around the city and God's presence as its glory within could be seen as symbolic of the divine protection and presence that will characterize the New Jerusalem.
+
+  * As with many biblical prophecies, the timing of the fulfillment of Zechariah 2:4-5 is subject to different interpretations and can be influenced by one's theological perspectives and traditions. It is important to engage with the text, its historical context, and the broader biblical narrative when considering the timing of the prophecy's fulfillment.
+
 ### Revelation 21  New Heavens and New Earth with the New Jerusalem
 !!!    
-    21 Then I saw **“a new heaven and a new earth**.” For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God** is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 ‘**God shall wipe away all tears from their eyes. There shall be no more death**.’ **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
+    1 Then I saw **“a new heaven and a new earth**.” For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God** is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 ‘**God shall wipe away all tears from their eyes. There shall be no more death**.’ **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
 
 * There will be *a new heavens* and *a new earth* with a *new Jerusalem* for believers to live in the presence of God without pain and even without death.
 * This sounds quite concrete, not metaphorical.
 
+### Revelation 21  New Heavens and New Earth with the New Jerusalem
+!!!    
+    1 Then I
 !!!
     5 He who was seated on the throne said, “Look! I am making all things new.” Then He said to me, “Write, for these words are faithful and true.”
 
@@ -451,11 +486,12 @@ During the intertestamental period, the belief in the resurrection of the dead f
 
 !!!
     ***The New Jerusalem***
-    9 One of the seven angels who had the seven bowls full of the seven last plagues came to me and said to me, “Come, I will show you the bride, the wife of the Lamb.” 10 And he carried me away in the Spirit to a great and high mountain, and showed me the **Holy City, Jerusalem**, descending out of heaven from God, 11 having the glory of God, her light like a most precious jewel, like a jasper, clear as crystal. 12 It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were written: 13 three gates on the east, three gates on the north, three gates on the south, and three gates on the west. 14 The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
+    9 One of the seven angels who had the seven bowls full of the seven last plagues came to me and said to me, “Come, I will show you the bride, the wife of the Lamb.” 10 And he carried me away in the Spirit to a great and high mountain, and showed me the **Holy City, Jerusalem**, descending out of heaven from God, 11 having the glory of God, her light like a most precious jewel, like a jasper, clear as crystal. 12 **It had a great, high wall**, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were written: 13 three gates on the east, three gates on the north, three gates on the south, and three gates on the west. 14 The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
 
     15 He who talked with me had a golden rod to measure the city and its gates and wall. 16 The city lies as a square, its length as long as its width. He measured the city with the rod: one thousand four hundred miles. Its length and breadth and height are equal. 17 He then measured its wall: two hundred feet by the measurement of a man, that is, of an angel. 18 The wall was built of jasper and the city was pure gold, as clear as glass. 19 The foundations of the wall of the city were garnished with all kinds of precious jewels. The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald; 20 the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; and the twelfth, amethyst. 21 The twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, transparent as glass.
 
 * The New Jerusalem will be huge and luxurious
+* The New Jerusalem will have a great wall
 
 !!!
     22 I saw no temple in the city, for the Lord God Almighty and the Lamb are its temple. 23 The city has no need of sun or moon to shine in it, for the glory of God is its light, and its lamp is the Lamb. 24 And the nations of those who are saved shall walk in its light, and the kings of the earth shall bring their glory and honor into it. 25 Its gates shall never be shut by day, for there shall be no night there. 26 They shall bring into it the glory and the honor of the nations. 27 No unclean thing shall ever enter it, nor shall anyone who commits abomination or falsehood, but only those whose names are written in the Lamb’s Book of Life.
