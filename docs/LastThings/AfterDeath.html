@@ -6,12 +6,12 @@
 
 ### Definitions
 
-To clarify terms, in the following I use these definitions:
+To clarify terms, in the following, I use these definitions:
 * **Body**: Our physical flesh and blood body
-* **Soul**: Our immaterial identity as person
-  * **Mind**: the part of our soul that uses our brain to think rationally and to move muscles
-  * **Heart**: the part of our soul where our emotions reside
-  * **Spirit**: the part of our soul that communicates with God
+* **Soul**: Our immaterial identity as a person
+  * **Mind**: The part of our soul that uses our brain to think rationally and to move muscles
+  * **Heart**: The part of our soul where our emotions reside
+  * **Spirit**: The part of our soul that communicates with God
 
 ### Near Death Experiences
 
@@ -19,7 +19,7 @@ Near-death experiences (NDEs) are subjective experiences that can occur during o
 
 There are some NDEs where people sensed the external world that was verified after and would not be possible if our mind and brain would be identical:
 
-* Pam Reynolds - In 1991, Pam Reynolds underwent a brain surgery to remove an aneurysm, which required her to be clinically dead for a short period of time. During the surgery, Reynolds reported leaving her body and witnessing the surgery from above. She described details of the surgical instruments and conversation between the doctors that were later confirmed to be accurate.
+* Pam Reynolds - In 1991, Pam Reynolds underwent brain surgery to remove an aneurysm, which required her to be clinically dead for a short time. During the surgery, Reynolds reported leaving her body and witnessing the surgery from above. She described details of the surgical instruments and conversations between the doctors that were later confirmed to be accurate.
 * Maria - In the late 1970s, a woman known only as "Maria" underwent emergency surgery for a heart attack. During the surgery, she reported having an NDE in which she left her body and floated above the operating table. She claimed that she saw a shoe on a windowsill outside the operating room, which she later described in detail to her doctors. They initially dismissed her account, but when they went to investigate, they found the shoe exactly where she had described it.
 
 ### Neuroscience
@@ -27,10 +27,10 @@ There are some NDEs where people sensed the external world that was verified aft
 From [Steward Goetz, PhD, Prof of Philosophy](https://www.reasonablefaith.org/writings/question-answer/god-and-mind-body-dualism):
 * Some famous neuroscientists believe the mind is immaterial, others think being able to stimulate the brain to change emotions means there is nothing beyond our physical brain.
 * Correlation between brain states and emotions does not mean they are identical, just as the correlation between eating rotten food and stomach ache does not make them identical.
-* People moving a muscle because of brain stimulation deny having had any thought or decision to move that muscle, just as a knew jerk reflex. The act of deciding to do/say/think something has never been triggered externally. The best explanation is that it's triggered by our mind that uses the brain.
+* People moving a muscle because of brain stimulation deny having had any thought or decision to move that muscle, just as a knee jerk reflex. The act of deciding to do/say/think something has never been triggered externally. The best explanation is that it's triggered by our mind that uses the brain.
 
 And from [William Lane Craig](https://www.reasonablefaith.org/writings/question-answer/why-do-determinists-say-the-self-is-an-illusion):
-If the brain and mind were identical, then the best explanation of emotions is that they are a supervenient state that automacically appears whenever the brain is in a matching configuration. The problem with this view is that, as a purely materialistic view, it is free of consciousness and intentionality. Those are also just supervenient illusionary states. Or next action is not what we decide to do, but what the physical precursor state of our brain dictates we must do. We are just a biological computer running the program of nature. We are either fully deterministic or there is some quantum randomness mixed in. But either way, we are not capable of rational thought, let alone scientific inquiry and knowlege building. Such a view is therefore self-defeating.
+If the brain and mind were identical, then the best explanation of emotions is that they are a supervenient state that automatically appears whenever the brain is in a matching configuration. The problem with this view is that, as a purely materialistic view, it is free of consciousness and intentionality. Those are also just supervenient illusionary states. Or next action is not what we decide to do, but what the physical precursor state of our brain dictates we must do. We are just biological computers running the program of nature. We are either fully deterministic or there is some quantum randomness mixed in. But either way, we are not capable of rational thought, let alone scientific inquiry and knowledge building. Such a view is therefore self-defeating.
 
 ### Piano and Pianist 
 
@@ -91,7 +91,7 @@ For some of the verses below it's pointed out explicitly that this dualism is im
 * This is where Hezekiah, a faithful believer in God, thinks he will go. That is a record of a personal view and does not have to be correct, but likely was the common belief at the time. Or could be that it was really correct at the time and God changed since then where believers will go.
 
 
-### Isaiah 14:9-11 Soul in Sheol, weak and tourmented
+### Isaiah 14:9-11 Soul in Sheol, weak and tormented
 !!!
     <div style="white-space: pre;">   9 **Sheol from beneath** is moved for you
         to meet you at your coming;
@@ -188,9 +188,9 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Jesus is the one through whom we will rise.
 * Jesus rising from the dead is demonstrating that physical death can be overcome and that it is reasonable/rational to have hope for the same for ourselves.
 
-### Philippians 1:21-24 to die is to be with Christ
+### Philippians 1:21-24 To die is to be with Christ
 !!!
-    21 For to me, to continue living is Christ, and **to die is gain**.  22 But if I am to live on in the flesh, this will mean fruitful labor to me. Yet I do not know what I shall choose.  23 I am in a difficult position between the two, **having a desire to depart and to be with Christ, which is far better**.  24 Nevertheless, to remain in the flesh is more needful for your sake.
+    21 For to me, to continue living is Christ, and **to die is gain**.  22 But if I am to live on in the flesh, this will mean fruitful labor to me. Yet I do not know what I shall choose.  23 I am in a difficult position between the two, **having the desire to depart and to be with Christ, which is far better**.  24 Nevertheless, to remain in the flesh is more needful for your sake.
 
 * Paul believed his identity, his soul, will continue to exist after death and 
 * that he will be with Christ.
@@ -208,8 +208,8 @@ During the intertestamental period, the belief in the resurrection of the dead f
     3 Thus being sheltered, **we shall not be found naked**. 4 For we who are in this tent groan, being burdened, **not because we wish to be unclothed, but to be further clothed**, so that what is mortal might be swallowed up by life. 5 Now He who has created us for this very thing is God, who also has given to us the guarantee of the Spirit.
 
 * Greek thought of the soul without a physical body as naked.
-* We will not be found as naked soul because we will be *further clothed* with our glorified bodies.
-  * The timing of this is unclear here. Non naked ever? or not naked for most of eternity?
+* We will not be found as naked souls because we will be *further clothed* with our glorified bodies.
+  * The timing of this is unclear here. Non-naked ever? or not naked for most of eternity?
 
 !!!
     6 Therefore we are always confident, knowing that while we are at home in the body, we are absent from the Lord. 7 For we walk by faith, not by sight. 8 Instead, I say that we are confident and willing **to be absent from the body and to be present with the Lord**. 9 So whether present or absent, we labor that we may be accepted by Him. 10 For **we must all appear before the judgment seat of Christ**, that each one may receive his recompense in the body, according to what he has done, whether it was good or bad.
@@ -247,7 +247,7 @@ During the intertestamental period, the belief in the resurrection of the dead f
 ### Luke 23:42-43 The thief on the cross going to Paradise
 !!!
     40 But the other rebuked him, saying, “Do you not fear God, seeing you are under the same sentence? <br>
-    41 And we indeed, justly. For we are receiving the due reward of our deeds. But this Man has done nothing amiss.”<br>
+    41 And we indeed, justly. For we are receiving the due reward for our deeds. But this Man has done nothing amiss.”<br>
     42 Then he said to Jesus, “Lord, remember me when **You come into Your kingdom**.”<br>
     43 Jesus said to him, “Truly, I tell you, **today you will be with Me in Paradise**.”
 
@@ -255,7 +255,7 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * The thief - based on his confession of belief in Jesus's innocence and Lordship as well as his own guiltiness and turning to Jesus for compassion - will be in paradise.
 * Paradise is the name Jesus gives to the place where Abraham is.
 
-### John 5:24-30 we will be raised to face sentencing to life or judgment
+### John 5:24-30 We will be raised to face sentencing to life or judgment
 !!!
     24 “Truly, truly I say to you, **whoever hears My word and believes in Him who sent Me has eternal life** and shall not come into condemnation, but has **passed from death into life**. 
 
@@ -274,9 +274,9 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Jesus has the authority to judge our lives. 
 * This judgment is waiting for those who already died and they will be raised to face their sentencing to life or judgment.
 
-### 1 Corinthians 4:5 judgement will be after Jesus returns
+### 1 Corinthians 4:5 Judgment will be after Jesus returns
 !!!
-     5 Therefore **judge nothing before the appointed time until the Lord comes**. He will bring to light the hidden things of darkness and will reveal the purposes of the hearts. Then everyone will have commendation from God.
+     5 Therefore **judge nothing before the appointed time until the Lord comes**. He will bring to light the hidden things of darkness and will reveal the purposes of the hearts. Then everyone will have commendations from God.
 
 * Christ does not judge us right when we die, but at His second coming.
 
@@ -314,17 +314,17 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * The result of judging, or separating into sheep and goats, will be being sent to eternal punishment or to eternal life.
 * Both options imply eternal existence, but in different places and under very different circumstances.
 
-### Romans 2:6-11 eternal life or anguish according to the some principle for all
+### Romans 2:6-11 Eternal life or anguish according to the same principle for all
 !!!
-    5 But because of your hardness and impenitent heart, you are storing up treasures of wrath against yourself on the day of wrath when the righteous judgment of God will be revealed, 6 and He **“will render to every man according to his deeds**.” 7 To those who by **patiently doing good seek for glory and honor and immortality will be eternal life**. 8 But to those who are contentious and do not obey the truth, but obey unrighteousness, indignation, and wrath, 9 will be **tribulation and anguish, upon every soul of man who does evil**, to the Jew first, and then to the Gentile. 10 But glory, honor, and peace will be to every man who does good work—to the Jew first, and then to the Gentile, 11 for there is no partiality with God.
+    5 But because of your hardness and impenitent heart, you are storing up treasures of wrath against yourself on the day of wrath when the righteous judgment of God will be revealed, 6 and He **“will render to every man according to his deeds**.” 7 To those who by **patiently doing good seek glory and honor and immortality will be eternal life**. 8 But to those who are contentious and do not obey the truth, but obey unrighteousness, indignation, and wrath, 9 will be **tribulation and anguish, upon every soul of man who does evil**, to the Jew first, and then to the Gentile. 10 But glory, honor, and peace will be to every man who does good work—to the Jew first, and then to the Gentile, 11 for there is no partiality with God.
 
 * Everyone will be judged. 
 * Doing good and seeking honor will lead to eternal life.
 * Doing evil will lead to tribulation and anguish.
 
-### Matthew 6:19-21 store up treasures in heaven
+### Matthew 6:19-21 Store up treasures in heaven
 !!!
-    19 “Do not store up for yourselves treasures on earth where moth and rust destroy and where thieves break in and steal. 20 But **store up for yourselves treasures in heaven**, where neither moth nor rust destroy and where thieves do not break in nor steal, 
+    19 “Do not store up for yourselves treasures on earth where moth and rust destroy and where thieves break in and steal. 20 But **store up for yourselves treasures in heaven**, where neither moth nor rust destroys and where thieves do not break in nor steal, 
 
 * What we do here on earth can result in treasures stored up in heaven.
 * Implies that we can access and enjoy those treasures when we get to heaven.
@@ -332,7 +332,7 @@ During the intertestamental period, the belief in the resurrection of the dead f
 !!!    
     21 for where your treasure is, there will your heart be also.
 
-* Investing our money, time and energy into something (storing treasures) is what will shape our heart, our desires. So the motivation for investing in heavenly treasures is not primarily to get rich, but to guard and guide our heart. Heavenly riches are a nice side effect.
+* Investing our money, time and energy into something (storing treasures) is what will shape our hearts, our desires. So the motivation for investing in heavenly treasures is not primarily to get rich, but to guard and guide our hearts. Heavenly riches are a nice side effect.
 
 ### 1 Thessalonians 4:13–17 the dead will be raised and united with Jesus
 !!!
@@ -436,9 +436,9 @@ During the intertestamental period, the belief in the resurrection of the dead f
 
 ### Revelation 21  New Heavens and New Earth with the New Jerusalem
 !!!    
-    21 Then I saw **“a new heaven and a new earth**.” For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 ‘**God shall wipe away all tears from their eyes. There shall be no more death**.’ **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
+    21 Then I saw **“a new heaven and a new earth**.” For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God** is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 ‘**God shall wipe away all tears from their eyes. There shall be no more death**.’ **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
 
-* There will be *a new heavens* and *a new earth* with a *new Jerusalem* for believers to live in the presence of God and without pain and even without death.
+* There will be *a new heavens* and *a new earth* with a *new Jerusalem* for believers to live in the presence of God without pain and even without death.
 * This sounds quite concrete, not metaphorical.
 
 !!!
@@ -460,7 +460,7 @@ During the intertestamental period, the belief in the resurrection of the dead f
 !!!
     22 I saw no temple in the city, for the Lord God Almighty and the Lamb are its temple. 23 The city has no need of sun or moon to shine in it, for the glory of God is its light, and its lamp is the Lamb. 24 And the nations of those who are saved shall walk in its light, and the kings of the earth shall bring their glory and honor into it. 25 Its gates shall never be shut by day, for there shall be no night there. 26 They shall bring into it the glory and the honor of the nations. 27 No unclean thing shall ever enter it, nor shall anyone who commits abomination or falsehood, but only those whose names are written in the Lamb’s Book of Life.
 
-* All of New Jerusalam will be a holy place, a place to honor God
+* All of New Jerusalem will be a holy place, a place to honor God
 
 ---
 
@@ -472,14 +472,14 @@ During the intertestamental period, the belief in the resurrection of the dead f
   * Paradise is a comfortable place where we are with Jesus
   * Hades is a place of torment
   * We can sense and communicate with each other in those places.
-  * Once in Hades there is no crossing over to Paradise.
+  * Once in Hades, there is no crossing over to Paradise.
     * There are second, third and fourth etc. chances to change our destiny, but they are all before death. 
-* At the second coming of Christ, dead believers will be raised, receiving a new resurrection body and being united with Christ.
+* At the second coming of Christ, dead believers will be raised, receive a new resurrection body and be united with Christ.
   * The still-alive believers will be united with Christ as well.
 * After Jesus has returned, everyone will be judged by Him. 
-  * If our sin guilt was not paid by Jesus, because we rejected Him, then we will be destined for Hell, a lake of fire with eternal tourment.
-  * If our sin guilt was already paid by Jesus then we will be destined to live in harmony and comfort in the new Heaven Jerusalem, a place that is Heaven on earth where we will live in the direct presence of God.
-    * If we did something to help God's kingdom on earth then in Heaven / New Jerusalam we will enjoy additional treasures that have been stored up for us there.
+  * If our sin guilt was not paid by Jesus, because we rejected Him, then we will be destined for Hell, a lake of fire with eternal torment.
+  * If our sin-guilt was already paid by Jesus, then we will be destined to live in harmony and comfort in the new Heaven Jerusalem, a place that is Heaven on earth where we will live in the direct presence of God.
+    * If we did something to help God's kingdom on earth then in Heaven / New Jerusalem we will enjoy additional treasures that have been stored up for us there.
 
 ---
 
