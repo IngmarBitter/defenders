@@ -24,8 +24,7 @@ There are some NDEs where people sensed the external world that was verified aft
 
 * Pam Reynolds - In 1991, Pam Reynolds underwent brain surgery to remove an aneurysm, which required her to be clinically dead for a short time. During the surgery, Reynolds reported leaving her body and witnessing the surgery from above. She described details of the surgical instruments and conversations between the doctors that were later confirmed to be accurate.
 * Maria - In the late 1970s, a woman known only as "Maria" underwent emergency surgery for a heart attack. During the surgery, she reported having an NDE in which she left her body and floated above the operating table. She claimed that she saw a shoe on a windowsill outside the operating room, which she later described in detail to her doctors. They initially dismissed her account, but when they went to investigate, they found the shoe exactly where she had described it.
-* Al Sullivan experienced a near-death experience during heart surgery. During his NDE, he reported leaving his body and observing the operating room from above. He described seeing the surgeon peculiarly flapping his arms as if trying to mimic a bird.<br>
-Later, when Al recounted his experience to the surgeon, the surgeon confirmed that he had a habit of pointing with his bent elbow while giving instructions to his team during surgery, which could explain Al's perception of the "bird-like" arm movements. Al had no way of knowing about the surgeon's unique habit, which suggests he may have sensed the external world while clinically dead.
+* Al Sullivan experienced a near-death experience during heart surgery. During his NDE, he reported leaving his body and observing the operating room from above. He described seeing the surgeon peculiarly flapping his arms as if trying to mimic a bird.<br>Later, when Al recounted his experience to the surgeon, the surgeon confirmed that he had a habit of pointing with his bent elbow while giving instructions to his team during surgery, which could explain Al's perception of the "bird-like" arm movements. Al had no way of knowing about the surgeon's unique habit, which suggests he may have sensed the external world while clinically dead.
 
 ### Neuroscience
 
@@ -156,10 +155,14 @@ For some of the verses below it's pointed out explicitly that this dualism is im
 * Resurrection of the dead to two opposing eternal states: life or contempt.
 * Much more positive and hopeful than previous Isaiah and Job passages.
 
-## Intertestamental Time
+### Intertestamental Time
 
 During the intertestamental period, the belief in the resurrection of the dead flourished in Judaism and became a very widespread belief. In Jesus’ day, it was held to by the party of the Pharisees, but it was denied by the sect known as the Sadducees. The Sadducees in Jesus’ day represented the sort of old conservative Jews. They didn’t accept the doctrine of the bodily resurrection of the dead. Nor did they believe there were any rewards and punishments in the afterlife. They held to the older, more primitive, view that Sheol is the only place. So the Sadducees rejected the notion of immortality and resurrection of the dead in the sense that we’ve been describing it. By contrast, the sect of the Pharisees affirmed both the immortality of the soul beyond the death of the body as well as the eventual resurrection of the body and retribution in future life. There would be rewards and punishments. <br>
 - William Lane Craig
+
+### Old Testament Summary
+
+The Sadducees that rejected the resurrection did so based on the earlier passages that mentioned Sheol without talking about an resurrection. At least from today's standpoint, we should not base our belief on something that sounds like some verses but is clearly contradicted by others. So with the Isaiah 26 and Daniel 12 passages in mind, we should side with the Pharisees that there will be a resurrection to two different eternal places, one for those that believed in God's provision and another that rejected God. And given the Psalm 73 passage it is not clear that Sheol is the only place our soul goes to immediately after we die. There seems to be an alternative for those that trust in God.  The New Testament will clarify this.
 
 ## New Testament: Our resurrection
 
@@ -521,7 +524,7 @@ During the intertestamental period, the belief in the resurrection of the dead f
   * If our sin guilt was not paid by Jesus, because we rejected Him, then we will be destined for Hell, a lake of fire with eternal torment.
   * If our sin-guilt was already paid by Jesus, then we will be destined to live in harmony and comfort in the new Heaven Jerusalem, a place that is Heaven on earth where we will live in the direct presence of God.
     * If we did something to help God's kingdom on earth then in Heaven / New Jerusalem we will enjoy additional treasures that have been stored up for us there.
-
+* In the new Jerusalem we will enjoy everlasting blessings, including special rewards for having contributed to the kingdom of God during our life
 ---
 
 ## Links
