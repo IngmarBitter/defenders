@@ -2,6 +2,9 @@
 
 # Our Existence After Death 
 
+This Bible study delves into the fascinating and complex topic of life after death from a biblical perspective. Life after death is a subject that has intrigued humanity for centuries and has led to various interpretations within Christian theology. The goal is to explore key biblical passages, discuss different perspectives on the afterlife, and analyze relevant concepts such as body & soul dualism, Hades & Paradise, Heaven and Hell, resurrection, and judgment. Engaging with these topics aims for a deeper understanding of the biblical teachings on life after death, encouraging reflection and promoting informed discussions on this vital subject.  The timeline of the return of Christ is intentionally left out to limit the length of this document and is instead covered in another document dedicated to that subject.
+
+
 ## Body Soul Dualism
 
 ### Definitions
@@ -21,13 +24,15 @@ There are some NDEs where people sensed the external world that was verified aft
 
 * Pam Reynolds - In 1991, Pam Reynolds underwent brain surgery to remove an aneurysm, which required her to be clinically dead for a short time. During the surgery, Reynolds reported leaving her body and witnessing the surgery from above. She described details of the surgical instruments and conversations between the doctors that were later confirmed to be accurate.
 * Maria - In the late 1970s, a woman known only as "Maria" underwent emergency surgery for a heart attack. During the surgery, she reported having an NDE in which she left her body and floated above the operating table. She claimed that she saw a shoe on a windowsill outside the operating room, which she later described in detail to her doctors. They initially dismissed her account, but when they went to investigate, they found the shoe exactly where she had described it.
+* Al Sullivan experienced a near-death experience during heart surgery. During his NDE, he reported leaving his body and observing the operating room from above. He described seeing the surgeon peculiarly flapping his arms as if trying to mimic a bird.<br>
+Later, when Al recounted his experience to the surgeon, the surgeon confirmed that he had a habit of pointing with his bent elbow while giving instructions to his team during surgery, which could explain Al's perception of the "bird-like" arm movements. Al had no way of knowing about the surgeon's unique habit, which suggests he may have sensed the external world while clinically dead.
 
 ### Neuroscience
 
 From [Steward Goetz, PhD, Prof of Philosophy](https://www.reasonablefaith.org/writings/question-answer/god-and-mind-body-dualism):
 * Some famous neuroscientists believe the mind is immaterial, others think being able to stimulate the brain to change emotions means there is nothing beyond our physical brain.
 * Correlation between brain states and emotions does not mean they are identical, just as the correlation between eating rotten food and stomach ache does not make them identical.
-* People moving a muscle because of brain stimulation deny having had any thought or decision to move that muscle, just as a knee jerk reflex. The act of deciding to do/say/think something has never been triggered externally. The best explanation is that it's triggered by our mind that uses the brain.
+* People moving a muscle because of brain stimulation deny having had any thought or decision to move that muscle, just as a knee-jerk reflex. The act of deciding to do/say/think something has never been triggered externally. The best explanation is that it's triggered by our mind that uses the brain.
 
 And from [William Lane Craig](https://www.reasonablefaith.org/writings/question-answer/why-do-determinists-say-the-self-is-an-illusion):
 If the brain and mind were identical, then the best explanation of emotions is that they are a supervenient state that automatically appears whenever the brain is in a matching configuration. The problem with this view is that, as a purely materialistic view, it is free of consciousness and intentionality. Those are also just supervenient illusionary states. Or next action is not what we decide to do, but what the physical precursor state of our brain dictates we must do. We are just biological computers running the program of nature. We are either fully deterministic or there is some quantum randomness mixed in. But either way, we are not capable of rational thought, let alone scientific inquiry and knowledge building. Such a view is therefore self-defeating.
@@ -454,7 +459,7 @@ During the intertestamental period, the belief in the resurrection of the dead f
 * Jerusalem will have so many people that it will exceed its current geographical limits and not have walls.
 * Jerusalem will be protected through the presence of God in it.
 * There is no context indicating that this is before or after judgment day
-* A quick review of interpretations of this passage regarding timing, done by GPT-4 provided these reasonable alternatives:
+* A quick review of interpretations of this passage regarding timing, done by GPT-4, provided these reasonable alternatives:
 
   * The timing of the fulfillment of Zechariah 2:4-5 can be a matter of debate among scholars and theologians. There are generally three main views on the timing of this prophecy:
 
