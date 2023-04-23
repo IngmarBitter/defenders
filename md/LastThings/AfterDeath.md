@@ -168,7 +168,7 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
 
 ### Acts 23:6-10 Paul: We will be resurrected
 !!!
-    6 Then Paul, knowing that one sect was Sadducees and the other Pharisees, cried out among the Sanhedrin, “Brothers, I am a Pharisee, a son of a Pharisee. I am being judged for my hope in the resurrection of the dead.”  7 When he had said this, dissension arose between the Pharisees and the Sadducees, and the assembly was divided.  8 For the **Sadducees say that there is no resurrection, nor angel, nor spirit**. But the **Pharisees acknowledge them all**.<br>
+    6 Then Paul, knowing that one sect was Sadducees and the other Pharisees, cried out among the Sanhedrin, “Brothers, I am a Pharisee, a son of a Pharisee. I am being judged for **my hope in the resurrection of the dead**.”  7 When he had said this, dissension arose between the Pharisees and the Sadducees, and the assembly was divided.  8 For the **Sadducees say that there is no resurrection, nor angel, nor spirit**. But the **Pharisees acknowledge them all**.<br>
     9 There was a great outcry. The scribes that were from the sect of Pharisees stood up and argued, “We find no evil in this man. But if a spirit or an angel has spoken to him, let us not fight against God.”  10 When much dissension arose, fearing that Paul would be torn to pieces by them, the commander ordered the soldiers to go down and take him from them by force and bring him into the barracks.
 
 * Jewish belief was divided over the hope for the resurrection of the dead.
