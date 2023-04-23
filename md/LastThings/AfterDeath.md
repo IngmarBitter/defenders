@@ -530,7 +530,10 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
 ## Links
 
 [ReasonableFaith.org -> doctrine of the last things, 17-20](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-the-last-things)
+
 [GotQuestions.org -> what happens after death?](https://www.gotquestions.org/what-happens-after-death.html)
+
+[Back to Overview](../index.html)
 
 <sub><sup>Version 1.0<sub><sup>
 
