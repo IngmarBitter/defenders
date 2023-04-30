@@ -494,7 +494,7 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
 
 !!!
     ***The New Jerusalem***
-    9 One of the seven angels who had the seven bowls full of the seven last plagues came to me and said to me, “Come, I will show you the bride, the wife of the Lamb.” 10 And he carried me away in the Spirit to a great and high mountain, and showed me the **Holy City, Jerusalem**, descending out of heaven from God, 11 having the glory of God, her light like a most precious jewel, like a jasper, clear as crystal. 12 **It had a great, high wall**, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were written: 13 three gates on the east, three gates on the north, three gates on the south, and three gates on the west. 14 The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
+    9 One of the seven angels who had the seven bowls full of the seven last plagues came to me and said to me, “Come, I will show you the bride, the wife of the Lamb.” 10 And he carried me away in the Spirit to a great and high mountain, and showed me the **Holy City, Jerusalem**, descending out of heaven from God, 11 having the glory of God, her light like a most precious jewel, like a jasper, clear as crystal. 12 **It had a great, high wall**, with twelve gates, and at the gates twelve angels, and on the gates, the names of the twelve tribes of the sons of Israel were written: 13 three gates on the east, three gates on the north, three gates on the south, and three gates on the west. 14 The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
 
     15 He who talked with me had a golden rod to measure the city and its gates and wall. 16 The city lies as a square, its length as long as its width. He measured the city with the rod: one thousand four hundred miles. Its length and breadth and height are equal. 17 He then measured its wall: two hundred feet by the measurement of a man, that is, of an angel. 18 The wall was built of jasper and the city was pure gold, as clear as glass. 19 The foundations of the wall of the city were garnished with all kinds of precious jewels. The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald; 20 the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; and the twelfth, amethyst. 21 The twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, transparent as glass.
 
@@ -517,14 +517,15 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
   * Hades is a place of torment
   * We can sense and communicate with each other in those places.
   * Once in Hades, there is no crossing over to Paradise.
-    * There are second, third and fourth etc. chances to change our destiny, but they are all before death. 
+    * There are second, third and fourth etc. chances to change our destiny, but they are all before death.
 * At the second coming of Christ, dead believers will be raised, receive a new resurrection body and be united with Christ.
   * The still-alive believers will be united with Christ as well.
-* After Jesus has returned, everyone will be judged by Him. 
+* After Jesus has returned, everyone will be judged by Him.
   * If our sin guilt was not paid by Jesus, because we rejected Him, then we will be destined for Hell, a lake of fire with eternal torment.
   * If our sin-guilt was already paid by Jesus, then we will be destined to live in harmony and comfort in the new Heaven Jerusalem, a place that is Heaven on earth where we will live in the direct presence of God.
     * If we did something to help God's kingdom on earth then in Heaven / New Jerusalem we will enjoy additional treasures that have been stored up for us there.
-* In the new Jerusalem we will enjoy everlasting blessings, including special rewards for having contributed to the kingdom of God during our life
+* In the new Jerusalem, we will enjoy everlasting blessings, including special rewards for having contributed to the kingdom of God during our life
+  
 ---
 
 ## Links
