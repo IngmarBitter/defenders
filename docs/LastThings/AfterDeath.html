@@ -273,12 +273,12 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
     24 “Truly, truly I say to you, **whoever hears My word and believes in Him who sent Me has eternal life** and shall not come into condemnation, but has **passed from death into life**. 
 
 * Believers have eternal life, but their bodies are still buried. Hence, their identity must continue in their souls.
-* *Death to life* here does not mean from physical death to life, but from condemnation to justification.
+* "Death to life" here uses the words for "from physical death to physical life", but is a metaphore for "from spiritually dead to alive", or better "from condemnation to justification".
 
 !!!
     25 Truly, truly I say to you, the hour is coming, and is now here, when **the dead will hear the voice of the Son of God, and those who hear will live**. 
 
-* This is another expression of the same metaphor of *from physical death to life*, stands for *from condemnation to justification*.
+* Jesus is talking about the present, so death to life cannot refer to a future resurrection. Instead, "The dead will hear and live" is another expression of the same metaphor that stands for "from condemnation to justification".
 
 !!!    
     26 For as the Father has life in Himself, so He has given to the Son to have life in Himself, 27 and has given Him authority to execute judgment also, because He is the Son of Man.<br>
