@@ -476,14 +476,11 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
 
 ### Revelation 21  New Heavens and New Earth with the New Jerusalem
 !!!    
-    1 Then I saw **“a new heaven and a new earth**.” For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God** is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 ‘**God shall wipe away all tears from their eyes. There shall be no more death**.’ **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
+    1 Then I saw **a new heaven and a new earth**. For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God** is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 ‘**God shall wipe away all tears from their eyes. There shall be no more death**.’ **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
 
 * There will be *a new heavens* and *a new earth* with a *new Jerusalem* for believers to live in the presence of God without pain and even without death.
 * This sounds quite concrete, not metaphorical.
 
-### Revelation 21  New Heavens and New Earth with the New Jerusalem
-!!!    
-    1 Then I
 !!!
     5 He who was seated on the throne said, “Look! I am making all things new.” Then He said to me, “Write, for these words are faithful and true.”
 
