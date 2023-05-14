@@ -522,8 +522,17 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
   * If our sin-guilt was already paid by Jesus, then we will be destined to live in harmony and comfort in the new Heaven Jerusalem, a place that is Heaven on earth where we will live in the direct presence of God.
     * If we did something to help God's kingdom on earth then in Heaven / New Jerusalem we will enjoy additional treasures that have been stored up for us there.
 * In the new Jerusalem, we will enjoy everlasting blessings, including special rewards for having contributed to the kingdom of God during our life
-  
----
+
+
+## How will we respond?
+
+We know that for believers what comes after physical death is something to look forward to because God prepared it as a place of love, harmony, peace and worship.
+What about us, are we prepared to meet Him? What will we feel when we meet Him face to face? 
+
+* Here is Mercy Me's answer: https://www.youtube.com/watch?v=N_lrrq_opng (125 Million views) 
+* or if you want it more rocking the same by Kyle Huffman: https://www.youtube.com/watch?v=1Ac4aV4dkVE (0.001 Million views)
+* or with a great testimony from Nikki White: https://www.youtube.com/watch?v=8Klrc0YuikM (9.4 Million views)
+
 
 ## Links
 
