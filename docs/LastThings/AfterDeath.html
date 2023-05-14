@@ -476,18 +476,21 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
 
 ### Revelation 21  New Heavens and New Earth with the New Jerusalem
 !!!    
-    1 Then I saw **a new heaven and a new earth**. For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God** is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 ‘**God shall wipe away all tears from their eyes. There shall be no more death**.’ **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
+    1 Then I saw **a new heaven and a new earth**. For the first heaven and the first earth had passed away, and there was no more sea. 2 I, John, saw the Holy City, **the New Jerusalem**, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven, saying, “Look! **The tabernacle of God** is with men, and He will dwell with them**. They shall be His people, and God Himself will be with them and be their God. 4 **God shall wipe away all tears from their eyes. There shall be no more death**. **Neither shall there be any more sorrow nor crying nor pain**, for the former things have passed away.”
 
 * There will be *a new heavens* and *a new earth* with a *new Jerusalem* for believers to live in the presence of God without pain and even without death.
-* This sounds quite concrete, not metaphorical.
+* Literal makes sense, if it was metaphorical, then what would the metaphor stand for?
 
 !!!
     5 He who was seated on the throne said, “Look! I am making all things new.” Then He said to me, “Write, for these words are faithful and true.”
 
+* See Matthew 25:31, which tells us that the one on the throne is Jesus.
+
+!!!
     6 He said to me, “It is done. I am the Alpha and the Omega, the Beginning and the End. I will give of the spring of the water of life to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son.[c] 8 But **the cowardly, the unbelieving, the abominable, the murderers, the sexually immoral, the sorcerers, the idolaters, and all liars shall have their portion in the lake which burns with fire and brimstone. This is the second death**.”
 
 * Evil unbelievers will be cast into a lake that burns with fire and brimstone, their second death.
-* Possibly also concrete and not metaphorical
+* Literal makes sense, if it was metaphorical, then what would the metaphor stand for?
 
 !!!
     ***The New Jerusalem***
@@ -497,6 +500,7 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
 
 * The New Jerusalem will be huge and luxurious
 * The New Jerusalem will have a great wall
+* It can hold LOTS of people: Our home is very nice and on a 100x120ft lot. If we add common space for streets and other stuff, then 100x200ft per family of 4 is plenty, so 200x200ft for 8. That's 0.037x0.037 square miles, That means about 37,000 homes in a row and 1,4 billion homes for 11 billion people on the square base and room for 40 trillion people in the cube.
 
 !!!
     22 I saw no temple in the city, for the Lord God Almighty and the Lamb are its temple. 23 The city has no need of sun or moon to shine in it, for the glory of God is its light, and its lamp is the Lamb. 24 And the nations of those who are saved shall walk in its light, and the kings of the earth shall bring their glory and honor into it. 25 Its gates shall never be shut by day, for there shall be no night there. 26 They shall bring into it the glory and the honor of the nations. 27 No unclean thing shall ever enter it, nor shall anyone who commits abomination or falsehood, but only those whose names are written in the Lamb’s Book of Life.
@@ -519,8 +523,8 @@ The Sadducees that rejected the resurrection did so based on the earlier passage
   * The still-alive believers will be united with Christ as well.
 * After Jesus has returned, everyone will be judged by Him.
   * If our sin guilt was not paid by Jesus, because we rejected Him, then we will be destined for Hell, a lake of fire with eternal torment.
-  * If our sin-guilt was already paid by Jesus, then we will be destined to live in harmony and comfort in the new Heaven Jerusalem, a place that is Heaven on earth where we will live in the direct presence of God.
-    * If we did something to help God's kingdom on earth then in Heaven / New Jerusalem we will enjoy additional treasures that have been stored up for us there.
+  * If our sin-guilt was already paid by Jesus, then we will be destined to live in harmony and comfort in the new Jerusalem, a place that is Heaven on earth where we will live in the direct presence of God.
+    * If we did something to help God's kingdom on earth then in Heaven (New Jerusalem) we will enjoy additional treasures that have been stored up for us there.
 * In the new Jerusalem, we will enjoy everlasting blessings, including special rewards for having contributed to the kingdom of God during our life
 
 
