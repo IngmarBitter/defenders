@@ -2,10 +2,53 @@
 
 **Mid Acts Dispensationalism**
 
+The Gospel
+==========
+
+Mid Acts Dispensationalism (MAD): There are two gospels: 
+1) the gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through Jesus fulfilling the law. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
+2) the gospel of grace for the gentiles / everyone including us today, in which there is no law for us to follow, we are entirely free but are still sinners and we are saved through the belief in Jesus's death (atonement for us), burial and resurrection.
+
+One Salvation History (OSH): There is only one gospel, one plan of salvation throughout all time:
+1) man cannot redeem himself from his sin-guilt, but needs God's grace to provide a way.  And if man loves, trusts (prerequisite) and obeys (consequence) God, God applies Jesus's death as atonement for our sin guilt. And God can do that even for people without explicit knowledge of Jesus, like the Old Testament believers.  The different covenants are different expressions of the this one and only plan for salvation.
+
+1 John 4:10 John teaches that Jesus died to atone for believers' sin-guilt
+--------------------------------------------------------------------------
+
+!!!
+   10 This is love: not that we loved God, but that he loved us and sent his Son as an **atoning sacrifice for our sins**.
+
+OSH: John clearly was aware and even taught that Jesus died to atone for believers' sin-guilt.
+
+MAD: This was written after the Jews failed the new covenant with God. So God terminated it, and now everyone, even the Jews are in the dispensation of grace. 
+=> OSH: but then we should include the books after Philemon into those that apply to us today.
+=> MAD: no, only up to Philemon is for us
+=> OSH: then your initial interpretation of this verse does not make sense
+
+Matthew 26:28 Jesus's blood is what forgives sin
+------------------------------------------------
+
+!!! 
+   28 This is my blood of the covenant, which is poured out for many for the forgiveness of sins.
+
+OHS: Even in the four gospels, Jesus himself teaches that His blood is what forgives our sins. That's the essence of the one and only gospel.
+
+Questions
+---------
+
+OSH: If under grace we are not bound by any law, then how do we know if homosexuality is right or wrong?  Would it then not be the loving thing to do to affirm homosexual lifestyles?
+=> MAD: ???
+
+OSH: If under grace we are not bound by any law, then why are we still sinners? Is sin not defined as acting contrary to God's commands?
+=> MAD: ???
+
+OSH: what is grace saving us from? Is it not the just punishment according to the law?
+=> MAD:
+
+OSH: why are Gentile unbelievers going to Hell? Is it not for breaking God's law?
+=> MAD:
+
 ToDo:
-* MAD: we are under grace, not law, saved by belief in Jesus's death, burial and resurrection
-* -> what is that belief saving us from? Is in not the just punishment according to the law?
-* -> why are Gentile unbelievers going to Hell? Is it not for breaking God's law?
 * Are there examples past Acts 28 showing the law applies to Gentiles?
 * Are there examples prior to Acts 28 showing grace applies to Jews?
 
@@ -187,6 +230,7 @@ Matthew 15:24 KJV
 !!!
    But he answered and said, **I am not sent but unto the lost sheep of the house of Israel**.
 
+
 * Two possible interpretations of Mat 15:24: Jesus was sent
   * a) only to the lost Jews, with the exclusion of all others
   * b) with top priority to the lost Jews, but not excluding anyone else
@@ -195,7 +239,13 @@ Matthew 15:24 KJV
 
 * If b) was true, then Jesus would have abandoned any Jew how started to believe in Him, since that is what made them not lost anymore. In particular, His apostles were clearly not part of the lost Jews, but Jesus stuck with them. So a) is not fitting, but b) is.
 
-* john 17 he came for everyone I am praying for all  they will be in me
+
+John 17:20-23
+-------------
+
+!!!
+   20 “My prayer is not for them alone. I pray also for those who will believe in me through their message, 21 that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me. 22 I have given them the glory that you gave me, that they may be one as we are one— 23 I in them and you in me—so that they may be brought to complete unity. Then the world will know that you sent me and have loved them even as you have loved me.
+
 
 John 3:16 For God so loved the world ...
 ----------------------------------------
@@ -340,6 +390,54 @@ The Last Supper vs Communion
    29  For he that eateth and drinketh **unworthily**, eateth and drinketh damnation to himself, not discerning the Lord's body. 
 
 * Paul clarifies that the Last Supper tradition is for any man, as long as we examine ourselves and find us to be worthy.  From the wider context, we know this worthiness means believing in Jesus' finished work on the cross and not living contrary to our believe.
+
+
+Water Baptism
+=============
+
+Romans 6:1-7 The symbolic meaning of Baptism
+--------------------------------------------
+
+!!!
+   1 What shall we say then? Shall we continue in sin that grace may increase? 2 God forbid! How shall we who died to sin live any longer in it? **3 Do you not know that we who were baptized into Jesus Christ were baptized into His death? 4 Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.**
+
+   5 For if we have been united with Him in the likeness of His death, so shall we also be united with Him in the likeness of His resurrection, 6 knowing this, that our old man has been crucified with Him, so that the body of sin might be destroyed, and we should no longer be slaves to sin. 7 For the one who has died is freed from sin.
+
+"Baptized into Christ", just as commanded in the Great Commission in Matthew 28:18-20.
+Baptism into Christ's "dead and burial by baptism" and then "just as Christ were raised to new life".
+So clearly baptism is a symbol of believing in and identifying with Jesus's death, burial, resurrection and new life.
+This symbolism only makes sense if the baptism Paul is talking about is full immersion water baptism of a new believer.
+
+As after the resurrection Jesus walked in newness of life, so should we. For us, as verses 1-2 and 6-7 show, this newness of life includes the being freed from the bondage of sin. And that should be reflected in our behavior.
+
+From the wider context, we know that baptism is not needed for salvation and that at the time of belief, we are already a new creation with newness of life.  Here, Paul is using the actual newness of life due to our salvation and the symbolic one due to water baptism as the combined reason to not let sin reign. That makes most sense, if the water baptism was part of the standard conversion experience under Paul - because then both versions exist at about the same time, and were both in effect for his audience.
+
+Furthermore, Paul implied that all of his listeners were baptized, this also means that this water baptism was part of the normal conversion process for new believers.
+
+Matthew 3:16 Jesus was baptized my immersion
+--------------------------------------------
+
+!!!
+   16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him.
+
+Jesus was baptized by immersion. If we want to imitate Him, then we should be baptized by immersion, too.
+
+Matthew 28:19
+-------------
+
+!!!
+   19 Therefore go and make disciples of **all nations, baptizing them** in the name of the Father and of the Son and of the Holy Spirit,
+
+OSH: Baptism is a universal command from Jesus that he emphasized in His last and prime command to us.
+
+MAD: Jesus commanded only the Jews, so this is not for us. _All nations_ refers to scattered Jews across the world.
+=> OSH: That _all nations_ is supposed to exclude 99.81% of the people of all nations sounds unrealistic.
+
+
+
+
+
+
 
 [Back to Overview](index.html)
 
