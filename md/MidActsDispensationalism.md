@@ -5,12 +5,22 @@
 The Gospel
 ==========
 
-Mid Acts Dispensationalism (MAD): There are two gospels: 
+**Mid Acts Dispensationalism (MAD)**: There are two gospels: 
 1) the gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through Jesus fulfilling the law. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
 2) the gospel of grace for the gentiles / everyone including us today, in which there is no law for us to follow, we are entirely free but are still sinners and we are saved through the belief in Jesus's death (atonement for us), burial and resurrection.
 
-One Salvation History (OSH): There is only one gospel, one plan of salvation throughout all time:
-1) man cannot redeem himself from his sin-guilt, but needs God's grace to provide a way.  And if man loves, trusts (prerequisite) and obeys (consequence) God, God applies Jesus's death as atonement for our sin guilt. And God can do that even for people without explicit knowledge of Jesus, like the Old Testament believers.  The different covenants are different expressions of the this one and only plan for salvation.
+**One Salvation History (OSH)**: There is only one gospel, one plan of salvation throughout all time:
+1) man cannot redeem himself from his sin-guilt, but needs God's grace to provide a way.  And if man loves, trusts (prerequisite) and obeys (consequence) God, God applies Jesus's death as atonement for our sin guilt. And God can do that even for people without explicit knowledge of Jesus, like the Old Testament believers.  The different covenants are different expressions of this one and only plan for salvation. Evangelism is important, because it is much easier for someone to understand this plan after being taught about Jesus than without. The formula of belief in Jesus's death burial and resurrection is a great compacting of the core elements: The death is what provides the atoning payment for our sin-guilt, the burial is the apologetics evidence that Jesus was really dead, the resurrection is the apologetics evidence that God validated all of Jesus' otherwise blaspheming claims to divine authority and identity.
+
+SIN
+---
+* OSH: Sin in general is the breaking of God's law. Specifitally the word is used in three sub-meanings in the Bible:
+  * Sin-Nature: the human tendency to want to act out temptation
+  * Sin-Action: the actual breaking of the law, the action that offends God
+  * Sin-Guilt: the legal account or record of our sin-action that we deserve to be punished for
+
+* MAD: Sin is doing something other than worshipping God ???  But if it is motivated by wanting to enable worshipping God then it's not a SIN ??? 
+* MAD: ??? with help of GPT4: The breaking of God's law, but with the clarification that the law of God that is applicable to us is only what is explicitly taught by Paul. That means Galatians 5:13 _serve one another in love_, Gal 5:14 _Love your neighbor as yourself_ Gal 5:19-21 _19 The acts of the flesh are obvious: sexual immorality, impurity and debauchery; 20 idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions 21 and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God._ Gal 5:26 _26 Let us not become conceited, provoking and envying each other._
 
 1 John 4:10 John teaches that Jesus died to atone for believers' sin-guilt
 --------------------------------------------------------------------------
@@ -18,12 +28,12 @@ One Salvation History (OSH): There is only one gospel, one plan of salvation thr
 !!!
    10 This is love: not that we loved God, but that he loved us and sent his Son as an **atoning sacrifice for our sins**.
 
-OSH: John clearly was aware and even taught that Jesus died to atone for believers' sin-guilt.
+* OSH: John clearly was aware and even taught that Jesus died to atone for believers' sin-guilt. Therefore, John's gospel and Paul's gospel are the same.
 
-MAD: This was written after the Jews failed the new covenant with God. So God terminated it, and now everyone, even the Jews are in the dispensation of grace. 
-=> OSH: but then we should include the books after Philemon into those that apply to us today.
-=> MAD: no, only up to Philemon is for us
-=> OSH: then your initial interpretation of this verse does not make sense
+* MAD: ??? This was written after the Jews failed the new covenant with God. So God terminated it, and now everyone, even the Jews are in the dispensation of grace. 
+  * => OSH: but then we should include the books after Philemon into those that apply to us today.
+    * => MAD: no, only up to Philemon is for us
+      * => OSH: then your initial interpretation of this verse does not make sense
 
 Matthew 26:28 Jesus's blood is what forgives sin
 ------------------------------------------------
@@ -31,7 +41,23 @@ Matthew 26:28 Jesus's blood is what forgives sin
 !!! 
    28 This is my blood of the covenant, which is poured out for many for the forgiveness of sins.
 
-OHS: Even in the four gospels, Jesus himself teaches that His blood is what forgives our sins. That's the essence of the one and only gospel.
+OHS: Jesus himself teaches that His blood is what forgives our sins. That's the essence of the one and only gospel. Therefore, Matthew's gospel and Paul's gospel are the same.
+
+MAD: ???
+
+Galatians 5:13-14 We ought to follow the entire law
+---------------------------------------------------
+
+!!!
+   13 You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love. 14 For the entire law is fulfilled in keeping this one command: “Love your neighbor as yourself.”
+
+* OSH: Verse 13 teaches that even though we are free, we ought to love one another. Verse 14 clarifies what that means on two levels: 1) restated it means _love your neighbor as yourself_ just as Jesus said. And more specifically, 2) fulfill the entire law, because each item in the entire law can be explained as an act of love(*). Therefore, Paul commands us to follow the entire law. Note however, that the verse starts with _we are free_; combined with the reminder that means that yes, we are commanded to follow the law, but no, doing so is not a pre-requisite for salvation.  Salvation is guaranteed by Jesus finished work on the cross, but that is not a free pass to do anything sinful. <br>
+In other words, we are not _under the law_ as that would make keeping it a requirement for salvation, but nonetheless, the law still applies to us today as moral guideline for our life.
+(*) The tracing back to an act of love is a generalization. There seem to be a few commands in the Old Testament that were not repeated in the sermon of the mount that therefore do not apply, such as not mixing fabrics, some dietary laws or keeping the sabbath.
+
+* => MAD: ??? No we are not commanded to follow the law, these two verse are overruled by the wider context.
+* =>=> OHS: So then what exactly do these two verses teach? How do they apply to us today?
+
 
 Questions
 ---------
@@ -43,10 +69,10 @@ OSH: If under grace we are not bound by any law, then why are we still sinners? 
 => MAD: ???
 
 OSH: what is grace saving us from? Is it not the just punishment according to the law?
-=> MAD:
+=> MAD: ???
 
 OSH: why are Gentile unbelievers going to Hell? Is it not for breaking God's law?
-=> MAD:
+=> MAD: ???
 
 ToDo:
 * Are there examples past Acts 28 showing the law applies to Gentiles?
@@ -202,8 +228,13 @@ Galatians 4:4 KJV
 * Jesus was born into a family under the law, to redeem all that were under the law
 * Referring back to Romans 2:14-15 this would mean to redeem Jews and Gentiles
 
+
 Jesus came for Jews only or also Gentiles?
 ==========================================
+
+OSH: MAD teaches that today we are saved through belief in the death, burial and resurrection of Jesus. How can that be applicable to us, if Jesus did not come for us (the Gentiles?)
+
+=> MAD: Jesus came only for the Jews and to fulfill the Jewish law.  ... ??? ... but when the Jews failed the new covenant, God revealed to Paul that Jesus's death was now repurposed to be applicable to Gentiles also. Therefore, what is written in the four gospels is only for the Jews, but the death, burial and resurrection is the one special event sequence that transcends that target group and is applicable to us, too. ???
 
 
 Mat 15:24 The Faith of the Canaanite Woman
@@ -222,7 +253,7 @@ Mat 15:24 The Faith of the Canaanite Woman
 
    27 She said, “Yes, Lord, yet even dogs eat the crumbs that fall from their masters’ table.”
 
-   28 Then Jesus answered her, “O woman, great is your faith. Let it be done for you as you desire.” **And her daughter was healed instantly**.
+   28 Then Jesus answered her, “O woman, **great is your faith**. Let it be done for you as you desire.” **And her daughter was healed instantly**.
 
 Matthew 15:24 KJV
 -----------------
@@ -235,27 +266,43 @@ Matthew 15:24 KJV
   * a) only to the lost Jews, with the exclusion of all others
   * b) with top priority to the lost Jews, but not excluding anyone else
 
-* If a) was true, then Jesus would not have healed the Canaanite woman's daughter, but He did. So b) is more fitting.
+* OSH:
+  * If a) was true, then Jesus would not have healed the Canaanite woman's daughter, but He did. So b) is more fitting.
+  
+* => MAD: 
+  * Christ came to fulfill the law. See Luke 24:44
+  * It was God's plan that Israel were not to company with the Gentiles till they had world dominion.
+  * The gentile woman's request was granted only after she showed understanding of the order to which the blessings were to come. See Mat 15:26-27.
+  
+* =>=> OSH: first, the request was not granted because of understanding, but because her faith was great. But more importantly, what does the understanding of Christ fulfilling the law have to do with options a) and b)? I just want to know which one of the two is correct. Is it just the lost sheep or does it include others?  I don't want a big story, just what to know what the meaning of this phrase in this verse is.
 
-* If b) was true, then Jesus would have abandoned any Jew how started to believe in Him, since that is what made them not lost anymore. In particular, His apostles were clearly not part of the lost Jews, but Jesus stuck with them. So a) is not fitting, but b) is.
+* OSH:   
+  * If a) was true, then Jesus would have abandoned any Jew who started to believe in Him, since that is what made them not lost anymore. In particular, His apostles were clearly not part of the lost Jews, but Jesus stuck with them. So a) is not fitting, but b) is.
+
+* => MAD: Jesus will not leave the 12 Apostles, because he was teaching them.
+* =>=> OSH: so that means you believe option b) is true?  Then we are in agreement.
+
+* OSH: if b) is true, then the phrase _only to the lost sheep of Israel_ is not exclusive, so it cannot teach that Jesus came for the lost and not lost people of Israel, but not the Gentiles. While this specific configuration could be true, it's not supported by this passage in Matthew.
+* => MAD: ???
 
 
-John 17:20-23
--------------
+John 17:20-23 Jesus prays for future believers across the world
+---------------------------------------------------------------
 
 !!!
-   20 “My prayer is not for them alone. I pray also for those who will believe in me through their message, 21 that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me. 22 I have given them the glory that you gave me, that they may be one as we are one— 23 I in them and you in me—so that they may be brought to complete unity. Then the world will know that you sent me and have loved them even as you have loved me.
+   20 “My prayer is not for them alone. I **pray also for those who will believe in me** through their message, 21 that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so **that the world may believe** that you have sent me. 22 I have given them the glory that you gave me, that they may be one as we are one— 23 I in them and you in me—so that they may be brought to complete unity. Then **the world will know** that you sent me and have loved them even as you have loved me.
 
+* OSH: Here Jesus is praying for future believers, which must be both, Jews and Gentiles, as they are collectively referred to as coming from _the world_. Hence, Jesus came for everyone, including Gentiles.
+* => MAD: ???
 
 John 3:16 For God so loved the world ...
 ----------------------------------------
 
 !!!
-   16 “For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish, but have eternal life.
+   16 “For God so loved **the world** that He gave His only begotten Son, that **whoever believes** in Him should not perish, but have eternal life.
 
-* MAD: from context we see that *the world* must mean the *jews around the world* ???
-* If the book of John is only for Jews, then this verse is not for me?
-* Makes more sense to see the first four books in the NT as written with focus on the Jews, but applicable to the world.
+* MAD: from the wider context we know that this book is written to the Jews only. Therefore _the world_ and _whoever_ must mean the _jews around the world that believe_.
+* => OSH: At minimum, without context it's impossible to conclude that with _the world_ and _whoever_ 99.81% of the world are excluded. Furthermore, it could be true that a book written to the Jews is filled with universal truth. The examples and line of argument might be custom tailored to the Jews, but that by no means implies that the truths that are taught are only applicable to the Jews. It actually makes more sense to see the first four books in the NT as written geared toward the Jews, but applicable to the world. With that in mind _the world_ and _whoever_ does include Gentiles and therefore us. To counter this we need not only evidence that the gospels are written for the Jews, but also that everything in it is explicitly not for Gentiles.
 
 Matthew 28:18-20 The Great Commission
 -------------------------------------
