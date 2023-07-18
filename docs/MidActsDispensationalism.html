@@ -1,18 +1,28 @@
 <meta charset="utf-8" emacsmode="-*- markdown -*-"><link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/slate.css?">
 
+todo:
+
+Gal 3:24-25 no longer under schoolmaster
+
+1 Tim 1:8-11 the law is good for us
+
+Romans 7:7-14 the law is for us
+
+Romans 7:15,25 the law is for us
+
 **Mid Acts Dispensationalism**
 
 The Gospel
 ==========
 
 **Mid Acts Dispensationalism (MAD)**: There are two gospels: 
-1) the gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through Jesus fulfilling the law. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
+1) the gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through believing in Jesus name. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
 2) the gospel of grace for the gentiles / everyone including us today, in which there is no law for us to follow, we are entirely free but are still sinners and we are saved through the belief in Jesus's death (atonement for us), burial and resurrection.
 
 **One Salvation History (OSH)**: There is only one gospel, one plan of salvation throughout all time:
 1) man cannot redeem himself from his sin-guilt, but needs God's grace to provide a way.  And if man loves, trusts (prerequisite) and obeys (consequence) God, God applies Jesus's death as atonement for our sin guilt. And God can do that even for people without explicit knowledge of Jesus, like the Old Testament believers.  The different covenants are different expressions of this one and only plan for salvation. Evangelism is important, because it is much easier for someone to understand this plan after being taught about Jesus than without. The formula of belief in Jesus's death burial and resurrection is a great compacting of the core elements: The death is what provides the atoning payment for our sin-guilt, the burial is the apologetics evidence that Jesus was really dead, the resurrection is the apologetics evidence that God validated all of Jesus' otherwise blaspheming claims to divine authority and identity.
 
-SIN
+Sin
 ---
 * OSH: Sin in general is the breaking of God's law. Specifitally the word is used in three sub-meanings in the Bible:
   * Sin-Nature: the human tendency to want to act out temptation
@@ -21,6 +31,21 @@ SIN
 
 * MAD: Sin is doing something other than worshipping God ???  But if it is motivated by wanting to enable worshipping God then it's not a SIN ??? 
 * MAD: ??? with help of GPT4: The breaking of God's law, but with the clarification that the law of God that is applicable to us is only what is explicitly taught by Paul. That means Galatians 5:13 _serve one another in love_, Gal 5:14 _Love your neighbor as yourself_ Gal 5:19-21 _19 The acts of the flesh are obvious: sexual immorality, impurity and debauchery; 20 idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions 21 and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God._ Gal 5:26 _26 Let us not become conceited, provoking and envying each other._
+
+
+1 Corinthians 15:3-11
+---------------------
+
+!!!
+   3 For what I received I passed on to you as of first importance: that **Christ died for our sins** according to the Scriptures, 4 that **he was buried**, that **he was raised** on the third day according to the Scriptures, 5 and that **he appeared to Cephas**, and **then to the Twelve**. 6 After that, he appeared to more than five hundred of the brothers and sisters at the same time, most of whom are still living, though some have fallen asleep. 7 Then **he appeared to James**, **then to all the apostles**, 8 and last of all he appeared to me also, as to one abnormally born.
+
+   9 For I am the least of the apostles and do not even deserve to be called an apostle, because I persecuted the church of God. 10 But by the grace of God I am what I am, and his grace to me was not without effect. No, I worked harder than all of them—yet not I, but the grace of God that was with me. 11 Whether, then, it is **I or they, this is what we preach**, and this is what you believed.
+
+The core of the gospel according to Paul is Christ's death for our sins, his burial, and resurrection. And after the resurrection, He was seen by Peter, James and all 12 apostles. In verse 10 the word _they_ in the phrase _I or they, this is what we preach_ refers to those 12 apostles.
+
+* OSH: Verse 11 clearly teaches that the apostles taught the same gospel as Paul: the gospel that he just had stated in verses 3 and 4. Therefore, there is only one, not two gospels.
+
+* => MAD: No, verse 11 teaches ???
 
 1 John 4:10 John teaches that Jesus died to atone for believers' sin-guilt
 --------------------------------------------------------------------------
