@@ -16,20 +16,28 @@ The Gospel
 ==========
 
 **Mid Acts Dispensationalism (MAD)**: There are two gospels: 
-1) the gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through believing in Jesus name. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
-2) the gospel of grace for the gentiles / everyone including us today, in which there is no law for us to follow, we are entirely free but are still sinners and we are saved through the belief in Jesus's death (atonement for us), burial and resurrection.
+
+1) The gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through repentance and believing in Jesus name. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
+2) The gospel of grace for the gentiles / everyone including us today, in which there is no law for us to follow and consequently no repentance needed, we are entirely free but are still sinners and we are saved through the belief in Jesus's death (atonement for us), burial and resurrection.
 
 **One Salvation History (OSH)**: There is only one gospel, one plan of salvation throughout all time:
-1) man cannot redeem himself from his sin-guilt, but needs God's grace to provide a way.  And if man loves, trusts (prerequisite) and obeys (consequence) God, God applies Jesus's death as atonement for our sin guilt. And God can do that even for people without explicit knowledge of Jesus, like the Old Testament believers.  The different covenants are different expressions of this one and only plan for salvation. Evangelism is important, because it is much easier for someone to understand this plan after being taught about Jesus than without. The formula of belief in Jesus's death burial and resurrection is a great compacting of the core elements: The death is what provides the atoning payment for our sin-guilt, the burial is the apologetics evidence that Jesus was really dead, the resurrection is the apologetics evidence that God validated all of Jesus' otherwise blaspheming claims to divine authority and identity.
+
+1) Man cannot redeem himself from his sin-guilt, but needs God's grace to provide a way.  And if man loves, trusts (prerequisite) and obeys (consequence) God, God applies Jesus's death as atonement for our sin-guilt. God can do that even for people without explicit knowledge of Jesus, e.g. the Old Testament believers.  The different covenants are different expressions of this one and only plan for salvation. Evangelism is important, because it is much easier for someone to understand this plan after being taught about Jesus than without. The formula of belief in Jesus's death burial and resurrection is a great compacting of the core elements: The death is what provides the atoning payment for our sin-guilt, the burial is the apologetics evidence that Jesus really died a physical death, the resurrection is the apologetics evidence that God validated all of Jesus' otherwise blaspheming claims to divine authority and identity.
 
 Sin
 ---
-* OSH: Sin in general is the breaking of God's law. Specifitally the word is used in three sub-meanings in the Bible:
+* OSH: [Sin](https://graceambassadors.com/doc/GABF_StatementOfFaith.pdf) in general is the breaking of God's law. Specifitally, the word is used in three sub-meanings in the Bible:
   * Sin-Nature: the human tendency to want to act out temptation
   * Sin-Action: the actual breaking of the law, the action that offends God
   * Sin-Guilt: the legal account or record of our sin-action that we deserve to be punished for
 
-* MAD: Sin is doing something other than worshipping God ???  But if it is motivated by wanting to enable worshipping God then it's not a SIN ??? 
+* MAD:  Sin began as rebellion and disobedience against God. Every human has continued in
+this sinful nature except for Jesus Christ born of a virgin. Sin entered into mankind
+through the disobedience of Adam. The judgment for disobedience against God is
+eternal damnation. All in Adam have sinned and are deserving of this judgment. A
+supernatural intervention from God is required to save us.
+* => OSH: does that mean God is giving us rules / commands? And breaking them is _disobedience against God_ ?  Does that mean we are not free?
+
 * MAD: ??? with help of GPT4: The breaking of God's law, but with the clarification that the law of God that is applicable to us is only what is explicitly taught by Paul. That means Galatians 5:13 _serve one another in love_, Gal 5:14 _Love your neighbor as yourself_ Gal 5:19-21 _19 The acts of the flesh are obvious: sexual immorality, impurity and debauchery; 20 idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions 21 and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God._ Gal 5:26 _26 Let us not become conceited, provoking and envying each other._
 
 
