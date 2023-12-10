@@ -17,8 +17,16 @@ The Gospel
 
 **Mid Acts Dispensationalism (MAD)**: There are two gospels: 
 
-1) The gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through repentance and believing in Jesus name. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
+1) The gospel of the Kingdom for Israel / the Jews, in which they are bound by the law and saved through repentance and believing in Jesus name, and his identity as messiah. And Matthew, Mark, Luke and John did not know anything about Jesus's death, burial and resurrection being connected to salvation.
 2) The gospel of grace for the gentiles / everyone including us today, in which there is no law for us to follow and consequently no repentance needed, we are entirely free but are still sinners and we are saved through the belief in Jesus's death (atonement for us), burial and resurrection.
+
+Rom 6:7-8 dead is saved from sin
+
+Under the law 
+Acts 15:1-11
+Gal 5:1 
+https://chat.openai.com/share/96515414-64e4-4e72-8dbb-be58fe75ed06
+
 
 **One Salvation History (OSH)**: There is only one gospel, one plan of salvation throughout all time:
 
