@@ -293,11 +293,11 @@ This teaches that salvation is by faith alone. Adding any works, incl. water bap
 
 This teaches that salvation is by faith alone. Adding any works, incl. water baptism, would make it no longer by faith alone. Thus water baptism is not a requirement.
 
+#### Summary: Not essential but a very important command
 
+The verses in this section make it clear that baptism cannot be a necessarry requirement for salavation - that is reserved for faith in Jesus sacrifical death, burrial and resurrection.
+However, none of these verses teaches that baptism is unimportant or optional. It remains a command that believers ought to obey within reasonably short time of committing to Christ as their Lord and Savior. 
 
-#### Summary:
-
-???
 
 <sub><sup>Version 0.1<sub><sup>
 
