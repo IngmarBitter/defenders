@@ -40,7 +40,7 @@ Topics
 7. Doctrine of the Holy Spirit <sub><sup>Deity, Personhood, Role in Salvation, Ministry to believers<sub><sup>
 8. Doctrine of Creation vs Evolutionism <sub><sup>6 Days and/or not, Evolution and/or not, Physics/Chemistry/Biology @creation.com<sub><sup>
 9. Doctrine of Man <sub><sup>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?<sub><sup>
-10. Doctrine of Salvation <sub><sup>How Jesus’s death can be a substitute payment for our own guilt penalty, Baptism, Only Jesus, Can we lose our salvation?<sub><sup>
+10. Doctrine of Salvation <sub><sup>How Jesus’s death can be a substitute payment for our own guilt penalty, Baptism, Only Jesus, Can we throw away our salvation?<sub><sup>
 11. Doctrine of the Church <sub><sup>The role of believers as the body of Christ<sub><sup>
 12.  Doctrine of the Last Things <sub><sup>Jesus Second Coming, [Resurrection of the Saints, the New Heaven and Earth](LastThings/AfterDeath.html)<sub><sup>
 13. Church practices <sub><sup>Communion, Spiritual gifts & speaking in tongues, Leadership & women, Divorce and remarriage, Alcohol<sub><sup>
