@@ -77,7 +77,7 @@ In contemporary times, when an adult embraces Christianity, their public verbal 
 
 Baptism should be administered as soon as possible after an individual commits to Christ. It is a significant and memorable way to publicly express one's faith and decision to follow Jesus.  Typically, baptisms are conducted the following Sunday morning in the presence of the church corgregation to witness and celebrate. Special occasions, such as Easter Sunday, might involve river- or ocean-baptisms that new believers may choose to wait a little longer than a week for.
 
-TSeveral New Testament examples illustrate the practice of baptizing new believers immediately after they commit to Christ:
+Several New Testament examples illustrate the practice of baptizing new believers immediately after they commit to Christ:
 
 **The Day of Pentecost (Acts 2:41):** About three thousand people believed and were baptized following Peter's sermon.
 
@@ -154,11 +154,9 @@ Baptism acts as a unifying experience among Christians, as emphasized in Ephesia
 
 ## Baptism Very Important but not Essential for salvation
 
-Baptism holds significant importance for all followers of Christ. However, its role as an essential element for salvation, implying a requirement for the forgiveness of sins and receiving the Holy Spirit, as suggested by Acts 2:38 and other passages, needs careful consideration. If deemed essential, it suggests that Jesus' sacrifice alone isn't sufficient for salvation and that salvation is contingent upon the works of baptism.
+Baptism holds significant importance for all followers of Christ.  A valid question is, if it is even more than that? Is it essential? I.e. is it a requirement for forgiveness of sin, for receiving the Holy Spirit and for being saved, as Acts 2:38 and other passages might suggest? If so, then baptism is a requirement for salvation, which implies that Jesus' sacrifice alone isn't sufficient for salvation and that salvation is contingent upon the works of baptism.
 
-Baptism holds significant importance for all followers of Christ.  A valid question is if it is even more than that? Is it essential? I.e. is it a requirement for forgiveness of sin, for receiving the Holy Spirit and for being saved, as Acts 2:38 and other passages might suggest? If so, then baptism is a requirement for salvation, which implies that Jesus' sacrifice alone isn't sufficient for salvation and that salvation is contingent upon the works of baptism.
-
-To align with the consistent teachings of the Bible, one of these two two difficult tasks must be solved:
+Hence, to align with the consistent teachings of the Bible, one of these two two difficult tasks must be solved:
 
 **Essential:** This viewpoint necessitates reconciling verses emphasizing salvation through faith alone (e.g., Ephesians 2:8-9, Romans 3:28, 4:4-5, 5:1, Galatians 2:16, Titus 3:5, John 3:16,18,36, 5:24, 6:53-54, 8:24, Acts 16:31) with the notion that salvation involves both faith and works. This perspective also must account for instances of salvation prior to baptism in the New Testament and Paul's conviction that baptism was not an important part of his ministry. Most evangelical churches do not subscribe to this interpretation.
 
@@ -251,7 +249,7 @@ All verses that look like baptism might be required for salvation have reasonabl
 
 ### Scriptural Evidence Against Baptism's Essentiality for Salvation
 
-We will ignore the long list of verses that teaches that salvation is not by works, but by faith alone. They need to be adressed by anyone defending the view that baptism is essential.  However, we will point out a few verses that show that salvation was granted clearly independent of baptism.
+We will ignore most of the long list of verses that teaches that salvation is not by works, but by faith alone. They need to be adressed by anyone defending the view that baptism is essential.  Instead, we will focus on verses that show that salvation was granted clearly independent of baptism.
 
 #### Acts 10:44-48: 
 
@@ -304,9 +302,10 @@ This teaches that salvation is by faith alone. Adding any works, incl. water bap
 #### Conclusion: Not essential but a very important command
 
 The analysis shows that while baptism is not a necessary requirement for salvation - reserved solely for faith in Jesus' sacrificial death, burial, and resurrection - it is not to be viewed as unimportant or optional. Baptism remains a vital command for believers to follow soon after committing to Christ as their Lord and Savior.
+
 Given that the word *for* in the typical translations of Acts 2:38 can be misleading, when we baptize new believers it should be with just the first part: "I baptize you in the name of the Father, son and Holy Spirit." or with the clearer addition of "because of your already forgiven sin and already received gift of the Holy Spirit".
 
-<sub><sup>Version 0.1<sub><sup>
+<sub><sup>Version 0.2<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
