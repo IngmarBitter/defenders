@@ -6,19 +6,21 @@ Ingmar Bitter
 
 ## The Meaning of Baptism
 
-Baptism is the full submersion in water of a believer in Christ, accompanied by the declaration that the individual is baptized in the name of the Father, Son, and Holy Spirit.
+Baptism is the full submersion in water of a new believer in Christ, accompanied by the declaration that the individual is baptized in the name of the Father, Son, and Holy Spirit.
 !!!
     Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
 
     - Mat 28:19 MEV
 
-A new believer's commitment to Jesus as Lord should result in the pracitcal step of obedience to be baptized. Through this step the new believer completes the process coming to faith. He reaches the level of gospel understanding and trust in Christ that makes Jesus's death effective to atone for the believer's sin guilt. Thus, the baptism is the occasion at which salvation is gifted by the means of Jesus's sacrifice.
+As new believers, we commit to making Jesus our Lord and being obedient to His commands. Baptism signifies the completion of the process of coming to saving faith. When we undergo baptism, it demonstrates that our commitment has matured from the intellectual realm to practical action, guiding our behavior. It is during the act of baptism that God provides the gift of salvation. Through this act, the new believer reaches a level of gospel understanding and trust in Christ that makes Jesus’s sacrificial death effective in atoning for their sin guilt. Thus, baptism becomes the occasion through which salvation is gifted by the means of Jesus’s ultimate sacrifice.
 
-Immersion in water sybolizes Christ's death and burrial, signifying the washing away of the believer's sins.
+Full immersion in water sybolizes and connects us with Christ's death, burrial, resurrection and their atoning benefits for us:
 
-Going into the water the believer remembers the old guilty self that justly deserved death. Under water the believer associates Christ's death with his own death penalty being paid and being cleared of all guilt before God.
+* Going into the water the believer remembers the old guilty self that justly deserved death and the pain and suffering of Christ as our representative and substitute on the cross.
 
-Emerging from the water symbolizes Christ's resurrection to new life and the believer associates it with his own spiritual new life in Christ as redeemed, forgiven, loved, and adopted child of God.
+* Under water the believer associates Christ's death with his own dying to sin and his own death penalty being paid and being cleared of all guilt before God. This is the moment God chooses to apply the atonement of Jesus' sacrificial death to us.
+
+* Emerging from the water symbolizes Christ's resurrection to new life and the believer associates it with his own spiritual new life in Christ as regenerated, redeemed, forgiven, loved, and adopted child of God.
 
 !!!
     Do you not know that we who were baptized into Jesus Christ were baptized into His death?   ​Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
@@ -322,7 +324,7 @@ This teaches that salvation is by faith alone.
 
 The analysis shows that while baptism is not a necessary means for salvation - reserved solely for faith in Jesus' sacrificial death, burial, and resurrection - it is typically the occasion that completes the proccess of coming to faith, culminating in the gift of salvation and filling with the Holy Spirit.
 
-<sub><sup>Version 0.3<sub><sup>
+<sub><sup>Version 0.4<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
