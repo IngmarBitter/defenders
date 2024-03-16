@@ -6,6 +6,8 @@ Ingmar Bitter
 
 ## The Meaning of Baptism
 
+![](BaptismMeaning.jpg style="float: right; width: 11rem")
+
 Baptism is the full submersion in water of a new believer in Christ, accompanied by the declaration that the individual is baptized in the name of the Father, Son, and Holy Spirit.
 !!!
     Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
@@ -31,6 +33,8 @@ Full immersion in water sybolizes and connects us with Christ's death, burrial, 
     - Col 2:12 MEV
 
 ### Baptism by Full Immersion
+
+![](BaptismFullImmersion.jpg style="float: right; width: 11rem")
 
 There are several compelling reasons to practice baptism by full immersion:
 
@@ -67,6 +71,9 @@ There are several compelling reasons to practice baptism by full immersion:
 
 ## The Significance of Baptism for Believers
 
+![](BaptismSiginificance.jpg style="float: right; width: 11rem")
+
+
 Baptism is a commanded practice for Christians, as explicitly stated in Matthew 28:19. There is no biblical directive to delay or avoid baptism. Hence, it is universally commanded for Christians and often a prerequisite for church membership.
 
 !!!
@@ -78,6 +85,8 @@ The act of submitting to Baptism demonstrates publicly to witnesses, but more im
 In addition, for Jewish converts, Baptism into Christ carried significant social consequences, as it could result in expulsion from the Jewish temple and the religious community. Similar consequences still result in many non-western cultures today - in Islam the consequence is the death penalty.
 
 ## Baptism At the Time of Committing to Christ
+
+![](BaptismTiming.jpg style="float: right; width: 11rem")
 
 Baptism should be administered at the time an individual commits to Christ. It is a significant and memorable way to publicly mark that one's faith has developed enough to be put into practice, starting a lifelong journey to follow Jesus.
 
@@ -127,6 +136,8 @@ Several New Testament examples illustrate the practice of baptizing new believer
 
 ## Considering Rebaptism
 
+![](BaptismRepeated.jpg style="float: right; width: 11rem")
+
 Rebaptism may be considered for those uncertain about their initial baptism due to lack of memory, coercion, or a previous lack of genuine faith. However, rebaptism is not necessary for those who have sinned post-baptism but rather, repentance and seeking forgiveness are advised (Acts 8:14-24).
 
 !!!
@@ -141,6 +152,8 @@ Rebaptism may be considered for those uncertain about their initial baptism due 
     - Acts 8:14-24 MEV
 
 ## Baptism as a Unifying Force Among Believers
+
+![](BaptismUnifying.jpg style="float: right; width: 11rem")
 
 Emphasizing unity in the Christian faith, baptism is a shared experience among believers (Ephesians 4:5). We advocate for unity and understanding in baptismal practices, underlining the importance of God's truth and the unity it brings (John 17:20-23).
 
@@ -157,6 +170,8 @@ Baptism acts as a unifying experience among Christians, as emphasized in Ephesia
     - John 17:20-23 MEV
 
 ## Baptism, Works and Salvation
+
+![](BaptismWorksSalvation.jpg style="float: right; width: 11rem")
 
 Baptism holds great significance for followers of Christ in any denomination.  A key question is whether it is required for salvation. While some passages in the Bible, such as Acts 2:38, suggest that baptism is necessary for the forgiveness of sins, receiving the Holy Spirit, and salvation, other passages emphasize that salvation is by faith alone. This apparent contradiction poses a challenge in understanding the role of baptism in the salvation process.
 
