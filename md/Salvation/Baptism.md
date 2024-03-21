@@ -134,6 +134,18 @@ Several New Testament examples illustrate the practice of baptizing new believer
     
     - Acts 16:30-33 MEV
 
+## Delayed / Missed Baptism
+
+What if someone heard the gospel preached, centered on our sinfulness, need for repentance and Jesus being our substitute and representative in His death, burial and resurrection through which we are granted salvation - but without emphasis on the need to be baptized. What is the state of such a person after his firm decision to commit his life to Jesus and to accept Him as Lord and savior?  Two famous examples of this are Billy Graham and C.S.Lewis. Graham was a believer for about a month before he was baptized by full immersion, and Lewis was never baptized after coming to faith. In both cases the preacher and the new convert were sincere and willing to trust and follow Jesus, but did not understand the importance Baptism as explained in this document up to here.
+
+There seem to be at least three possible views on the state of those believers:
+
+* **not saved:** In the most strict view, baptism is a hard requirement for salvation and thus Lewis was never a Christian and Graham became a Christian only at his baptism, a month after he thought he had become a Christian. This view would have to argue that John 3:16 is not a good verse to use in evangelism as it misleads us into believing that believing in Christ without baptism is sufficient for salvation.
+
+* **exception from the norm:** This view emphasizes that we should teach baptism as a necessarry requirement for salvation as it gives both, God and ourselves the assurance that our faith is sufficiently committed to result in influencing our actions.  And for any typical conversion experience, committing to Christ will occur with the expectation that this step is completed through baptism and thus the time of regeneration is during the baptism.  This view acknowledges that God can choose to apply Jesus' atoning death to anyone else that is insufficiently informed about these biblical requirements.  Obvious examples are the Old Testament believers and the thief on the cross next to Jesus.  Similarly, God would save contemporary believers who followed incomplete gospel teaching in the same way.  This is further supported by Romans that states that where there is no law there is no condemnation, meaning that God will not hold us accountable for requirements that we did not know and are not made clear by Him in other ways. Consequently, Graham and Lewis would both have become Christians at the time of their firm commitment to repentence and trusting Jesus as Lord and Savior.
+
+* **baptism is a consequence of salvation:** In this view baptism is not required for salvation and regeneration. This legal state transition is achieved as an act of God at the time of firm commitment to repentence and trusting Jesus as Lord and Savior. It is taught and expected that subsequently the new believer will put his faith into action and with Jesus as his Lord, follow Jesus' commands. And clearly the first step that is commanded is to be baptized. The only consistent response is for the believer to follow through with baptism as soon as possible.  Considering James 2:24, that teaches that faith without works is dead, this view would see the refusal to get baptized as indicator that the beliver is not actually committed to follow Christ and his teachings and thus would call into question if he was saved at all. Thus, in Graham's case this view would hold that he was saved at commitment and that his baptism confirmed that his faith was sincere and translated into action. In the case of Lewis, he was saved also at the time of commitment, and his failing to be baptized would be seen as incomplete Bible understanding. However, his other speeches and writings are evidence that his faith was sincere and resulting in plenty of other actions, so it cannot be claimed that his faith was dead and that he was not saved.
+
 ## Considering Rebaptism
 
 ![](BaptismRepeated.jpg style="float: right; width: 11rem")
@@ -339,7 +351,7 @@ This teaches that salvation is by faith alone.
 
 The analysis shows that while baptism is not a necessary means for salvation - reserved solely for faith in Jesus' sacrificial death, burial, and resurrection - it is typically the occasion that completes the proccess of coming to faith, culminating in the gift of salvation and filling with the Holy Spirit.
 
-<sub><sup>Version 0.4<sub><sup>
+<sub><sup>Version 0.5<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
