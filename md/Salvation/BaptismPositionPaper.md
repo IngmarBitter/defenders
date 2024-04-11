@@ -28,7 +28,7 @@ A person should be baptized to follow the example of Christ (Mat. 3:13-17), to o
 
 #### Humility and Expression
 
-Since one of the biggest obstacles between God and man is human pride, baptism also offers a venue by which believers humble themselves before God and others and admit their need for Christ's redemption (James 4:6). In addition, baptism meets a God-given human need for expression. Everyone needs an outlet for emotion, or an expression for an impression. Baptism is the outlet for an expression of faith in Christ.
+Since one of the biggest obstacles between God and man is human pride, baptism also offers a venue by which believers humble themselves before God and others and admit their need for Christ's redemption (James 4:6). In addition, baptism meets a God-given human need for expression. Everyone needs an outlet for emotion or an expression for an impression. Baptism is the outlet for an expression of faith in Christ.
 
 #### Salvation
 
