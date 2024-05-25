@@ -202,7 +202,7 @@ Baptism acts as a unifying experience among Christians, as emphasized in Ephesia
 
 Baptism holds great significance for followers of Christ in any denomination.  A key question is whether it is necessary/essential for salvation. While some passages in the Bible, such as Acts 2:38, are sometimes interpreted as baptism is necessary for the forgiveness of sins, receiving the Holy Spirit, and salvation, other passages emphasize that salvation is by faith-alone. This apparent contradiction poses a challenge in understanding the role of baptism in the salvation process.
 
-**Baptism-completes-faith:** To reconcile this tension, we view baptism as a first step of obedience that is part of the salvation process, but not a work that merits salvation. This acknowledges that salvation is ultimately a gift from God, made possible only through Jesus' sacrifice on the cross. Baptism, then, becomes the **occasion** at which **the means of salvation** (Jesus' atoning death) is applied to the believer's life. It is not the act of baptism itself that saves, but rather the faith in Jesus that it represents. Baptism completes the process of coming to faith - of repentance, trusting Christ, and committing to follow Him. This understanding allows for a more consistent interpretation of the various scriptures that emphasize both the importance of baptism and the necessity of faith for salvation.
+**Baptism-completes-faith:** To reconcile this tension, this view sees baptism as a first step of obedience that is part of the salvation process, but not a work that merits salvation. This acknowledges that salvation is ultimately a gift from God, made possible only through Jesus' sacrifice on the cross. Baptism, then, becomes the **occasion** at which **the means of salvation** (Jesus' atoning death) is applied to the believer's life. It is not the act of baptism itself that saves, but rather the faith in Jesus that it represents. Baptism completes the process of coming to faith - of repentance, trusting Christ, and committing to follow Him. This understanding allows for a more consistent interpretation of the various scriptures that emphasize both the importance of baptism and the necessity of faith for salvation.
 
 There are two other views that swing the pendulum too far in only one direction:
 
@@ -220,7 +220,7 @@ There are two other views that swing the pendulum too far in only one direction:
 
 #### Roadmap
 
-We first offer an *assessment of the challenges* to each view, and then go verse by verse to see how those challenges are grounded in the Bible, organized into three groups of verses.
+We first offer a *statement of the challenges* and then an *assessment of the challenges* to each view, and then go verse by verse to see how those challenges are grounded in the Bible, organized into three groups of verses.
 
 The first group is in the section on *water vs spirit baptism*, where we see that none of the examples of baptisms in the New Testament have spirit baptism at the same time as water baptism.
 
@@ -228,7 +228,7 @@ Next, in the section *Emphasis on Faith*, we see that salvation is also taught i
 
 Finally, we look at several passages in the New Testament that *emphasize baptism* and are often used as justification for seeing baptism as a sacrament. However, as we will see, these passages can be interpreted as an ordinance as well without having to resort to contrived explanations. Nonetheless, they do make a strong case for the importance of baptism as a command that should be obeyed and not delayed.
 
-Now lets turn to the assesment of the *challenges "in principle"* so we can have the difficulties of both views in mind when studying the indivitual verses.
+Now lets turn to the *challenges "in principle"* so we can have the difficulties of both views in mind when studying the indivitual verses.
 
 #### Statement of challenges
 
@@ -246,15 +246,15 @@ The *faith-alone view*, that makes *baptism an ordinance* and a *sufficient cond
 
 In comparison, there are fewer and less challenging hurdles for the faith-alone view than the baptism-completes-faith view.
 
-Both perspectives must **assume unstated conditions are implied**, but the reasonableness of these assumptions differs significantly. It is clear that sincerely deciding to be baptized implies having faith. However, having faith does not as clearly imply a desire to be baptized. Baptism marks the end of the conversion process, which begins with faith in God's existence and authority. This is followed by conviction of our sin guilt, repentance for our sins, faith in Jesus as savior, faith in Jesus as Lord to whom we are accountable, decisions on how to act differently, and then the decision to be baptized, culminating in the actual baptism. Faith produces all these steps, and each one is a sufficient condition for the ones before it. However, they are not all instantaneous. We take time to progress through the stages. The question is where along the way the state of saving faith is reached. Proposing that it is only reached during the act of baptism is more of a stretch than the latest by the decision to be baptized.
+Both perspectives must **assume unstated conditions are implied**, but the reasonableness of these assumptions differs significantly. It is clear that sincerely deciding to be baptized implies having faith. However, having faith does not as clearly imply a desire to be baptized. Baptism marks the end of the conversion process, which begins with faith in God's existence and authority. This is followed by conviction of our sin guilt, repentance for our sins, faith in Jesus as savior, faith in Jesus as Lord to whom we are accountable, decisions on how to act differently, and then the decision to be baptized, culminating in the actual baptism. Faith produces all these steps, and each one is a sufficient condition for the ones before it. However, they are not all instantaneous. We take time to progress through the stages. **The question is where along the progression the state of saving faith is reached**. Proposing that it is only reached during the act of baptism is more of a stretch than placing it before the decision to be baptized.
 
-Furthermore, regarding the *reasonableness of assuming unstated conditions*, this progression over time shows the asymmetry bectween the two needed assumptions. *Faith-alone* assumes that earlier steps have already happened, which is reasonable. But *baptism-completes-faith* must assume that when the first step is mentions, all of the later steps have also already occured. That is much less reasonable - especially when the verse is not talking abount mature Christions, but telling us what the requirement for salvation is.
+Furthermore, regarding the *reasonableness of assuming unstated conditions*, this progression over time shows the asymmetry bectween the two needed assumptions. *Faith-alone* assumes that earlier steps have already happened, which is reasonable. But *baptism-completes-faith* must assume that when the first step is mentioned, all of the later steps have also already occured. That is much less reasonable - especially when the verse is not talking abount mature Christions, but telling us what the requirement for salvation is.
 
-Asserting that faith produces repentance, trust in Christ and the desire to be baptized without being saving faith and then **durnig the baptism that faith is upgraded to saving faith** is a contrived explanation that has no scripture backing it up, but it is needed to maintain consistency of the baptism-completes-faith view.
+Asserting that faith produces repentance, trust in Christ and the desire to be baptized without being saving faith and then, **durnig the baptism, that faith is upgraded to saving faith,** is a contrived explanation that has no scripture backing it up, but it is needed to maintain consistency of the baptism-completes-faith view.
 
-The issue for baptism-completes-faith that all given examples baptisms are **exceptions to the rule** is also hard to explain away. The typical explanation offered is that those were special occasions because they were the first time when a special category of people became a Christian, such as the apostles, gentiles, samarians, etc. But especially in the inaugural event, the one that sets the example to follow, the rule should be demonstrated, not broken. And if the rule was broken in all inaugural events, then it seriously puts into question if there is such a rule.
+The issue for baptism-completes-faith that all given examples baptisms are **exceptions to the rule** is also hard to explain away.  The typical explanation offered is that those were special occasions, because they were the first time when a special category of people became a Christian, such as the apostles, gentiles, samarians, etc. But especially in the inaugural event, the one that sets the example to follow, the rule should be demonstrated, not broken. And if the rule was broken in all inaugural events, then it seriously puts into question if there is such a rule.
 
-It is completely fine to see the baptism as an event that strengtens our faith. Throughout the sanctification process, as we mature as Chrisitans, there will be many things that strengthen our faith, and our baptism may very well be the event that increases our faith stronger than anything else aftewards. But that does not mean, that our faith is insufficient to be saving faith before the baptism. Initially, it just has to be the size of a mustard seed to be effective, and it can grow into something much larger over time.
+It is completely fine to see the baptism as an event that strengtens our faith. Throughout the sanctification process, as we mature as Chrisitans, there will be many things that strengthen our faith, and our baptism may very well be the event that increases our faith stronger than anything else aftewards. Nonetheless, that does not mean, that our faith is insufficient to be saving faith before the baptism. Initially, it just has to be the size of a mustard seed to be effective, and it can grow into something much larger over time.
 
 Matthew 13:31-32
 
@@ -306,16 +306,16 @@ Here we have 1) hearing and believing the gospel, 2) being filled with the Holy 
 #### Acts 18:24-28 Apollos, believer + ferverent in the spirit, taught about water baptism, but not baptized
 
 !!!
-    A Jew named Apollos, a native Alexandrian, an eloquent man who was powerful in the use of the Scriptures, arrived in Ephesus. This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught the things about Jesus accurately, although he knew only John’s baptism. He began to speak boldly in the synagogue. After Priscilla and Aquila heard him, they took him home and explained the way of God to him more accurately. When he wanted to cross over to Achaia, the brothers wrote to the disciples urging them to welcome him. After he arrived, he greatly helped those who had believed through grace. For he vigorously refuted the Jews in public, demonstrating through the Scriptures that Jesus is the Messiah.
+    A Jew named Apollos, a native Alexandrian, an eloquent man who was powerful in the use of the Scriptures, arrived in Ephesus. This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught the things about Jesus accurately, although **he knew only John’s baptism**. He began to speak boldly in the synagogue. After Priscilla and Aquila heard him, **they took him home and explained the way of God to him more accurately**. When he wanted to cross over to Achaia, the brothers wrote to the disciples urging them to welcome him. After he arrived, he greatly helped those who had believed through grace. For he vigorously refuted the Jews in public, demonstrating through the Scriptures that Jesus is the Messiah.
 
 * *faith-alone:* since Apollos was already a strong believer and filled with the Holy Spirit, Priscilla and Aquila did not see a need for him to be baptized in the name of Jesus, however they explained it to him. -- A little strange that they did not insist he needed to be baptized in Jesus name, but at least it makes clear that it was not a salvation issue for Priscilla and Aquila.
 
-* *baptism-completes-faith:* this is also an exception to the rule. Possibly Apollos was baptized in Jesus name by Priscilla and Aquila, but it was simply not recorded in this passage. -- Although it seems that after pointing out that Apollo knew only the baptism of John and his knowledge being corrected it would be quite fitting to report that he then was baptized in Jesus name if that really happened.
+* *baptism-completes-faith:* this is also an exception to the rule. Possibly Apollos was baptized in Jesus name by Priscilla and Aquila, but it was simply not recorded in this passage. -- Although it seems that after pointing out that Apollo knew only the baptism of John and his knowledge being corrected it would be quite fitting to report that he then was baptized in Jesus name if that really happened. 
 
 #### Acts 19:1-7 Holy Spirit received in Corinth not during water baptism but after
 
 !!!
-    1​ While Apollos was in Corinth, Paul traveled through the interior regions and came to Ephesus. He found some disciples 2 and asked them, “Did you receive the Holy Spirit when you believed?”
+    1​ While Apollos was in Corinth, Paul traveled through the interior regions and came to Ephesus. He found some disciples  2 and asked them, “Did you receive the Holy Spirit when you believed?”
   “No,” they told him, “we haven’t even heard that there is a Holy Spirit.”
     3 “Then what baptism were you baptized with?” he asked them.
   “With John’s baptism,” they replied.
@@ -337,9 +337,9 @@ These disciples of Christ believed but did not have the Holy Spirit and only had
 
 * *baptism-completes-faith:* this is also an exception to the rule. However, at least it demonstrates that the new believer should be baptized right away.
 
-#### Conclusion
+#### Conclusion of Spirit Baptism vs Water Baptism
 
-There is no report in Acts in which the Holy Spirit was given during water baptism, but when both are reported they are very close in time. So new believers always were baptized right away. That is a pattern we should continue today. The timing of receiving the Holy Spirit is linked to when the a person starts to have firm and proper believe in Jesus as Lord and savior. Depending on how we share the Gospel and the significance of water baptism, it can indeed be the new norm that this firm and proper belief is reached during baptism and thus the Holy Spirit is received during baptism, together with all the benefits of being sure of ones salvation and being able to associate ones baptism with the moment of becoming a Christian. We just need to be careful to teach that while this is the preferred way, it is not the only way to come to saving faith and that water baptism is an ordinance and not a sacrament.
+There is no report in Acts in which the Holy Spirit was given during water baptism, but when both are reported they are very close in time. So new believers always were baptized right away. That is a pattern we should continue today. The timing of receiving the Holy Spirit is linked to when the a person starts to have firm and proper belief in Jesus as Lord and savior.
 
 ### Emphasis on Faith
 
@@ -351,8 +351,8 @@ There is no report in Acts in which the Holy Spirit was given during water bapti
     - John 3:16
 
 * *faith-alone:* This states the conditions for salvation. If water baptism was one of them it should be mentioned, but is not.
-* *baptism-completes-faith:* the baptism requirement is instituted by Jesus at the great commission, which was given after John 3:16 - but should that make John 3:16 obsolete or even contradict it? ... OR
-* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements of repentance, confession of faith, and baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly.
+* *baptism-completes-faith:* the baptism requirement is instituted by Jesus at the great commission, which was given after John 3:16 ... - but should that make John 3:16 obsolete or even contradict it? ... OR
+* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements of repentance, confession of faith, and baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. ... - acceptable but contrived.
 
 #### 1 Corinthians 15:1-8
 
@@ -360,8 +360,8 @@ There is no report in Acts in which the Holy Spirit was given during water bapti
     1  Now, brothers, I declare to you the gospel which I preached to you, which you have received, and in which you stand.   2  Through it you are saved, if you keep in memory what I preached to you unless you have believed in vain.  3  For I delivered to you first of all that which I also received: how Christ died for our sins according to the Scriptures,   4  was buried, rose again the third day according to the Scriptures,   5  and was seen by Cephas, and then by the twelve.   6  Then He was seen by over five hundred brothers at once, of whom the greater part remain to this present time, though some have passed away.   7  Then He was seen by James and then by all the apostles.   8  Last of all, He was seen by me also, as by one born at the wrong time.
 
 * *faith-alone:* This is one of the most clear statements of the conditions for salvation. If water baptism was one of them it should be mentioned, but is not.
-* *baptism-completes-faith:* If Paul was trying to state just the conditions for salvation, then he should not have included in the same sentence the various post-resurrection appearances, which are not essential to salvation. Instead, Paul gives a listing of shared Christian core beliefs that Paul assumed everyone knew to emphasize that he's not telling them new stuff, only already established truths. And with that context, it does not matter that he left out repentance and left out baptism - it's simply not a text focusing on requirements for salvation. ... OR
-* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements of repentance, confession of faith, and baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly.
+* *baptism-completes-faith:* If Paul was trying to state just the conditions for salvation, then he should not have included in the same sentence the various post-resurrection appearances, which are not essential to salvation. Instead, Paul gives a listing of shared Christian core beliefs that Paul assumed everyone knew to emphasize that he's not telling them new stuff, only already established truths. And with that context, it does not matter that he left out repentance and left out baptism - it's simply not a text focusing on requirements for salvation. ... - But Paul states in verse 1 explictly that what follows is the gospel, so it must contain everything that is needed for salvation. ...  OR
+* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements of repentance, confession of faith, and baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. ... acceptable but contrived.
 
 #### 1 Corinthians 1:14,17: Paul on baptism
 
@@ -376,7 +376,7 @@ In this passage, Paul is arguing against the divisions that plagued the Corinthi
 
 * *faith-alone:* If baptism was necessary for salvation, why did Paul say he was thankful he baptized so few people? Why did he say that he was *not* sent to baptize? If baptism was necessary for salvation, Paul essentially said, “I am thankful I saved so few ...” and “For Christ did not send me to save ...”. That would be an unbelievably ridiculous statement for Paul to make. (See https://www.gotquestions.org/baptism-salvation.html )
 
-* *baptism-completes-faith:* One verse earlier Paul asks rhetorically if they were baptized in the name of Paul. That implies that he knew they were all baptized in the name of Jesus, meaning they were all water baptized. He did not conduct the baptisms, but he's not saying that baptism is not needed. It seems that when he was with that church, there were some faithful leaders that he was comfortable leaving the baptisms to, so he could focus on the more difficult task of evangelizing and teaching.
+* *baptism-completes-faith:* One verse earlier Paul asks rhetorically if they were baptized in the name of Paul. That implies that he knew they were all baptized in the name of Jesus, meaning they were all water baptized. He did not conduct the baptisms, but he's not saying that baptism is not needed. It seems that when he was with that church, there were some faithful leaders that he was comfortable leaving the baptisms to, so he could focus on the more difficult task of evangelizing and teaching. ... - acceptable but contrived.
 
 #### Ephesians 2:8-9
 
@@ -385,13 +385,13 @@ In this passage, Paul is arguing against the divisions that plagued the Corinthi
 
 This teaches that salvation is by faith alone.
 
-* *faith-alone:* Adding any works, incl. water baptism, would make it no longer faith-alone. Thus water baptism is not a requirement.
+* *faith-alone:* Adding any works, incl. demonstrating obedience in water baptism, would make it no longer faith-alone. Thus water baptism is not a requirement.
 
-* *baptism-completes-faith:* even faith-alone teaches that salvation is not unilaterally forced upon by God, but requires a to-do list for the believer: mental comprehension of the gospel, belief that it's true, repentance, trusting Jesus, committing to follow Him, accepting the gift of salvation. Those are not trivial but are still classified as not-works. This view simply includes baptism into that do-do list and also classifies it as not-works. And all of those items are things that either exalt Jesus or humble ourselves. Not things that can be used to boast about ourselves. And that's the main concern of this verse: we ought to not think we earned our salvation or did something that makes us deserve it and that consequently we could boast about.
+* *baptism-completes-faith:* even faith-alone teaches that salvation is not unilaterally forced upon by God, but requires a to-do list for the believer: mental comprehension of the gospel, belief that it's true, repentance, trusting Jesus, committing to follow Him, accepting the gift of salvation. Those are not trivial but are still classified as not-works. This view simply includes baptism into that do-do list and also classifies it as not-works. And all of those items are things that either exalt Jesus or humble ourselves. Not things that can be used to boast about ourselves. And that's the main concern of this verse: we ought to not think we earned our salvation or did something that makes us deserve it and that consequently we could boast about. ... acceptable, but a little contrived, as the faith-alone steps are all mental, while baptism is a physical act and thus more inherently associated mith works.
 
-* *faith-alone:* If we accept that baptism is not a works, then this verse still states that the requirements to be saved do not include baptism.
+* *faith-alone:* Even if we accept that baptism is not a works, then this verse still states that the requirements to be saved do not include baptism.
 
-* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements of repentance, confession of faith, and baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly.
+* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements of repentance, confession of faith, and baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. ... acceptable but contrived.
 
 #### Titus 3:5
 
@@ -400,13 +400,13 @@ This teaches that salvation is by faith alone.
 
 This teaches that salvation is not by works, but an undeserved gift from God.
 
-* *faith-alone:* Adding any works, incl. water baptism, would make it no longer faith-alone. Thus water baptism is not a requirement.
+* *faith-alone:* Adding any works, incl. demonstrating obedience in water baptism, would make it no longer faith-alone. Thus water baptism is not a requirement.
 
-* *baptism-completes-faith:* same as the prior passage, baptism is humbling and not something to boast about. Hence it can be considered not-works like the other things that *faith-alone* requires for salvation.
+* *baptism-completes-faith:* same as the prior passage, baptism is humbling and not something to boast about. Hence it can be considered not-works like the other things that *faith-alone* requires for salvation. ... as in prion passage, acceptable interpretation, but cantrived.
 
-#### Conclusion
+#### Conclusion of Emphasis on Faith
 
-We are saved by faith alone, not by works. However, we should not classify being baptized as works. It is something done to us, not by us. It is a demonstration of our faith and obedience to Jesus as our Lord. Still, baptism is an ordinance, not a sacrament.
+We are saved by faith alone, not by works. However, we should not classify being baptized as works. It is something done to us, not by us. It is a demonstration of our faith and obedience to Jesus as our Lord. Still, baptism is an ordinance subsequent to salvation, not a sacrament triggering salvation.
 
 
 ### Emphasis on Baptism
@@ -422,13 +422,13 @@ We are saved by faith alone, not by works. However, we should not classify being
 
     - Acts 2:37-38,40 MEV
 
-Acts 2:38 correlates repentance and baptism with salvation (forgiveness of sins and receiving the Holy Spirit). While it teaches that both, repentance and baptism are required parts of the conversion prcess, it does not tell us if both are necessarry conditions for salvation, nor does it tell is if salvaton is granted during the first, the second or before or after.
+Acts 2:38 correlates repentance and baptism with salvation (forgiveness of sins and receiving the Holy Spirit). While it teaches that the package of both, repentance and baptism are required parts of the conversion prcess, it does not tell us if both are necessarry conditions for salvation, nor does it tell us if salvaton is granted during the first, the second or before or after.
 
-* *faith-alone:* Repenting implies having faith. The receiving of the Holy Spirit happens when we start to have firm faith in Jesus as our Lord and savior, which may or may not be during the water baptism.
+* *faith-alone:* Repenting implies having faith. The receiving of the Holy Spirit happens when we start to have firm faith in Jesus as our Lord and savior, which typically is before water baptism.
 
-* *baptism-completes-faith:* this passage directly ties water baptism to receiving the Holy Spirit - granted it is given a part of a bigger package of repentance and baptism with no indication of what happens when there is one without the other.
+* *baptism-completes-faith:* this passage directly ties water baptism to receiving the Holy Spirit. It is possible that it is implied that the Holy Spirit is received during the water baptism. ... - during baptism is possible, but so is before or after. This is too vague to be acceptable as example for receiving the Holy Spirit during baptism.
 
-Acts 2:38 is the nearest example in the entire Bible to the Holy Spirit being received during baptism. However, it does not explicitly state this. Inferring that the receiving occurs at the time of baptism is an interpretation that requires reading between the lines. Similarly, identifying it with the time of coming to faith is also an interpretation that necessitates reading between the lines and is equally valid based on this single verse. To determine the correct interpretation, it is necessary to consider the wider context of the Bible.
+Acts 2:38 is the nearest example in the entire Bible to the Holy Spirit being received during baptism. However, it does not explicitly state this. Inferring that the receiving occurs at the time of baptism is an interpretation that requires reading between the lines. Similarly, identifying it with the time of coming to faith is another interpretation matching with this verse based on reading between the lines. Both interpretations are consistent with this single verse. To determine the correct one, it is necessary to consider the wider context of the Bible.
 
 If we paraphrase this verse at a baptism to become
 
@@ -450,9 +450,9 @@ This verse clearly states that the combination of belief and baptism leads to sa
 
 What is not clear is the state of those who believe but are not baptized.
 
-* *faith-alone:* based on other verses, those are saved as well.
+* *faith-alone:* based on other verses, un-baptized believers are saved as well.
 
-* *baptism-completes-faith:* those are the exception. Anyone who truly believes will want to be baptized right away and deepen his faith through the process of baptism. So there is only a very brief window of being fully committed to Christ and not yet being baptized. God will accept people who die in that state into heaven based on their belief. Nonetheless, this exception does not eliminate the rule/command to be baptized at the time of trusting Jesus, nor does it diminish the effect of the baptism deepening the trust and commitment.
+* *baptism-completes-faith:* un-baptized believers are the exception. Anyone who truly believes will want to be baptized right away and deepen his faith through the process of baptism. So there is only a very brief window of being fully committed to Christ and not yet being baptized. God will accept people who die in that state into heaven based on their belief. Nonetheless, this exception does not eliminate the rule/command to be baptized at the time of trusting Jesus, nor does it diminish the effect of the baptism deepening the trust and commitment. ... that sounds nice, but is inconsistent with the principle of baptism being a necessary requirement for salvation. It effectively makes baptism optional. Should that really be the baptism-completes-faith interpretation of this verse?
 
 #### [1 Peter 3:21](https://biblia.com/bible/esv/1 Pet 3.21)
 
@@ -461,9 +461,9 @@ What is not clear is the state of those who believe but are not baptized.
 
     - 1 Peter 3:21 MEV
 
-* *faith-alone:* Here the second part of the verse is to clarify the meaning of the first, namely that the significance of the baptism is not the "washing of the dirt" (the physical action of baptism) but "a response to God from a good conscience", meaning the conscience is already good before the baptisms starts. This implies that it must be after one's sins are forgiven and salvation has been received. Thus baptism cannot be a prerequisite for salvation. See [gotquestions.org/baptism-1Peter-3-21](https://www.gotquestions.org/baptism-1Peter-3-21.html)
+* *faith-alone:* Here the second part of the verse is to clarify the meaning of the first, namely that the significance of the baptism is not the "washing of the dirt" (the physical action of baptism) but "a response to God from a good conscience", meaning the conscience is already good before the baptisms starts. This implies that it must be after one's sins are forgiven and salvation has been received. Thus, baptism cannot be a prerequisite for salvation. See [gotquestions.org/baptism-1Peter-3-21](https://www.gotquestions.org/baptism-1Peter-3-21.html)
 
-* *baptism-completes-faith:* the good conscience is being completed/cleansed during the baptism.
+* *baptism-completes-faith:* baptism saves us now. Clearly salvation is granted durnig the baptism. Therefore, the good conscience is also being given/cleansed during the baptism. ... but "is a response from x" implies that x existed before the response that it produced. So the conscience must have been cleared before the baptism.
 
 An analogy might be that *faith-alone* sees passing the driver's license test as "getting your license" while *baptism-completes-faith* sees it as being handed your driver's license card. The qualification and the receiving of the actual card are part of the process for both, but the emphasis and significance are different.
 
@@ -497,13 +497,13 @@ See [gotquestions.org/baptism-Galatians-3-27](https://www.gotquestions.org/bapti
 
 * *baptism-completes-faith:* baptism is associating Jesus' death and new life with our death and new life. Thus the transition happens during the baptism. Fits naturally with this view.
 
-* *faith-alone:* Obviously being burried with Christ in this passage is not literal but symbolic. And a symbolic association happens after the real event already passed. 
+* *faith-alone:* Obviously, being burried with Christ in this passage is not literal, but symbolic. And a symbolic association happens after the real event already passed.
 
-#### Conclusion
+#### Conclusion of Emphasis on Baptism
 
 While baptism is not a sacrament and necessary/essential means for salvation - reserved solely for faith in Jesus' sacrificial and atoning death - it should be taught as the occasion that completes the process of the conversion to becoming a Christian. It gives the new believer the assurance that his faith is saving faith, that he has been regenerated, washed clear of his sin guilt, is filled with the Holy Spirit and is now a full member of the body of Christ followers.
 
-<sub><sup>Version 0.9; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
+<sub><sup>Version 0.10; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
