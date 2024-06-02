@@ -490,20 +490,42 @@ Alternatively, if baptism is understood as a believer's water baptism, then ever
 Finally, even if it is the water baptism that is providing the being "put on Christ", then it is actually obvious that this is not literal but symbolic. And a symbolic association happens after the real event already passed.
 See [gotquestions.org/baptism-Galatians-3-27](https://www.gotquestions.org/baptism-Galatians-3-27.html)
 
-#### [Romans 6:4-5](https://www.biblegateway.com/passage/?search=Romans%206&version=MEV)
+#### [Romans 6:3-4](https://www.biblegateway.com/passage/?search=Romans%206&version=MEV)
 
 !!!
     3 Do you not know that we who were baptized into Jesus Christ were baptized into His death? 4 Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
-* *baptism-completes-faith:* baptism is associating Jesus' death and new life with our death and new life. Thus the transition happens during the baptism. Fits naturally with this view.
+The difficulty in this passage is to determine what is literal and what is symbolic, and when each part is happening.
 
-* *faith-alone:* Obviously, being burried with Christ in this passage is not literal, but symbolic. And a symbolic association happens after the real event already passed.
+**We who were baptized** is clearly literal, talking about Paul and fellow believers in his audience. And by extension, any Christian today.
+
+**baptized** is clearly literal, as this was and continues to be a physical practice that this passage teaches about.
+
+**into Jesus Christ** is clearly symbolic. We often say "*baptized in the name of Jesus Christ*" to make this even more obvious. Jesus is not there physically when we are baptized, so it is a symbolic connection.
+
+**into His death** refers to Jesus's death which is His concrete physical death, but the *into* is symbolic, as our submersion in water is obviously not causing our physical death, nor that of Christ.
+
+**we were buried** is clearly symbolic, as during our baptism we are physically alive. The similarity is that during a burial the person is fully covered with stuff (dirt) and similarly in baptism we are fully covered with stuff (water).
+
+**with Him** is clearly symbolic, as Jesus is not there physically during our baptism.
+
+**by baptism** is clearly literal, since this passage is about our water baptism.
+
+***into death*** is clearly symbolic, since we are not physically dying during during baptism. But it is not that clear what death symbolically stands for. In the prior verse it was *His death*, so death stood for the physical death of Christ. Here it might have that meaning again, but at most secondary. Primarily it needs to be our death which again cannot be our physical death. It also cannot be our spiritual death, since baptism is about becoming spiritually alive after having been spiritually dead earlier. In similar contexts, we often see the phrase dying to self or to the power of sin. That is most likely the death that is referenced here. However, that still leaves unresolved if this symbolical death to self/sin is a reference to something that has already happened or is happening at that moment during the baptism. This is where the interpretations differ.
+
+**Christ was raised up** is clearly literal, as Christ was indeed raised up.
+
+**we also should walk in newness of life** is clearly symbolic, as we are not walking during the baptism. The connection is that after Jesus was raised up, he was walking again with new life, and during the baptism, we are raised out of the water, and after the baptism, we will be walking again, but now with the confidence that we are having new spiritual life. And this implies that being raised out of the water is what symbolizes receiving new life by the analogy to Christ's resurrection.  However, that still leaves unresolved if our actual receiving of new spiritual life happens during the being raised out of the water or at some other point and here we just have the symbolic connection between the two. This is the second point at which the interpretations differ.
+
+* *baptism-completes-faith:* we actually die to self/sin as we are submerged in water and we actually receive new life when we are raised out of the water. That this passage is loaded with symbolic meaning does not prevent it from describing concrete salvific changes happening during the baptism. This passage fits beautifully with this view.
+
+* *faith-alone:* There is a lot of symbolic meaning in this passage. There are many symbolic associations between the details of the baptism and those of Jesus burial and resurrection, but Jesus's burial and resurrection, that the symbolisms relate to are *not* happening at the moment of the baptism. Then there are two baptism details that symbolically relate to how God saves us. It is possible that those actions of God are happening at the same time as the baptism, but that's not clear from the text and it's quite reasonable to interpret it as having symbolic connection but not temporal identity. If it was intended to be understood as simultaneous, then it would have been easy to add a sentence to clarify that. As it stands, the inherent ambiguity should lead us to resolve the timeline from the wider context of the Bible - and that we saw earlier ties the moment of salvation to the moment of starting to believe.
 
 #### Conclusion of Emphasis on Baptism
 
-While baptism is not a sacrament and necessary/essential means for salvation - reserved solely for faith in Jesus' sacrificial and atoning death - it should be taught as the occasion that completes the process of the conversion to becoming a Christian. It gives the new believer the assurance that his faith is saving faith, that he has been regenerated, washed clear of his sin guilt, is filled with the Holy Spirit and is now a full member of the body of Christ followers.
+While baptism is not a sacrament and necessary/essential means for salvation - reserved solely for faith in Jesus' sacrificial and atoning death - it should be taught as the first step of obedience to Christ and the last but very important step in the process of the conversion to becoming a Christian. It gives the new believer the assurance that his faith is saving faith, that he has been regenerated, washed clear of his sin guilt, is filled with the Holy Spirit and is now a full member of the body of Christ followers.
 
-<sub><sup>Version 0.10; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
+<sub><sup>Version 0.11; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
