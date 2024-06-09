@@ -14,7 +14,7 @@ Baptism is the full submersion in water of a new believer in Christ, accompanied
 
     - Mat 28:19 MEV
 
-As new believers, we commit to making Jesus our Lord and being obedient to His commands. Baptism signifies the public initiation into the community of Christ-followers and, in many cases, the completion of the process of coming to saving faith. When we undergo baptism, it demonstrates that our commitment has matured from the intellectual realm to practical action, guiding our behavior. When part of the conversion process, the act of baptism completes the process of coming to saving faith and gives the new believer the confidence that he is now trusting Jesus as his Lord and Savior which in turn prompts God to provide the gift of salvation by making Jesus’s sacrificial death effective in atoning for their sin guilt. Thus, baptism becomes the occasion through which salvation is gifted by the means of Jesus’s atoning death. While this is the ideal conversion scenario, people can also come to saving faith without baptism, but as soon as they learn that we are commanded to be baptized, they should be baptized.
+As new believers, we commit to making Jesus our Lord and being obedient to His commands. Baptism signifies the public initiation into the community of Christ-followers and, in many cases, the completion of the process of coming to saving faith. When we undergo baptism, it demonstrates that our commitment has matured from the intellectual realm to practical action, guiding our behavior. When part of the conversion process, the act of baptism completes the process of coming to saving faith and gives the new believer the confidence that he is now trusting Jesus as his Lord and Savior and that God has provided the gift of salvation by making Jesus’s sacrificial death effective in atoning for their sin guilt. Thus, baptism becomes the first occasion in which one is assured of the gift of salvation through the means of Jesus’s atoning death. While this is the ideal conversion scenario, people can also come to saving faith without baptism, but as soon as they learn that we are commanded to be baptized, they should be baptized.
 
 In addition, full immersion in water symbolizes and connects us with Christ's death, burial, resurrection, and their atoning benefits for us:
 
@@ -218,6 +218,11 @@ There are two other views that swing the pendulum too far in only one direction:
 
 **Ordinance:** An ordinance is a commanded practice with deep symbolic meaning that is mandatory for all believers. It does not challenge the completeness of Jesus's finished work on the cross, there is no additional grace given to a believer because of the act of baptism or communion or any other ordinance.
 
+![](JustificationAndSanctification.jpg)
+
+This chart depicts the order of events over time, all of which are required for the normal progression to become a mature Christian. Both views agree on all of the parts, but disagree on where along the timeline we associate the act of God to save the repentant sinner. The earlier green time point is after having faith in Christ as Lord and savior, which can only be reached via repentance. This is the Ordinance interpretation. And in blue is the Sacrament interpretation with the time of salvation moved to coincide with baptism.
+Note that everything on the chart is required and for each individual everything is known to God even if it is still in the future. So God does know if our faith is indeed sincere and did or will result in being baptized and did or will result in good works.  Hence, the question we need to address is which of the required parts of the chart need to already have happened at the time of God granting salvation, vs. are known to God will happen as time progresses.
+
 #### Roadmap
 
 We first offer a *statement of the challenges* and then an *assessment of the challenges* to each view, and then go verse by verse to see how those challenges are grounded in the Bible, organized into three groups of verses.
@@ -261,7 +266,7 @@ Matthew 13:31-32
 !!!
     31 He put another parable before them, saying, “The kingdom of heaven is like a grain of mustard seed that a man took and sowed in his field. 32 It is the smallest of all seeds, but when it is grown, it is greater than the herbs and becomes a tree, so that the birds of the air come and nest in its branches.”
 
-Next, let's see how these assesments resonate with scripture.
+Next, let's see how these assessments resonate with scripture.
 
 ### Spirit Baptism vs Water Baptism
 
@@ -402,7 +407,7 @@ This teaches that salvation is not by works, but an undeserved gift from God.
 
 * *faith-alone:* Adding any works, incl. demonstrating obedience in water baptism, would make it no longer faith-alone. Thus water baptism is not a requirement.
 
-* *baptism-completes-faith:* same as the prior passage, baptism is humbling and not something to boast about. Hence it can be considered not-works like the other things that *faith-alone* requires for salvation. ... as in prion passage, acceptable interpretation, but cantrived.
+* *baptism-completes-faith:* same as the prior passage, baptism is humbling and not something to boast about. Hence it can be considered not-works like the other things that *faith-alone* requires for salvation. ... as in prior passage, acceptable interpretation, but contrived.
 
 #### Conclusion of Emphasis on Faith
 
@@ -525,7 +530,7 @@ The difficulty in this passage is to determine what is literal and what is symbo
 
 While baptism is not a sacrament and necessary/essential means for salvation - reserved solely for faith in Jesus' sacrificial and atoning death - it should be taught as the first step of obedience to Christ and the last but very important step in the process of the conversion to becoming a Christian. It gives the new believer the assurance that his faith is saving faith, that he has been regenerated, washed clear of his sin guilt, is filled with the Holy Spirit and is now a full member of the body of Christ followers.
 
-<sub><sup>Version 0.11; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
+<sub><sup>Version 0.12; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
