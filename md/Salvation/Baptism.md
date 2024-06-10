@@ -526,11 +526,24 @@ The difficulty in this passage is to determine what is literal and what is symbo
 
 * *faith-alone:* There is a lot of symbolic meaning in this passage. There are many symbolic associations between the details of the baptism and those of Jesus burial and resurrection, but Jesus's burial and resurrection, that the symbolisms relate to are *not* happening at the moment of the baptism. Then there are two baptism details that symbolically relate to how God saves us. It is possible that those actions of God are happening at the same time as the baptism, but that's not clear from the text and it's quite reasonable to interpret it as having symbolic connection but not temporal identity. If it was intended to be understood as simultaneous, then it would have been easy to add a sentence to clarify that. As it stands, the inherent ambiguity should lead us to resolve the timeline from the wider context of the Bible - and that we saw earlier ties the moment of salvation to the moment of starting to believe.
 
+#### [Romans 6:2-3, 5-7](https://www.biblegateway.com/passage/?search=Romans+6%3A2-7&version=MEV) We have died to sin since we were baptized into Christ's death and crucified with Christ
+!!!
+    2 God forbid! How shall **we who died to sin** live any longer in it? 3 Do you not know that **we who were baptized into Jesus Christ were baptized into His death**? 
+
+Here baptism into Christs death is linked to dying to sin and being freed from it.
+
+!!!
+    5 For if we have been united with Him in the likeness of His death, so shall we also be united with Him in the likeness of His resurrection, 6 knowing this, that **our old man has been crucified with Him**, so that **the body of sin might be destroyed**, and we should no **longer be slaves to sin**. 7 For **the one who has died is freed from sin**.
+
+Here being crucified with Christ is linked to dying to sin and being freed from it.
+
+Romans 6:2-3 and 6:5-7 are part of the same line of thought. Clearly both have symbolic meaning. Why should we think that the first one also teaches that during the baptim our sins are literaly washed away, when right after it talkes about crucified with Christ which was not during our baptism and that also washes away our sins? It does not make sense that both, baptised into Christ and crucified with Christ are the moment at which we are saved as they are different moments in time. Pickin one as symbolic and literal and the other as only sybolic is arbitrary. However, it is reasonable to see these two as both being symbolic references to the one single other event at which we were saved. And each of these symbolic references highlights a differnt aspect of our actual being saved event. And when that event was we need to get from the wider biblical context, but at least it's clear it needs to be prior to baptism.
+
 #### Conclusion of Emphasis on Baptism
 
 While baptism is not a sacrament and necessary/essential means for salvation - reserved solely for faith in Jesus' sacrificial and atoning death - it should be taught as the first step of obedience to Christ and the last but very important step in the process of the conversion to becoming a Christian. It gives the new believer the assurance that his faith is saving faith, that he has been regenerated, washed clear of his sin guilt, is filled with the Holy Spirit and is now a full member of the body of Christ followers.
 
-<sub><sup>Version 0.12; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
+<sub><sup>Version 0.13; [Latest is here](https://ingmarbitter.github.io/defenders/Salvation/Baptism.md.html)<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
