@@ -95,7 +95,6 @@ E.g. Calvinism, Reformed
 [^1] insists that compatibilism is implied by God being sovereign
 
 ---
-
 ## Omnicience (All-Knowing)
 
 | Natural Knowledge   | Middle Knowledge                   | Free Knowledge                     |
@@ -121,9 +120,9 @@ E.g. Calvinism, Reformed
 
 * **God knows the future** 
 * Including man's decisions
-* Foreknowing an event/decision is ***not*** causing it
+* Foreknowing an event/decision is ***not*** causing it[^1]
 
->>> I know in five minutes the weather will be similar to now, but knowing that future event does not make me the cause of it
+[^1] I know in five minutes the weather will be similar to now, but knowing that future event does not make me the cause of it
 
 ---
 ## Providence
@@ -162,7 +161,7 @@ E.g. Calvinism, Reformed
 
 ---
 ## TULIP & ROSES
-| Calvinism                    | Arminianism & Molinism   |
+| Calvinism ![](Tulip.jpg style="height: 2rem") | Arminianism & Molinism ![](Roses.png style="height: 2rem") |
 | ---------------------------- | ------------------------ |
 | (U)nconditional Election     | (S)overeign Election     |
 | (T)otal Depravity            | (R)adical Depravity      |
@@ -170,31 +169,29 @@ E.g. Calvinism, Reformed
 | (L)imited Atonement          | (S)ufficient Atonement   |
 | (P)reservation of the Saints | (E)nduring of the Saints |
 
-
 ---
 ## Election (Unconditional vs Sovereign)
 
-God elected those to eternal life ...
+<sub><sup>God elected to eternal life those ...<sub><sup>
 
 | Calvinism                      | Ariminianism                          | Molinism                                       |
 | ------------------------------ | ------------------------------------- | ---------------------------------------------- |
-| ... that He chose individually | ... that will believe corporately[^2] | ... that will believe corporate+individual[^3] |
+| ... that He <sub><sup> chose </sup></sub> individually | ... that will believe corporately[^2] | ... that will believe corporate+individual[^3] |
 | God chooses belief[^1]         | man chooses belief                    | man choses belief                              |
 
-![](PickOne.png style="float:right; width: 2rem")
+![](PickOne.png style="float:right; width: 3rem")
 [^1] man cannot act otherwise.  [^2] God cannot elect individuals.
-[^3] God chooses the best combination of circumstances in which He helps individuals to believe
+[^3] <sub><sup>God chooses the best combination of circumstances in which He helps individuals to believe</sub></sup>
+
 ---
-
 ## Original Sin
-
 We inherit from Adam ...
 
 | Calvinism       | Ariminianism   | Molinism       |
 | --------------- | -------------- | -------------- |
 | Mortality [^1]  | Mortality[^1]  | Mortality[^1]  |
 | Sin nature [^2] | Sin nature[^2] | Sin nature[^2] |
-| Sin guilt [^3]  |                |                |
+| Sin guilt [^3]![](Guilt.jpg style="height: 2rem")  |                |                |
 
 [^1] We will surely die (grow old and die).
 [^2] Temptations are real.
@@ -203,22 +200,22 @@ We inherit from Adam ...
 >>> How can infants claim Jesus's sacrifice for them if they were too young to understand right and wrong, to believe and trust in Jesus?
 
 ---
-
 ## Calling
 
 | Calvinism                             | Ariminianism                        | Molinism                            |
 | ------------------------------------- | ----------------------------------- | ----------------------------------- |
-| General Call + irresistible grace[^1] | General Call + pervenient grace[^2] | General Call + pervenient grace[^2] |
+| General Call <br>+<br> irresistible <br>grace[^1] | General Call <br>+<br> pervenient <br>grace[^2] | General Call <br>+<br> pervenient <br>grace[^2] |
 
 [^1] Command to all. Elect: made to accept. Others: Sin-guilt for rejecting.
+
 [^2] Call to all. Pervenient grace for all, makes accepting possible.
+<br><br>
 
 >>> 1 Seems unfair that the non-elect are prevented from accepting but are held accountable for not accepting
 
 >>> 2 Like a prodical son soon after leaving. He was lost to the dad, the relationship broken and no desire by the son to restore the relationship. Pervenient grace makes reconsiliation an option to be considered.
 
 ---
-
 ## Gospel Response
 
 ![](OriginalSin.jpg style="float:right; width: 7rem")
@@ -235,11 +232,10 @@ We inherit from Adam ...
 >>> choosing faith is what communicates to God that we are accepting His offer to re-establish the relationship
 
 ---
-
 ## Regeneration + Justification
 
 Regeneration: God gives us a new heart / life. <br>
-Justification: God flipps our moral legal status from guilty to righteous.
+Justification: God flipps our moral legal status from guilty to righteous.<br>
 Both are simultaneous, part of the same package deal.
 
 | Calvinism                         | Ariminianism | Molinism |
@@ -252,22 +248,26 @@ Both are simultaneous, part of the same package deal.
 [^2] faith -> regeneration 
 
 ---
-
 ## Sanctification
 
 ![](Sanctification.jpg style="float:right; width: 13rem")
 All three:
-Sanctification: As we mature as Christians we get to know Jesus better and become better in following His guidance for our life.
+  
+Sanctification: 
+
+* Mature as Christians 
+* -> Get to know Jesus better 
+* -> Improve in following His guidance for our life.
 
 ---
-
 ## Preservation vs Perseverence
 
 | Calvinism               | Ariminianism        | Molinism                                        |
 | ----------------------- | ------------------- | ----------------------------------------------- |
-| God preserves the elect | The elect persevere | The elect persevere as God supports individuals |
+| God *preserves* the elect | The elect *persevere* | The elect *persevere* as God supports individuals |
 | individual[^1]          | corporate[^2]       | corporate + individual[^3]                      |
 
+![](Persevere.jpg style="float:right; height: 3rem")
 [^1] God ensures each elect believer will have eternal life. <br>
 [^2] God ensures the group of believing people will have eternal life. But individuals can disavow the group and throw away eternal life.<br>
 [^3] as 2 and God uses Bible warnings + circumstances to help individuals
