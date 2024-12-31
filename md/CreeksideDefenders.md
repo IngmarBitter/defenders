@@ -4,7 +4,7 @@
 
 
 !!!
-   ”Always be ready to give a defence to anyone who asks you for a reason for the hope that is in you. 
+   ”Always be ready to give a defense to anyone who asks you for a reason for the hope that is in you. 
    However, do this with gentleness and respect” 1 Peter 3:15 HCSB
 
 Three Class Purposes
@@ -34,7 +34,7 @@ Who should attend?
 * Non-Christians <small>To learn how Christian belief is beautiful, rational and freeing.</small>
 * New Christians <small>To become more confident, excited and connected to God.</small>
 * Teens & college <small>To know why what we believe is true, and not what peers and teachers claim.</small>
-* Parents <small>To learn how to answer tough faith questions form their children.</small>
+* Parents <small>To learn how to answer tough faith questions from their children.</small>
 * Christian mentors <small>To become more confident in Christian doctrine.</small>
 * Christian leaders <small>To be able to discern false teaching.</small>
 
@@ -66,7 +66,7 @@ Topics
    1. Creation out of nothing
    2. 6 Days and/or not (6 24h days, Day Age Theory, It's just a moral story)
    3. Physics <small>Big Bang & Expansion of the Universe, creation of stars, heavy elements, Cosmological constants and configurations</small>
-   4. Chemistry <small>First living cell form inorganic matter</small>
+   4. Chemistry <small>First living cell from inorganic matter</small>
    5. Biology <small>Evolutionism & Creation, Irreducible Complex Systems, Man/Ape differences, variations between humans, Consciousness, morality</small>
 10. Doctrine of Man <small>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?</small>
 11. Doctrine of Salvation 
