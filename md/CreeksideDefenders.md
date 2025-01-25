@@ -20,10 +20,10 @@ Class Content
 ================
 
 Christian Doctrine
-: what the church believes and teaches
+: What the church believes and teaches
 
 Apologetics
-: to provide rational reasons for the truth of Christianity’s claims
+: To provide rational reasons for the truth of Christianity’s claims
 
 Discussion
 : For each idea covered, we will review common opinions and then discuss on our own in the group
@@ -31,18 +31,18 @@ Discussion
 Who should attend?
 ==================
 
-* Non-Christians <sub><sup>To learn how Christian belief is beautiful, rational and freeing.<sub><sup>
-* New Christians <sub><sup>To become more confident, excited and connected to God.<sub><sup>
-* Teens & college <sub><sup>To know why what we believe is true, and not what peers and teachers claim.<sub><sup>
-* Parents <sub><sup>To learn how to answer tough faith questions form their children.<sub><sup>
-* Christian mentors <sub><sup>To become more confident in Christian doctrine.<sub><sup>
-* Christian leaders <sub><sup>To be able to discern false teaching.<sub><sup>
+* Non-Christians <small>To learn how Christian belief is beautiful, rational and freeing.</small>
+* New Christians <small>To become more confident, excited and connected to God.</small>
+* Teens & college <small>To know why what we believe is true, and not what peers and teachers claim.</small>
+* Parents <small>To learn how to answer tough faith questions form their children.</small>
+* Christian mentors <small>To become more confident in Christian doctrine.</small>
+* Christian leaders <small>To be able to discern false teaching.</small>
 
 Topics
 ======
 
-1. [Christian Testimony](Testimony/Testimony.slides.html) <sub><sup>How to make it an effective evangelism tool<sub><sup>
-2. Foundations of Christian Doctrine & Apologetics <sub><sup>What it is, Why to study it<sub><sup>
+1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
+2. Foundations of Christian Doctrine & Apologetics <small>What it is, Why to study it</small>
 3. Doctrine of Revelation
    1.  Authority
    2.  General & Special Revelation
@@ -58,24 +58,24 @@ Topics
    2. [Teleological Argument from Fine-Tuning](FineTuning/FineTuning.slides.html)
    3. [Moral Argument](MoralArgument/MoralArgument.slides.html) from Absolute Moral Values
    4. other arguments (Leibnitz argument from Contingency, Ontological), Properly Basic Belief
-5. Problem of Evil/Suffering/Hell <sub><sup>Why does God not prevent all three? Christianity has the best answer, [gives comfort](Evil.emotion/Evil.emotion.slides.html)<sub><sup>
-6. Doctrine of the Trinity <sub><sup>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model<sub><sup>
-7. Doctrine of Christ <sub><sup>Deity and Humanity of Christ, History of Explanations, Possible Model<sub><sup>
-8. Doctrine of the Holy Spirit <sub><sup>Deity, Personhood, Role in Salvation, Ministry to believers<sub><sup>
+5. Problem of Evil/Suffering/Hell <small>Why does God not prevent all three? Christianity has the best answer, [gives comfort](Evil.emotion/Evil.emotion.slides.html)</small>
+6. Doctrine of the Trinity <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
+7. Doctrine of Christ <small>Deity and Humanity of Christ, History of Explanations, Possible Model</small>
+8. Doctrine of the Holy Spirit <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
 9. Doctrine of Creation vs Evolutionism
    1. Creation out of nothing
    2. 6 Days and/or not (6 24h days, Day Age Theory, It's just a moral story)
-   3. Physics <sub><sup>Big Bang & Expansion of the Universe, creation of stars, heavy elements, Cosmological constants and configurations<sub><sup>
-   4. Chemistry <sub><sup>First living cell form inorganic matter<sub><sup>
-   5. Biology <sub><sup>Evolutionism & Creation, Irreducible Complex Systems, Man/Ape differences, variations between humans, Consciousness, morality<sub><sup>
-10. Doctrine of Man <sub><sup>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?<sub><sup>
+   3. Physics <small>Big Bang & Expansion of the Universe, creation of stars, heavy elements, Cosmological constants and configurations</small>
+   4. Chemistry <small>First living cell form inorganic matter</small>
+   5. Biology <small>Evolutionism & Creation, Irreducible Complex Systems, Man/Ape differences, variations between humans, Consciousness, morality</small>
+10. Doctrine of Man <small>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?</small>
 11. Doctrine of Salvation 
    1.  How Jesus’s death can be a substitute payment for our own guilt penalty
    2.  Baptism
    3.  Only Jesus leads to heaven
-   4.  Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <sub><sup>How to harmonize God's sovereignty and our free will.<sub><sup>
+   4.  Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
    5.  Can we throw away our salvation?
-12. Doctrine of the Church <sub><sup>The role of believers as the body of Christ<sub><sup>
+12. Doctrine of the Church <small>The role of believers as the body of Christ</small>
 13. Doctrine of the Last Things 
    1.   Jesus Second Coming
    2.   [Resurrection of the Saints, the New Heaven and Earth](LastThings/AfterDeath.html)
@@ -85,17 +85,17 @@ Topics
    3.  Leadership & women
    4.  Divorce and remarriage
    5.  Alcohol
-15. God’s will for me <sub><sup>How to make decisions that God approves and make Him happy<sub><sup>
-16. Tactics <sub><sup>How to share our believes in a gentle and respectful way @Tactics book<sub><sup>
+15. God’s will for me <small>How to make decisions that God approves and make Him happy</small>
+16. Tactics <small>How to share our believes in a gentle and respectful way @Tactics book</small>
 17. Social Issues
-   1.  Abortion <sub><sup>Wrong according to the Bible and secularly<sub><sup>
+   1.  Abortion <small>Wrong according to the Bible and secularly</small>
    2.  SexVsGender
-   3.  Intolerance, Bigot, Homophobia, Transphobia <sub><sup>What it is, How to respond to being labelled as such<sub><sup>
+   3.  Intolerance, Bigot, Homophobia, Transphobia <small>What it is, How to respond to being labelled as such</small>
    4.  Islamophobia
-18. False religions <sub><sup>Islam, Roman Catholic, LDS, Jehovah Witnesses Key believes, counter apologetics<sub><sup>
-19. 12 Rules for Life, Jesus’ edition <sub><sup>How Jesus would improve upon Jordan Peterson’s book<sub><sup>
-20. [5 Love Languages](5LoveLanguages/5LoveLanguages.slides.html) <sub><sup>Great relationship advice from a Christian councillor<sub><sup>
-21. Bonus if time permits: Constructive Politics <sub><sup>How do 1) have empathy and gain understanding of other views and 2) make our point lovingly to 3) find an acceptable solution.<sub><sup>
+18. False religions <small>Islam, Roman Catholic, LDS, Jehovah Witnesses Key believes, counter apologetics</small>
+19. 12 Rules for Life, Jesus’ edition <small>How Jesus would improve upon Jordan Peterson’s book</small>
+20. [5 Love Languages](5LoveLanguages/5LoveLanguages.slides.html) <small>Great relationship advice from a Christian councillor</small>
+21. Bonus if time permits: Constructive Politics <small>How do 1) have empathy and gain understanding of other views and 2) make our point lovingly to 3) find an acceptable solution.</small>
 Resources
 =========
 - http://www.reasonablefaith.org Christian Doctrine and Apologetics in general
@@ -107,7 +107,7 @@ Resources
 - https://www.logos.com/ best PC software for Bible study, but $$$
 
 
-<sub><sup>Version 0.1<sub><sup>
+<small>Version 1.0</small>
  
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
