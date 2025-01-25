@@ -4,7 +4,7 @@
 
 Before Jesus
 ============
-I grew up in an environment that presented modern science as capable of answering all of life's important questions. Through high school and university, where I studied physics, chemistry, and computer science leading to a PhD degree, I was presented with _Darwinian Evolution_ and _The Big Bang_ as universally accepted facts, leaving me with no need for a God to explain this world. However, I could imagine God in some sort of fourth dimension inaccessible to scientific methods. I could see the benefit Christians enjoyed through having belief in God as a source of strength and inner peace. Nevertheless, someone just telling me He exists was not sufficient for me to believe as it never was accompanied by any satisfying evidence. So I asked God that, if He really exists, He would grant me a personal miracle making it obvious to me that He exists. As nothing obvious happened, I went on with my life ignoring the topic.
+I grew up in an environment that presented modern science as capable of answering all of life's important questions. Through high school and university, where I studied physics, chemistry, and computer science leading to a PhD degree, I was presented with _Darwinian Evolution_ and _The Big Bang_ as universally accepted facts, leaving me with no need for a God to explain this world. However, I could imagine God in some sort of fourth dimension inaccessible to scientific methods. I could see the benefit Christians enjoyed through having belief in God as a source of strength and inner peace. Nevertheless, someone just telling me He exists was not sufficient for me to believe, as it never was accompanied by any satisfying evidence. So I asked God that, if He really exists, He would grant me a personal miracle making it obvious to me that He exists. As nothing obvious happened, I went on with my life ignoring the topic.
 
 Getting to know Jesus
 =====================
@@ -29,7 +29,7 @@ And now I am helping at Creekside Christian Church to give fellow Christians the
 Ingmar Bitter, PhD
 A child of God
 
-<sub><sup>Version 2024.12.31<sub><sup>
+<sub><sup>Version 2024.01.24<sub><sup>
  
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>

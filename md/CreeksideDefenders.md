@@ -20,10 +20,10 @@ Class Content
 ================
 
 Christian Doctrine
-: what the church believes and teaches
+: What the church believes and teaches
 
 Apologetics
-: to provide rational reasons for the truth of Christianity’s claims
+: To provide rational reasons for the truth of Christianity’s claims
 
 Discussion
 : For each idea covered, we will review common opinions and then discuss on our own in the group
@@ -41,6 +41,8 @@ Who should attend?
 Topics
 ======
 
+1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
+2. Foundations of Christian Doctrine & Apologetics <small>What it is, Why to study it</small>
 1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
 2. Foundations of Christian Doctrine & Apologetics <small>What it is, Why to study it</small>
 3. Doctrine of Revelation
@@ -62,6 +64,10 @@ Topics
 6. Doctrine of the Trinity <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
 7. Doctrine of Christ <small>Deity and Humanity of Christ, History of Explanations, Possible Model</small>
 8. Doctrine of the Holy Spirit <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
+5. Problem of Evil/Suffering/Hell <small>Why does God not prevent all three? Christianity has the best answer, [gives comfort](Evil.emotion/Evil.emotion.slides.html)</small>
+6. Doctrine of the Trinity <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
+7. Doctrine of Christ <small>Deity and Humanity of Christ, History of Explanations, Possible Model</small>
+8. Doctrine of the Holy Spirit <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
 9. Doctrine of Creation vs Evolutionism
    1. Creation out of nothing
    2. 6 Days and/or not (6 24h days, Day Age Theory, It's just a moral story)
@@ -74,7 +80,9 @@ Topics
    2.  Baptism
    3.  Only Jesus leads to heaven
    4.  Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
+   4.  Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
    5.  Can we throw away our salvation?
+12. Doctrine of the Church <small>The role of believers as the body of Christ</small>
 12. Doctrine of the Church <small>The role of believers as the body of Christ</small>
 13. Doctrine of the Last Things 
    1.   Jesus Second Coming
@@ -87,11 +95,17 @@ Topics
    5.  Alcohol
 15. God’s will for me <small>How to make decisions that God approves and make Him happy</small>
 16. Tactics <small>How to share our believes in a gentle and respectful way @Tactics book</small>
+15. God’s will for me <small>How to make decisions that God approves and make Him happy</small>
+16. Tactics <small>How to share our believes in a gentle and respectful way @Tactics book</small>
 17. Social Issues
    1.  Abortion <small>Wrong according to the Bible and secularly</small>
    2.  Sex vs Gender
    3.  Intolerance, Bigot, Homophobia, Transphobia <small>What it is, How to respond to being labelled as such</small>
    4.  Islamophobia
+18. False religions <small>Islam, Roman Catholic, LDS, Jehovah Witnesses Key believes, counter apologetics</small>
+19. 12 Rules for Life, Jesus’ edition <small>How Jesus would improve upon Jordan Peterson’s book</small>
+20. [5 Love Languages](5LoveLanguages/5LoveLanguages.slides.html) <small>Great relationship advice from a Christian councillor</small>
+21. Bonus if time permits: Constructive Politics <small>How do 1) have empathy and gain understanding of other views and 2) make our point lovingly to 3) find an acceptable solution.</small>
 18. False religions <small>Islam, Roman Catholic, LDS, Jehovah Witnesses Key believes, counter apologetics</small>
 19. 12 Rules for Life, Jesus’ edition <small>How Jesus would improve upon Jordan Peterson’s book</small>
 20. [5 Love Languages](5LoveLanguages/5LoveLanguages.slides.html) <small>Great relationship advice from a Christian councillor</small>
@@ -107,7 +121,7 @@ Resources
 - https://www.logos.com/ best PC software for Bible study, but $$$
 
 
-<small>Version 2024.12.31<small>
+<small>Version 2024.01.24<small>
  
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
