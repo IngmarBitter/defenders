@@ -2,7 +2,7 @@
 
 
 **Climate Change**
-   Change of climate or of the approved percepiton of it? 
+   Change of climate or of the approved perception of it? 
 
 <small><em><span class="current-date"></span></em></small><br>
 Ingmar Bitter, PhD
@@ -20,7 +20,7 @@ Ingmar Bitter, PhD
 * From [Creation.com/climate-change](https://creation.com/climate-change)
   * By Don Batton
   * As of 2024.07.24
-* A biblical and scienfitic analysis
+* A biblical and scientific analysis
   * From 90 scientific reference publications
 
 ![](ReferencesFew.jpg style="float: center; width: 20rem")
@@ -73,7 +73,7 @@ Ingmar Bitter, PhD
 
 ## CO2 Elimination by Country
 
-* USA, Canada and EU have decreasing CO2 emmissions
+* USA, Canada and EU have decreasing CO2 emissions
 * China produces more CO2 than USA, Canada and EU combined
   * China has refused to commit to CO2 reduction before 2030
   * China's main power source is coal
@@ -85,7 +85,7 @@ Ingmar Bitter, PhD
 
 ## CO2 Elimination by Technology
 
-* Wood and dunk are the worst power sources
+* Wood and dung are the worst power sources
 * Coal is second worst, main source in China
 * Wind and solar are costly to produce and intermittent
 * Nuclear is the best by all measures

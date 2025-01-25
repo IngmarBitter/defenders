@@ -1,0 +1,137 @@
+<meta charset="utf-8" lang="en">
+
+
+**Foundations of Christian Doctrine**
+   Start Here!
+
+<small><em><span class="current-date"></span></em></small><br>
+Ingmar Bitter, PhD
+
+![](foundationPics/doctrine.jpg style="float: right; width: 9rem")
+
+---
+
+## Christian Doctrine Definition
+
+![](foundationPics/doctrine.jpg style="float: right; width: 9rem")
+
+* Is what the church believes and teaches
+* Is the backbone of Christian belief, encompassing essential teachings about God, salvation, and human existence
+* Includes the trinity
+  * The trinity is a concept only indirectly in the Bible
+  * => Doctrine is what the **church** (not Bible) teaches
+  * => Details can differ between denominations / cults
+  * => Details can be true/false. Even though the Bible is only true
+
+---
+
+## Importance of Doctrine - Consistency
+
+![](foundationPics/JesusInWaves.jpg style="float: right; width: 9rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    13 until we all come into the unity of the faith and of the knowledge of the Son of God, into a complete man, to the measure of the stature of the fullness of Christ, 14 so we may no longer be children, tossed here and there by waves and carried about with every wind of doctrine by the trickery of men, by craftiness with deceitful scheming. 15 But, speaking the truth in love, we may grow up in all things into Him, who is the head, Christ Himself,
+</p>
+<p style="text-align: right;">
+    <em>Ephesians 4:13-15</em>
+</p>
+
+* Call to grow in doctrinal maturity
+* To not be swayed by false doctrine
+
+---
+
+## Importance of Doctrine - Truth 
+
+![](foundationPics/ToJesusInWaves.jpg style="float: right; width: 9rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    6 I marvel that you are turning away so soon from Him who called you in the grace of Christ to a different gospel, 7 which is not a gospel. But there are some who trouble you and would pervert the gospel of Christ. 8 Although if we or an angel from heaven preach any other gospel to you than the one we have preached to you, let him be accursed. 9 As we said before, so I say now again: If anyone preaches any other gospel to you than the one you have received, let him be accursed.
+</p>
+<p style="text-align: right;">
+    <em>Galatians 1:6-9</em>
+</p>
+
+* Teach false doctrine => go to hell
+* Don't follow false doctrine teaches, even if they are famous
+* Test what I'm teaching vs the Bible
+
+---
+
+## Importance of Doctrine - Guidance
+
+![](foundationPics/DoctrineDiscussion.jpg style="float: right; width: 9rem")
+
+* Every Christian is a theologian because of belief in God
+  * Are you a good or a poor theologian?
+* Doctrine not only informs what Christians believe but also how they live, providing a moral and ethical guide
+* It serves as a unifying force across different Christian denominations, despite varied practices
+
+---
+
+## Right living presupposes right believes about God
+
+![](foundationPics/bridgeToPeople.jpg style="float: right; width: 9rem")
+
+* Ephesians
+  * [doctrine 1-3] **Therefore** [practical living 4ff]
+* Philipians
+  * [doctrine 1-3] **Therefore** [pracitcal living 4ff]
+* Our actions are motivated by our believes
+* Only if we are believe the proper truths can we act live right
+
+---
+
+## Importance of Doctrine - Consistency
+
+![](foundationPics/JesusInWaves.jpg style="float: right; width: 9rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    37 Jesus said to him, “ ‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’[a] 38 This is the first and great commandment.
+</p>
+<p style="text-align: right;">
+    <em>Ephesians 4:13-15</em>
+</p>
+
+* Call to grow in doctrinal maturity
+* To not be swayed by false doctrine
+
+---
+
+## Conclusions
+
+![](foundationPics/doctrine.jpg style="float: right; width: 9rem")
+
+* ...
+
+<!-- Markdeep slides stuff -->
+<script>
+    markdeepSlidesOptions = {
+        aspectRatio: 16 / 9,
+        theme: '../markdeep-slides/themes/dark.css',
+        fontSize: 28,
+        diagramZoom: 1.0,
+        totalSlideNumber: false,
+        progressBar: true,
+        breakOnHeadings: false,
+        slideChangeHook: (oldSlide, newSlide) => {},
+        modeChangeHook: (newMode) => {}
+    };
+</script>
+<link rel="stylesheet" href="../markdeep-slides/lib/markdeep-relative-sizes/1.11/relativize.css">
+<link rel="stylesheet" href="../markdeep-slides/markdeep-slides.css">
+<script src="../markdeep-slides/markdeep-slides.js"></script>
+
+<!-- Markdeep stuff -->
+<script>
+    markdeepOptions = {
+        tocStyle: 'none',
+        detectMath: false,
+        onLoad: function() {
+            initSlides();
+        }
+    };
+</script>
+<style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style>
+<script src="../markdeep-slides/lib/markdeep/1.11/markdeep.min.js" charset="utf-8"></script>
+<script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
