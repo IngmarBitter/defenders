@@ -42,8 +42,6 @@ Topics
 ======
 
 1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
-2. Foundations of Christian Doctrine & Apologetics <small>What it is, Why to study it</small>
-1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
 2. [Foundations of Christian Doctrine & Apologetics](RevelationAndFoundations/Foundations.slides.html) <small>What it is, Why to study it</small>
 3. Doctrine of Revelation
    1.  Authority
@@ -79,7 +77,6 @@ Topics
    1.  How Jesus’s death can be a substitute payment for our own guilt penalty
    2.  Baptism
    3.  Only Jesus leads to heaven
-   4.  Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
    4.  Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
    5.  Can we throw away our salvation?
 12. Doctrine of the Church <small>The role of believers as the body of Christ</small>
@@ -120,8 +117,14 @@ Resources
 - http://biblegateway.com   http://biblos.com   http://biblehub.com   http://www.blueletterbible.org
 - https://www.logos.com/ best PC software for Bible study, but $$$
 
+[ingmarbitter.github.io/defenders/CreeksideDefenders.md.html](https://ingmarbitter.github.io/defenders/CreeksideDefenders.md.html)
 
-<small>Version 2024.01.31<small>
+[creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
+
+![](RevelationAndFoundations/foundationPics/CreeksideDefendersSignUp.jpg style="float: right; width: 9rem")
+
+
+<small>Version 2024.02.01<small>
  
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
