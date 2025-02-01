@@ -44,7 +44,7 @@ Topics
 1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
 2. Foundations of Christian Doctrine & Apologetics <small>What it is, Why to study it</small>
 1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
-2. Foundations of Christian Doctrine & Apologetics <small>What it is, Why to study it</small>
+2. [Foundations of Christian Doctrine & Apologetics](RevelationAndFoundations/Foundations.slides.html) <small>What it is, Why to study it</small>
 3. Doctrine of Revelation
    1.  Authority
    2.  General & Special Revelation
@@ -121,7 +121,7 @@ Resources
 - https://www.logos.com/ best PC software for Bible study, but $$$
 
 
-<small>Version 2024.01.24<small>
+<small>Version 2024.01.31<small>
  
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
