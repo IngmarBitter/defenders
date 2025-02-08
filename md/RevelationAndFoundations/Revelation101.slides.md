@@ -366,8 +366,8 @@ Ingmar Bitter, PhD
 [ingmarbitter.github.io/defenders/RevelationAndFoundations/Foundations.slides.html
 ](https://ingmarbitter.github.io/defenders/RevelationAndFoundations/Foundations.slides.html)
 
-[ingmarbitter.github.io/defenders/CreeksideDefenders.md.html
-](../CreeksideDefenders.md.html)
+[ingmarbitter.github.io/defenders/CreeksideDefenders.html
+](../CreeksideDefenders.html)
 
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 
