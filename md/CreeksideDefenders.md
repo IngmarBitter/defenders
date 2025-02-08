@@ -44,10 +44,9 @@ Topics
 1. [Christian Testimony](Testimony/Testimony.slides.html) <small>How to make it an effective evangelism tool</small>
 2. [Foundations of Christian Doctrine & Apologetics](RevelationAndFoundations/Foundations.slides.html) <small>What it is, Why to study it</small>
 3. Doctrine of Revelation
-   1.  Authority
-   2.  General & Special Revelation
-   3.  Biblical Inerrancy
-   4.  Bible Canonicity
+   1.  [Revelation: definition, types, function](RevelationAndFoundations/Revelation101.slides.html)
+   2.  Biblical Inerrancy
+   3.  Bible Canonicity
 4. Doctrine of God 
    1. God is knowable
    2. Self-Existing & Eternal & Immaterial
@@ -124,7 +123,7 @@ Resources
 ![](RevelationAndFoundations/foundationPics/CreeksideDefendersSignUp.jpg style="float: right; width: 9rem")
 
 
-<small>Version 2024.02.01<small>
+<small>Version 2024.02.08<small>
  
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>

@@ -17,8 +17,8 @@ Ingmar Bitter, PhD
 
 * Is what the church believes and teaches
 * Is the backbone of Christian belief, encompassing essential teachings about God, salvation, and human existence
-* Includes the trinity
-  * The trinity is a concept only indirectly in the Bible
+* Includes the Trinity
+  * The Trinity is a concept only indirectly in the Bible
   * => Doctrine is what the **church** (not Bible) teaches
   * => Details can differ between denominations / cults
   * => Details can be true/false. Even though the Bible is only true
@@ -32,9 +32,7 @@ Ingmar Bitter, PhD
 <p style="font-family: 'Gabriola', serif;">
     13 until we all come into the unity of the faith and of the knowledge of the Son of God, into a complete man, to the measure of the stature of the fullness of Christ, 14 so we may no longer be children, tossed here and there by waves and carried about with every wind of doctrine by the trickery of men, by craftiness with deceitful scheming. 15 But, speaking the truth in love, we may grow up in all things into Him, who is the head, Christ Himself,
 </p>
-<p style="text-align: right; margin-top: -1em;">
-    <em>Ephesians 4:13-15</em>
-</p>
+<p style="text-align: right; margin-top: -1em;"><em>Ephesians 4:13-15</em></p>
 
 * Call to grow in doctrinal maturity
 * To not be swayed by false doctrine
@@ -47,10 +45,10 @@ Ingmar Bitter, PhD
 
 <p style="font-family: 'Gabriola', serif;">
     6 I marvel that you are turning away so soon from Him who called you in the grace of Christ to a different gospel, 7 which is not a gospel. But there are some who trouble you and would pervert the gospel of Christ. 8 Although if we or an angel from heaven preach any other gospel to you than the one we have preached to you, let him be accursed. 9 As we said before, so I say now again: If anyone preaches any other gospel to you than the one you have received, let him be accursed.
-</p><p style="text-align: right; margin-top: -2em;">    <em>Galatians 1:6-9</em></p>
+</p><p style="text-align: right; margin-top: -2em;"><em>Galatians 1:6-9</em></p>
 
 * Teach false doctrine => go to hell
-* Don't follow false doctrine teaches, even if they are famous
+* Don't follow false doctrine teachers, even if they are famous
 * Test what I'm teaching vs the Bible
 
 ---
@@ -66,16 +64,16 @@ Ingmar Bitter, PhD
 
 ---
 
-## Right living presupposes right believes about God
+## Right living presupposes right beliefs about God
 
 ![](foundationPics/bridgeToPeople.jpg style="float: right; width: 9rem")
 
 * Ephesians
   * [doctrine 1-3] **Therefore** [practical living 4ff]
-* Philipians
-  * [doctrine 1-3] **Therefore** [pracitcal living 4ff]
-* Our actions are motivated by our believes
-* Only if we are believe the proper truths can we act live right
+* Philippians
+  * [doctrine 1-3] **Therefore** [practical living 4ff]
+* Our actions are motivated by our beliefs
+* Only if we believe the proper truths can we act right
 
 ---
 
@@ -86,7 +84,7 @@ Ingmar Bitter, PhD
 <p style="font-family: 'Gabriola', serif;">
     37 Jesus said to him, “ ‘You shall love the Lord your God with all your heart, and with all your soul, and **with all your mind**.’[a] 38 This is the first and greatest commandment.
 </p>
-<p style="text-align: right; margin-top: -1em;">    <em>Ephesians 4:13-15</em></p>
+<p style="text-align: right; margin-top: -1em;"><em>Matthew 22:37-38</em></p>
 
 * Use our mind to read, reflect and discuss the Bible
 * Try to understand what it teaches directly and indirectly
@@ -101,11 +99,11 @@ Ingmar Bitter, PhD
 <p style="font-family: 'Gabriola', serif;">
     9 Anyone who does not remain in Christ’s teaching but goes beyond it, does not have God. The one who remains in that teaching, this one has both the Father and the Son. 10 If anyone comes to you and does not bring this teaching, do not receive him into your home, and don’t say, “Welcome,” to him;
 </p>
-<p style="text-align: right; margin-top: -1em;">    <em>2 John 9-10</em></p>
+<p style="text-align: right; margin-top: -1em;"><em>2 John 9-10</em></p>
 
 * We can't just love and follow our idea of Christ
 * We must know what the Bible teaches about Christ
-* Wrong believes about Christ means no salvation
+* Wrong beliefs about Christ means no salvation
 
 ---
 
@@ -118,7 +116,7 @@ Ingmar Bitter, PhD
 * To study doctrine is to love God with our mind
 * Christ must be known from Bible truths
   
-<p style="text-align: right; margin-top: 1em;">    <em>Thoughts?</em></p>
+<p style="text-align: right; margin-top: 1em;"><em>Thoughts?</em></p>
 
 ---
 
@@ -158,7 +156,7 @@ Ingmar Bitter, PhD
 
 ![](foundationPics/ScienceBooks.jpg style="float: right; width: 9rem")
 
-* Western culture via the "enlightement" has lost basic belief in God, miracles, and the Bible as true.
+* Western culture via the "Enlightenment" has lost basic belief in God, miracles, and the Bible as true.
 * Western society is deeply post-Christian, postmodern only in morals
 * Enlightenment's impact: reason vs. religion, mutually exclusive
 
@@ -173,7 +171,7 @@ Ingmar Bitter, PhD
   * Hari Krishna in Mumbai vs. Western cities
   * Canada: rapid slide into secularism, 7% evangelical
   * Europe: hard ground for evangelism, 5% evangelical
-* Apologetics makes it intellectiually acceptable to take Christianity serious
+* Apologetics makes it intellectually acceptable to take Christianity seriously
 
 ---
 
@@ -203,7 +201,7 @@ Ingmar Bitter, PhD
 
 ![](foundationPics/apologeticsEvangelism.jpg style="float: right; width: 9rem")
 
-* Apologetics can lead people to Christ (C.S.Lewis, Lee Strobel, Josh McDowel)
+* Apologetics can lead people to Christ (C.S. Lewis, Lee Strobel, Josh McDowell)
 * Testimonies of conversions through arguments and evidence
 * Minority of people respond to apologetics
 * Influential individuals often resonate with apologetics
@@ -220,7 +218,7 @@ Ingmar Bitter, PhD
   * Evangelizing unbelievers
 * Unapologetically enthusiastic about <br> Christian apologetics!
 
-<p style="text-align: right; margin-top: 1em;">    <em>Thoughts?</em></p>
+<p style="text-align: right; margin-top: 1em;"><em>Thoughts?</em></p>
 
 <small>Version 2024.01.31</small>
 
