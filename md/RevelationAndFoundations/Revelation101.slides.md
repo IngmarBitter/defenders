@@ -11,20 +11,9 @@ Ingmar Bitter, PhD
 
 ---
 
-## Doctrine of Revelation Definition
-
-![](revelation101Pics/doctrineRevelation.jpg style="float: right; width: 9rem")
-
-* Not the book in the Bible with that title
-* Revelation: what and how God reveals truth to us
-* Big picture: He revealed that He made the universe and each of us
-* As creator He has authority over His creation, including us
-
----
-
 ## Definition of Authority
 
-![](revelation101Pics/authority.jpg style="float: right; width: 9rem")
+![](revelation101Pics/Authority.jpg style="float: right; width: 9rem")
 
 * Authority means the right to demand belief and obedience
 * Familiar authorities in human affairs: state, parents, employers
@@ -160,7 +149,7 @@ Ingmar Bitter, PhD
 
 ## General Revelation in Nature and Conscience
 
-![](revelation101Pics/heartScale.jpg style="float: right; width: 9rem")
+![](revelation101Pics/HeartScale.jpg style="float: right; width: 9rem")
 
 * Nature: Romans 1:18-20: invisible nature perceived in creation
   * All men are responsible for recognizing the Creator
@@ -343,6 +332,8 @@ Ingmar Bitter, PhD
 
 ![](revelation101Pics/WorldGodPeople.jpg style="float: right; width: 9rem")
 
+<div style="margin-top: -1em;"></div>
+
 * **General Revelation:**
   * Shows God's existence, glory and power
   * Basis for moral law and societal stability
@@ -363,11 +354,11 @@ Ingmar Bitter, PhD
 
 ---
 
+[tinyurl.com/CreeksideDefenders](../CreeksideDefenders.html)
+
 [ingmarbitter.github.io/defenders/RevelationAndFoundations/Foundations.slides.html
 ](https://ingmarbitter.github.io/defenders/RevelationAndFoundations/Foundations.slides.html)
 
-[ingmarbitter.github.io/defenders/CreeksideDefenders.html
-](../CreeksideDefenders.html)
 
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 
