@@ -45,11 +45,11 @@ Ingmar Bitter, PhD
 
 * Three properties of inspiration:
   1. Plenary
-     1. all of scripture, all books, all verses
+     1. All of scripture, all books, all verses
   2. Verbal
      1. Down to the individual words
   3. Confluent
-     1. Authored by booth, God and man
+     1. Authored by both God and man
 
 ---
 
@@ -74,7 +74,7 @@ Ingmar Bitter, PhD
     16 Now to Abraham and his **Seed** were the promises made. He does not say, "And to **seeds**," as of many, but as of one, "And to your **Seed**," who is Christ.
 </p><p style="text-align: right; margin-top: -1em;">    <em>Galatians 3:16 (NKJV)</em></p>
 
-* Paul's argument depends on seed being singular, not plural
+* Paul's argument depends on "seed" being singular, not plural
 * Assumes God's message is specific to the singular or plural of words
 * Inspiration extends to the individual specific words used
 
@@ -92,7 +92,7 @@ Ingmar Bitter, PhD
 </p>
 
 * Warning against adding to or taking away from the words of Scripture
-* Not altering thoghts or techings, but words
+* Not altering thoughts or teachings, but words
 * Emphasizes the importance of preserving the integrity of God's original word
 
 <p style="text-align: right; margin-top: 1em;">    <em>Thoughts?</em></p>
@@ -109,8 +109,8 @@ Ingmar Bitter, PhD
     * Language does not matter
 * Sentential Revelation
   * The actual sentences and words of the text
-  * The original Hebrew and Greek of the Bile
-  * The original uses word meaning(s), word plays, idioms, rhymes
+  * The original Hebrew and Greek of the Bible
+  * The original uses word meanings, word plays, idioms, rhymes
     * Translations cannot capture all of those at once
 * Verbal Inspiration is Sentential
 
@@ -121,12 +121,12 @@ Ingmar Bitter, PhD
 ![](InspirationPics/WorldWords.jpg style="float: right; width: 9rem")
 
 * English translations are not the inspired Word of God
-* They convey convey some part of word meaning(s), word plays, idioms, rhymes
+* They convey some part of word meanings, word plays, idioms, rhymes
 * Different translations focus on different aspects
   * Word for word vs thought for thought
   * Gender-specific language vs gender-inclusive
   * Older vs purer manuscripts
-* The real deal is learn hebrew and greek and read the original
+* The real deal is to learn Hebrew and Greek and read the original
   * What the Bible teaches can be understood from English translations
 
 ---
@@ -135,7 +135,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/DifferentBooks.jpg style="float: right; width: 9rem")
 
-* No original Bible manuscript still exist
+* No original Bible manuscripts still exist
 * Thousands of manuscript copies exist for OT and NT
 * The copies have text differences or "variants"
 * Most variants are minor (e.g., spelling, word order)
@@ -155,10 +155,10 @@ Ingmar Bitter, PhD
 
 * Variants exist due to copying errors over centuries
 * Textual criticism helps reconstruct the original text with >99% accuracy
-  * Only once differences, spelling mistakes
-  * Majority vote on Word order, prepositions ("a" vs "an"), ...
-  * skips: "they asked Jesus [to pray. So Jesus] prayed for them"
-* Does not affect the Gospel, or even the conclusinos we draw in this class
+  * Only one occurrance differences, spelling mistakes
+  * Majority vote on word order, prepositions ("a" vs "an"), ...
+  * Skips: "they asked Jesus [to pray. So Jesus] prayed for them"
+* Does not affect the Gospel, or even the conclusions we draw in this class
 
 ---
 
@@ -167,8 +167,8 @@ Ingmar Bitter, PhD
 |                     | Byzantine                                      | Alexandrian                                                                 |
 |---------------------|------------------------------------------------|------------------------------------------------------------------------------|
 | **Dated**           | 5th to 15th centuries                          | 2nd to 4th centuries                                                         |
-| **First Discovered**| 16th century, Textus Rectus, common in Byzantine Empire| 18th century Codex Alexandrinus, Sinaiticus |
-| **Key Features**    | More numerous, more complete, better quality & spelling | Older, shorter, multi edited readings |
+| **First Discovered**| 16th century, Textus Receptus, common in Byzantine Empire| 18th century Codex Alexandrinus, Sinaiticus |
+| **Key Features**    | More numerous, more complete, better quality & spelling | Older, shorter, multi-edited readings |
 
 * Different translations may use different manuscript families
 
@@ -189,7 +189,7 @@ Ingmar Bitter, PhD
 </p><p style="text-align: right; margin-top: -2em;">    <em>1 John 5:7-8 (NKJV)</em></p>
 
 * Alexandrian: no Comma Johanneum. NIV: the water and the blood
-* Spelling, gramma, corrections, skips
+* Spelling, grammar, corrections, skips
   * Different but not doctrine changing
 
 ---
@@ -204,21 +204,21 @@ Ingmar Bitter, PhD
 
 ---
 
-## Arguments for Byzanine Preference
+## Arguments for Byzantine Preference
 
 ![](InspirationPics/ScrollWithGoldLetters.jpg style="float: right; width: 9rem")
 
 * Majority Text Argument
   * Most manuscripts: count and geography
-  * => used most and preferred by early christians
+  * => used most and preferred by early Christians
 * Ecclesiastical Text Argument
   * Standard text used by the Greek-speaking church >1000 years
 * Internal Evidence Argument
-  * Exhibits smoother and more coherent readings, less corrections
+  * Exhibits smoother and more coherent readings, fewer corrections
 * Doctrinal Integrity Argument
   * Preserves doctrinally significant readings
 * Early copies destroyed through
-  * Use, Humidity and Bible burnings
+  * Use, humidity, and Bible burnings
 
 ---
 
@@ -236,7 +236,7 @@ Ingmar Bitter, PhD
 * Greek Dictionary
   * **γαμίσκω** (gamisko): to give in marriage, to marry off, to wed
 * It's about the father's authority over the daughter
-* Many translations change this to the daughters own decision
+* Many translations change this to the daughter's own decision
 
 ---
 
@@ -252,7 +252,7 @@ Ingmar Bitter, PhD
     16 “**Men and brethren**, this Scripture had to be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who became a guide to those who arrested Jesus;
 </p><p style="text-align: right; margin-top: -2em;">    <em>Acts 1:16 (NKJV)</em></p>
 
-* Often **to** men, but relevant **for** men, women and children
+* Often **to** men, but relevant **for** men, women, and children
 * Still, a translation should use the original gender words
 
 ---
@@ -377,7 +377,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/GodLookingIn.jpg style="float: right; width: 9rem")
 
-* God knows what **is** true: past, presend and future
+* God knows what **is** true: past, present and future
 * God knows what **could** be true
 * God knows what **would** be true, under any set of circumstances (Molinism)
 * God knew what authors would freely write in any and all circumstances
@@ -413,7 +413,6 @@ Ingmar Bitter, PhD
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 
 ![](foundationPics/CreeksideDefendersSignUp.jpg style="float: right; width: 9rem")
-
 
 <!-- Markdeep slides stuff -->
 <script>
