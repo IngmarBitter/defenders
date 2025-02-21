@@ -1,6 +1,5 @@
 <meta charset="utf-8" lang="en">
 
-
 **Doctrine of Revelation**
    What and how God reveals
 
@@ -66,11 +65,11 @@ Ingmar Bitter, PhD
 ![](revelation101Pics/BibleLight.jpg style="float: right; width: 9rem")
 
 * Scripture is typically thought to be God’s propositional revelation
-  * Revelation in the form of sentences, i.e. those in the Bible
+  * Revelation in the form of sentences, i.e., those in the Bible
 * Not all of Scripture is a revelation in the sense of unveiling hidden things
   * Early biblical critics struggled with this concept
-  * Much of the Bible is was common knowledge
-    * e.g. Luke interviewed regular people
+  * Much of the Bible was common knowledge
+    * e.g., Luke interviewed regular people
 
 ---
 
@@ -207,7 +206,7 @@ Ingmar Bitter, PhD
   * General revelation serves as a channel to know & trust God
   * Salvation through Christ, even without knowing Christ
   * Old Testament saving faith: Abraham, Moses, King David
-  * Gentiles with saving faith: Job, Melchizedek, King Abimelech
+  * Gentiles with saving faith: Job, King Abimelech
 * Few people outside the OT are saved this way
   * Requires seeing the law and **repentance** for breaking it
   * Requires trusting God for a way to **forgive our sins**
@@ -358,7 +357,6 @@ Ingmar Bitter, PhD
 
 [ingmarbitter.github.io/defenders/RevelationAndFoundations/Foundations.slides.html
 ](https://ingmarbitter.github.io/defenders/RevelationAndFoundations/Foundations.slides.html)
-
 
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 

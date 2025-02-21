@@ -1,6 +1,5 @@
 <meta charset="utf-8" lang="en">
 
-
 **Foundations of Christian Doctrine & Apologetics**
    Start Here!
 
