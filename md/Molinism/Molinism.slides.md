@@ -111,7 +111,7 @@ E.g. Calvinism, Reformed
 >>>
 >>> Free Knowlede is what will happen after God freely choose His decree for the world: just those things that will actually happen in our reality/world
 >>>
->>> Middle Knowledge is what could happen if God choose to make a different world. This includes worlds with puppet people, with free will people and anything inbetween. Illogical options are not included and also not included is people choosing against their will/nature. It's like lego or minecraft worlds. There are limitations due to the building blocks, but nonetheless the result can be anything creatively desired.
+>>> Middle Knowledge is what would happen if God choose to make a different world. This includes worlds with puppet people, with free will people and anything inbetween. Illogical options are not included and also not included is people choosing against their will/nature. It's like lego or minecraft worlds. There are limitations due to the building blocks, but nonetheless the result can be anything creatively desired.
 
 ---
 ## Foreknowledge
@@ -245,7 +245,7 @@ Both are simultaneous, part of the same package deal.
 ![](Regeneration.jpg style="float:right; height: 5rem")
 ![](Faith.jpg style="float:right; height: 5rem")
 [^1] regeneration -> faith <br>
-[^2] faith -> regeneration 
+[^2] faith -> regeneration
 
 ---
 ## Sanctification

@@ -373,13 +373,13 @@ Ingmar Bitter, PhD
 
 ---
 
-## Supervision through Middle Knowledge
+## Supervision through Molinism
 
 ![](InspirationPics/GodLookingIn.jpg style="float: right; width: 9rem")
 
 * God knows what **is** true: past, present and future
 * God knows what **could** be true
-* God knows what **would** be true, under any set of circumstances (Molinism)
+* God knows what **would** be true, under any set of circumstances (middle knowledge)
 * God knew what authors would freely write in any and all circumstances
 * By placing authors in the circumstances with the desired writing outcome, God ensured the text he wanted
 * Bible is God's message to us
@@ -407,8 +407,7 @@ Ingmar Bitter, PhD
 [ingmarbitter.github.io/defenders/RevelationAndFoundations/BibleInspiration.slides.html
 ](https://ingmarbitter.github.io/defenders/RevelationAndFoundations/BibleInspiration.slides.html)
 
-[TinyUrl.com/CreeksideDefenders.html
-](TinyUrl.com/CreeksideDefenders.html)
+[TinyUrl.com/CreeksideDefenders](../CreeksideDefenders.html)
 
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 
