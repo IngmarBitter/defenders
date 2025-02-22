@@ -1,0 +1,7 @@
+[
+    {
+        "key": "f5",
+        "command": "multiCommand.focusAndRun",
+        "when": "editorTextFocus"
+    }
+]

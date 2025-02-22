@@ -46,7 +46,7 @@ Topics
 3. Doctrine of Revelation
    1.  [Revelation: definition, types, function](RevelationAndFoundations/Revelation101.slides.html)
    2.  [Bible Inspiration](RevelationAndFoundations/BibleInspiration.slides.html)
-   3.  Biblical Inerrancy
+   3.  [Biblical Inerrancy](RevelationAndFoundations/BibleInerrancy.slides.html)
    4.  Bible Canonicity
 4. Doctrine of God 
    1. God is knowable

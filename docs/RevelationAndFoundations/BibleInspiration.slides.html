@@ -164,7 +164,7 @@ Ingmar Bitter, PhD
 
 ## Manuscript Families
 
-|                     | Byzantine                                      | Alexandrian                                                                 |
+| <small>[source BereanPatriot](https://www.bereanpatriot.com/majority-text-vs-critical-text-vs-textus-receptus-textual-criticism-101/)</small> | Byzantine                                      | Alexandrian                                                                 |
 |---------------------|------------------------------------------------|------------------------------------------------------------------------------|
 | **Dated**           | 5th to 15th centuries                          | 2nd to 4th centuries                                                         |
 | **First Discovered**| 16th century, Textus Receptus, common in Byzantine Empire| 18th century Codex Alexandrinus, Sinaiticus |
@@ -283,7 +283,7 @@ Ingmar Bitter, PhD
 * KJV has Old English words that changed meaning completely
 * ESV and HCSB are a mix of word for word and thought for thought, are gender specific and quite readable, good as second option.
 * NIV and MSG are paraphrased and gender inclusive
-* ... Have NKJV as default, add HCSB or ESV as second option and NIV or MSG as very concise commentary
+* ... Have NKJV as default, add HCSB or ESV as second option and NIV or MSG as very concise commentary (<small>[see BereanPatriot](https://www.bereanpatriot.com/whats-the-best-bible-translation-and-more-importantly-why/)</small>)
 
 ---
 

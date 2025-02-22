@@ -1,0 +1,14 @@
+{
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.focusAndRun",
+            "sequence": [
+                "workbench.action.terminal.focus",
+                {
+                    "command": "workbench.action.terminal.sendSequence",
+                    "args": { "text": "cp .\\md\\RevelationAndFoundations\\BibleInerrancy.slides.md .\\docs\\RevelationAndFoundations\\BibleInerrancy.slides.html\n" }
+                }
+            ]
+        }
+    ]
+}
