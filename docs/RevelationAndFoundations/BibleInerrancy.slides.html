@@ -6,13 +6,13 @@
 <small><em><span class="current-date"></span></em></small><br>
 Ingmar Bitter, PhD
 
-![](foundationPics/apologetics.jpg style="float: right; width: 9rem; margin-top: -8rem;")
+![](InerrancyPics/BibleTruthfulness.jpg style="float: right; width: 9rem; margin-top: -8rem;")
 
 ---
 
 ## Review of Bible Inspiration
 
-![](InspirationPics/BibleAndCandles.jpg style="float: right; width: 9rem")
+![](InerrancyPics/BibleInspiration.jpg style="float: right; width: 9rem")
 
 * Bible Inspiration is
   * Plenary
@@ -30,7 +30,7 @@ Ingmar Bitter, PhD
 
 ## Authority of Scripture
 
-![](InspirationPics/1Tim316.jpg style="float: right; width: 9rem")
+![](InerrancyPics/10CommandmentTablets.jpg style="float: right; width: 9rem")
 
 * God has absolute divine authority
 * God speaks with divine authority
@@ -43,7 +43,7 @@ Ingmar Bitter, PhD
 
 ## Defining Biblical Inerrancy
 
-![](InspirationPics/OrchestratedBeauty.jpg style="float: right; width: 9rem")
+![](InerrancyPics/BibleWithBeauty.jpg style="float: right; width: 9rem")
 
 * Not everything in the Bible is true on all levels
   * e.g., true records of false statements by Job's friends
@@ -54,7 +54,7 @@ Ingmar Bitter, PhD
 
 ## Chicago Statement Highlights
 
-![](InspirationPics/BibleWithBeauty.jpg style="float: right; width: 9rem")
+![](InerrancyPics/BibleWithBeauty.jpg style="float: right; width: 9rem")
 
 * Chicago Statement on Biblical Inerrancy, 1978
   * Holy Scripture is plenary, verbal and confluent
@@ -66,7 +66,7 @@ Ingmar Bitter, PhD
 
 ## Infallibility and Inerrancy
 
-![](InspirationPics/ScrollDifferences.jpg style="float: right; width: 9rem")
+![](InerrancyPics/BibleGuarded.jpg style="float: right; width: 9rem")
 
 * Infallible: Reliable guide to morality, wisdom, and salvation (will not fail you)
 * Inerrant: Free from all falsehood or mistake (will not teach you errors)
@@ -80,7 +80,7 @@ Ingmar Bitter, PhD
 
 ## Teaching vs. Saying
 
-![](InspirationPics/LightOnWords.jpg style="float: right; width: 9rem")
+![](InerrancyPics/ScrollDifferences.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     30 Then He said, “To what shall we liken the kingdom of God? Or with what parable shall we picture it? 31 It is like a **mustard seed** which, when it is sown on the ground, is **smaller than all the seeds on earth**; 32 but when it is sown, it grows up and becomes greater than all herbs, and shoots out large branches, so that the birds of the air may nest under its shade.”
@@ -94,7 +94,7 @@ Ingmar Bitter, PhD
 
 ## Literary Conventions and Inerrancy
 
-![](InspirationPics/WorldWords.jpg style="float: right; width: 9rem")
+![](InerrancyPics/OldLibrary.jpg style="float: right; width: 9rem")
 
 * Literary conventions and styles in the Bible
   * History, poetry, wisdom
@@ -110,7 +110,7 @@ Ingmar Bitter, PhD
 
 ## Jesus' Attitude Toward the Scriptures
 
-![](InspirationPics/BibleAndCandles.jpg style="float: right; width: 9rem")
+![](InerrancyPics/LightOnWords.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     6 I said, “You are gods, And all of you are children of the Most High.”
@@ -128,7 +128,7 @@ Ingmar Bitter, PhD
 
 ## Inductive vs. Deductive Reasoning
 
-![](InspirationPics/BibleGuarded.jpg style="float: right; width: 9rem")
+![](InerrancyPics/ScaleHumanViewVsJesusBible.jpg style="float: right; width: 9rem")
 
 * Inerrancy not based on inductive reasoning (can't find errors, thus error-free)
 * Based on Jesus' attitude toward the Hebrew Scriptures
@@ -138,6 +138,8 @@ Ingmar Bitter, PhD
 ---
 
 ## Deductive Argument for Inerrancy
+
+![](InerrancyPics/ScaleHumanViewVsJesusBible.jpg style="float: right; width: 9rem")
 
 * A1: Whatever God teaches is true
   * God is morally perfect and not a deceiver
@@ -155,7 +157,7 @@ Ingmar Bitter, PhD
 
 ## Challenges to Biblical Inerrancy
 
-![](InspirationPics/BibleDemonstrated.jpg style="float: right; width: 9rem")
+![](InerrancyPics/ScrollWithCorrections.jpg style="float: right; width: 9rem")
 
 * Inconsistencies within Scripture
   * Adam & Eve creation timing <small>(Gen 1 and Gen 2)</small>
@@ -173,7 +175,7 @@ Ingmar Bitter, PhD
 
 ## Inerrancy in the Web of Christian Beliefs
 
-![](InspirationPics/ScrollWithCorrections.jpg style="float: right; width: 9rem")
+![](InerrancyPics/WebBelieves.jpg style="float: right; width: 9rem")
 
 * Our web of beliefs in decreasing order of significance
   1. Existence of God, Jesus and salvation
@@ -190,6 +192,8 @@ Ingmar Bitter, PhD
 
 ## Inconsistencies within Scripture
 
+![](InerrancyPics/ThinkingMan.jpg style="float: right; width: 9rem")
+
 * Two accounts of the same story with details that appear inconsistent
 * Hermeneutics can resolve most
 * Harmonization can resolve most of the remainder
@@ -198,6 +202,8 @@ Ingmar Bitter, PhD
 ---
 
 ## Hermeneutics: Ancient Writing Techniques
+
+![](InerrancyPics/GodLookingIn.jpg style="float: right; width: 9rem")
 
 * Compression (telescoping)
   * Narrative compacted into a shorter form
@@ -213,6 +219,8 @@ Ingmar Bitter, PhD
 ---
 
 ## Hermeneutics: Adam & Eve Creation Timing
+
+![](InerrancyPics/AdamEve.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     So God created man in His own image; in the image of God He created him; male and female He created them.
@@ -232,6 +240,8 @@ Ingmar Bitter, PhD
 
 ## Harmonizing Difficulties
 
+![](InerrancyPics/CarCrash.jpg style="float: right; width: 9rem")
+
 * Harmonization is a possible story that ties all details together
   * Might seem far fetched, but so does reality:
     * Dr Kenneth Kantzer's was informed by two reliable sources that
@@ -246,13 +256,15 @@ Ingmar Bitter, PhD
 
 ## Harmonizing: Judas Iscariot's Cause of Death
 
+![](InerrancyPics/BibleDemonstrated.jpg style="float: right; width: 9rem")
+
 <p style="font-family: 'Gabriola', serif;">
     Then he threw down the pieces of silver in the temple and departed, and went and hanged himself.
 </p><p style="text-align: right; margin-top: -1em;">    <em>Matthew 27:5 (NKJV)</em></p>
 
 <p style="font-family: 'Gabriola', serif;">
     Now this man purchased a field with the wages of iniquity; and falling headlong, he burst open in the middle and all his entrails gushed out.
-</p><p style="text-align: right; margin-top: -2em;">    <em>Acts 1:18 (NKJV)</em></p>
+</p><p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Acts 1:18 (NKJV)</em></p>
 
 * Harmonization
   * Judas hanged himself from a tree in the field
@@ -264,6 +276,8 @@ Ingmar Bitter, PhD
 
 ## Holding the Truth in Tension
 
+![](InerrancyPics/BooksOnScale.jpg style="float: right; width: 9rem")
+
 * Sometimes we must hold seemingly contradictory truths in tension
 * Trusting that further understanding or revelation will resolve the tension
 * Faith in the reliability and truthfulness of Scripture despite apparent contradictions
@@ -271,6 +285,8 @@ Ingmar Bitter, PhD
 ---
 
 ## Conclusion on Inconsistencies within Scripture
+
+![](InerrancyPics/WorldWords.jpg style="float: right; width: 9rem")
 
 * Inconsistencies often arise from different perspectives or purposes
 * Hermeneutics can resolve many apparent inconsistencies
@@ -284,6 +300,8 @@ Ingmar Bitter, PhD
 
 ## Factual Mistakes
 
+![](InerrancyPics/BibleWithSeeds.jpg style="float: right; width: 9rem")
+
 * Factual Mistakes: Details not correct according to contemporary knowledge
 * Hermeneutics can show that the detail was not intended as literal fact
   * E.g. The mustard seed is the smallest seed (Mark 4:30-32, see above)
@@ -295,6 +313,8 @@ Ingmar Bitter, PhD
 ---
 
 ## King Sargon II
+
+![](InerrancyPics/AncientKing.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     In the year that Tartan came to Ashdod, when Sargon the king of Assyria sent him, and he fought against Ashdod and took it.
@@ -310,8 +330,11 @@ Ingmar Bitter, PhD
 
 ## Conclusion on Factual Mistakes
 
-* Hope that future discoveries will resolve tensions
+![](InerrancyPics/ScrollWithCorrections.jpg style="float: right; width: 9rem")
+
 * Ongoing pattern of biblical accuracy being confirmed
+* No significant discrepancies remain
+* Hope that future discoveries will resolve tensions
 * Faith in the reliability of Scripture despite apparent discrepancies
 
 <p style="text-align: right; margin-top: 1em;">    <em>Thoughts on Factual Mistakes?</em></p>
@@ -320,9 +343,11 @@ Ingmar Bitter, PhD
 
 ## Ethical Errors: Killing of the Canaanites
 
+![](InerrancyPics/JoshuaMap.jpg style="float: right; width: 9rem")
+
 <p style="font-family: 'Gabriola', serif;">
     But of the cities of these peoples which the Lord your God gives you as an inheritance, you shall let nothing that breathes remain alive,
-</p><p style="text-align: right; margin-top: -1em;">    <em>Deuteronomy 20:16 (NKJV)</em></p>
+</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Deuteronomy 20:16 (NKJV)</em></p>
 
 * Commanded to not remain men, women, and children alive in Canaan
   * Challenges God's character as loving
@@ -336,6 +361,8 @@ Ingmar Bitter, PhD
 ---
 
 ## Ethical Errors: Slavery
+
+![](InerrancyPics/AncientFarmer.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     Bondservants, be obedient to those who are your masters according to the flesh, with fear and trembling, in sincerity of heart, as to Christ;
@@ -353,14 +380,16 @@ Ingmar Bitter, PhD
 
 ## Ethical Errors: Homosexual Relations
 
+![](InerrancyPics/PopePrideFlag.jpg style="float: right; width: 9rem")
+
 <p style="font-family: 'Gabriola', serif;">
     For this reason God gave them up to vile passions. For even their women exchanged the natural use for what is against nature. Likewise also the men, leaving the natural use of the woman, burned in their lust for one another, men with men committing what is shameful, and receiving in themselves the penalty of their error which was due.
-</p><p style="text-align: right; margin-top: -1em;">    <em>Romans 1:26-27 (NKJV)</em></p>
+</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Romans 1:26-27 (NKJV)</em></p>
 
 * Prohibition of homosexual relations
   * Contrary to secular moral values
 * Secular moral values are not the gold standard
-* Must stand our ground that God is standard
+* Must stand our ground that God is the standard
 * Thus not a moral error, but reason for moral correction
 * => Prohibition of homosexual relations is morally blameless
 
@@ -368,8 +397,11 @@ Ingmar Bitter, PhD
 
 ## Conclusion on Ethical Errors
 
+![](InerrancyPics/BibleWithBeauty.jpg style="float: right; width: 9rem")
+
 * Ethical errors often arise from misunderstandings of cultural context and divine intent
 * Hermeneutics can resolve many apparent ethical issues
+* Must stand our ground that God is the standard
 * Faith in the overall moral integrity and truthfulness of Scripture is maintained
 
 <p style="text-align: right; margin-top: 1em;">    <em>Thoughts on Ethical Errors?</em></p>
@@ -378,7 +410,7 @@ Ingmar Bitter, PhD
 
 ## Conclusion on Bible Inerrancy
 
-![](InspirationPics/InspirationBook.jpg style="float: right; width: 9rem")
+![](InerrancyPics/BibleTruthfulness.jpg style="float: right; width: 9rem")
 
 * The Bible is authoritative and truthful in all it teaches
   * Infallible (moral guidance and wisdom without fail) and 
@@ -386,9 +418,9 @@ Ingmar Bitter, PhD
 * These are nuanced doctrines
   * Requires interpretation and understanding of the original text
 * There are no inconsistencies, factual mistakes, and ethical errors that remain after deeper analysis
-  * If any disagreement, then of minor importance, not faith shattering
+  * If disagreement, then of minor importance, not faith shattering
 
-<p style="text-align: right; margin-top: 1em;">    <em>Thoughts on Biblical Inerrancy?</em></p>
+<p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Thoughts on Biblical Inerrancy?</em></p>
 
 <small>Version 2024.02.21</small>
 
