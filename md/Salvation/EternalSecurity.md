@@ -75,7 +75,7 @@ remind every Christian that if you have put your faith and trust in Jesus Christ
 sincere believer, then questioning your salvation is wrong. It is not a sign of humility or showing your awareness of
 your sins; to question your salvation shows a lack of faith in the promise of God to save you. It is often a sign that you question
 whether God is big enough or gracious enough to forgive your sin. If you trust in the substitutionary death of Christ on
-the cross, then you should have assurance of your salvation (1 in. 5:13). If you have wandered from the Lord, then you
+the cross, then you should have assurance of your salvation (1 John 5:13). If you have wandered from the Lord, then you
 should repent and return to Christ lest you harden your heart, reject him and lose your salvation. Peter warned us to be on
 guard lest we be carried away by evil men and fall from our "secure position" (2 Pet. 3:17). Rest assured, your salvation is
 secure, as long as you remain in faith. Your God is big enough to forgive your sins.
@@ -124,10 +124,10 @@ Seriousness
 -----------
 Eternal Security. This is a non-salvation issue. You can be wrong about this issue and still be a Christian.
 
-Armenian Perspective
+Arminian Perspective
 --------------------
-Armenians believe salvation can be gained and lost.
-Armenians do not believe that a bad decision means you lose your salvation.
+Arminians believe salvation can be gained and lost.
+Arminians do not believe that a bad decision means you lose your salvation.
 The way you can tell a person is a Christian is by their fruit.
 Scripture References: Luke 15; Romans 11:22-23; Hebrews 6:4-7; 2 Peter 2:20
 
@@ -144,8 +144,7 @@ Shared Perspective
 Both camps would agree that Christians are known by their fruit. At Creekside Christian we encourage everyone to grow in
 Christ -- we're not the judge of your salvation.
 
-
-<sub><sup>Version 0.1<sub><sup>
+<sub><sup>Version 2025.02.25<sub><sup>
 
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>

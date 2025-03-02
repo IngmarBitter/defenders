@@ -413,7 +413,7 @@ Ingmar Bitter, PhD
 ![](InerrancyPics/BibleTruthfulness.jpg style="float: right; width: 9rem")
 
 * The Bible is authoritative and truthful in all it teaches
-  * Infallible (moral guidance and wisdom without fail) and 
+  * Infallible (moral guidance and wisdom without fail) and
   * Inerrant (error-free teachings)
 * These are nuanced doctrines
   * Requires interpretation and understanding of the original text

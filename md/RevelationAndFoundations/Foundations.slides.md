@@ -38,7 +38,7 @@ Ingmar Bitter, PhD
 
 ---
 
-## Importance of Doctrine - Truth 
+## Importance of Doctrine - Truth
 
 ![](foundationPics/ToJesusInWaves.jpg style="float: right; width: 9rem")
 
