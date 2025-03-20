@@ -20,7 +20,7 @@ Ingmar Bitter, PhD
 
 ![](KnowingGodPics/ManUniverse.jpg style="float: right; width: 7rem")
 
-<small style="font-size: 0.9em;">
+<small style="font-size: 0.9em;  line-height: 1.1em;">
 Some say humanity’s true study should be itself, but I disagree. For God’s children, the proper focus is God Himself—the nature and essence of the Divine. For a Christian, exploring the Godhead is the ultimate pursuit: the most profound science, the grandest reflection, and the deepest philosophy a believer can engage in revolves around the identity, character, actions, and reality of the great God we call Father. Contemplating the Divine does wonders for the mind. The subject is so immense that our thoughts get swallowed up in its vastness, so profound that our arrogance sinks beneath its boundless depth. Nothing humbles the spirit quite like meditating on God. Yet, even as it humbles, it also stretches the mind. Someone who frequently ponders God will develop a broader perspective than someone who trudges through life stuck in its smallness. Nothing expands the intellect or elevates the entire being like a sincere, dedicated exploration of the Divine. That’s the journey I’m calling you to today.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Adapted from Charles Spurgeon, January 7, 1855</em></p>
 </small>
@@ -65,7 +65,7 @@ Some say humanity’s true study should be itself, but I disagree. For God’s c
 
 * **God is Infinite**
   * Aseity, Necessary existence, Eternality
-  * Omnipotent, Omniscient, Omnipresentt
+  * Omnipotent, Omniscient, Omnipresent
   * Distinct from creation
 * **God is Personal**
   * Relational being, can be known in a personal way

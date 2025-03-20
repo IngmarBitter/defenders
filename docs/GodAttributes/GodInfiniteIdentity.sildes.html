@@ -79,9 +79,9 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/GodSittingOnEarth.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif; font-size: 0.8em">
+<p style="font-family: 'Gabriola', serif;">
     All nations before Him are as nothing, And they are counted by Him less than nothing and worthless. To whom then will you liken God? Or what likeness will you compare to Him? ... It is He who sits above the circle of the earth, And its inhabitants are like grasshoppers, Who stretches out the heavens like a curtain, And spreads them out like a tent to dwell in. ... The **everlasting God**, the Lord, The **Creator of the ends of the earth**, Neither faints nor is weary. His understanding is unsearchable.
-</p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -1em;">    <em>Isaiah 40:17-23, 28a (NKJV), emphasis added</em></p>
+</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Isaiah 40:17-23, 28a (NKJV), emphasis added</em></p>
 
 * Everlasting and universe creation
   * Attributes of divine aseity
@@ -150,7 +150,7 @@ Ingmar Bitter, PhD
   * God is self-existent: He exists entirely by His own nature
   * His existence is independent of anything else
   * He does not depend on anything external for its existence
-* **Implications for God**
+* **Implications**
   * All finite reality depends on God for creation, preservation, and future existence
   * God is radically independent, unlike any other being
   * Aseity is the foundation for His necessary existence and eternality
@@ -220,15 +220,31 @@ Ingmar Bitter, PhD
 
 ---
 
+## Aseity Conclusion
+
+![](InfinityPics/Aseity.jpg style="float: right; width: 9rem")
+
+* **Aseity**
+  * God is self-existent: He exists entirely by His own nature
+  * His existence is independent of anything else
+  * The Bible has several verses that teach this
+  * All challenges framing contradictions in the concept of aseity have failed
+* **Implications**
+  * All finite reality depends on God for creation, preservation, and future existence
+  * God is radically independent, unlike any other being
+  * Aseity is the foundation for His necessary existence and eternality
+
+---
+
 ## Necessary Existence
 
-### Scriptural Data: 'I am who I am'
+### Exodus: 'I am who I am'
 
 ![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     Then Moses said to God, “If I come to the people of Israel and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ what shall I say to them?” God said to Moses, “**I am who I am.**” And he said, “Say this to the people of Israel, ‘I am has sent me to you.’” ... ‘The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you’: **this is my name for ever**, and thus I am to be remembered throughout all generations.
-</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Exodus 3:13-15 (NKJV)</em></p>
+</p><p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Exodus 3:13-15 (NKJV)</em></p>
 
 * Divine name “I am that I am” (Ex 3.14)
   * Revealed by God Himself
@@ -250,7 +266,7 @@ Ingmar Bitter, PhD
 
 ---
 
-## Scriptural Support
+## From Aseity to Necessary Existence
 
 ![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
@@ -260,15 +276,45 @@ Ingmar Bitter, PhD
   * Implies uncaused
   * Implies not contingent
   * Implies necessary existence
+  * ... all other verses supporting aseity likewise support necesary existence
 
 ---
 
-## Anselm's Ontological Argument
+## Theological and Philosophical Reasons
+
+![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+
+* **Theological**
+  * Aseity shows God's existence is not contingent nor accidental
+  * Aseity implies God's necessary existence
+* **Philosophical**
+  * Leibniz’s cosmological argument from contingency: all else depends on God
+  * Moral argument: Foundation for objectivity of moral values
+  * Ontological argument: necessary existence in all possible worlds
+
+---
+
+## Anselm's Ontological Argument I
+
+![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+
+1. Anselm was a Benedictine monk, philosopher, and theologian of the 11th century
+2. He defined God as the only maximally great being with these properties to perfection
+   1. Power
+   2. Knowledge
+   3. Love
+   4. Mercy
+   5. Justice
+   6. Eternality
+   7. Existence
+
+---
+
+## Anselm's Ontological Argument II
 
 ![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
 1. It is **possible** that a maximally great being (God) exists
-   * Great-making properties are existence, eternality, love, ...
 2. Implies a maximally great being exists in some possible world
 3. Implies it exists in every possible world
    * Since existence is a great-making property
@@ -279,49 +325,22 @@ Ingmar Bitter, PhD
 
 ---
 
-## Philosophical and Theological Reasons
-
-![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
-
-* **Philosophical**
-  * Ontological argument: necessary existence in any possible world
-  * Leibniz’s cosmological argument from contingency: all else depends on God
-  * Moral argument: Foundation for objectivity of moral values
-* **Theological**
-  * Aseity shows necessary existence is not contingent nor accidental
-
----
-
-## Theological Implications
-
-![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
-
-* God who exists accidentally vs. necessarily
-* Worship and adoration: Appropriate for a necessarily existent God
-* Factual necessity vs. metaphysical necessity
-
----
-
 ## Necessary Existence Summary
 
 ![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
 * **"I am who I am"** (Ex 3.14)
   * Implies not coming into existence, uncaused, not contingent, necessary existence
-* **Philosophical reasons**
-  * Various arguments for God conclude God must exist
-* **Theological Implications**
-  * God exists necessarily: deserves worship and adoration
-* **Conclusion**
-  * God exists in every possible world
-  * Deep reverence and awe for God
-
-* "I am who I am" (Ex 3.14)
-  * Implies not coming into existence, uncaused, not contingent, necessary existence
-* Philosophical reasons
+* **Theological and Philosophical reasons**
   * Aseity, Ontological argument, other God existence arguments
-* Theological Implications
-  * A self-existent, necessary God deserves worship and adoration
+* **Implications of God's necessary existence**
+  * Unique and supreme in every possible world
+  * We owe him our existence, worship and adoration
+  * Makes it appropriate to glorify God and be in reverence and awe for God
+
+---
+
+# Eternality
 
 ---
 
