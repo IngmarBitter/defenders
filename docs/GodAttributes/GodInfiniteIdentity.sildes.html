@@ -61,6 +61,10 @@ Ingmar Bitter, PhD
 
 ---
 
+# Aseity
+
+---
+
 ### Exodus 3:14: 'I am who I am'
 
 ![](InfinityPics/BurningBush.jpg style="float: right; width: 9rem")
@@ -236,6 +240,10 @@ Ingmar Bitter, PhD
 
 ---
 
+# Necessary Existence
+
+---
+
 ## Necessary Existence
 
 ### Exodus: 'I am who I am'
@@ -268,7 +276,7 @@ Ingmar Bitter, PhD
 
 ## From Aseity to Necessary Existence
 
-![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+![](InfinityPics/AseityToNecessary.jpg style="float: right; width: 9rem")
 
 * "I am who I am" (Ex 3.14)
   * Implies self-existence (aseity)
@@ -282,7 +290,7 @@ Ingmar Bitter, PhD
 
 ## Theological and Philosophical Reasons
 
-![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+![](InfinityPics/AseityToNecessary.jpg style="float: right; width: 9rem")
 
 * **Theological**
   * Aseity shows God's existence is not contingent nor accidental
@@ -296,10 +304,10 @@ Ingmar Bitter, PhD
 
 ## Anselm's Ontological Argument I
 
-![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+![](InfinityPics/monk.jpg style="float: right; width: 9rem")
 
-1. Anselm was a Benedictine monk, philosopher, and theologian of the 11th century
-2. He defined God as the only maximally great being with these properties to perfection
+1. **Anselm was** a Benedictine monk, philosopher, and theologian of the 11th century
+2. He **defined God** as the only **maximally great being** with these properties to perfection:
    1. Power
    2. Knowledge
    3. Love
@@ -312,13 +320,13 @@ Ingmar Bitter, PhD
 
 ## Anselm's Ontological Argument II
 
-![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+![](InfinityPics/PossibleWorlds.jpg style="float: right; width: 13rem")
 
 1. It is **possible** that a maximally great being (God) exists
 2. Implies a maximally great being exists in some possible world
 3. Implies it exists in every possible world
    * Since existence is a great-making property
-   * Aseity ensures existence even in an "empty" world
+   * Aseity ensures His existence even in an "empty" world
 4. Implies it exists in the actual world
 5. Implies a maximally great being exists
 6. Therefore, a maximally great being (God) exists - necessarily
@@ -327,20 +335,211 @@ Ingmar Bitter, PhD
 
 ## Necessary Existence Summary
 
-![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+![](InfinityPics/LightPossibleWorldsOnWords.jpg style="float: right; width: 9rem")
 
-* **"I am who I am"** (Ex 3.14)
+* **"I am who I am"** (Ex 3:14)
   * Implies not coming into existence, uncaused, not contingent, necessary existence
 * **Theological and Philosophical reasons**
   * Aseity, Ontological argument, other God existence arguments
 * **Implications of God's necessary existence**
   * Unique and supreme in every possible world
   * We owe him our existence, worship and adoration
-  * Makes it appropriate to glorify God and be in reverence and awe for God
+  * Makes it appropriate to glorify God and be in reverence and awe
 
 ---
 
 # Eternality
+
+---
+
+## Psalm 90:2 Everlasting to Everlasting
+
+![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    Before the mountains were brought forth, Or ever You had formed the earth and the world, Even from everlasting to everlasting, You are God.
+</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Psalm 90:2 (NKJV)</em></p>
+
+* God exists from everlasting to everlasting
+* Attributes of divine eternality
+
+---
+
+## Revelation 1:8: Alpha and Omega
+
+![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    “I am the Alpha and the Omega, the Beginning and the End,” says the Lord, “who is and who was and who is to come, the Almighty.”
+</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Revelation 1:8 (NKJV)</em></p>
+
+* God is the Alpha and the Omega, the Beginning and the End
+* Attributes of divine eternality
+
+---
+
+## God's Eternality
+
+![](InfinityPics/Sunset.jpg style="float: right; width: 9rem")
+
+* **Eternality**: Existence without beginning or end
+* **God and time**
+  * God is timeless (outside of time)
+    * There is no "before" or "after" in His existence
+  * God is everlasting
+    * God exists at all times, always has and always will
+    * Endures through an infinite sequence of moments
+  * God is both timeless and everlasting
+
+---
+
+## The Nature of Time: Dynamic vs Static
+
+![](InfinityPics/Orchestra.jpg style="float: right; width: 9rem")
+
+* **Dynamic Time** Example
+  * Live orchestra performance
+  * Conductor has the plan (written notes of it all)
+  * Conductor directs the following of his plan
+  * Only the music heard at the moment is real
+  * Conductor could deviate, but does not - it's his plan
+* **Static Time** Example
+  * DVD of the same orchestra performance
+  * Producer has the plan (DVD of it all)
+  * Producer controls the video playback with a DVD remote
+  * All music on the DVD is equally real
+  * Producer could edit the DVD, but does not - it's his plan
+
+---
+
+## God's Time: Dynamic vs Static I
+
+![](InfinityPics/Orchestra.jpg style="float: right; width: 9rem")
+
+* God is **in Dynamic time**
+  * God is the conductor
+  * God has a plan (music notes) He made without creation existing
+  * God directs the following of His plan
+  * God is everlasting
+
+* God is **outside Static Time**
+  * God is the producer
+  * God has a plan (DVD) He made without creation existing
+  * God creates the entire timeline at once, plays it in sequence
+  * God is timeless
+
+---
+
+## God's Time: Dynamic vs Static II
+
+![](InfinityPics/Orchestra.jpg style="float: right; width: 9rem")
+
+* God is **in Dynamic time**
+  * Only the present is real; the past no longer exists, the future not yet
+  * God does not deviate from the plan - He made it, it's the best one
+  * God experiences passing of time as we do
+
+* God is **outside Static Time**
+  * Past, present, and future are equally real locations on the timeline
+  * God does not change the DVD - He made it, it's the best one
+  * God has no time-related experience
+
+---
+
+## Our Time: Dynamic vs Static I
+
+![](InfinityPics/PrayDvd.jpg style="float: right; width: 9rem")
+
+* With a fixed plan, how can we have free will?
+  * Foreknowing our decision does not force or cause them
+    * God’s knowledge preserves our freedom
+    * Works fine with both time definitions
+
+* We pray or repent, then God reacts?
+  * Is not a change of plan
+  * God foreknew our actions and planned His response
+
+---
+
+## Our Time Challenges
+
+![](InfinityPics/IdentityOverTime.jpg style="float: right; width: 9rem")
+
+* **Dynamic Time Challenge**
+  * There can be no time travel?
+    * No, time travel is just not a thing in dynamic time
+* **Static Time Challenge**
+  * If I become a Christian at age 50 and die at age 100
+  * And all of time is equally real
+  * Then I'm only 50% saved?
+    * Good challenge
+      * Dynamic time makes more sense for us interacting with God
+
+---
+
+## God's Time Challenges
+
+![](InfinityPics/HappyAngry.jpg style="float: right; width: 9rem")
+
+* **Dynamic Time Challenge**
+  * Without creation there is no time, so being in time makes no sense
+    * Good challenge
+      * God outside of time makes more sense without creation
+* **Static Time Challenge**
+  * How can God have time restricted emotions?
+    * Good challenge
+      * Dynamic time makes more sense for God interacting with us
+
+---
+
+## God’s Timeless and Everlasting Nature
+
+![](InfinityPics/GodCosmosClock.jpg style="float: right; width: 9rem")
+
+* **Timeless** without creation (His essential being, aseity)
+  * There was no time
+  * There was no nature of time
+  * God exists beyond time
+* **Everlasting** with creation (His relational engagement)
+  * At creation time starts
+  * The nature of time is dynamic (*for Him and us*)
+  * God enters time and endures through all moments
+  * God is everlasting
+* This dual nature reveals a God who is both transcendent (outside of time) and immanent (with us in time)
+
+---
+
+## Conclusion: God’s Eternality
+
+![](InfinityPics/GodCosmosClock.jpg style="float: right; width: 9rem")
+
+* **God’s is Eternal**
+  * **Timeless** without creation - no time existed
+    * God planned all of future time at once, ensuring His omniscience and sovereignty
+  * **Everlasting** with creation - time is dynamic
+    * Like a conductor, God directs the unfolding of His plan, aligning with our experience of free will and interaction
+
+* **Practical Implications**
+  * Trust God’s perfect plan, He sovereignly oversees every moment
+  * Engage with God now, He is present and responsive in our lives
+  * Temporal struggles are insignificant with eternity in perspective
+
+---
+
+## God’s Infinite Identity: A Unified Conclusion
+
+![](KnowingGodPics/GodAttributes.jpg style="float: right; width: 9rem")
+
+* **Aseity**: God’s self-existence — uncreated, independent, the root of all being
+* **Necessary Existence**: God’s unavoidable reality — "I am who I am" — supreme in every possible world
+* **Eternality**: God’s timeless and everlasting nature — beyond and within all moments
+* **Synergy**:  
+  * From Aseity flows God must exist, necessarily
+  * From Necessity flows existence always, eternally
+* **Our Response**:  Stand in awe and worship our infinite God
+
+<p style="margin-top: -1em; text-align: center;">
+<small>Version 2024.03.23</small>
 
 ---
 
@@ -351,6 +550,8 @@ Ingmar Bitter, PhD
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 
 ![](../RevelationAndFoundations/foundationPics/CreeksideDefendersSignUp.jpg style="float: right; width: 9rem")
+
+These notes are created in reference to [William Lane Craig's Defenders Class, season 4, Doctrine of God](https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-god).
 
 <!-- Markdeep slides stuff -->
 <script>
