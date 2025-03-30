@@ -30,7 +30,6 @@ Ingmar Bitter, PhD
   * God is all-powerful
 * **Omniscience**
   * God is all-knowing
-
 * **Immutability**
   * God is unchanging in knowledge and character
 
@@ -57,9 +56,10 @@ Ingmar Bitter, PhD
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -2em;">    <em>Psalm 139:7-12 (NKJV)</em></p>
 
-* Whereever we God, God is there
+* Wherever we go, God is there.
+* Shows God’s care, not just His location
 * We cannot hide nor be lost
-* He is inescapeable and accessible
+* He is both, inescapeable and accessible
 
 ---
 
@@ -79,6 +79,23 @@ Ingmar Bitter, PhD
 * God is both near and far
 * His presence fills heaven and earth
 * No one can hide from Him
+
+---
+
+## Omnipresence in Proverbs 18:24
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    "A man who has friends must himself be friendly,<br>  
+    But there is a friend who sticks closer than a brother."  
+</p>
+<p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Proverbs 18:24 (NKJV)</em></p>
+
+* God is the ultimate friend who is always present
+* His closeness surpasses even the strongest human relationships
+* Highlights God's faithfulness, intimacy, and omnipresence
+* God’s presence makes Him the ultimate, ever-close friend
 
 ---
 
@@ -118,38 +135,23 @@ Ingmar Bitter, PhD
 
 ---
 
-## Omnipresence in Proverbs 18:24
-
-![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
-
-<p style="font-family: 'Gabriola', serif;">
-    "A man who has friends must himself be friendly,<br>  
-    But there is a friend who sticks closer than a brother."  
-</p>
-<p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Proverbs 18:24 (NKJV)</em></p>
-
-* God is the ultimate friend who is always present
-* His closeness surpasses even the strongest human relationships
-* Highlights God's faithfulness, intimacy, and omnipresence
-
----
-
 ## Omnipresence
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
 * God is **Present Everywhere**
   * No place exists where God is absent
+* God **transcends** space
   * Not limited by space or physical boundaries
-* **Not Pantheism** (The universe is God's body)
-  * God transcends it; His presence permeates creation without being confined to it
-* God **sustains all things** by His presence
-* **Comfort**: God is always near in times of need, "closer than a brother"
-* **Accountability**: No sin or action escapes His awareness
+  * Not defined by space or stuff (as in Pantheism)
+  * His presence permeates creation without being confined to it
+* God **sustains all creation** by His presence
+* <span style="color: lime;">**Comfort**: God is near "closer than a brother", incl. in times of need</span>
+* <span style="color: red;">**Accountability**: No sin escapes His awareness</span>
 
 ---
 
-## Is God ***Spacial*** or Aspacial?
+## Is God ***Spatial*** or Aspatial?
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
@@ -161,19 +163,21 @@ Ingmar Bitter, PhD
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Psalm 11:4 (NKJV)</em></p>
 
-* Sounds like a spacial description of God
+* Sounds like a spatial description of God
 * Possibly: **Anthropomorphic Language**  
-  * Descriptions of God sitting on His throne or looking at us are figurative
-  * Points to God’s transcendence rather than literal spatiality
+  * **Figurative**: Throne and eyes symbolize authority, not body parts
+  * Points to God’s authority and transcendence, not literal spatiality
 
 ---
 
-## Is God Spacial or ***Aspacial***? (Part 1)
+## Is God Spatial or ***Aspatial***? God is Spirit
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     "Behold My hands and My feet, that it is I Myself. Handle Me and see, for **a spirit does not have flesh and bones** as you see I have."  
 </p>
-<p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Luke 24:39 (NKJV), epmahasis added</em></p>
+<p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Luke 24:39 (NKJV), emphasis added</em></p>
 
 * Jesus defines spirit as without flesh and bones
 
@@ -183,11 +187,13 @@ Ingmar Bitter, PhD
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>John 4:24 (NKJV), emphasis added</em></p>
 
 * **God is Spirit**  
-  * God is incorporeal and immaterial, not a physical being.  
+  * God is incorporeal and immaterial, not a physical being
 
 ---
 
-## Is God Spacial or ***Aspacial***? (Part 2)
+## Is God Spatial or ***Aspatial***? God is Invisible
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     "Now to the King eternal, immortal, **invisible**, to God who alone is wise, be honor and glory forever and ever. Amen."  
@@ -201,11 +207,13 @@ Ingmar Bitter, PhD
 
 * **God’s Invisibility**  
   * God is described as invisible, further supporting His incorporeal nature
-  * God’s essence is beyond physical perception
+  * God’s essence transcends physical sight
 
 ---
 
-## Is God Spacial or ***Aspacial***? (Part 3)
+## Is God Spatial or ***Aspatial***? God is Without Form
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'Gabriola', serif;">
     "Take careful heed to yourselves, for **you saw no form when the Lord spoke** to you at Horeb out of the midst of the fire, lest you act corruptly and make for yourselves a carved image in the form of any figure: the likeness of male or female."  
@@ -218,7 +226,7 @@ Ingmar Bitter, PhD
 
 ---
 
-## Creation of Time and Space in Genesis 1:1
+## Systematic Analysis: Creation of Time & Space (Genesis 1:1)
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
@@ -227,17 +235,18 @@ Ingmar Bitter, PhD
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Genesis 1:1 (NKJV)</em></p>
 
-* In Genesis 1:1, God:  
-  * Creates the universe  
-  * Creates and starts time  
-  * Enters into time  
-  * Also enters into space?  
-    * Not clear from the Bible  
-    * Needs philosophical analysis
+* Creation begins time and space (Gen 1:1):
+  * Time: God enters to engage a changing world
+  * Space: God acts without entering
+* Why not enter space?
+  * He already knows and sustains all space as a non-spatial mind
+  * Later, in Jesus, God opts into space—limiting physical presence
 
 ---
 
 ## Systematic Analysis: Avoiding Errors
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
 * **God is not localized in an earthly spot**  
   * The church is not God's "house" in a localized sense
@@ -253,21 +262,24 @@ Ingmar Bitter, PhD
 
 ## Systematic Analysis: Relating to Space
 
-* **Key Question**:  
-  * Is God everywhere in space, or does He transcend space altogether?
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-* Psalm 139 portrays God as present everywhere in space
-* Many verses views God as Spirit:  
-  * God is incorporeal and immaterial
-  * He is not a localized three-dimensional object
-  * Transcending space
-* Compatible if Psalm 139 is Anthropomorphic Language
+* Does God Live in Space?
+  * Psalm 139: God seems everywhere in space
+  * But God is Spirit (John 4:24):
+    * No body, no limits (incorporeal & immaterial)
+    * Transcends space entirely
+* Solution: Psalm 139 uses anthropomorphic and figurative language
+  * Shows God’s care, not His location
+  * Similar Psalm 11:4 shows authority, not body parts
 
 ---
 
 ## Ether Misconception
 
-* **God is not diffused throughout space**:  
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
+
+* **God is not spread out like a gas**:  
   * God is not like an invisible ether or vapor spread across space
   * This view would imply:
     * God is finite if the universe is finite
@@ -279,12 +291,32 @@ Ingmar Bitter, PhD
 
 ---
 
+## Challenges of Wholly Present
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
+
+* If God is wholly present at every point
+  * Is He so small He fits into a point?
+  * Is He replicated infinitely?
+
+* Wholly presence is not:
+  * 100% of God is present there
+* But is:
+  * God's presence is 100% effective there
+  * God is fully Himself at every point, not divided
+
+---
+
 ## Analogy of the Soul
 
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
+
 * **Analogy**:  
-  * The soul is wholly present in the body, not spread out like a ghost
-  * When I slap or trick you, it was me, not my had or foot
+  * When I slap or trip you, it was me, not my hand or foot
+    * The soul is wholly present in all parts of our body
+    * Not spread out and thinned out like a ghost
   * Similarly, God is wholly present at every point in space
+  * God’s presence fills space like this, but isn’t limited by it
 
 * **Key Difference**:  
   * The world is not God's body
@@ -292,32 +324,25 @@ Ingmar Bitter, PhD
 
 ---
 
-## Systematic Analysis: Challenges of Spatiality
-
-* **Geometrical Properties**:  
-  * If God is wholly present at every point
-    * Is He so small He fits into a point?
-    * Is he replicated infinitely?
-
-* **Transcendence Over Space**:  
-  * God is the creator of space and existed without it
-  * God’s existence does not require space
-
----
-
 ## Systematic Analysis: Creation of Space
 
-* **Creation of Space**:  
-  * Space came into being when God created the physical world
-  * Creation is a temporal act, not a spatial one
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-* **God and Space**:  
-  * Unlike time, creating space does not "spatialize" God
-  * God transcends space rather than entering into it
+* **Creation’s Impact**:  
+  * Space begins with the physical world
+  * Time draws God in; space doesn’t
+* **God’s Relation to Space**:  
+  * Space leaves God transcendent
+  * He shapes space without a spatial nature
+* **Transcendence**:  
+  * God made space and existed without it
+  * Space isn’t needed for God’s existence
 
 ---
 
 ## Systematic Analysis: Omnipresence Defined
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
 * **Omnipresence**:  
   * God is cognizant of and causally active at every point in space
@@ -333,12 +358,74 @@ Ingmar Bitter, PhD
 
 ## Systematic Analysis: Fundamental Truth
 
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
+
 * **Key Takeaway**:  
   * There is no place to which God’s knowledge and power do not extend
 
 * **Application**:  
   * God’s omnipresence assures us of His sovereignty and accessibility  
   * This truth has profound implications for our personal lives
+
+---
+
+## Application of Omnipresence
+
+![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
+
+* How does God’s omnipresence shape our lives?
+  * No place is beyond His reach
+  * His presence offers practical impact
+* Two key applications:
+  * We can contact God anywhere
+  * We should practice His presence daily
+
+---
+
+## Contacting God Anywhere
+
+![](OmniPics/GodHandsEarth.jpg style="float: right; width: 9rem")
+
+* God is present at every location
+  * Call on Him — He answers “Present!”
+  * San Francisco, Munich, Rio: He’s there
+* Personal experience:
+  * Travel abroad? God’s reality stays the same
+  * No matter where you are, He’s reachable
+* Matthew 28:20:
+  * “I am with you always, even to the end of the age”
+
+---
+
+## Practicing God’s Presence
+
+![](OmniPics/FriendBehind.jpg style="float: right; width: 9rem")
+
+* Be aware of God with us
+  * Not emotion, but constant awareness
+  * He’s not distant — He’s here
+* Especially in temptation:
+  * God watches — sin’s harder in His presence
+* Prayer shift:
+  * Don’t ask “Be with us” — He already is
+  * Thank Him, or pray for specific help (e.g., strength, guidance)
+
+---
+
+## Comfort in God’s Presence
+
+![](OmniPics/ComfortinGodsPresence.jpg style="float: right; width: 9rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    "Even though I walk through the valley of the shadow of death,<br>
+    I fear no evil, for Thou art with me."
+</p>
+<p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Psalm 23:4 (NKJV)</em></p>
+
+* God is with us in all circumstances:
+  * Work, study, ministry, persecution
+  * Illness, even death — no one is alone
+* His omnipresence brings unshakable comfort
 
 ---
 
