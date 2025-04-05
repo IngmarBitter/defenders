@@ -33,6 +33,7 @@ Ingmar Bitter, PhD
 * **Immutability**
   * God is unchanging in knowledge and character
 
+
 ---
 
 ## Omnipresence in Psalm 139:7-12
@@ -358,7 +359,7 @@ Ingmar Bitter, PhD
 
 ## Systematic Analysis: Fundamental Truth
 
-![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
+  ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
 * **Key Takeaway**:  
   * There is no place to which God’s knowledge and power do not extend
