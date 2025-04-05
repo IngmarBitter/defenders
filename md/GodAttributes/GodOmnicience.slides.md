@@ -3,10 +3,10 @@
 ![](KnowingGodPics/GodAttributes.jpg style="height: 100%; object-fit: cover; z-index: -2;")
 
 <p style="margin-top: -20em; text-align: center;">
-**God's Omni Abilities**
+**God's Omnicience**
 </p>
 <p style="margin-top: -1em; text-align: center;">
-   Exploring the Attributes of God
+   Exploring the Attribute of God's Knowledge
 </p>
 
 <p style="margin-top: 10em; text-align: center;">
@@ -24,7 +24,7 @@ Ingmar Bitter, PhD
 * God possesses all knowledge  
   * Complete and perfect  
   * Infinite in scope  
-* Is an intellectual attribute of God  
+* An intellectual attribute of God  
 
 ---
 
@@ -42,9 +42,9 @@ Ingmar Bitter, PhD
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Psalm 139:1-6 (NKJV)</em></p>
 
 * A poetic marvel at God’s knowledge  
-* God sees everything that happens  
-* From the ends of the earth to tiniest details  
-* Nothing escapes His awareness  
+* God sees everything that happens, nothing escapes His awareness
+* From the ends of the earth to the tiniest details  
+* God loves and knows us better than our most trusted friend
 
 ---
 
@@ -67,7 +67,8 @@ Ingmar Bitter, PhD
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Matthew 10:30 (NKJV)</em></p>
 
-* Evidence of God’s awareness of all events  
+* Evidence of God’s awareness of all events
+* Includes both the grand and the minute
 
 ---
 
@@ -94,9 +95,9 @@ Ingmar Bitter, PhD
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -2em;">    <em>Hebrews 4:13 (NKJV)</em></p>
 
-* God reads the secret thoughts of every person  
 * Inner motives and plans laid bare  
-* He searches every heart  
+* He searches every heart
+* God reads the secret thoughts of every person (also see Psalm 94:11)
 
 ---
 
@@ -116,9 +117,8 @@ Ingmar Bitter, PhD
 
 * God’s unique ability to declare the future  
 * His plans and purposes always prevail  
-* Demonstrates His sovereignty and omniscience  
-
----
+* Demonstrates His sovereignty and omniscience
+* Also seen in prophecies like Daniel 2 or Christ’s birth (Micah 5:2)
 
 ---
 
@@ -135,7 +135,8 @@ Ingmar Bitter, PhD
 
 * God challenges the little g gods to tell the future  
 * They cannot, thus they are not really divine  
-* Foreknowledge of the future distinguishes the true God  
+* Foreknowledge of the future distinguishes the true God
+* Fulfilled prophecy (e.g. fall of Babylon, Isaiah 13) proves His deity
 * Hard to explain on Open Theism  
   * (where God does not know the future)  
 
@@ -151,18 +152,18 @@ Ingmar Bitter, PhD
 </p>
 <p style="text-align: right; margin-top: -2em;">    <em>Psalm 139:4 (NKJV)</em></p>
 <p style="font-family: 'Gabriola', serif;">
-    Your eyes saw my substance, being yet unformed.
-    And in Your book they all were written,
-    The days fashioned for me,
-    When as yet there were none of them.
+    Your eyes saw my substance, being yet unformed.  
+    And in Your book they all were written,  
+    The days fashioned for me,  
+    When as yet there were none of them.  
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Psalm 139:16 (NKJV)</em></p>
 
-* God foreknows the words we will chose to say  
+* God foreknows the words we will choose to say  
 * God writes our biography before we’re born  
-* ?! Foreknowlegde does not limit our choices  
+* ?! Foreknowledge reflects, not dictates, our choices
 * ?! Foreknowledge does not remove free will  
-  * e.g. Joviette knows I will freely choose chocolate  
+  * e.g., Joviette knows I will freely choose chocolate  
 
 ---
 
@@ -173,7 +174,7 @@ Ingmar Bitter, PhD
 <p style="font-family: 'Gabriola', serif;">
     "Jesus said to him, 'Assuredly, I say to you that this night, before the rooster crows, you will deny Me three times.'"  
 </p>
-<p style="text-align: right; margin-top: -2em; margin-bottom: -1em">    <em>Matthew 26:34 (NKJV)</em></p>
+<p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Matthew 26:34 (NKJV)</em></p>
 
 <p style="font-family: 'Gabriola', serif;">
     "Jesus answered, 'It is he to whom I shall give a piece of bread when I have dipped it.' And having dipped the bread, He gave it to Judas Iscariot, the son of Simon."  
@@ -186,12 +187,12 @@ Ingmar Bitter, PhD
 <p style="text-align: right; margin-top: -1em; margin-bottom: -2em;">    <em>Matthew 24:3 (NKJV)</em></p>
 
 * Jesus predicted:  
-  * Peter’s denial, Judas’ betrayal, Signs of the end times  
+  * Peter’s denial, Judas’ betrayal, signs of the end times  
 * Demonstrates divine omniscience  
 
 ---
 
-## God Knows Hypothetical What-If-Truths
+## God Knows Hypothetical What-If Truths
 
 ![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
 
@@ -200,16 +201,17 @@ Ingmar Bitter, PhD
     After defeating the Philistines, David learned that Saul planned to attack Keilah.  
     David asked God if Saul would come and if the people of Keilah would betray him.  
     God revealed that both would happen, so David and his men fled.  
-    Saul was informed of this and turned his army around.
-</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>1 Samuel 23:1-13, summarized</em></p>
+    Saul was informed of this and turned his army around.  
+</p>
+<p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>1 Samuel 23:1-13, summarized</em></p>
 
-* God knew what would happen **if** David stayed: Saul would attack  
-* However, David left, so it didn’t occur  
+* God knew what **would** happen **if** David stayed: Saul would attack  
+* However, David left, so it did not occur  
 * This shows God’s knowledge of what would occur under hypothetical circumstances  
 
 ---
 
-## Slide 14: God Knows Intentional What-If-Truths
+## God Knows Intentional What-If Truths
 
 ![](OmniPics/GodForkIntentional.jpg style="float: right; width: 9rem")
 
@@ -219,7 +221,8 @@ Ingmar Bitter, PhD
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>John 21:6 (NKJV)</em></p>
 
 * Jesus knew the outcome of obedience  
-* He knew what will happen if intended action is performed  
+* He knew what **would** happen **if** intended action is performed
+* Shows God’s wisdom in guiding decisions
 
 ---
 
@@ -241,6 +244,7 @@ Ingmar Bitter, PhD
 * God’s knowledge is perfect and complete  
 * No one can teach Him, there is nothing He still needs to learn  
 * Understanding beyond measure  
+* Unlike humans, His knowledge is eternal and unchanging
 
 ---
 
@@ -249,9 +253,9 @@ Ingmar Bitter, PhD
 ![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
 
 * Omniscience is one of the most discussed and fascinating attributes of God
-* Defined in terms of truth:  
-  * God knows all true propositions and believes no falsehoods  
-* God knows all past, present, and future truths  
+* God knows all past, present, and future truths
+  * What exactly does that mean?
+  * How does God’s foreknowledge relate to human freedom?
 
 ---
 
@@ -259,6 +263,9 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
 
+* Defined in terms of truth:  
+  * God knows all true propositions and believes no falsehoods  
+* For any true proposition, God knows it and does not believe its negation  
 * For any true proposition `p`, God knows `p` and does not believe `not-p`  
 * God knows only and all truths
 * God foreknew the motion of every subatomic particle before creation  
@@ -266,13 +273,18 @@ Ingmar Bitter, PhD
 
 ---
 
-## God Knows Hypotheticals
+## God Knows Could, Would and Will Futures
 
 ![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
 
-* God knows what we would do under different circumstances  
-* For any true proposition, God knows it and does not believe its negation  
-* This includes hypothetical scenarios and alternate possibilities  
+* God knows actual and hypothetical truths
+* God knows what we
+  * **Could** do
+    * All logically possible options
+  * **Would** do
+    * Free choices in different circumstances
+  * **Will** do
+    * Free choices in actually occurring circumstances
 
 ---
 
@@ -280,14 +292,14 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodBooksAndHearts.jpg style="float: right; width: 9rem")
 
-* Propositional knowledge: Ingmar has been treed by a moose”  
-* Self-knowledge: “I am Ingmar”  
-* Self-knowledge motivates action (e.g., holding on for dear life)  
+* Propositional knowledge: People get hungry  
+* Self-knowledge: I am hungry  
+* Self-knowledge motivates action (e.g., eat chocolate)  
 * Without self-knowledge, propositional knowledge alone is insufficient for action  
 
 * God’s cognitive excellence exceeds omniscience  
   * Propositional knowledge + self-knowledge  
-  * God knows, “I am God”  
+  * God knows, “I am God”, “I love my creation”
 
 ---
 
@@ -372,13 +384,13 @@ Ingmar Bitter, PhD
 
 ---
 
-## Subjunctive Conditionals and Foreknowledge
+## Alternate Choices and Foreknowledge
 
 ![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
 
-* If the event were different, God’s foreknowledge would be different  
+* **If** the event were different, God’s foreknowledge **would** be different  
 * Example:  
-  * If you choose coconut, God foreknows that instead  
+  * If you choose coconut instead, God foreknows that instead  
 * God’s foreknowledge tracks your choices like an infallible barometer  
 
 ---
@@ -389,8 +401,7 @@ Ingmar Bitter, PhD
 
 * God’s foreknowledge does not cause events to occur  
 * Example:
-  * I know it will not rain in the next minute
-    * My knowledge is not preventing the rain
+  * Knowing the sun will rise is not causing it
   * Event E occurs freely or randomly  
     * God’s knowledge of E does not make it necessary  
 * Fatalism imposes an unintelligible constraint on human freedom
@@ -418,7 +429,7 @@ Ingmar Bitter, PhD
 
 ---
 
-## Middle Knowledge: Introduction
+## How does God Know the Future?
 
 ![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
 
@@ -449,20 +460,20 @@ Ingmar Bitter, PhD
 
 ---
 
-## Middle Knowledge and Subjunctive Conditionals
+## Middle Knowledge and What-If Truths
 
 ![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
 
-* Middle knowledge includes subjunctive conditionals:  
-  * "**If** you had been in Pilate’s place, you **would** have condemned Jesus"  
-* Not foreknowledge, as the situation never occurs  
+* Middle knowledge includes what-if truths:  
+  * "**If** you were been in Peter’s place, you **would** deny Jesus"  
+* Not foreknowledge, as the situation never occurs
 * God knows what free creatures **would** do in any given circumstance
 
 ---
 
 ## A Christmas Carol by Charles Dickens
 
-![](OmniPics/ChristmasCarol.jpg style="float: right; width: 9rem")
+![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
 
 * Spirit of Christmas Yet to Come shows Scrooge what **would** happen **if** he does not repent
 * Not **will** happen. Not foreknowledge (it doesn’t happen)
@@ -477,7 +488,7 @@ Ingmar Bitter, PhD
 
 * Question: Does God know what creatures would freely do in any circumstance?  
 * Proponents (e.g., Luis Molina) say yes
-* Opponents say God only has simple foreknowledge of what will happen
+* Opponents (Luther, Calvin) say God only has simple foreknowledge of what will happen
 
 ---
 
@@ -510,10 +521,10 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
 
-* Example: Success of the Allied invasion on D-Day  
-  * Requires Winston Churchill to exist  
-  * Involves innumerable contingencies (e.g., timing of Churchill’s conception)  
-* Only an infinite mind could direct free creatures toward His ends  
+* Example: Success of traveling Back To The Future
+  * Requires parents to meet and fall in love
+  * Involves innumerable contingencies (dad overcoming fear, right opportunity, lightning at the right time, ...)
+* Only an infinite mind could direct free creatures toward His ends
 
 ---
 
@@ -522,18 +533,12 @@ Ingmar Bitter, PhD
 ![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
 
 * God’s options may be limited by human freedom  
-* Possible worlds where everyone freely does the right thing may not be feasible  
-* God permits evil to achieve greater good and His ultimate purposes  
+  * Possible worlds where everyone freely does the right thing may not be feasible  
+  * God permits evil to achieve greater good and His ultimate purposes  
 
----
-
-## God’s Choice of the Best World
-
-![](OmniPics/GodBooksAndHearts.jpg style="float: right; width: 9rem")
-
-* God chooses a world with more good than evil  
-* Evil results from human free choices, not God’s will  
-* God’s ultimate purposes will be accomplished despite evil  
+* God chooses a world with best ratio of good to evil  
+  * Evil results from human free choices, not God’s will  
+  * God’s ultimate purposes will be accomplished despite evil  
 
 ---
 
@@ -545,6 +550,73 @@ Ingmar Bitter, PhD
 * God knows what free creatures would do in any circumstance  
 * God achieves His purposes without violating human freedom  
 * Provides a robust framework for understanding divine providence  
+
+---
+
+## Transition: From Theological Depth to Practical Application
+
+![](OmniPics/GodAndWorldDetails.jpg style="float: right; width: 9rem")
+
+* Understanding God’s omniscience has profound implications for our lives  
+* Let’s explore how this knowledge applies to our trust, accountability, and worship  
+
+---
+
+## Application: Trust in God's Omniscience
+
+![](OmniPics/GodBooksAndHearts.jpg style="float: right; width: 9rem")
+
+* God knows our needs before we ask  
+* His plans are based on perfect knowledge  
+* We can trust His wisdom fully  
+* Rest in the assurance that nothing escapes His awareness  
+
+---
+
+## Application: Accountability Before God
+
+![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
+
+* No thought or deed is hidden from God  
+* Calls us to honesty and integrity  
+* Live with the awareness that all is laid bare before His eyes  
+* Let His omniscience guide us toward righteousness  
+
+---
+
+## Application: Comfort in God's Sovereignty
+
+![](OmniPics/GodAndWorldDetails.jpg style="float: right; width: 9rem")
+
+* God’s knowledge of the future assures us of His control  
+* Even in suffering, trust that His purposes will prevail  
+* Take comfort in knowing He works all things for good  
+* His omniscience ensures His plans are perfect  
+
+---
+
+## Application: Worship and Adoration
+
+![](OmniPics/OwlBooksIdeas.jpg style="float: right; width: 9rem")
+
+* Reflect on the greatness of God’s knowledge  
+* Praise Him for His infinite wisdom and understanding  
+* Let His omniscience inspire awe and worship  
+* Acknowledge His intellectual excellence beyond comprehension  
+
+---
+
+## Key Takeaways
+
+![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
+
+* God knows:  
+  * All past and current events  
+  * Our thoughts  
+  * The future  
+  * What could, would, and will be  
+* His knowledge is infinite and unsearchable  
+* We trust, worship, and live in light of His omniscience  
 
 ---
 
