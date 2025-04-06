@@ -163,7 +163,7 @@ Ingmar Bitter, PhD
 * God writes our biography before we’re born  
 * ?! Foreknowledge reflects, not dictates, our choices
 * ?! Foreknowledge does not remove free will  
-  * e.g., Joviette knows I will freely choose chocolate  
+  * e.g., My friends know I will freely choose chocolate  
 
 ---
 
@@ -250,7 +250,7 @@ Ingmar Bitter, PhD
 
 ## Systematic Summary of Omniscience
 
-![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
+![](OmniPics/OwlBooksIdeasThoughts.jpg style="float: right; width: 9rem")
 
 * Omniscience is one of the most discussed and fascinating attributes of God
 * God knows all past, present, and future truths
@@ -261,7 +261,7 @@ Ingmar Bitter, PhD
 
 ## Omniscience Defined
 
-![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
+![](OmniPics/brainPower.jpg style="float: right; width: 9rem")
 
 * Defined in terms of truth:  
   * God knows all true propositions and believes no falsehoods  
@@ -290,7 +290,7 @@ Ingmar Bitter, PhD
 
 ## Beyond Omniscience: Self-Knowledge
 
-![](OmniPics/GodBooksAndHearts.jpg style="float: right; width: 9rem")
+![](OmniPics/SelfKnowledge.jpg style="float: right; width: 9rem")
 
 * Propositional knowledge: People get hungry  
 * Self-knowledge: I am hungry  
@@ -299,13 +299,13 @@ Ingmar Bitter, PhD
 
 * God’s cognitive excellence exceeds omniscience  
   * Propositional knowledge + self-knowledge  
-  * God knows, “I am God”, “I love my creation”
+  * God knows, “I am the creator”, “I love my creation”
 
 ---
 
 ## Beyond Omniscience: Innate Knowledge
 
-![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
+![](OmniPics/BrainInnate.jpg style="float: right; width: 9rem")
 
 * God’s knowledge is innate, not acquired  
 * He does not learn from others or external sources  
@@ -315,7 +315,7 @@ Ingmar Bitter, PhD
 
 ## God’s Cognitive Excellence
 
-![](OmniPics/OwlBooksIdeas.jpg style="float: right; width: 9rem")
+![](OmniPics/BrainInnate.jpg style="float: right; width: 9rem")
 
 * God’s intellectual excellence surpasses omniscience  
 * He knows all truths, has perfect self-knowledge, and possesses innate knowledge  
@@ -325,7 +325,7 @@ Ingmar Bitter, PhD
 
 ## Implications and Problems of Omniscience
 
-![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
+![](OmniPics/OwlQuestions.jpg style="float: right; width: 9rem")
 
 * God’s knowledge includes foreknowledge of free choices  
 * Raises two key questions:  
@@ -338,7 +338,7 @@ Ingmar Bitter, PhD
 
 ## Compatibility of Foreknowledge and Freedom
 
-![](OmniPics/GodAndWorldDetails.jpg style="float: right; width: 9rem")
+![](OmniPics/ForeknowledgeAndFreedom.jpg style="float: right; width: 9rem")
 
 * If God knows in advance every choice we will make, is everything fated to occur?
 * Example:  
@@ -350,19 +350,21 @@ Ingmar Bitter, PhD
 
 ## Fatalism and Divine Foreknowledge
 
-![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
+![](OmniPics/GodsToys.jpg style="float: right; width: 9rem")
 
 * Fatalism: Everything happens necessarily  
 * Some theologians (Luther, Clavin) equate foreknowledge with foreordination:  
   * God foreordains everything, so He knows the future  
   * This view denies human freedom  
-* Problem: This makes God the author of sin and have evil character
+* Problems
+  * Makes God the author of sin and have evil character
+  * Makes us God's toys
 
 ---
 
 ## Foreknowledge ≠ Foreordination
 
-![](OmniPics/GodBooksAndHearts.jpg style="float: right; width: 9rem")
+![](OmniPics/ForeknowledgeForeordination.jpg style="float: right; width: 9rem")
 
 * God knows in advance the choices people will freely make  
 * Foreknowledge does not mean God determines those choices  
@@ -372,12 +374,23 @@ Ingmar Bitter, PhD
 
 ---
 
-## Chronological vs. Logical Priority
+## Foreknowledge ≠ Foreordination ≠ Decree
 
-![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
+![](OmniPics/StringsAndScroll.jpg style="float: right; width: 9rem")
 
-* Chronological priority: Foreknowledge comes before the event in time  
-* Logical priority: The event explains God’s foreknowledge  
+* **Foreknowledge**: God’s timeless knowledge of all events, including what every possible person **would** freely choose in any circumstance
+* **Foreordination**: God’s sovereign act of determining the course of events, choosing which possibilities to actualize in the created world such that they aligning with His ultimate purposes
+* **Decree**: The unchangeable plan resulting from God’s act of foreordination
+* **Timeless Nature**: Foreknowledge, foreordination, and the decree exist timelessly in God’s eternal nature—there is no “before” or “after” in God’s perspective, only logical order
+
+---
+
+## Chronological vs. Logical Order
+
+![](OmniPics/ChooseChocolate.jpg style="float: right; width: 9rem")
+
+* Chronological order: Foreknowledge comes before the event in time  
+* Logical order: The event explains (is logically prior to) God’s foreknowledge
 * Example:  
   * You choose chocolate → God foreknows it  
   * Not: God foreknows it → You choose chocolate
@@ -386,7 +399,7 @@ Ingmar Bitter, PhD
 
 ## Alternate Choices and Foreknowledge
 
-![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
+![](OmniPics/AlternateChoices.jpg style="float: right; width: 9rem")
 
 * **If** the event were different, God’s foreknowledge **would** be different  
 * Example:  
@@ -397,7 +410,7 @@ Ingmar Bitter, PhD
 
 ## Foreknowledge Does Not Imply Fatalism
 
-![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
+![](OmniPics/EyeOverFork.jpg style="float: right; width: 9rem")
 
 * God’s foreknowledge does not cause events to occur  
 * Example:
@@ -411,7 +424,7 @@ Ingmar Bitter, PhD
 
 ## Freedom and Foreknowledge
 
-![](OmniPics/GodBooksAndHearts.jpg style="float: right; width: 9rem")
+![](OmniPics/EyeOverFork.jpg style="float: right; width: 9rem")
 
 * Free choices are logically prior to God’s foreknowledge  
 * God’s foreknowledge does not prejudice human freedom  
@@ -419,9 +432,20 @@ Ingmar Bitter, PhD
 
 ---
 
+## Logical Order (Assuming Molinism)
+
+![](OmniPics/Decree.jpg style="float: right; width: 9rem")
+
+1. **Middle Knowledge**: Free choices are the logical start. God foreknows how anyone would act in any hypothetically possible circumstance
+2. **Infinite Possible Worlds**: God evaluates all possible worlds with all combinations of circumstances and associated free choices and subseqent outcomes
+3. **Divine Forordination**: God chooses which circumstances to actualize, determining one world with His preferred cumstances and associated preferred foreknown free choices
+4. **Decree**: The infinite hypotheticals collapse into one actualized reality through God’s decree, aligning with His purposes
+
+---
+
 ## Key Takeaway: Foreknowledge and Freedom
 
-![](OmniPics/GodOpenBooks.jpg style="float: right; width: 9rem")
+![](OmniPics/Decree.jpg style="float: right; width: 9rem")
 
 * God’s foreknowledge is infallible but does not constrain human freedom  
 * Events are free and contingent, not fated or necessary  
