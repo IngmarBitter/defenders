@@ -622,15 +622,15 @@ Ingmar Bitter, PhD
 * His knowledge is infinite and unsearchable  
 * We trust, worship, and live in light of His omniscience  
 
+<small>Version 2024.04.12</small>
+
 ---
 
-[ingmarbitter.github.io/defenders/RevelationAndFoundations/GodOmniAbilities.slides.html](https://ingmarbitter.github.io/defenders/RevelationAndFoundations/GodOmniAbilities.slides.html)
+[ingmarbitter.github.io/defenders/RevelationAndFoundations/GodAttributes/GodOmniscience.sildes.html](https://ingmarbitter.github.io/defenders/RevelationAndFoundations/GodAttributes/GodOmniscience.sildes.html)
 
 [TinyUrl.com/CreeksideDefenders](../CreeksideDefenders.html)
 
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
-
-![](../RevelationAndFoundations/foundationPics/CreeksideDefendersSignUp.jpg style="float: right; width: 9rem")
 
 <!-- Markdeep slides stuff -->
 <script>

@@ -430,26 +430,6 @@ Ingmar Bitter, PhD
 
 ---
 
-## Omniscience
-
-![](KnowingGodPics/Omniscience.jpg style="float: right; width: 9rem")
-
-* God is all-knowing
-* Knows past, present, and future
-* Wisdom and guidance for believers
-
----
-
-## Omnipotence
-
-![](KnowingGodPics/Omnipotence.jpg style="float: right; width: 9rem")
-
-* God is all-powerful
-* Can do all things consistent with His nature
-* Source of strength and hope for believers
-
----
-
 [ingmarbitter.github.io/defenders/RevelationAndFoundations/GodOmniAbilities.slides.html](https://ingmarbitter.github.io/defenders/RevelationAndFoundations/GodOmniAbilities.slides.html)
 
 [TinyUrl.com/CreeksideDefenders](../CreeksideDefenders.html)

@@ -51,8 +51,10 @@ Topics
 4. Doctrine of God
    1. [God is knowable](GodAttributes/KnowingGod.sildes.html)
    2. [Self-Existing & Eternal & Immaterial](GodAttributes/GodInfiniteIdentity.sildes.html)
-   3. [Omnipresent & Omniscient & Omnipotent](GodAttributes/GodOmniAbilities.sildes.html)
-   4. [Immutable & Holy & Loving](GodAttributes/GodRelational.sildes.html)
+   3. [Omnipresent](GodAttributes/GodOmnipresence.sildes.html)
+   4. [Omniscient](GodAttributes/GodOmniscience.sildes.html)
+   5. [Omnipotent](GodAttributes/GodOmniAbilities.sildes.html)
+   6. [Immutable & Holy & Loving](GodAttributes/GodRelational.sildes.html)
 5. God must exist
    1. [Kalam Cosmological Argument](Kalam/Kalam.slides.html)
    2. [Teleological Argument from Fine-Tuning](FineTuning/FineTuning.slides.html)
@@ -117,7 +119,7 @@ Resources
 ![](RevelationAndFoundations/foundationPics/CreeksideDefendersSignUp.jpg style="float: right; width: 9rem")
 
 
-<small>Version 2024.02.08<small>
+<small>Version 2024.04.12<small>
  
 <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'short'};</script>
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
