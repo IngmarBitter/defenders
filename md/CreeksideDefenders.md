@@ -53,7 +53,7 @@ Topics
    2. [Self-Existing & Eternal & Immaterial](GodAttributes/GodInfiniteIdentity.sildes.html)
    3. [Omnipresent](GodAttributes/GodOmnipresence.sildes.html)
    4. [Omniscient](GodAttributes/GodOmniscience.sildes.html)
-   5. [Omnipotent](GodAttributes/GodOmniAbilities.sildes.html)
+   5. [Omnipotent](GodAttributes/GodOmnipotence.sildes.html)
    6. [Immutable & Holy & Loving](GodAttributes/GodRelational.sildes.html)
 5. God must exist
    1. [Kalam Cosmological Argument](Kalam/Kalam.slides.html)
