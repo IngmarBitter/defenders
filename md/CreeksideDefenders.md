@@ -45,9 +45,9 @@ Topics
 2. [Foundations of Christian Doctrine & Apologetics](RevelationAndFoundations/Foundations.slides.html) <small>What it is, Why to study it</small>
 3. Doctrine of Revelation
    1. [Revelation: definition, types, function](RevelationAndFoundations/Revelation101.slides.html)
-   2.  [Bible Inspiration](RevelationAndFoundations/BibleInspiration.slides.html)
-   3.  [Biblical Inerrancy](RevelationAndFoundations/BibleInerrancy.slides.html)
-   4.  [Bible Canonicity](RevelationAndFoundations/Canonicity.slides.html)
+   2. [Bible Inspiration](RevelationAndFoundations/BibleInspiration.slides.html)
+   3. [Biblical Inerrancy](RevelationAndFoundations/BibleInerrancy.slides.html)
+   4. [Bible Canonicity](RevelationAndFoundations/Canonicity.slides.html)
 4. Doctrine of God
    1. [God is knowable](GodAttributes/KnowingGod.sildes.html)
    2. [Self-Existing & Eternal & Immaterial](GodAttributes/GodInfiniteIdentity.sildes.html)
@@ -56,10 +56,11 @@ Topics
    5. [Omnipotent](GodAttributes/GodOmnipotence.sildes.html)
    6. [Immutable & Holy & Loving](GodAttributes/GodRelational.sildes.html)
 5. God must exist
-   1. [Kalam Cosmological Argument](Kalam/Kalam.slides.html)
-   2. [Teleological Argument from Fine-Tuning](FineTuning/FineTuning.slides.html)
-   3. [Moral Argument](MoralArgument/MoralArgument.slides.html) from Absolute Moral Values
-   4. other arguments (Leibnitz argument from Contingency, Ontological), Properly Basic Belief
+   1. [Properly Basic Belief](NaturalTheology/ProperlyBasicBelief.sildes.html)
+   2. [Kalam Cosmological Argument](Kalam/Kalam.slides.html)
+   3. [Teleological Argument from Fine-Tuning](FineTuning/FineTuning.slides.html)
+   4. [Moral Argument](MoralArgument/MoralArgument.slides.html) from Absolute Moral Values
+   5. other arguments (Leibnitz argument from Contingency, Ontological), Properly Basic Belief
 6. Problem of Evil/Suffering/Hell <small>Why does God not prevent all three? Christianity has the best answer, [gives comfort](Evil.emotion/Evil.emotion.slides.html)</small>
 7. Doctrine of the Trinity <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
 8. Doctrine of Christ <small>Deity and Humanity of Christ, History of Explanations, Possible Model</small>
@@ -71,11 +72,11 @@ Topics
    4. Chemistry <small>First living cell from inorganic matter</small>
    5. Biology <small>Evolutionism & Creation, Irreducible Complex Systems, Man/Ape differences, variations between humans, Consciousness, morality</small>
 11. Doctrine of Man <small>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?</small>
-12. Doctrine of Salvation 
-   1.  How Jesus’s death can be a substitute payment for our own guilt penalty
-   2.  Baptism
-   3.  Only Jesus leads to heaven
-   4.  Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
+12. Doctrine of Salvation
+   1. How Jesus’s death can be a substitute payment for our own guilt penalty
+   2. Baptism
+   3. Only Jesus leads to heaven
+   4. Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
    5.  Can we throw away our salvation?
 13. Doctrine of the Church <small>The role of believers as the body of Christ</small>
 14. Doctrine of the Last Things 
