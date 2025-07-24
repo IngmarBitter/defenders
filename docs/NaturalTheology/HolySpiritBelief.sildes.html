@@ -31,7 +31,7 @@ Ingmar Bitter, PhD
 
 ---
 
-# The Role of the Holy Spirit for Unbelievers Grounding Properly Basic Belief
+# The Role of the Holy Spirit for Believers Grounding Properly Basic Belief
 
 ---
 
@@ -177,7 +177,11 @@ Ingmar Bitter, PhD
 
 ---
 
-## Scripture: Seeking God and Knowing the Truth
+# The Role of the Holy Spirit for Unbelievers
+
+---
+
+## Scripture: Seeking God & Knowing the Truth
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
@@ -207,10 +211,6 @@ Ingmar Bitter, PhD
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>John 7:16-17 (NKJV)</em></p>
 
 * The Spirit draws unbelievers to Christ, enabling them to know the truth of the Gospel.
-
----
-
-# The Role of the Holy Spirit for Unbelievers
 
 ---
 
