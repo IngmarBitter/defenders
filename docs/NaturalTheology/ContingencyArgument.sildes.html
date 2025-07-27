@@ -18,7 +18,7 @@ Ingmar Bitter, PhD
 
 ## Recap: The Mystery of Existence
 
-![](NatTheoPics/Leibniz.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * Why is there something rather than nothing?
 * William Shakespeare (*Hamlet*, Act 3, Scene 1, 1600):
@@ -37,7 +37,7 @@ Ingmar Bitter, PhD
 
 ## Leibniz's Cosmological Argument
 
-![](NatTheoPics/Logic.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 1. Every existing thing has an explanation of its existence, either in the necessity of its own nature or in an external cause.
 2. If the universe has an explanation of its existence, that explanation is God.
@@ -79,7 +79,7 @@ Ingmar Bitter, PhD
 
 ## Illustration: The Translucent Ball
 
-![](NatTheoPics/Ball.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * Imagine finding a translucent ball in the forest:
   * You would naturally ask, "Why does it exist?"
@@ -101,7 +101,7 @@ Ingmar Bitter, PhD
 
 ## The Implications of the Argument
 
-![](NatTheoPics/Implications.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * The argument provides a powerful concept of God:
   * A metaphysically necessary being.
@@ -116,7 +116,7 @@ Ingmar Bitter, PhD
 
 ## Premise (1): The Taxicab Fallacy
 
-![](NatTheoPics/Logic.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * Atheists often exempt the universe from the principle of sufficient reason:
   * "Everything in the universe has an explanation, but the universe itself does not."
@@ -132,7 +132,7 @@ Ingmar Bitter, PhD
 
 ## The Universe as an Exception
 
-![](NatTheoPics/Universe.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * Some atheists argue the universe exists without explanation because:
   * It is impossible for the universe to have an explanation.
@@ -144,7 +144,7 @@ Ingmar Bitter, PhD
 
 ## The Universe as a Necessary Being
 
-![](NatTheoPics/Discussion.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * Some claim the universe exists necessarily:
   * This is a philosophical claim.
@@ -162,7 +162,7 @@ Ingmar Bitter, PhD
 
 ## The Beginning of the Universe
 
-![](NatTheoPics/BigBang.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * Evidence suggests the universe had a beginning.
   * A metaphysically necessary being must exist eternally.
@@ -175,7 +175,7 @@ Ingmar Bitter, PhD
 
 ## Premise (2): The Explanation is God
 
-![](NatTheoPics/God.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * If the universe has an explanation, that explanation is God.
 * Logical rule: Contraposition:
@@ -190,7 +190,7 @@ Ingmar Bitter, PhD
 
 ## The Cause of the Universe
 
-![](NatTheoPics/Mind.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * The explanation must transcend space, time, matter, and energy:
   * A non-physical, immaterial, timeless, spaceless being.
@@ -205,7 +205,7 @@ Ingmar Bitter, PhD
 
 ## Conclusion: The Rich Concept of God
 
-![](NatTheoPics/God.jpg style="float: right; width: 9rem")
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * The argument from contingency leads to a rich concept of God:
   * An uncaused, unembodied mind.
@@ -213,7 +213,7 @@ Ingmar Bitter, PhD
   * Exists with metaphysical necessity.
 * This is an exalted and theologically significant conclusion — mind-blowing.
 
-<small>Version 2025.07.19</small>
+<small>Version 2025.07.27</small>
 
 <!-- Markdeep slides stuff -->
 <script>
