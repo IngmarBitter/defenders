@@ -1,6 +1,7 @@
 <meta charset="utf-8" lang="en">
 
-**Kalam Cosmological Argument**  
+**Kalam Cosmological Argument**
+
 God must exist as the creator of the universe
 
 <small><em><span class="current-date"></span></em></small><br>  
@@ -37,19 +38,19 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/Pyramids.jpg style="float: right; width: 9rem")
 
-(1) Whatever begins to exist has a cause  
+(1) **Whatever begins to exist has a cause**  
 
-(2) The universe began to exist  
+(2) **The universe began to exist**  
 
 Conclusion  
 
-(3) Therefore, the universe has a cause  
+(3) **Therefore, the universe has a cause**  
 
 ---
 
 ## The Conclusion Follows Logically
 
-![](NatTheoPics/Spiral4.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral3.jpg style="float: right; width: 9rem")
 
 (3) Therefore, the universe has a cause  
 
@@ -63,31 +64,30 @@ Makes sense because
 
 ## Premise (1) Is Reasonable
 
-![](NatTheoPics/Spiral5.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral4.jpg style="float: right; width: 9rem")
 
 (1) Whatever begins to exist has a cause  
 
-* Makes sense because:  
-  * Something cannot come from nothing  
-    * Physical AND metaphysical principle  
-  * If false, anything could come from nothing:  
-    * Why only universes? Why only once?  
-    * Why not umbrellas, unicorns, or UFOs?  
-  * If false, worse than magic:  
-    * Magic: magician + hat = rabbit  
-    * Nothing + nothing = everything … lol  
-  * Empirical evidence supports causality:  
-    * Observations in science consistently show causes for effects  
+* Something cannot come from nothing  
+  * Physical AND metaphysical principle  
+* If false, anything could come from nothing:  
+  * Why only universes? Why only once?  
+  * Why not umbrellas, unicorns, or UFOs?  
+* If false, worse than magic:  
+  * Magic: magician + hat = rabbit  
+  * Nothing + nothing = everything … lol  
+* Empirical evidence supports causality:  
+  * Observations in science consistently show causes for effects  
 
 ---
 
 ## (2) Is Reasonable Physically - Thermodynamics and Expansion
 
-![](NatTheoPics/Spiral6.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral5.jpg style="float: right; width: 9rem")
 
 (2) The universe began to exist  
 
-* Tracing our expanding universe back in time terminates at a singularity, a beginning of time  
+* Tracing our expanding universe back in time terminates at a singularity—a beginning of time.  
 * Thermodynamics of the universe predict heat death:  
   * The sun still shines, so no infinite time can have passed  
 * The Borde-Guth-Vilenkin theorem:  
@@ -98,7 +98,7 @@ Makes sense because
 
 ## (2) Is Reasonable Physically - Big Bang and Scientific Evidence
 
-![](NatTheoPics/Spiral7.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral6.jpg style="float: right; width: 9rem")
 
 (2) The universe began to exist  
 
@@ -113,7 +113,7 @@ Makes sense because
 
 ## (2) Is Reasonable Metaphysically - Infinites
 
-![](NatTheoPics/Spiral3.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral7.jpg style="float: right; width: 9rem")
 
 * **Potential Infinity (∞):** A process that grows indefinitely but never completes  
   * Example: My age when in heaven  
@@ -144,7 +144,7 @@ Makes sense because
 
 ## (2) Is Reasonable Met. - Successive Addition
 
-![](NatTheoPics/Spiral4.jpg style="float: right; width: 8rem")
+![](NatTheoPics/Spiral8.jpg style="float: right; width: 8rem")
 
 (2) The universe began to exist  
 
@@ -162,7 +162,7 @@ Makes sense because
 
 ## (2) Is Reasonable Met. - Grim Reaper Paradox
 
-![](NatTheoPics/Spiral5.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral9.jpg style="float: right; width: 9rem")
 
 (2) The universe began to exist  
 
@@ -173,13 +173,13 @@ Makes sense because
     * Grim Reaper #3 strikes at 7am, and so on  
   * You cannot survive past 9am:  
     * But no Grim Reaper kills you because you would already be dead  
-  * => Logical contradiction: Shows the impossibility of an infinite past  
+  * => Logical contradiction: An infinite past is impossible  
 
 ---
 
 ## (2) Is Reasonable Met. - Absurdities
 
-![](NatTheoPics/Spiral6.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral10.jpg style="float: right; width: 9rem")
 
 * Saturn and Jupiter orbits:  
   * For every one orbit of Saturn, Jupiter completes two  
@@ -197,7 +197,7 @@ Makes sense because
 
 Then God must have a cause to explain Him !?
 
-![](NatTheoPics/Spiral8.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral11.jpg style="float: right; width: 9rem")
 
 * No we are not looking for an explanation of existence<br>
   but for a cause starting existence
@@ -213,9 +213,7 @@ Then God must have a cause to explain Him !?
 
 ## (2) Objection: Steady-State Model
 
-The universe could be eternal in a steady-state!?
-
-![](NatTheoPics/Spiral15.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral12.jpg style="float: right; width: 9rem")
 
 * The steady-state model proposes:
   * The universe has always existed in a constant state
@@ -233,37 +231,32 @@ The universe could be eternal in a steady-state!?
 
 The cause of the universe is the Big Bang !?
 
-![](NatTheoPics/Spiral7.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral13.jpg style="float: right; width: 9rem")
 
 * This misses the point
   * The Big Bang is the initial expansion of the very early universe from a singularity
   * At the singularity and up to 10e-45 seconds physics does not apply
   * Afterward there are equations for the expansion
-* We need an explanation of the cause of the singularity<br>
-  not its change after coming into existence
-* The Big Bang itself requires a cause
+* We need an explanation of the cause of the singularity,<br>
+  not its change after coming into existence.
+* The Big Bang itself requires a cause:
   * It cannot explain its own existence
-* **Scientific implications of the Big Bang**
-  * Space-time began at the singularity; there is no "before"
-  * The beginning of space-time implies the beginning of all matter and energy
-  * Alternative models without a beginning have been shown untenable
-  * The Big Bang model strongly supports the second premise of the Kalam argument
 
 ---
 
 ## (1) Objection: Uncaused Vacuum Particles
 
-![](NatTheoPics/Spiral9.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral14.jpg style="float: right; width: 9rem")
 
-* Virtual particles come not from nothing, but from the energy in the vacuum via E=mc²
-* The vacuum is not nothing but quantum energy
-* The cause is known: energy to matter conversion
-* Only the timing is not known
+* Virtual particles do not come from nothing, but from the energy in the vacuum via E=mc².
+* The vacuum is not nothing, but quantum energy.
+* The cause is known: energy-matter conversion.
+* Only the timing is not known.
 * If quantum fluctuations were possible as a source for matter:
-  * Small fluctuations would be vastly more frequent than large ones
-  * The matter for the entire universe requires a huge fluctuation
-  * It would be much more likely to have a single brain with universe simulation (Boltzmann brain) fluctuate into existence
-  * Rationality would force us to believe we are Boltzmann brains rather than part of a larger universe - that defeats this objection
+  * Small fluctuations would be vastly more frequent than large ones.
+  * The matter for the entire universe would require a huge fluctuation.
+  * It would be much more likely for a single brain with a universe simulation (Boltzmann brain) to fluctuate into existence.
+  * Rationality would force us to believe we are Boltzmann brains rather than part of a larger universe—which defeats this objection.
 
 ---
 
@@ -271,12 +264,12 @@ The cause of the universe is the Big Bang !?
 
 The universe could be a bubble in a multiverse!?
 
-![](NatTheoPics/Spiral10.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral5.jpg style="float: right; width: 9rem")
 
-* The multiverse would also be expanding
-* The Borde-Guth-Vilenkin theorem applies to expanding multiverses
-  * Any expanding multiverse must have a finite past
-* Thus, the multiverse would also have a beginning
+* The multiverse would also be expanding.
+* The Borde-Guth-Vilenkin theorem applies to expanding multiverses:
+  * Any expanding multiverse must have a finite past.
+* Thus, the multiverse would also have a beginning.
 * Therefore, the multiverse hypothesis does not avoid the need for a beginning
 
 ---
@@ -285,22 +278,22 @@ The universe could be a bubble in a multiverse!?
 
 The universe could be eternal through cycles of Big Bang expansion and Big Crunch contraction!?
 
-![](NatTheoPics/Spiral16.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral6.jpg style="float: right; width: 9rem")
 
 * Thermodynamics problem:
-  * Each cycle would lose usable energy (entropy increases)
+  * Each cycle would lose usable energy<br>(entropy increases).
   * Cycles would grow longer and larger over time
-  * Heat death would eventually occur
+  * Heat death would eventually occur.
 * Observational evidence problem:
-  * No evidence of prior cycles
-  * Current expansion is accelerating, not contracting
+  * No evidence of prior cycles.
+  * Current expansion is accelerating, not contracting.
 * Therefore, the pulsating model is untenable
 
 ---
 
 ## The Kalam Argument Is "Sound"
 
-![](NatTheoPics/Spiral11.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Pyramids.jpg style="float: right; width: 9rem")
 
 **The Kalam Cosmological Argument**
 
@@ -308,27 +301,27 @@ The universe could be eternal through cycles of Big Bang expansion and Big Crunc
 
 (2) **The universe began to exist**
 
-Conclusions
+Conclusion
 
 (3) **Therefore, the universe has a cause**
 
-=> Premises are reasonable, conclusion is logical necessity
+=> Premises are reasonable; the conclusion is a logical necessity.
 => Supported by both philosophical arguments and scientific evidence
 
 ---
 
-## What does that imply for God?
+## What does this imply for God?
 
-![](NatTheoPics/Spiral12.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral8.jpg style="float: right; width: 9rem")
 
 (3) Therefore, the universe has a cause
 
-* This cause beyond the universe must be
+* This cause beyond the universe must be:
   * Immaterial
   * Not bound by space (spaceless)
   * Not bound by time (timeless)
   * Immensely powerful (omnipotent)
-  * Necessarily existing (self existing)
+  * Necessarily existing (self-existing)
   * Un-embodied mind / consciousness (can affect the physical world and can decide to create the universe)
   * Personal: Only a personal agent can choose to create a temporal effect from a timeless state
 
@@ -336,7 +329,7 @@ Conclusions
 
 ## Which God Fits these Properties?
 
-![](NatTheoPics/Spiral13.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral9.jpg style="float: right; width: 9rem")
 
 * Immaterial, spaceless, timeless, omnipotent, self-existing, un-embodied mind, and personal
   * That is God!
@@ -353,7 +346,7 @@ Conclusions
 
 ## God Is The Cause Of The Universe
 
-![](NatTheoPics/Spiral14.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral10.jpg style="float: right; width: 9rem")
 
 * What is the cause of the universe?
   * God
