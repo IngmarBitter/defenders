@@ -35,13 +35,20 @@ Ingmar Bitter, PhD
 
 ---
 
-## Leibniz's Cosmological Argument
+## Leibniz's Cosmological Argument from Contingency
+
+* Video on YouTube by ReasonableFaith.org
+* https://youtu.be/FPCzEP0oD7I
+
+---
+
+## Leibniz's Cosmological Argument from Contingency
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-1. Every existing thing has an explanation of its existence, either in the necessity of its own nature or in an external cause.
-2. If the universe has an explanation of its existence, that explanation is God.
-3. The universe is an existing thing.
+1. The universe is an existing thing.
+2. Every existing thing has an explanation of its existence, either in the necessity of its own nature or in an external cause.
+3. If the universe has an explanation of its existence, that explanation is God.
 4. Therefore, the explanation of the existence of the universe is God.
 
 * This argument is logically airtight:
@@ -208,10 +215,26 @@ Ingmar Bitter, PhD
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
 * The argument from contingency leads to a rich concept of God:
-  * An uncaused, unembodied mind.
+  * Ominpotent
   * Transcends space, time, and matter.
   * Exists with metaphysical necessity.
+  * An uncaused, unembodied mind.
+  * Conscious, Selfaware, Personal
 * This is an exalted and theologically significant conclusion — mind-blowing.
+
+---
+
+## Leibniz's Cosmological Argument Summary
+
+![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
+
+1. The universe is an existing thing.
+2. Every existing thing has an explanation of its existence, either in the necessity of its own nature or in an external cause.
+3. If the universe has an explanation of its existence, that explanation is God.
+4. Therefore, the explanation of the existence of the universe is God.
+
+   * Sound & Valid Logical Argument
+   * God must be: Immaterial, Uncaused, Necessary, Omnipotent, Unembodied Mind, Conscious, Selfaware, Personal
 
 <small>Version 2025.07.27</small>
 
