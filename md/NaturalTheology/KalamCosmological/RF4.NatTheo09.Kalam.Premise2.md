@@ -1,0 +1,63 @@
+# Excursus on Natural Theology (Part 9): The Kalam Contingency Argument Premise 2 Defense
+
+## Defense of the Second Premise of the Kalam Cosmological Argument
+
+Last week we began talking about the kalam cosmological argument. I offered a defense of the first premise. Today we want to turn to the second premise of that argument, which is that the universe began to exist.
+
+This is obviously the more controversial of the two premises. It is fairly obvious, I think, that if the universe began to exist, then the universe has a cause of its existence. But it is by no means obvious that the universe began to exist. So I want to examine both philosophical arguments and scientific evidence in support of this second premise.
+
+If you were to ask me what the relationship is between these two, I would say that, for me at least, the first line of defense for this second premise is the philosophical arguments. I see the scientific evidence as simply an empirical confirmation of a conclusion already established on the basis of philosophical arguments. So I will often speak of the support for this premise in terms of philosophical arguments and scientific confirmation.
+
+Philosophical Arguments
+
+First Argument
+
+Let’s look at the first philosophical argument. Al-Ghazali, the 12th century Muslim theologian whom we’ve taken as our springboard for examining this argument, pointed out that if the universe never began to exist, then there has been an infinite number of past events prior to today.  But, he argued, an infinite number of things cannot exist. Therefore it follows that there cannot have been an infinite past. Al-Ghazali recognized that a potentially infinite number of things could exist, but what he denied was that an actually infinite number of things could exist. It is important that we understand this absolutely crucial distinction between the potential infinite and the actual infinite.
+
+When we say that something is potentially infinite, we mean that something is indefinite but progressing toward infinity as an ideal limit which is never reached. You never actually arrive at infinity. Infinity is simply a limit concept which you aim at. For example, take any finite distance. You could divide that distance in half, and then into fourths, and then into eighths, and then into sixteenths, and then into thirty-secondths, ad infinitum. But you would never reach an “infinitieth” division. The number of divisions is potentially infinite in that you could go on dividing endlessly. But you never arrive at infinity. You would never have an actually infinite number of divisions or of parts. The symbol for this kind of infinity is the lemniscate or the lazy-eight (∞). This is the type of infinity that is used in calculus in mathematics where you have infinite limits.
+
+By contrast with that, the actual infinite is an infinite which is, as it were, complete. The number of items in the collection is not growing toward infinity; it is infinite! It is complete and static and involves an actually infinite number of things.
+
+This type of infinity is symbolized by the Hebrew letter aleph (ℵ) and is used in set theory. In set theory, mathematicians talk about sets like the set of natural numbers {0, 1, 2, 3, . . .}which have an actually infinite number of members in the set. The collection is not growing toward infinity as a limit. It is infinite. There are an actually infinite number of natural numbers in this set. ℵ is a number. If you were to ask what is the number of elements in the set of natural numbers, the answer would be aleph-null (ℵ0). That is the number of members in the set of natural numbers.
+
+Technically speaking, what defines a collection or a set as actually infinite is that it has a proper part which has the same number of members as the whole collection. So, for example, think about this. The number of odd numbers is the same as the number of all the natural numbers - namely, ℵ0. It is exactly the same. There are just as many odd numbers as there are natural numbers, even though the natural numbers include not only the odd numbers but an infinite number of even numbers as well! Technically speaking, the definition for an actual infinite is that it is a collection that has a proper part with the same number of members in it as the whole collection.
+
+What al-Ghazali is claiming is that while potentially infinite collections can exist (that is to say, collections that are always finite at any point in time but are growing toward infinity as a limit) there cannot be a collection that is actually infinite – that has an actually infinite number of members in it. He argued that if an actually infinite number of things could exist, then various absurdities would result. If we are to avoid these absurdities, we have to deny that an actually infinite number of things can exist. That would imply that the number of past events in the history of the universe, therefore, cannot be actually infinite. It must be finite. Therefore, the universe cannot be beginningless. The universe must have begun to exist.
+
+It is very frequently alleged that al-Ghazali’s sort of argument is invalidated by modern mathematics. In modern set theory, as I’ve said, the use of actually infinite sets is commonplace. The number of members in the set of the natural numbers is actually infinite, not just potentially infinite. Many people have inferred that given the coherence of infinite set theory in mathematics, this sort of argument is just a non-starter.
+
+But is that really the case? Modern set theory shows that if you adopt certain axioms and rules, then you can talk about actually infinite collections in a consistent way, without contradicting yourself. All this does is succeed in setting up a certain universe of discourse for talking consistently about actual infinites.  But it does absolutely nothing to show that such mathematical entities really exist or that an actually infinite number of things can really exist. If Ghazali is right, this universe of discourse may be regarded simply as a fictional realm, rather like the world of Sherlock Holmes in the Arthur Conan Doyle novels, not something that exists in the real world.
+
+In other words, Ghazali is arguing that an actually infinite number of things is metaphysically impossible even if it is strictly logically possible. Anything that is logically consistent is strictly logically possible. But there are many things that are strictly logically possible that are nonetheless plausibly metaphysically impossible, for example, that torturing a child for fun is good, that this podium could have been made of ice, that something is colored but not extended, that something has a size but not a shape, and my favorite example, borrowed from Alvin Plantinga, that the Prime Minister could be a prime number! Ghazali is not arguing that the existence of an actually infinite number of things is a self-contradictory concept but that it is metaphysically impossible, that is to say, it cannot be actualized in the real world.
+
+The way in which al-Ghazali brings out the real impossibility of an actually infinite number of things is by imagining what it would be like if such a collection could exist and then drawing out the absurd consequences of it. Let me share with you one of my favorite illustrations called “Hilbert’s Hotel,” which is the brainchild of the great German mathematician David Hilbert.
+
+Hilbert warms up by inviting us to imagine an ordinary hotel with a finite number of rooms. Let’s suppose that the rooms are completely occupied. There is not a single vacant room throughout the entire hotel. Now suppose a new guest shows up at the front desk asking for a room. “Sorry,” the manager says, “All the rooms are occupied,” and the new guest has to be turned away.
+
+But now, Hilbert imagines, let’s suppose we’ve got a hotel with an infinite number of rooms, and let’s suppose once again that the hotel is completely occupied. We have to fully appreciate this fact. There is not a single vacancy in the entire infinite hotel; every room has a flesh-and-blood person in it. Now suppose a new guest shows up at the front desk, asking for a room. “No problem!” says the manager. He moves the guest that was in room #1 into room #2, he takes the guest that was in room #2 and puts him in room #3, he takes the guest that was in room #3 and puts him in room #4, out to infinity. As a result of these transpositions, room #1 now becomes vacant, and the new guest is easily accommodated. And yet, before he arrived, all the rooms were already full!
+
+It gets even worse! Now, Hilbert says, let’s imagine that an infinite number of new guests shows up at the front desk asking for rooms. “No problem, no problem!” says the manager. He moves the person who was in room #1 into room #2, the person who was in room #2 into room #4, the person who was in room #3 into room #6. He puts each person into the room number double his own. Since any number multiplied by two is always an even number, all the guests wind up in the even-numbered rooms. As a result, all the odd-numbered rooms become vacant, and the infinity of new guests gratefully checks in. And yet, before they arrived, all the rooms were already full!
+
+As one student remarked to me, Hilbert’s Hotel, if it could exist, would have to have a sign outside: “No Vacancy (Guests Welcome).”
+
+Hilbert’s Hotel is even more absurd than the great German mathematician made it out to be.
+
+For he never asked, what would happen if people started checking out of the hotel? Suppose all the people in the odd-numbered rooms check out – 1, 3, 5, 7, and so forth. How many guests are left? Well, all the even-numbered guests. An infinite number of guests are still left in the hotel even though an equal, infinite number has already checked out of the hotel. Now let’s suppose instead that all of the guests in the rooms 4, 5, 6, out to infinity check out. How many guests are left now? If there is no room #0, just three are left: 1,2, and 3. Yet, the same number of guests checked out this time as when all of the odd-numbered guests left! You subtract identical quantities from identical quantities and you get non-identical results, which is absurd.
+
+Someone might say that you can’t do inverse operations with infinite quantities. It is against the rules, but there is no way you can stop people from checking out of a real hotel. If you try to bar the door, they will jump out the windows. This illustrates the absurdity of the real existence of an actually infinite number of things. Since nothing hangs on the illustration’s being about a hotel, this argument can be generalized to show that the existence of an actually infinite number of things is really absurd.
+
+Sometimes students will react to Hilbert’s Hotel by saying that these absurdities result because the concept of infinity is just beyond us and we don’t understand it.  But that reaction is mistaken and naïve. As I said, infinite set theory is a highly developed and well-understood branch of modern mathematics. These absurdities result because we do understand the nature of the actual infinite. Hilbert was a smart man, and he well knew how to illustrate the bizarre consequences of the existence of an actually infinite number of things.
+
+Really, the only thing the critic can do at this point is to just bite the bullet and say that Hilbert’s Hotel is not absurd: Yeah, that’s right; that is the way it would be. Sometimes they will justify this by saying that if an actual infinite could exist, then such situations are exactly what we should expect. But I don’t think this is an adequate response.  Hilbert would, of course, agree that if an infinite hotel could exist, then the situation that he has imagined is what we would expect. Otherwise, it wouldn’t be a good illustration! Right? So, of course, this is what would happen if an actually infinite number of things could exist. But the question is: is such a hotel really possible? I think that these illustrations show that, no, such a thing is not really possible. It is metaphysically absurd.
+
+So I think al-Ghazali’s first argument is a good one. It shows that the number of past events must be finite. Therefore, the universe must have had a beginning.
+
+We can summarize this argument as follows:
+
+1. An actual infinite cannot exist.
+
+2. An infinite temporal regress of events is an actual infinite.
+
+3. Therefore, an infinite temporal regress of events cannot exist.
+
+Next time we will look at the second independent argument that al-Ghazali offers for the beginning of the universe and the finitude of the past.

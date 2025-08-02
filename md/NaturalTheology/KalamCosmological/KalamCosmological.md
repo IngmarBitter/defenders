@@ -8,78 +8,44 @@ Ingmar Bitter, PhD
 
 ---
 
-## Roadmap
+## Outline
 
-![](Triangles.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral1.jpg style="float: right; width: 9rem")
 
-* What is an argument?
-* What makes for a bad argument?
-* What makes for a good argument?
 * What is Kalam Cosmological Argument?
 * Why does it make sense?
 * Why are even the best objections unconvincing?
 * The Kalam argument is sound!
-* What else can we conclude? 
+* What else can we conclude?
 * God is the Cause of the Universe!
 
 ---
 
-## What is an *argument*?
-
-![](Spiral1.jpg style="float: right; width: 9rem")
-
-* A heated discussion about a disagreement?
-  * No!   … a (philosophical) argument is …
-* A rational explanation for a truth claim
-  * Based on premises
-  * Leading to a conclusion via rules of logic
-* Example
-  * Premise 1: If it is raining, then the street is wet
-  * Premise 2: The street is dry
-  * Conclusion: Therefore it is not raining
+# The Kalam Cosmological Argument
 
 ---
 
-## What is a *bad* argument?
+## Kalam Cosmological Argument Videos
 
-![](Spiral2.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral2.jpg style="float: right; width: 9rem")
 
-* An argument from ignorance / lack of knowledge
-  * Example
-    * Premise 1: God can do anything
-    * Premise 2: I have no idea what causes lightning
-    * Conclusion: Therefore God did it
-* A circular logic argument
-  * Example
-    * God exists because the Bible said so
-    * The Bible is true because God said so
-
----
-
-## What is a *good* argument?
-
-![](Spiral3.jpg style="float: right; width: 9rem")
-
-* An argument from knowledge
-* An inference to the best explanation
-* A Conclusion that follows logically from premises
-  * Makes the conclusion unavoidable
-* Each premise more likely true than its negation
-* Makes believing premises rational
-  * Together makes the conclusion a rational believe
-* => Is Logically Sound
+* Videos on YouTube by ReasonableFaith.org
+  * Scientific
+    * https://youtu.be/6CulBuMCLg0
+  * Philosophical
+    * https://youtu.be/vybNvc6mxMo
 
 ---
 
 ## The *Kalam* Cosmological Argument
 
-![](Pyramids.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Pyramids.jpg style="float: right; width: 9rem")
 
 1) Whatever begins to exist has a cause
 
 2) The universe began to exist
 
-Conclusions
+Conclusion
 
 3) Therefore, the universe has a cause
 
@@ -87,7 +53,7 @@ Conclusions
 
 ## The Conclusion follows logically
 
-![](Spiral4.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral4.jpg style="float: right; width: 9rem")
 
 3) Therefore, the universe has a cause
 
@@ -101,7 +67,7 @@ Conclusions
 
 ## Premise 1) is reasonable
 
-![](Spiral5.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral5.jpg style="float: right; width: 9rem")
 
 1) Whatever begins to exist has a cause
 
@@ -119,7 +85,7 @@ Conclusions
 
 ## Premise 2) is reasonable physically
 
-![](Spiral6.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral6.jpg style="float: right; width: 9rem")
 
 2) The universe began to exist
 
@@ -133,7 +99,7 @@ Conclusions
 
 ## Premise 2) is reasonable metaphysically
 
-![](HilbertsHotel.png style="float: right; width: 9rem")
+![](NatTheoPics/HilbertsHotel.png style="float: right; width: 9rem")
 
 2) The universe began to exist
 
@@ -150,7 +116,7 @@ Conclusions
 
 The cause of the universe is the Big Bang !?
 
-![](Spiral7.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral7.jpg style="float: right; width: 9rem")
 
 * This misses the point
   * The Big Bang is the initial expansion of the very early universe from a singularity
@@ -165,7 +131,7 @@ The cause of the universe is the Big Bang !?
 
 Then God must have a cause to explain Him !?
 
-![](Spiral8.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral8.jpg style="float: right; width: 9rem")
 
 * No we are not looking for an explanation of existence<br>
   but for a cause starting existence
@@ -181,7 +147,7 @@ Then God must have a cause to explain Him !?
 
 Physics examples of things coming from nothing!?
 
-![](Spiral9.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral9.jpg style="float: right; width: 9rem")
 
 * No, virtual particles come from the energy in the vacuum via E=mc2
 * The vacuum is not nothing
@@ -194,7 +160,7 @@ Physics examples of things coming from nothing!?
 
 The universe could be a bubble in a multiverse!?
 
-![](Spiral10.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral10.jpg style="float: right; width: 9rem")
 
 * Then the multiverse would be expanding, too
 * Thus the multiverse would have a beginning, too
@@ -210,7 +176,7 @@ The universe could be pulsating big bang/crunch
 
 ## The Kalam Argument is "Sound"
 
-![](Spiral11.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral11.jpg style="float: right; width: 9rem")
 
 **The Kalam Cosmological Argument**
 
@@ -228,7 +194,7 @@ Conclusions
 
 ## What else can we conclude?
 
-![](Spiral12.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral12.jpg style="float: right; width: 9rem")
 
 3) Therefore, the universe has a cause
 
@@ -244,7 +210,7 @@ Conclusions
 
 ## What else can we conclude?
 
-![](Spiral13.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral13.jpg style="float: right; width: 9rem")
 
 * Immaterial, spaceless, timeless, omnipotent, self-existing, and un-embodied mind 
   * That is God!
@@ -262,7 +228,7 @@ Conclusions
 
 ## God is the cause of the Universe
 
-![](Spiral14.jpg style="float: right; width: 9rem")
+![](NatTheoPics/Spiral14.jpg style="float: right; width: 9rem")
 
 * What is the cause of the universe?
   * God
