@@ -60,7 +60,10 @@ Topics
    2. [Kalam Cosmological Argument](Kalam/Kalam.slides.html)
    3. [Teleological Argument from Fine-Tuning](FineTuning/FineTuning.slides.html)
    4. [Moral Argument](MoralArgument/MoralArgument.slides.html) from Absolute Moral Values
-   5. other arguments (Leibnitz argument from Contingency, Ontological), Properly Basic Belief
+   5. [Ontological Argument](NaturalTheology/Ontological.slides.html)
+   6. [Argument from Mathematical Beauty](NaturalTheology/MathBeauty.slides.html)
+   7. other arguments (Leibnitz argument from Contingency, from Consciousness, ...)
+   8. [Atheistic Arguments](NaturalTheology/Atheism.slides.html)
 6. Problem of Evil/Suffering/Hell <small>Why does God not prevent all three? Christianity has the best answer, [gives comfort](Evil.emotion/Evil.emotion.slides.html)</small>
 7. Doctrine of the Trinity <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
 8. Doctrine of Christ <small>Deity and Humanity of Christ, History of Explanations, Possible Model</small>
