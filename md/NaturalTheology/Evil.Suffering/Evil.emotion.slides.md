@@ -4,7 +4,7 @@
    How do we live with the Evil and Suffering in and around us?
 
 <small><em><span class="current-date"></span></em></small><br>
-Ingmar Bitter
+Ingmar Bitter, PhD
 
 ---
 
