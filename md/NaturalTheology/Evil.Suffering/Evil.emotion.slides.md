@@ -10,7 +10,7 @@ Ingmar Bitter
 
 ## Why?
 
-![](woman.crying.jpg style="float: right; width: 8rem")
+![](EvilPics/woman.crying.jpg style="float: right; width: 8rem")
 
 God sometimes ...
 
@@ -44,7 +44,7 @@ God sometimes ...
 
 ## Jesus comforted and healed
 
-![](jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
 * Had dinner at the home of rejected men 
 * Weeped with the mother loosing her child Lazarus
@@ -55,7 +55,7 @@ God sometimes ...
 
 ## Jesus told us
 
-![](jesus.dove.jpg style="float: right; width: 8rem")
+![](EvilPics/jesus.dove.jpg style="float: right; width: 8rem")
 
 * He sent us the Holy Spirit
   - to comfort and guide us
@@ -69,7 +69,7 @@ God sometimes ...
 
 ## Suffering prepares us
 
-![](bootcamp.jpg style="float: right; width: 8rem")
+![](EvilPics/bootcamp.jpg style="float: right; width: 8rem")
 
 When we suffer the best help is ...
 
