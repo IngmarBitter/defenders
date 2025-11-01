@@ -68,6 +68,10 @@ Ingmar Bitter, PhD
 
 ---
 
+# Logical Version Argument
+
+---
+
 ## Logical Version Argument
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
@@ -177,6 +181,10 @@ Ingmar Bitter, PhD
 
 ---
 
+# Probabilistic Version Argument
+
+---
+
 ## Probabilistic Version Argument
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
@@ -190,68 +198,188 @@ Ingmar Bitter, PhD
 
 ---
 
-## Response 1: Our Cognitive Limits (with illustrations)
+## Response 1: Our Cognitive Limits
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
-- We’re finite in time, space, knowledge; God’s providence spans history
-- Not an appeal to mystery/divine psychology; it’s our inherent cognitive limits
-- Only an all-knowing God can grasp directing free agents across history (e.g., Allied victory on D‑Day)
-- Illustrations
-  - Chaos sensitivity: tiny initial changes (e.g., butterfly) can have massive downstream effects (weather, populations)
-  - “Sliding Doors”: trivial events alter life trajectories; appearance ≠ reality regarding purpose
-  - Utilitarianism critique: we cannot forecast ultimate outcomes; short-term bad may enable long-term good
+- We’re finite in time, space, and knowledge; God’s providence spans history
+- Not an appeal to mystery or divine psychology; it’s about our inherent limits
+- Only an all‑knowing God can coordinate free agents across history (e.g., Allied victory on D‑Day)
+- Utilitarianism critique: we cannot forecast ultimate outcomes; short-term bad may enable long-term good
 - Therefore: “looks pointless” does not justify “is pointless” (probabilistic force diminishes)
 
 ---
 
-## Response 2: Probabilities Are Relative (setup)
+## Cognitive Limits — Chaos Sensitivity
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Modern chaos theory: tiny initial changes can trigger massive outcomes
+- “Butterfly effect” (weather, populations)
+- Tracing long‑range consequences is intractable
+
+---
+
+## Cognitive Limits — Sliding Doors
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- The movie “Sliding Doors” (1998, starring Gwyneth Paltrow)
+- Seemingly trivial events radically alter life courses
+- Our perspective can’t foresee ripples through history
+- Appearance ≠ reality with respect to purpose
+
+---
+
+## Cognitive Limits — Schindler’s List
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- The movie “Schindler’s List” (1993, directed by Steven Spielberg)
+- Profound good (charity, moral courage, God‑seeking) inspired in response to Nazi evil
+- Ripple effects exceed our foresight
+
+---
+
+## Response 1: Limits of Outcome Prediction
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Utilitarianism: the right action maximizes total expected well‑being for all affected
+  - Requires forecasting full, long‑run consequences across agents and time
+  - Short‑term bad may yield long‑term good (and vice versa)
+  - Probability judgments of actions being pointless or not exceed our competence
+- => “Looks pointless” does not justify “is pointless”
+- => 2. "gratuitous suffering probably exists” is under‑warranted
+- => the probabilistic force diminishes
+
+---
+
+## Response 1: Summary
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- We’re finite in time, space, and knowledge
+- Small causes can yield massive, unforeseeable effects
+- Short‑term bad may enable long‑term good (and vice versa)
+- Ultimate outcomes of alternatives are impossible to compute
+
+- => We’re not in a good position to infer:
+  - “Looks pointless” → “Is pointless”
+- => Probabilistic force diminishes
+
+---
+
+## Response 2: Probabilities Are Relative
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
 - Probabilities are always relative to background information
-  - Example: “Joe is a college student; 90% drink beer” ⇒ probably drinks
-  - Add: “Joe is a Wheaton student; 90% there don’t drink” ⇒ probably does not drink
+- Example:
+  - Joe is a college student
+  - 90% of college students drink beer
+  - ⇒ probably drinks
+  - Joe is a Liberty student
+  - 90% at Liberty don’t drink
+  - ⇒ probably does not drink
 - Not interesting: P(God | suffering alone)
 - Relevant: P(God | full scope of evidence)
-- Many discussions tacitly assume “nothing else on the other side of the scale”
+  - The probabily that God exist given all evidence about Him.
 
 ---
 
-## Response 2b: Full Scope and the Moral Argument
+## Full Scope Outweighs
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
-- Even if P(God | suffering) is low, the cumulative case can outweigh it
-- The moral argument from evil:
-  1. If God does not exist, objective moral values do not exist
-  2. Evil exists
-  3. Therefore objective moral values exist
-  4. Therefore God exists
-- Paradox: at a deeper level, “evil” presupposes an objective moral standard
+- Any improbability from evil can be offset
+- Cumulative case theism raises P(God)
+- Consider the moral argument
 
 ---
 
-## Response 3: Christian Doctrines that Raise Co‑existence Probability
+## The Moral Argument from Evil
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
-- Four doctrines:
+1. If God does not exist, objective moral values do not exist
+2. Evil exists
+3. Therefore objective moral values exist
+4. Therefore God exists
+
+- Paradox: Evil presupposes an objective moral standard
+
+---
+
+## Response 3: Christian Doctrines
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Certain Christian tenets increase co-existence probability:
   1) Life’s chief end is knowledge of God, not earthly comfort
-  2) Human rebellion; God “gives them up” (Rom 1)
-  3) Eternal life reframes finite suffering (2 Cor 4)
-  4) Knowing God is an incommensurable good (“weight of glory”)
+  2) Human rebellion; God “gives them up”
+  3) Eternal life reframes earthly suffering
+  4) Knowing God is an incommensurable good
 
 ---
 
-## Empirical Corroboration (Operation World; snapshots)
+## Doctrine 1: Life’s Chief End
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
-- China: Cultural Revolution persecution; post‑1977 massive church growth (tens of millions to ~90–100M)
-- El Salvador: war/poverty; from ~2.3% evangelicals (1960) to ~20% (1990s)
-- Ethiopia: repression/famine/war; from <1% (1960) to ~13% (1990)
-- Global trend: ratio of evangelicals to non‑believers shrinks across history; unprecedented in‑gathering
+- Not pets and comfort; relational knowledge of God
+- Suffering can deepen trust and dependence
+- Growth may occur in sufferers and observers
+
+---
+
+## Empirical Corroboration: Growth Amid Suffering
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Church growth in suffering contexts:
+  - Purification, resilience, reliance on God
+- Historical patterns align with this doctrine
+
+---
+
+## Case: China
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Severe persecution (Cultural Revolution)
+- Massive church growth post-1977
+- Suffering correlated with spiritual awakening
+
+---
+
+## Case: El Salvador
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- War, poverty, calamity
+- Significant evangelical growth over decades
+- Harvest in the midst of hardship
+
+---
+
+## Case: Ethiopia (and beyond)
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Repression, famine, war; refined the church
+- Millions coming to Christ
+- Similar reports (e.g., Haiti post-earthquake)
+
+---
+
+## Global Trend Snapshot
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Ratio of evangelicals to non-believers shrinking historically
+- Unprecedented in-gathering globally
+- Suffering may contribute to openness
 
 ---
 
@@ -280,7 +408,7 @@ Ingmar Bitter, PhD
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
 - Knowing God outweighs any temporal suffering
-- “Weight of glory” beyond comparison
+- Scale metaphor: “weight of glory” beyond comparison
 - Grounds to say “God is good” even amid pain
 
 ---
@@ -289,12 +417,9 @@ Ingmar Bitter, PhD
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
-- The claim is: “God is improbable given suffering”
-- Response: Not the Christian God
-  - The atheist must either:
-    - Show these four doctrines are probably false, or
-    - Show God remains improbable even if these doctrines are true
-- Don’t let the burden shift back to the theist
+- Atheist must address the Christian God
+- Show doctrines are probably false, or
+- Show evil still renders God improbable given these doctrines
 
 ---
 
@@ -306,7 +431,7 @@ Ingmar Bitter, PhD
 - Probabilistic version: weak
   - Cognitive limits
   - Full evidence raises P(God)
-  - Christian doctrines increase co‑existence probability
+  - Christian doctrines increase co-existence probability
 
 ---
 
