@@ -270,56 +270,15 @@ Ingmar Bitter, PhD
 
 ---
 
-## Response 2: Probabilities Are Relative
-
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
-
-- Probabilities are always relative to background information
-- Example:
-  - Joe is a college student
-  - 90% of college students drink beer
-  - ⇒ probably drinks
-  - Joe is a Liberty student
-  - 90% at Liberty don’t drink
-  - ⇒ probably does not drink
-- Not interesting: P(God | suffering alone)
-- Relevant: P(God | full scope of evidence)
-  - The probabily that God exist given all evidence about Him.
-
----
-
-## Full Scope Outweighs
-
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
-
-- Any improbability from evil can be offset
-- Cumulative case theism raises P(God)
-- Consider the moral argument
-
----
-
-## The Moral Argument from Evil
-
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
-
-1. If God does not exist, objective moral values do not exist
-2. Evil exists
-3. Therefore objective moral values exist
-4. Therefore God exists
-
-- Paradox: Evil presupposes an objective moral standard
-
----
-
-## Response 3: Christian Doctrines
+## Response 2: Christian Doctrines
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
 - Certain Christian tenets increase co-existence probability:
-  1) Life’s chief end is knowledge of God, not earthly comfort
-  2) Human rebellion; God “gives them up”
-  3) Eternal life reframes earthly suffering
-  4) Knowing God is an incommensurable good
+  - 1. Life’s chief end is knowledge of God, not earthly comfort
+  - 2. Human rebellion; God “gives them up”
+  - 3. Eternal life reframes earthly suffering
+  - 4. Knowing God is an incommensurable good
 
 ---
 
@@ -337,39 +296,14 @@ Ingmar Bitter, PhD
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
-- Church growth in suffering contexts:
-  - Purification, resilience, reliance on God
-- Historical patterns align with this doctrine
-
----
-
-## Case: China
-
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
-
-- Severe persecution (Cultural Revolution)
-- Massive church growth post-1977
-- Suffering correlated with spiritual awakening
-
----
-
-## Case: El Salvador
-
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
-
-- War, poverty, calamity
-- Significant evangelical growth over decades
-- Harvest in the midst of hardship
-
----
-
-## Case: Ethiopia (and beyond)
-
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
-
-- Repression, famine, war; refined the church
-- Millions coming to Christ
-- Similar reports (e.g., Haiti post-earthquake)
+- Suffering often promts resilience, reliance on God and church growth
+- Is the case in ... inspite of ...
+  - Nigeria: World leading in Christians murdered because of their belief
+  - China: Severe persecution (Cultural Revolution)
+  - El Salvador: War, poverty, calamity
+  - Ethiopia: Repression, famine, war
+  - Haiti: post-earthquake
+- Millions afflitced coming to Christ
 
 ---
 
@@ -378,6 +312,10 @@ Ingmar Bitter, PhD
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
 - Ratio of evangelicals to non-believers shrinking historically
+  - 1st century: thousands to 1
+  - Middle Ages: ~1,000:1
+  - 1900: 1:27
+  - 1990: 1:7
 - Unprecedented in-gathering globally
 - Suffering may contribute to openness
 
@@ -413,13 +351,35 @@ Ingmar Bitter, PhD
 
 ---
 
-## Burden of Proof (Revisited)
+## Response 3: Probabilities Are Relative
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
+- Probabilities are always relative to background information
+- Example:
+  - Joe is a college student
+  - 90% of college students drink beer
+  - ⇒ probably drinks
+  - Joe is a Liberty student
+  - 90% at Liberty don’t drink
+  - ⇒ probably does not drink
+- Not interesting: P(God | suffering alone)
+- Relevant: P(God | full scope of evidence)
+  - The probabily that God exist given all evidence about Him.
+
+---
+
+## Full Scope Outweighs
+
+![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+
+- Any improbability from evil can be offset
+- Cumulative case theism raises P(God) given the full scope of evidence:
+  - Prior arguments: Kalam, Leibnizian, Fine-Tuning, Moral, Consciousness, Mathematical Beauty & Applicability
+  - Doctrines: life’s chief end (knowing God), human rebellion, eternal perspective, incommensurable good
 - Atheist must address the Christian God
-- Show doctrines are probably false, or
-- Show evil still renders God improbable given these doctrines
+  - Show doctrines and existence arguments are probably false, or
+  - Show evil still renders God improbable given these doctrines and existence arguments
 
 ---
 
@@ -427,11 +387,12 @@ Ingmar Bitter, PhD
 
 ![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
-- Logical version: fails (incompatibility unproven)
-- Probabilistic version: weak
+- Logical version: fails
+  - incompatibility unproven
+- Probabilistic version: fails
   - Cognitive limits
-  - Full evidence raises P(God)
-  - Christian doctrines increase co-existence probability
+  - Christian doctrines increase probability of co-existence of God and Evil/Suffering
+  - Full evidence makes God's existences very probable
 
 ---
 
@@ -442,12 +403,6 @@ Ingmar Bitter, PhD
 - Intellectually defused ≠ emotionally resolved
 - Responses: presence, compassion, hope
 - Head and heart both matter
-
----
-
-## Discussion
-
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
 
 - Which version do you encounter most?
 - Where do people feel the weight emotionally?
