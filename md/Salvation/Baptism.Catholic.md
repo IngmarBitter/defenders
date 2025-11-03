@@ -302,7 +302,7 @@ The Spirit’s indwelling identifies those who belong to Christ. Baptism is the 
 
 * *obedient-faith:* This passage describes both, water baptism in Jesus's name and receiving of the Holy Spirit, and they are not happening at the same time, resonating with obedient-faith, not baptism-completes-faith. Still, it is a strange passage, as it describes the people as believers that received the proper water baptism in Jesus's name but apparently, this did not trigger receiving the Holy Spirit. Maybe because their belief was still plagued by doubt and or missing information. Then Peter and John preached to them and during the laying on of hands, their faith was firm obedient faith so the Holy Spirit was given.
 
-* *baptism-completes-faith:* Again, Baptism and Confirmation are distinguished. The apostles’ presence unites Samaria to Jerusalem, avoiding a schism; the Spirit’s coming through their hands manifests ecclesial unity. Far from opposing Baptism’s efficacy, the episode reinforces the two-sakrament structure.
+* *baptism-completes-faith:* Again, Baptism and Confirmation are distinguished. The apostles’ presence unites Samaria to Jerusalem, avoiding a schism; the Spirit’s coming through their hands manifests ecclesial unity. Far from opposing Baptism’s efficacy, the episode reinforces the two-sacrament structure.
 
 #### Conclusion of Spirit Baptism vs Water Baptism
 
