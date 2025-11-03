@@ -449,7 +449,7 @@ Acts 2:38 correlates repentance and baptism with salvation (forgiveness of sins 
 
 * *obedient-faith:* Repenting implies having faith. The receiving of the Holy Spirit happens when we start to have firm obedient faith in Jesus as our Lord and Savior, which typically is before water baptism.
 
-* *baptism-completes-faith:* this passage directly ties water baptism to receiving the Holy Spirit. It is possible that it is implied that the Holy Spirit is received during the water baptism. *... during baptism is possible, but so is before or after. This is too vague to be acceptable as an example for receiving the Holy Spirit during baptism.*
+* *baptism-completes-faith:* This passage directly ties water baptism to receiving the Holy Spirit. It implies that the Holy Spirit is received during baptism, as Peter links repentance, baptism, forgiveness, and the Spirit in a single command with no delay — 3,000 were baptized that day to fulfill it.
 
 Acts 2:38 is the nearest example in the entire Bible to the Holy Spirit being received during baptism. However, it does not explicitly state this. Inferring that the receiving occurs at the time of baptism is an interpretation that requires reading between the lines. Similarly, identifying it with the time of coming to obedient faith is another interpretation matching this verse based on reading between the lines. Both interpretations are consistent with this single verse. To determine the correct one, it is necessary to consider the wider context of the Bible.
 
@@ -471,14 +471,12 @@ then we shift the apparent meaning such that baptism becomes the means of salvat
 
 This verse clearly states that the combination of belief and baptism leads to salvation. The second half of the verse is equally clear that without faith man is condemned.
 
-What is not clear is the state of those who believe but are not baptized.
+What is not clear is the state of those who believe but are not baptized. For their state the two views are:
 
 * *obedient-faith:* based on other verses, un-baptized obedient-faith believers are saved as well.
 
-* *baptism-completes-faith:* un-baptized believers are the exception. Anyone who truly believes will want to be baptized right away and deepen his faith through the process of baptism. So there is only a very brief window of being fully committed to Christ and not yet being baptized. God will accept people who die in that state into heaven based on their beliefs. Nonetheless, this exception does not eliminate the rule/command to be baptized at the time of trusting Jesus, nor does it diminish the effect of the baptism deepening the trust and commitment.
-
-*... that sounds nice, but is inconsistent with the principle of baptism being a necessary requirement for salvation. It effectively makes baptism optional.* **???Should that really be the baptism-completes-faith interpretation of this verse???**
-
+* *baptism-completes-faith:* **Belief and baptism together form the ordinary path to salvation** — the positive command is inseparable. The condemnation clause targets **unbelief**, but the promise of salvation is tied to **both** belief *and* baptism. Those who believe but are not baptized fall into an **extraordinary exception** (e.g., death before baptism, baptism of desire). God may extend mercy, but **the normative means He ordained is baptism**. To withhold baptism is to **risk rejecting the full response of faith** and the **means of grace** through which Christ applies His saving work.
+  
 #### [1 Peter 3:21](https://biblia.com/bible/esv/1%20Pet%203.21)
 
 !!!
@@ -488,7 +486,7 @@ What is not clear is the state of those who believe but are not baptized.
 
 * *obedient-faith:* Here the second part of the verse is to clarify the meaning of the first, namely that the significance of the baptism is not the "washing of the dirt" (the physical action of baptism) but "a response to God from a good conscience", meaning the conscience is already good before the baptisms starts. This implies that it must be after one's sins are forgiven and salvation has been received. Thus, baptism cannot be a prerequisite for salvation. See [gotquestions.org/baptism-1Peter-3-21](https://www.gotquestions.org/baptism-1Peter-3-21.html)
 
-* *baptism-completes-faith:* baptism saves us *now*. Clearly, salvation is granted during the baptism. Therefore, the good conscience is also being given/cleansed during the baptism. *... but "is a response from x" implies that x existed before the response that it produced. So the conscience must have been cleared before the baptism.*
+* *baptism-completes-faith:* Baptism saves us **now** as the means God uses to apply Christ’s resurrection power, cleansing and regenerating us. The “response from a good conscience” occurs through baptism, where the Spirit infuses new life, making the conscience clean in that moment.
 
 An analogy might be that *obedient-faith* sees passing the driver's license test as "getting your license" while *baptism-completes-faith* sees it as being handed your driver's license card. The qualification and the receiving of the actual card are part of the process for both, but the emphasis and significance are different.
 
@@ -499,7 +497,7 @@ An analogy might be that *obedient-faith* sees passing the driver's license test
 
     - Acts 22:16
 
-* *baptism-completes-faith:* here we have trusting Jesus, baptism and forgiveness of sins combined, just as it fits with a new believer that at the time of trusting Jesus is being baptized and saved.
+* *baptism-completes-faith:* Trusting Jesus culminates in baptism, where sins are washed away as we call on His name. This combines faith and the act of baptism as the point where God forgives and unites us to Christ.
 
 * *obedient-faith:* This verse does not say that being baptized is what washes the sins away. It states two different commands: 1) baptism, 2) washing one's sins, to be done through "calling on His name" which means by believing in Christ. See [gotquestions.org/baptism-Acts-22-16](https://www.gotquestions.org/baptism-Acts-22-16.html)
 
@@ -508,12 +506,13 @@ An analogy might be that *obedient-faith* sees passing the driver's license test
 !!!
     27 For as many of you as have been baptized into Christ have put on Christ.
 
-* *baptism-completes-faith:* baptism is equated with putting on Christ. Fits naturally with this view. ... This is an equating of people counts, not timing - if the putting on Christ was before the baptism, it would fit with this verse.
+* *baptism-completes-faith:* Baptism equates to putting on Christ, making faith efficacious through union with Him. This is not mere symbolism but the means by which believers participate in Christ’s life, assuming faith leads directly to this step.
 
-* *obedient-faith:* Baptism here can be seen as baptism by the Holy Spirit, not by water. Thus it does not teach that baptism by water is a requirement for salvation.
-* Alternatively, if baptism is understood as a believer's water baptism, then everyone that was baptized also believed. And as such it is true that they were saved, or as stated here, "put on Christ". However, not based on the baptism, but based on the underlying prior belief.
-* Finally, even if it is the water baptism that is providing the being "put on Christ", then it is actually obvious that this is not literal but symbolic. And a symbolic association happens after the real event has already passed.
-See [gotquestions.org/baptism-Galatians-3-27](https://www.gotquestions.org/baptism-Galatians-3-27.html)
+* *obedient-faith:* First, in direct response to the prior interpretation: Note that the equating here is not baptism == put on Christ, but number of people baptized == number of people that have put on Christ. So everyone that was baptized has also put on Christ, but there is no information about the relative timing of both.
+  * Baptism here can be seen as baptism by the Holy Spirit, not by water. Thus it does not teach that baptism by water is a requirement for salvation.
+  * Alternatively, if baptism is understood as a believer's water baptism, then everyone that was baptized also believed. And as such it is true that they were saved, or as stated here, "put on Christ". However, not based on the baptism, but based on the underlying prior belief.
+  * Finally, even if it is the water baptism that is providing the being "put on Christ", then it is actually obvious that this is not literal but symbolic. And a symbolic association happens after the real event has already passed. 
+  * See [gotquestions.org/baptism-Galatians-3-27](https://www.gotquestions.org/baptism-Galatians-3-27.html)
 
 #### [Romans 6:3-4](https://www.biblegateway.com/passage/?search=Romans%206&version=MEV)
 
@@ -542,9 +541,9 @@ The difficulty in this passage is to determine what is literal and what is symbo
 
 **we also should walk in newness of life** is clearly symbolic, as we are not walking during the baptism. The connection is that after Jesus was raised up, he was walking again with new life, and during the baptism, we are raised out of the water, and after the baptism, we will be walking again, but now with the confidence that we are having new spiritual life. And this implies that being raised out of the water is what symbolizes receiving new life by the analogy to Christ's resurrection. However, that still leaves unresolved if our actual receiving of new spiritual life happens during the being raised out of the water or at some other point and here we just have the symbolic connection between the two. This is the second point at which the interpretations differ.
 
-* *baptism-completes-faith:* we actually die to self/sin as we are submerged in water and we actually receive new life when we are raised out of the water. That this passage is loaded with symbolic meaning does not prevent it from describing concrete salvific changes happening during the baptism. This passage fits beautifully with this view.
+* *baptism-completes-faith:* We actually die to sin and receive new life during baptism, as it unites us to Christ’s death and resurrection. The passage describes real transformation happening in baptism, not just symbolism — God’s power frees us from sin’s slavery there. That this passage is loaded with symbolic meaning does not prevent it from describing concrete salvific changes happening during the baptism. This passage fits beautifully with this view.
 
-* *obedient-faith:* There is a lot of symbolic meaning in this passage. There are many symbolic associations between the details of the baptism and those of Jesus burial and resurrection, but Jesus's burial and resurrection, that the symbolisms relate to are *not* happening at the moment of the baptism. Then there are two baptism details that symbolically relate to how God saves us. It is possible that those actions of God are happening at the same time as the baptism, but that's not clear from the text and it's quite reasonable to interpret it as having symbolic connection but not temporal identity. If it was intended to be understood as simultaneous, then it would have been easy to add a sentence to clarify that. As it stands, the inherent ambiguity should lead us to resolve the timeline from the wider context of the Bible - and that we saw earlier ties the moment of salvation to the moment of starting to have obedient faith.
+* *obedient-faith:* There is a lot of symbolic meaning in this passage. There are many symbolic associations between the details of the baptism and those of Jesus burial and resurrection, but Jesus's burial and resurrection, that the symbolisms relate to are *not* happening at the moment of the baptism. Then there are two baptism details that symbolically relate to how God saves us. It is possible that those actions of God are happening at the same time as the baptism, but that's not clear from the text and it's quite reasonable to interpret it as having symbolic connection but not temporal identity. If it was intended to be understood as simultaneous, then it would have been easy to add a sentence to clarify that. As it stands, the inherent ambiguity should lead us to resolve the timeline from the wider context of the Bible - and that we saw earlier ties the moment of salvation to the moment of starting to have obedient-faith.
 
 #### [Romans 6:2-4, 5-7](https://www.biblegateway.com/passage/?search=Romans+6%3A2-7&version=MEV) We have died to sin since we were baptized into Christ's death and crucified with Christ
 !!!
@@ -557,7 +556,9 @@ Here baptism into Christ's death is linked to dying to sin and being freed from 
 
 Here being crucified with Christ is linked to dying to sin and being freed from it.
 
-Romans 6:2-4 and 6:5-7 are part of the same line of thought. Clearly, both have some symbolic meanings. Why should we think that the first one also teaches that during the baptism our sins are literally washed away, when right after it talks about being crucified with Christ which was not during our baptism and that also washes away our sins? It does not make sense that both, baptized into Christ and crucified with Christ are the moment at which we are saved as they are different moments in time. Picking one as symbolic and literal and the other as only symbolic is arbitrary. However, it is reasonable to see these two as both being symbolic references to the one single other event at which we were saved. And each of these symbolic references highlights a different aspect of our actual being saved event. And when that event was we need to get from the wider biblical context, but at least it's clear it needs to be prior to baptism.
+*baptism-completes-faith*: Being crucified with Christ happens through baptism, where we die to the old self and are freed from sin. This real union with Christ’s body makes baptism the point of liberation, not separate from it.
+
+*obedient-faith:* Romans 6:2-4 and 6:5-7 are part of the same line of thought. Clearly, both have some symbolic meanings. Why should we think that the first one also teaches that during the baptism our sins are literally washed away, when right after it talks about being crucified with Christ which was not during our baptism and that also washes away our sins? It does not make sense that both, baptized into Christ and crucified with Christ each are the moment at which we are saved as they are different moments in time. Picking one as symbolic and literal and the other as only symbolic is arbitrary. However, it is reasonable to see these two as both being symbolic references to the one single other event at which we were saved. And each of these symbolic references highlights a different aspect of our actual being saved event. And when that event was we need to get from the wider biblical context, but at least it's clear it needs to be prior to baptism.
 
 #### Conclusion of Emphasis on Baptism
 
