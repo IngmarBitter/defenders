@@ -14,7 +14,7 @@ Baptism is the full submersion in water of a new believer in Christ, accompanied
 
     - Mat 28:19 MEV
 
-As new believers, we commit to making Jesus our Lord, which includes being obedient to His commands. Baptism signifies the public initiation into the community of Christ-followers and, in many cases, the completion of the process of coming to saving faith. When we undergo baptism, it demonstrates that our commitment has matured from the intellectual realm to practical action, guiding our behavior. When part of the conversion process, the act of baptism completes the process of coming to saving faith and gives the new believer the confidence that he is now trusting Jesus as his Lord and Savior and that God has provided the gift of salvation by making Jesus’s sacrificial death effective in atoning for his sin guilt. Thus, baptism becomes the first occasion in which one is assured of the gift of salvation through the means of Jesus’s atoning death. While baptism as the culmination of the conversion process is the ideal scenario, if a new Christian is not baptized, then as soon as he learns that we are commanded to do so, he should be baptized.
+As new believers, we commit to making Jesus our Lord, which includes being obedient to His commands. Baptism signifies the public initiation into the community of Christ-followers and, in many cases, the completion of the process of coming to saving faith. When we undergo baptism, it demonstrates that our commitment has matured from the intellectual realm to practical action, guiding our behavior. When part of the conversion process, the act of baptism completes the process of coming to saving faith and gives the new believer the confidence that he is now trusting Jesus as his Lord and Savior and that God has provided the gift of salvation by making Jesus's sacrificial death effective in atoning for his sin guilt. Thus, baptism becomes the first occasion in which one is assured of the gift of salvation through the means of Jesus's atoning death. While baptism as the culmination of the conversion process is the ideal scenario, if a new Christian is not baptized, then as soon as he learns that we are commanded to do so, he should be baptized.
 
 In addition, full immersion in water symbolizes and connects us with Christ's death, burial, resurrection, and their atoning benefits for us:
 
@@ -38,7 +38,7 @@ In addition, full immersion in water symbolizes and connects us with Christ's de
 
 There are several compelling reasons to practice baptism by full immersion:
 
-**Meaning of the Greek Word:** The New Testament term "βαπτίζω" (baptizo) means "to immerse," "to submerge," or "to dip."  It was used in various contexts, such as the sinking of a ship, the dyeing of a garment (where the cloth is completely dipped into dye), or the drawing of water by dipping a vessel. All of those result in the object of baptizo being fully submerged.
+**Meaning of the Greek Word:** The New Testament term "βαπτίζω" (baptizo) means "to immerse," "to submerge," or "to dip."  It was used in various contexts, such as the sinking of a ship, the dyeing of a garment (where the cloth is completely dipped into dye), or the drawing of water by dipping a vessel. All of these result in the object of baptizo being fully submerged.
 
 **Symbolism Alignment:** The symbolism of being buried with Christ (Romans 6:3) resonates most meaningfully when the believer is fully submerged.
 
@@ -105,7 +105,7 @@ Several New Testament examples illustrate the practice of baptizing new believer
 
     - Acts 8:36-38 MEV
 
-**The Conversion of Saul/Paul (Acts 9:1-18):** Saul, later known as Paul, experienced a dramatic conversion on the road to Damascus. After being blinded he trusted and followed Jesus's command and then was visited by Ananias, who laid hands on him, Saul regained his sight and was baptized immediately after.
+**The Conversion of Saul/Paul (Acts 9:1-18):** Saul, later known as Paul, experienced a dramatic conversion on the road to Damascus. After being blinded, he trusted and followed Jesus's command. Then Ananias visited him, laid hands on him, he regained his sight, and he was baptized immediately after.
 
 !!!
     Immediately something like scales fell from his eyes, and he could see again. And he rose up and was baptized.
@@ -119,7 +119,7 @@ Several New Testament examples illustrate the practice of baptizing new believer
 
     - Acts 10:47-48 MEV
 
-**Lydia and Her Household (Acts 16:14-15):** Lydia, a seller of purple cloth in Philippi, heard Paul’s message, believed and was baptized along with her household.
+**Lydia and Her Household (Acts 16:14-15):** Lydia, a seller of purple cloth in Philippi, heard Paul's message, believed and was baptized along with her household.
 
 !!!
     14 ​A woman named Lydia, a seller of purple fabric of the city of Thyatira, who worshipped God, heard us. The Lord opened her heart to acknowledge what Paul said.   15 ​When she and her household were baptized, she entreated us, saying, “If you have judged me to be faithful to the Lord, come to my house and remain there.” And she persuaded us.
@@ -147,7 +147,7 @@ Rebaptism may be considered for those uncertain about their initial baptism due 
 !!!
     14 Now when the apostles who were at Jerusalem heard that **Samaria had received the word of God**, they sent Peter and John to them.   15 ​When they came down, they prayed for them that they **might receive the Holy Spirit**,   ​16 **for still He had come on none of them. They were only baptized in the name of the Lord Jesus**.   17 ​Then **they laid their hands on them, and they received the Holy Spirit**.
     
-    18 ​When Simon saw that through the laying on of the apostles’ hands the Holy Spirit was given, he offered them money,   ​saying, “Give me also this power, that whomever I lay hands on may receive the Holy Spirit.”
+    18 ​When Simon saw that through the laying on of the apostles' hands the Holy Spirit was given, he offered them money,   ​saying, “Give me also this power, that whomever I lay hands on may receive the Holy Spirit.”
     
     20 ​Peter said to him, “May your money perish with you because you thought you could purchase the gift of God with money!   21 ​You have neither part nor share in this matter, for your heart is not right before God.   22 ​Therefore repent of your wickedness, and ask God if perhaps the intention of your heart may be forgiven you.   ​23 For I see that you are in the gall of bitterness and in the bond of iniquity.”
     
@@ -225,7 +225,7 @@ The key distinction is where the act of God to save us is placed, meaning when o
 
 ... in other words:
 
-**Baptism-completes-faith (necessary requirement):** In this view baptism is the **occasion** at which Jesus' atoning death, **the means of salvation**, is applied to the believer's life. It is not the act of baptism itself that saves, nor the the faith in Jesus that it represents, but both in unison trigger God choosing to apply Jesus' sacrificial death to clear our sin guilt. Baptism completes the process of coming to faith and only during the baptism can this faith be called obedient faith. It sees baptism as a first step of obedience that is part of the salvation process, but not a work that merits salvation. This is similar to not counting as works making a commitment to Christ or praying a prayer.
+**Baptism-completes-faith (necessary requirement):** In this view baptism is the **occasion** at which Jesus' atoning death, **the means of salvation**, is applied to the believer's life. It is not the act of baptism itself that saves, nor the faith in Jesus that it represents, but both in unison trigger God choosing to apply Jesus' sacrificial death to clear our sin guilt. Baptism completes the process of coming to faith and only during the baptism can this faith be called obedient faith. It sees baptism as a first step of obedience that is part of the salvation process, but not a work that merits salvation. This is similar to not counting as works making a commitment to Christ or praying a prayer.
 
 **Obedient-faith (baptism is consequence of salvation):** In this view when we have true, obedient faith that Jesus is divine, died, was buried, rose and is alive today; we acknowledge and repent of our sin; trust in Jesus as our Savior to atone for our sin guilt; and finally commit to make Him our Lord and follow His commands - then God "saves us" by applying Jesus' sacrificial death to clear our sin guilt and sending the Holy Spirit to indwell us. Consequently, we are changed and motivated to demonstrate our obedience to Christ through being baptized. Hence, the decision to be baptized is a consequence of salvation. Note that the refusal to be baptized is a good reason to question the sincerity of belief and commitment to Christ, and, by extension, it puts the state of salvation into question.
 
@@ -303,7 +303,7 @@ As we see next, the New Testament passages that document various baptisms never 
 
 #### Acts 10:44-48: Holy Spirit for Cornelius before water baptism
 
-In Acts 10:1-33 Cornelius is described as gentile that is very eager to hear the gospel. And in verses 34-43 Peter preaches the gospel. Then comes 44ff:
+In Acts 10:1–33, Cornelius is described as a Gentile who was very eager to hear the gospel. And in verses 34–43 Peter preaches the gospel. Then comes 44ff:
 
 !!!
     44  While Peter was still speaking these words, the Holy Spirit fell on all those who heard the word.   45 All the believers of the circumcision who had come with Peter were astonished because the gift of the Holy Spirit had been poured out even on the Gentiles.   46  For they heard them speaking in other tongues and magnifying God. Then Peter continued,   47 “Can anyone forbid water for baptizing these, who have received the Holy Spirit as we have?”   48 So he commanded them to be baptized in the name of the Lord. Then they asked him to stay a few days.
@@ -314,26 +314,26 @@ Here we have 1) hearing and believing the gospel, 2) being filled with the Holy 
 
 * *baptism-completes-faith:* this is an exception to the rule. However, at least it demonstrates that the new believer should be baptized right away.
   
-#### Acts 18:24-28 Apollos, believer + fervent in the Spirit, taught about water baptism, but not baptized
+#### Acts 18:24-28 Apollos, believer + fervent in spirit, taught about water baptism but was not baptized
 
 !!!
-    A Jew named Apollos, a native Alexandrian, an eloquent man who was powerful in the use of the Scriptures, arrived in Ephesus. This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught the things about Jesus accurately, although **he knew only John’s baptism**. He began to speak boldly in the synagogue. After Priscilla and Aquila heard him, **they took him home and explained the way of God to him more accurately**. When he wanted to cross over to Achaia, the brothers wrote to the disciples urging them to welcome him. After he arrived, he greatly helped those who had believed through grace. For he vigorously refuted the Jews in public, demonstrating through the Scriptures that Jesus is the Messiah.
+    A Jew named Apollos, a native Alexandrian, an eloquent man who was powerful in the use of the Scriptures, arrived in Ephesus. This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught the things about Jesus accurately, although **he knew only John's baptism**. He began to speak boldly in the synagogue. After Priscilla and Aquila heard him, **they took him home and explained the way of God to him more accurately**. When he wanted to cross over to Achaia, the brothers wrote to the disciples urging them to welcome him. After he arrived, he greatly helped those who had believed through grace. For he vigorously refuted the Jews in public, demonstrating through the Scriptures that Jesus is the Messiah.
 
-* *obedient-faith:* since Apollos was already a strong believer and filled with the Holy Spirit, Priscilla and Aquila did not see a need for him to be baptized in the name of Jesus, however they explained it to him. -- A little strange that they did not insist he needed to be baptized in Jesus name, but at least it makes clear that it was not a salvation issue for Priscilla and Aquila. -- Or they did baptize him in the name of Jesus, but Luke did not see it as important enough to include in his writing, again matching better with obedient-faith than baptism-completes-faith.
+* *obedient-faith:* since Apollos was already a strong believer and filled with the Holy Spirit, Priscilla and Aquila did not insist for him to be baptized in the name of Jesus, however they explained it to him. -- A little strange that they did not insist he needed to be baptized in Jesus name, but at least it makes clear that it was not a salvation issue for Priscilla and Aquila. -- Or they did baptize him in the name of Jesus, but Luke did not see it as important enough to include in his writing, again matching better with obedient-faith than baptism-completes-faith.
 
 * *baptism-completes-faith:* this is also an exception to the rule. Possibly Apollos was baptized in Jesus name by Priscilla and Aquila, but it was simply not recorded in this passage. *... Although it seems that after pointing out that Apollos knew only the baptism of John and his knowledge being corrected it would be quite fitting to report that he then was baptized in Jesus name if that really happened.*
 
-#### Acts 19:1-7 Holy Spirit received in Corinth not during water baptism but after
+#### Acts 19:1-7 Holy Spirit received in Ephesus not during water baptism but after
 
 !!!
     1​ While Apollos was in Corinth, Paul traveled through the interior regions and came to Ephesus. He found some disciples  2 and asked them, “Did you receive the Holy Spirit when you believed?”
-    “No,” they told him, “we haven’t even heard that there is a Holy Spirit.”
+    “No,” they told him, “we haven't even heard that there is a Holy Spirit.”
     3 “Then what baptism were you baptized with?” he asked them.
-    “With John’s baptism,” they replied.
+    “With John's baptism,” they replied.
     4 Paul said, “John baptized with a baptism of repentance, telling the people that they should believe in the One who would come after him, that is, in Jesus.”
     5 When they heard this, they were baptized in the name of the Lord Jesus. 6 And when Paul had laid his hands on them, the Holy Spirit came on them, and they began to speak in other languages and to prophesy. 7 Now there were about 12 men in all.
 
-These disciples of Christ believed but did not have the Holy Spirit and only had John's baptism. Paul baptized them in Jesus name and they still did not have the Holy Spirit. It was given only after a subsequent laying of hands on them by Paul.
+These disciples of Christ believed but did not have the Holy Spirit; they had only John's baptism. Paul baptized them in Jesus's name, and they still did not have the Holy Spirit. It was given only after a subsequent laying on of hands by Paul.
 
 * *obedient-faith:* This passage describes both, water baptism in Jesus name and receiving of the Holy Spirit, and they are not happening at the same time, resonating with obedient-faith, not baptism-completes-faith. Still, it is a strange passage, as it describes the people as disciples and believers but apparently, when starting to believe it did not trigger receiving the Holy Spirit. Maybe because their belief was sincere but based on too much false or incomplete information. Then Paul corrected their confusion and after both, the baptism and the laying on of hands, their faith was firm obedient faith so the Holy Spirit was given.
 
@@ -342,7 +342,7 @@ These disciples of Christ believed but did not have the Holy Spirit and only had
 #### Acts 8:14-17 Holy Spirit received in Samaria not during water baptism but after
 
 !!!
-    14 When the apostles who were at Jerusalem heard that Samaria had welcomed God’s message, they sent Peter and John to them. 15 After they went down there, they prayed for them, so the Samaritans might receive the Holy Spirit. 16 For He had not yet come down on any of them; they had only been baptized in the name of the Lord Jesus. 17 Then Peter and John laid their hands on them, and they received the Holy Spirit.
+    14 When the apostles who were at Jerusalem heard that Samaria had welcomed God's message, they sent Peter and John to them. 15 After they went down there, they prayed for them, so the Samaritans might receive the Holy Spirit. 16 For He had not yet come down on any of them; they had only been baptized in the name of the Lord Jesus. 17 Then Peter and John laid their hands on them, and they received the Holy Spirit.
 
 * *obedient-faith:* This passage describes both, water baptism in Jesus's name and receiving of the Holy Spirit, and they are not happening at the same time, resonating with obedient-faith, not baptism-completes-faith. Still, it is a strange passage, as it describes the people as believers that received the proper water baptism in Jesus's name but apparently, this did not trigger receiving the Holy Spirit. Maybe because their belief was still plagued by doubt and or missing information. Then Peter and John preached to them and during the laying on of hands, their faith was firm obedient faith so the Holy Spirit was given.
 
@@ -363,9 +363,9 @@ There is not even one report in Acts in which the Holy Spirit was given during w
 
 * *obedient-faith:* This states the conditions for salvation. If water baptism was one of them it should be mentioned, but is not.
 
-* *baptism-completes-faith:* the baptism requirement is instituted by Jesus at the great commission, which was given after John 3:16 *... but should that make John 3:16 obsolete or even contradict it?* ... OR
+* *baptism-completes-faith:* the baptism requirement is instituted by Jesus at the Great Commission, which was given after John 3:16 *... but should that make John 3:16 obsolete or even contradict it?* ... OR
 
-* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements including baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. *... acceptable but a less straightforward match to scripture than the obedient-faith view.*
+* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements including baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. *... acceptable but a less straightforward match to Scripture than the obedient-faith view.*
 
 #### 1 Corinthians 15:1-8
 
@@ -376,7 +376,7 @@ There is not even one report in Acts in which the Holy Spirit was given during w
 
 * *baptism-completes-faith:* If Paul was trying to state just the conditions for salvation, then he should not have included in the same sentence the various post-resurrection appearances, which are not essential to salvation. Instead, Paul gives a listing of shared Christian core beliefs that Paul assumed everyone knew to emphasize that he's not telling them new stuff, only already established truths. And with that context, it does not matter that he left out repentance and left out baptism - it's simply not a text focusing on requirements for salvation. ... - But Paul states in verse 1 explicitly that what follows is the gospel, so it must contain everything that is needed for salvation. ...  OR
 
-* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements including baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. *... acceptable but a less straightforward match to scripture than the obedient-faith view.*
+* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements including baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. *... acceptable but a less straightforward match to Scripture than the obedient-faith view.*
 
 #### 1 Corinthians 1:14,17: Paul on baptism
 
@@ -391,7 +391,7 @@ In this passage, Paul is arguing against the divisions that plagued the Corinthi
 
 * *obedient-faith:* If baptism was necessary for salvation, why did Paul say he was thankful he baptized so few people? Why did he say that he was *not* sent to baptize? If baptism was necessary for salvation, Paul essentially said, “I am thankful I saved so few ...” and “For Christ did not send me to save ...”. That would be an unbelievably ridiculous statement for Paul to make. (See https://www.gotquestions.org/baptism-salvation.html )
 
-* *baptism-completes-faith:* One verse earlier Paul asks rhetorically if they were baptized in the name of Paul. That implies that he knew they were all baptized in the name of Jesus, meaning they were all water baptized. He did not conduct the baptisms, but he's not saying that baptism is not needed. It seems that when he was with that church, there were some faithful leaders that he was comfortable leaving the baptisms to, so he could focus on the more difficult task of evangelizing and teaching. *... - acceptable but a less straight forward match to scripture than the obedient-faith view.*
+* *baptism-completes-faith:* One verse earlier Paul asks rhetorically if they were baptized in the name of Paul. That implies that he knew they were all baptized in the name of Jesus, meaning they were all water baptized. He did not conduct the baptisms, but he's not saying that baptism is not needed. It seems that when he was with that church, there were some faithful leaders that he was comfortable leaving the baptisms to, so he could focus on the more difficult task of evangelizing and teaching. *... - acceptable but a less straightforward match to Scripture than the obedient-faith view.*
 
 #### Ephesians 2:8-9
 
@@ -402,11 +402,11 @@ This teaches that salvation is just through faith.
 
 * *obedient-faith:* Adding any works, incl. demonstrating obedience in water baptism, would make it no longer just faith. Thus water baptism is not a requirement.
 
-* *baptism-completes-faith:* even obedient-faith teaches that salvation is not unilaterally forced upon by God, but requires a to-do list for the believer: mental comprehension of the gospel, belief that it's true, repentance, trusting Jesus, committing to follow Him, accepting the gift of salvation. Those are not trivial but are still classified as not-works. This view simply includes baptism into that to-do list and also classifies it as not-works. And all of those items are things that either exalt Jesus or humble ourselves. Not things that can be used to boast about ourselves. And that's the main concern of this verse: we ought to not think we earned our salvation or did something that makes us deserve it and that consequently we could boast about. *... acceptable, but less straightforward than the obedient-faith view. Note also, that the obedient-faith steps are all mental, while baptism is a physical act and thus more inherently associated with works.*
+* *baptism-completes-faith:* even obedient-faith teaches that salvation is not unilaterally forced upon by God, but requires a to-do list for the believer: mental comprehension of the gospel, belief that it's true, repentance, trusting Jesus, committing to follow Him, accepting the gift of salvation. Those are not trivial but are still classified as not-works. This view simply includes baptism into that to-do list and also classifies it as not-works. And all of those items are things that either exalt Jesus or humble ourselves. Not things that can be used to boast about ourselves. And that's the main concern of this verse: we ought to not think we earned our salvation or did something that makes us deserve it and that consequently we could boast about. *... acceptable, but less straightforward than the obedient-faith view. Note also that the obedient-faith steps are all mental, while baptism is a physical act and thus more inherently associated with works.*
 
 * *obedient-faith:* Even if we accept that baptism is not a work, then this verse still states that the requirements to be saved do not include baptism.
 
-* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements including baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. *... acceptable but less straight forward than the obedient-faith view.*
+* *baptism-completes-faith:* any mention of faith alone leading to salvation implies the other requirements including baptism. So they are not left out because of irrelevance, but for brevity and are assumed to be included implicitly. *... acceptable but less straightforward than the obedient-faith view.*
 
 #### Titus 3:5
 
