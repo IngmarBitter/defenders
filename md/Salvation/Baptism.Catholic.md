@@ -210,7 +210,7 @@ With this framing, we can contrast the two interpretive patterns as follows:
 
 #### Roadmap
 
-We first consider Spirit versus water Baptism, then passages emphasizing faith, then those emphasizing Baptism. The Catholic reading holds both together: faith is necessary; Baptism is God’s normative instrument to confer what faith seeks. Acts’ variations in timing are read in light of the sacramental economy (Baptism and Confirmation).
+We first consider Spirit versus water Baptism, then passages emphasizing faith, then those emphasizing Baptism. The *Baptism-completes-faith* reading holds both together: faith is necessary; Baptism is God’s normative instrument to confer what faith seeks. Acts’ variations in timing are read in light of the sacramental economy (Baptism and Confirmation). However, for fairness we will also state the interpretations and commetary of the *Obedient-faith* reading.
 
 #### Statement of challenges
 
