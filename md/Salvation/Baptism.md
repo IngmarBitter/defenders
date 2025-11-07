@@ -453,7 +453,7 @@ Acts 2:38 correlates repentance and baptism with salvation (forgiveness of sins 
 
 Acts 2:38 is the nearest example in the entire Bible to the Holy Spirit being received during baptism. However, it does not explicitly state this. Inferring that the receiving occurs at the time of baptism is an interpretation that requires reading between the lines. Similarly, identifying it with the time of coming to obedient faith is another interpretation matching this verse based on reading between the lines. Both interpretations are consistent with this single verse. To determine the correct one, it is necessary to consider the wider context of the Bible.
 
-If we paraphrase this verse at a baptism to become
+If we paraphrase this verse at a baptism to be
 
 * *"I baptize you in the name of the Father, Son, and Holy Spirit; for the forgiveness of sins and to receive the gift of the Holy Spirit"*
  
