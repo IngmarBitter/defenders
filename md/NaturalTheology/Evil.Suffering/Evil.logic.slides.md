@@ -10,7 +10,7 @@ Ingmar Bitter, PhD
 
 ## Types of Evil and Our Experience
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/EvilMoralAndNatural.jpg style="float: right; width: 8rem")
 
 - Types of evil and suffering
   - Moral evil: results from free agents
@@ -25,7 +25,7 @@ Ingmar Bitter, PhD
 
 ## The Problem of Evil: Two Versions
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/PoE.Versions.jpg style="float: right; width: 8rem")
 
 - Intellectual problem
   - "A good God would not allow evil and suffering"
@@ -41,7 +41,7 @@ Ingmar Bitter, PhD
 
 ## Keep Intellectual and Emotional Distinct
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/PoE.Versions.jpg style="float: right; width: 8rem")
 
 - Intellectual
   - Philosophical analysis
@@ -56,7 +56,7 @@ Ingmar Bitter, PhD
 
 ## Burden of Proof
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/LadyJustice.jpg style="float: right; width: 8rem")
 
 - “A good God would not allow evil and suffering.”
   - This is a slogan, not yet an argument.
@@ -187,7 +187,7 @@ Ingmar Bitter, PhD
 
 ## Probabilistic Version Argument
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/ScaleWithQuestions.jpg style="float: right; width: 8rem")
 
 1. If God exists, gratuitous (pointless) suffering would not exist.
 2. Gratuitous suffering probably exists.
@@ -353,7 +353,7 @@ Ingmar Bitter, PhD
 
 ## Response 3: Probabilities Are Relative
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/EvilMoralAndNatural.jpg style="float: right; width: 8rem")
 
 - Probabilities are always relative to background information
 - Example:
