@@ -81,10 +81,15 @@ Ingmar Bitter, PhD
 3. => alleged logical contradiction
 4. => God is not both, all-loving and all-powerful
 5. => The Christian God does not exist
-
-- Definitions:
-  - All-powerful: can do all that’s logically possible
-  - All-loving: wills the good of creatures
+<!-- list break -->
+<ul>
+  <li>Definitions:
+    <ul>
+      <li>All-powerful: can do all that’s logically possible</li>
+      <li>All-loving: wills the good of creatures</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
@@ -190,20 +195,25 @@ Ingmar Bitter, PhD
 ![](EvilPics/ScaleWithQuestions.jpg style="float: right; width: 8rem")
 
 1. If God exists, gratuitous (pointless) suffering would not exist.
-2. Gratuitous suffering probably exists.
-3. Therefore, probably God does not exist.
+2. Some suffering appears to be gratuitous.
+3. Gratuitous suffering probably exists.
+4. Therefore, probably God does not exist.
 <!-- list break -->
-
-- “Gratuitous” = suffering for which there is no morally sufficient reason to permit
+<ul>
+  <li>- “Gratuitous” = suffering for which there is no morally sufficient reason to permit</li>
+  <li>- Key dispute: whether we are justified in inferring “probably gratuitous” from “appears gratuitous”</li>
+  <li>- Beware selection bias and incomplete background information</li>
+</ul>
 
 ---
 
 ## Response 1: Our Cognitive Limits
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/DDay.jpg style="float: right; width: 8rem")
 
 - We’re finite in time, space, and knowledge; God’s providence spans history
-- Not an appeal to mystery or divine psychology; it’s about our inherent limits
+- Not an appeal to mystery or divine psychology
+  - It’s about our inherent limits
 - Only an all‑knowing God can coordinate free agents across history (e.g., Allied victory on D‑Day)
 - Utilitarianism critique: we cannot forecast ultimate outcomes; short-term bad may enable long-term good
 - Therefore: “looks pointless” does not justify “is pointless” (probabilistic force diminishes)
@@ -212,7 +222,7 @@ Ingmar Bitter, PhD
 
 ## Cognitive Limits — Chaos Sensitivity
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/ButterflyEffect.jpg style="float: right; width: 8rem")
 
 - Modern chaos theory: tiny initial changes can trigger massive outcomes
 - “Butterfly effect” (weather, populations)
@@ -222,7 +232,7 @@ Ingmar Bitter, PhD
 
 ## Cognitive Limits — Sliding Doors
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/SlidingDoors.jpg style="float: right; width: 8rem")
 
 - The movie “Sliding Doors” (1998, starring Gwyneth Paltrow)
 - Seemingly trivial events radically alter life courses
@@ -233,7 +243,7 @@ Ingmar Bitter, PhD
 
 ## Cognitive Limits — Schindler’s List
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/NazisAndJews.jpg style="float: right; width: 8rem")
 
 - The movie “Schindler’s List” (1993, directed by Steven Spielberg)
 - Profound good (charity, moral courage, God‑seeking) inspired in response to Nazi evil
@@ -243,21 +253,21 @@ Ingmar Bitter, PhD
 
 ## Response 1: Limits of Outcome Prediction
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/ButterflyEffect.jpg style="float: right; width: 8rem")
 
 - Utilitarianism: the right action maximizes total expected well‑being for all affected
   - Requires forecasting full, long‑run consequences across agents and time
   - Short‑term bad may yield long‑term good (and vice versa)
   - Probability judgments of actions being pointless or not exceed our competence
 - => “Looks pointless” does not justify “is pointless”
-- => 2. "gratuitous suffering probably exists” is under‑warranted
+- => 3. "gratuitous suffering probably exists” is under‑warranted
 - => the probabilistic force diminishes
 
 ---
 
 ## Response 1: Summary
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/ComplexWeb.jpg style="float: right; width: 8rem")
 
 - We’re finite in time, space, and knowledge
 - Small causes can yield massive, unforeseeable effects
@@ -267,26 +277,29 @@ Ingmar Bitter, PhD
 - => We’re not in a good position to infer:
   - “Looks pointless” → “Is pointless”
 - => Probabilistic force diminishes
+- Analogy: judging a 1000‑page novel after page 40.
 
 ---
 
-## Response 2: Christian Doctrines
+## Response 2: Christian Doctrines Expect Suffering
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/Doctrines.jpg style="float: right; width: 8rem")
 
-- Certain Christian tenets increase co-existence probability:
-  - 1. Life’s chief end is knowledge of God, not earthly comfort
-  - 2. Human rebellion; God “gives them up”
-  - 3. Eternal life reframes earthly suffering
-  - 4. Knowing God is an incommensurable good
+- Certain core doctrines reshape expectations:
+  - Life’s chief end: knowing God (not optimized comfort)
+  - Human rebellion: moral evil unsurprising
+  - Eternal life: temporal suffering dwarfed by future
+  - Incommensurable good: knowing God outweighs pains
+- These adjust the background info for probability assessments about suffering.
 
 ---
 
 ## Doctrine 1: Life’s Chief End
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/PrayInStorm.jpg style="float: right; width: 8rem")
 
-- Not pets and comfort; relational knowledge of God
+- Not pets and comfort
+  - But relational knowledge of God
 - Suffering can deepen trust and dependence
 - Growth may occur in sufferers and observers
 
@@ -294,22 +307,22 @@ Ingmar Bitter, PhD
 
 ## Empirical Corroboration: Growth Amid Suffering
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/PrayInStorm.jpg style="float: right; width: 8rem")
 
-- Suffering often promts resilience, reliance on God and church growth
-- Is the case in ... inspite of ...
+- Suffering often prompts resilience, reliance on God, and church growth
+- Is the case in ... in spite of ...
   - Nigeria: World leading in Christians murdered because of their belief
   - China: Severe persecution (Cultural Revolution)
   - El Salvador: War, poverty, calamity
   - Ethiopia: Repression, famine, war
   - Haiti: post-earthquake
-- Millions afflitced coming to Christ
+- Millions afflicted coming to Christ
 
 ---
 
 ## Global Trend Snapshot
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/PeopleCounts.jpg style="float: right; width: 8rem")
 
 - Ratio of evangelicals to non-believers shrinking historically
   - 1st century: thousands to 1
@@ -323,17 +336,20 @@ Ingmar Bitter, PhD
 
 ## Doctrine 2: Human Rebellion
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/GreedEnvyLust.jpg style="float: right; width: 4rem")
+
+<p style="font-family: 'Gabriola', serif;">
+    Therefore **God also gave them up** to uncleanness, in the lusts of their hearts, to dishonor their bodies among themselves,
+</p><p style="text-align: right; margin-top: -1.5em; margin-bottom: 1em;"> <em>Romans 1:24 (NKJV)</em></p>
 
 - Moral evils unsurprising on Christian view
-- Romans 1: God “gave them up”
 - God permits human depravity to run its course
 
 ---
 
 ## Doctrine 3: Eternal Perspective
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/SufferNowNotInEternity.jpg style="float: right; width: 8rem")
 
 - This life: foyer to eternity
 - Paul’s “slight momentary afflictions” (2 Cor 4)
@@ -343,7 +359,7 @@ Ingmar Bitter, PhD
 
 ## Doctrine 4: Incommensurable Good
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/ScaleImbalance.jpg style="float: right; width: 8rem")
 
 - Knowing God outweighs any temporal suffering
 - Scale metaphor: “weight of glory” beyond comparison
@@ -351,31 +367,46 @@ Ingmar Bitter, PhD
 
 ---
 
+## Response 2 Summary: Doctrines allign with Suffering
+
+![](EvilPics/Doctrines.jpg style="float: right; width: 6rem")
+
+- Each doctrine reduces the expectation that God would eliminate all present suffering:
+  - Different ultimate goal ⇒ refining through trials
+  - Human rebellion ⇒ moral disorder expected
+  - Eternal horizon ⇒ present pain proportionally small
+  - Incommensurable good ⇒ permits means to deeper knowledge
+- => lowers prior force of “appears gratuitous” cases.
+- => not convincing that suffering means God probably does not exist.
+
+---
+
 ## Response 3: Probabilities Are Relative
 
-![](EvilPics/EvilMoralAndNatural.jpg style="float: right; width: 8rem")
+![](EvilPics/DrinkingScales.jpg style="float: right; width: 8rem")
 
 - Probabilities are always relative to background information
 - Example:
   - Joe is a college student
   - 90% of college students drink beer
-  - ⇒ probably drinks
+    - ⇒ probably drinks
   - Joe is a Liberty student
   - 90% at Liberty don’t drink
-  - ⇒ probably does not drink
-- Not interesting: P(God | suffering alone)
+    - ⇒ probably does not drink
+- Not: P(God | suffering alone) that would be cherry‑picking fallacy
 - Relevant: P(God | full scope of evidence)
-  - The probabily that God exist given all evidence about Him.
+  - The probability that God exists given all relevant evidence
 
 ---
 
 ## Full Scope Outweighs
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/DoctrineCoherence.jpg style="float: right; width: 8rem")
 
 - Any improbability from evil can be offset
 - Cumulative case theism raises P(God) given the full scope of evidence:
   - Prior arguments: Kalam, Leibnizian, Fine-Tuning, Moral, Consciousness, Mathematical Beauty & Applicability
+  - Historical “motives of credibility”: miracles, fulfilled prophecy, doctrinal sublimity, Church’s growth/holiness/stability
   - Doctrines: life’s chief end (knowing God), human rebellion, eternal perspective, incommensurable good
 - Atheist must address the Christian God
   - Show doctrines and existence arguments are probably false, or
@@ -385,22 +416,22 @@ Ingmar Bitter, PhD
 
 ## Summary: Intellectual Assessment
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/ButterflyEffect.jpg style="float: right; width: 8rem")
 
 - Logical version: fails
-  - incompatibility unproven
+  - Incompatibility refuted
 - Probabilistic version: fails
   - Cognitive limits
-  - Christian doctrines increase probability of co-existence of God and Evil/Suffering
-  - Full evidence makes God's existences very probable
+  - Christian doctrines expect co-existence of God and Evil/Suffering
+  - Full evidence makes God's existence very probable
 
 ---
 
 ## Emotional Problem Remains
 
-![](EvilPics/jesus.heals.jpg style="float: right; width: 8rem")
+![](EvilPics/JesusComfortInSuffering.jpg style="float: right; width: 8rem")
 
-- Intellectually defused ≠ emotionally resolved
+- Intellectually refuted ≠ emotionally resolved
 - Responses: presence, compassion, hope
 - Head and heart both matter
 
