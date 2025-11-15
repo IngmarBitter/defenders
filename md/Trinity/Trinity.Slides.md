@@ -21,7 +21,7 @@ Ingmar Bitter, PhD
   - God is NOT three separate gods (tritheism)
   - Christ & the Holy Spirit are fully divine persons
 - Worship, prayer, salvation shape depend on tri-personal reality
-- Aim: data → inference (not word “Trinity,” but concept)
+- Verses → concept-inference → label “Trinity”
 
 ---
 
@@ -56,9 +56,10 @@ Ingmar Bitter, PhD
     - Father, Son, Holy Spirit
 - Monotheism is core of all Trinitarian concepts
   - “One God” is non‑negotiable
+- (1) exactly one God
+- (2) exactly three distinct persons who are properly called God
 
 ---
-<div style="margin-top: -0.75em; margin-bottom: 0.5em;"></div>
 
 ## Trinity Composition and Attributes
 
@@ -344,12 +345,14 @@ Ingmar Bitter, PhD
 * Father elects; Son redeems; Spirit seals - each person plays a distinct role in salvation's accomplishment and application.
 
 ---
+
 ## Trinity Orthodoxy
 
 - Exactly one God (numerical unity)
 - Father, Son, Spirit are distinct persons
-- Each fully divine (omni‑properties, eternity, aseity)
+  - Each fully divine (omni‑properties, eternity, aseity)
 - God acts as one (creation, redemption) but with role differentiation (elect, redeem, seal)
+- One God and three persons each with God's attributes. NOT three persons = one person
 - Bad analogies avoided; tri-personal being affirmed
   - These facets are the minimal commitments required of orthodox Trinitarian confession
   - They summarize what the doctrine affirms
@@ -364,136 +367,132 @@ Ingmar Bitter, PhD
 
 ## Orientation & Timeline (1/3)
 
-- Apostolic era: data held together without formal identity logic
-- 2nd c. Greek Apologists: Logos Christology (Justin, Athenagoras)
-- Irenaeus: Word = Son; Wisdom = Spirit
-- Seeds of “begetting/processions” language
+- Apostolic era: evangelists/apostles present data (Father, Son, Spirit) without formal philosophical categories.
+  - Scripture supplies relational data; technical vocabulary comes later.
+- 2nd c. Greek Apologists (Justin, Athenagoras): begin to speak of the Logos (the Word) as God’s rational principle — a bridge between Jewish monotheism and Greek philosophy.
+  - Function: explain Christ’s divinity and role in creation to Hellenistic audiences.
+- Irenaeus: incorporates Logos language - links Word and Son.
+- Takeaway: early period = biblical data + attempts to translate it into intelligible categories.
 
 ---
 
 ## Orientation & Timeline (2/3)
 
-- 3rd c.: Modalism/Monarchianism (Noetus, Praxeas, Sabellius)
-- Tertullian: trinitas; monarchy vs. economy; one substantia
-- Early language tensions: substantia vs. hypostasis
-- Anti-modalist exegesis (plural pronouns; I–Thou)
+- 3rd c.: competing options appear.
+  - Modalism/Monarchianism (Noetus, Praxeas, Sabellius): preserve strict numerical unity but collapse personal distinction — resulted from trying to avoid tritheism.
+  - Social/Logos strands: preserve distinct persons but need accounts of sameness of God.
+- Tertullian (Latin West): coins "trinitas" and presses for both unity (one substance) and distinction (three persons/hypostases).
+  - He introduces vocabulary and methodological guardrails later councils will adopt.
 
 ---
 
 ## Orientation & Timeline (3/3)
 
-- 4th c.: Arian controversy (Arius: Son a creature)
-- Nicaea (325): homoousios—“of one substance” with the Father
-- Post-Nicene: Cappadocians—1 ousia, 3 hypostases
-- Council of Alexandria (362): term reconciliation
+- 4th c.: Arian controversy (Arius: Son creature/derived) forces precise language about essence and personhood.
+- Council of Nicaea (325): first ecumenical response — key terms (homoousios) adopted to protect Son's full divinity.
+- Post‑Nicene/Cappadocians: refine hypostasis/ousia distinction (1 ousia, 3 hypostases) and defend Spirit's full deity.
+- Council of Constantinople (381): further clarifies and ratifies the fuller Creedal formula.
+
+---
+
+## Logos Christology (Expanded)
+
+- Who: 2nd‑c. Greek apologists — Justin Martyr, Tatian, Theophilus, Athenagoras, etc.
+- Key influence: Philo of Alexandria (Hellenistic Jew; Middle Platonist categories).
+  - Philo: Logos = God’s immanent reason/mind that orders and creates the world.
+  - Apologists synthesize John 1:1 (“the Word”) with Philo’s Logos to explain Christ’s divinity and role in creation.
+- Core content: the Logos is God’s immanent reason/agent that can “proceed” from the Father and become a distinct personal agent through whom God creates and reveals.
+  - Two readings of procession:
+    - temporal/processional at creation (Logos proceeds at creation), or
+    - eternal procession (no beginning; like light from the sun).
+- Athenagoras (sample claim): the Son is “the Word of the Father… the mind and reason of the Father… first begotten,” and the Spirit as an effluence/“ray” — illustrating the immanent → personal Logos idea.
+- Irenaeus takeaway: adopts Logos language into Western theology — identifies Word with the Son and Wisdom with the Spirit (bridging apologist Logos and later Trinitarian formulations).
+- Why it matters: Logos Christology supplies a conceptual route to affirm Christ’s pre‑existence and divine agency; it also introduces language (begotten, generation, procession) that shapes later conciliar debates and accusations of subordination if misread.
+- Teaching note: emphasize the philosophical background (Middle Platonism) and that Logos language is a theological translation tool — helpful but not identical with later creedal formulations.
 
 ---
 
 ## Logos Christology (Highlights)
 
-- Logos immanent in Father; proceeds for creation
-- Eternal vs. temporal procession analogies (sun/rays)
-- Strength: affirms full deity and mediation in creation
-- Risk: subordinationist drift; importing Middle Platonism
-- Legacy: “begotten, not made” in the Creed
+- Core idea: the Logos is God’s immanent reason/agent — through whom God creates and reveals.
+- Strength: explains how the one God can speak/act (creation, revelation) without becoming polytheistic.
+- Risk: if pushed as a temporal “emission,” can suggest subordination (Son as secondary).
+- Practical note: Logos language undergirds "begotten, not made" — preserves divine status of Son while explaining economic mission.
 
 ---
 
 ## Modalism (What/Why Rejected)
 
-- One person, three roles or phases
-- Collapses I–Thou relations, erases simultaneity
-- Ignores NT dual-addresses and distinct wills
-- Church answer: unity of essence, distinction of persons
-- Tertullian’s contribution: trinitas; economy language
+- Modalism: Father, Son, Spirit = one person manifesting in different “modes” or roles (avoids plural gods but erases interpersonal relations).
+- Why problem: Scripture records I–Thou relations (prayer, obedience, sending). Modalism cannot account for genuine dialogue (e.g., Father speaking to Son).
+- Early refutation: Tertullian and others deploy plural pronouns and dialogical prooftexts to argue for personal distinctness.
 
 ---
 
 ## Tertullian’s Precision
 
-- One substantia (essence and individual) = one God
-- Three personae (hypostases) ordered by economy, not worth
-- “I and the Father are one” = unity of essence, not one person
-- Anti-modalist use of first/second-person dialogues
-- Early psychological hints: self-reflective reason “within”
+- Major moves:
+  - Introduces “trinitas” (Trinity) and distinguishes substance (substantia/ousia) from person (persona/hypostasis).
+  - Argues Scripture shows plural persons sharing one divine essence (e.g., “I and my Father are one” = unity of essence, not identity of person).
+- Helpful clarifications:
+  - Substance (essence): what God is (divinity).
+  - Person/hypostasis: who acts and relates (Father, Son, Spirit).
+- Practical teaching note: use Tertullian’s language to guard against both modalism and tritheism.
 
 ---
 
-## Arianism (Core Claims)
+## Arianism (Core Claims & Stakes)
 
-- “There was when he was not” (Son a creature)
-- Denies homoousios; at best homoiousios (similar substance)
-- Undercuts worship and salvation efficacy
-- Implies no eternal Word/Wisdom in God
-- Condemned at Antioch (325) and Nicaea (325)
-
----
-
-## Nicene Creed (Key Lines, 1/2)
-
-- “God from God, Light from Light, true God from true God”
-- “Begotten, not made; of one substance with the Father”
-- “Through whom all things were made”
-- Creedal intent: safeguard full deity and monotheism
-- Anathemas: deny creaturely status, deny “different hypostasis/ousia”
+- Arius (Alexandria): Son is creaturely/derived — “there was when he was not.”
+- Why it mattered: If Son is created → Son cannot mediate salvation in a way that secures worship or ultimate reconciliation (undermines atonement and worship).
+- Council outcome: Nicaea condemned Arian propositions and affirmed Son’s full divinity (homoousios).
+- Classroom tip: explain the pastoral and liturgical stakes — not only metaphysics, but who may be prayed to/worshiped.
 
 ---
 
-## Nicene Creed (Key Lines, 2/2)
+## Nicene Creed (Key Lines & Why They Matter)
 
-- Homoousios: same essence—not mere similarity
-- Eternal begetting (no “before he was”)
-- Spirit included, later expanded at Constantinople
-- Not inventing deity; articulating biblical data
-- Responds to Arian prooftexts and categories
+- “God from God, Light from Light, true God from true God, begotten, not made, of one substance (homoousios) with the Father.”
+  - homoousios = “same essence” — Son shares divine nature, not a created being.
+  - begotten, not made = distinguishes filial relation from creaturely origination.
+- Anathemas appended: reject “there was when he was not” / Son as created.
+- Teaching note: homoousios was chosen to deny Arianism; explain the difference between asserting sameness of essence vs. identity of person.
 
 ---
 
-## Hypostasis vs. Ousia (Term Rescue)
+## Nicene Creed (Practical Clarifications)
 
-- Latin “substantia” vs. Greek “hypostasis” mismatch
-- East: hypostasis = concrete individual; ousia = nature
-- West (initially): used as synonyms; caused confusion
-- Alexandria (362): 1 ousia / 3 hypostases affirmed
-- Stabilizes orthodox formula
+- Homoousios vs. Homoiousios: a single iota change — “same” vs. “similar” essence — mattered enormously (same = full deity; similar = creaturely likeness).
+- Begotten (generation) language: safeguards divine sonship while avoiding “made” language; later debates refine whether begetting is eternal or economic.
+- Classroom tip: give quick examples (cat begets cat → shared nature) but stress theological import (worship, salvation efficacy).
+
+---
+
+## Hypostasis vs. Ousia (Term Rescue — Why Confusion Happened)
+
+- Latin West used substantia ~ hypostasis as near synonyms; Greek East read hypostasis as “individual instance” and ousia as “nature/essence.”
+- Resulting confusion: early Nicene phrasing sounded to Greeks like a denial of personal distinctness; decades of debate followed.
+- Resolution (Cappadocian input): settle on one ousia (divine essence) and three hypostases (real, personal instances) — 1 ousia / 3 hypostases.
+- Teaching hook: show how little differences in technical usage change theological conclusions — be precise with terms.
 
 ---
 
 ## Cappadocians’ Clarity
 
-- Basil, Gregory Nazianzen, Gregory Nyssa
-- Three hypostases: mutual knowledge, love, will
-- Not parts; full share in the one divine nature
-- Perichoresis (mutual indwelling) emphasis
-- Anti-subordination, anti-modal collapse
+- Basil, Gregory of Nazianzus, Gregory of Nyssa: pivotal in clarifying “one essence, three persons.”
+  - Emphasized personal properties (mutual knowledge, love, will) to defend real interpersonal relations.
+  - Defended full deity of the Spirit — not a mere influence or impersonal power.
+- Their contribution: gave the church stable conceptual tools (perichoresis, mutual indwelling) to articulate orthodox Trinitarianism.
 
 ---
 
 ## Guardrails (Reinforced)
 
-- Not three Gods (numerical unity of ousia)
-- Not one person in three roles
-- Not ontological subordination (ranked deity)
-- Economy ≠ ontology (role ≠ worth)
-- Worship coherence protected
-
----
-
-## Historical Myths Debunked
-
-- “Nicaea invented Jesus’ deity” ⇒ false
-- Deity of Christ present from apostolic era
-- Councils codified, did not create doctrine
-- Political caricatures oversimplify debates
-- Orthodoxy emerged through sustained exegesis & reason
-
----
-
-## Discussion (History)
-
-- Which error is most common today—and why?
-- Do terms help or hinder clarity in your context?
-- What creed line best prevents confusion?
+- Keep these distinctives explicit when teaching:
+  - Not three gods (numerical unity of essence).
+  - Not one person in three roles (reject modalism).
+  - Not ontological subordination (role ≠ lesser nature).
+- Practical classroom line: distinguish ontological claims (who God is) from economic claims (how God acts toward creation).
 
 ---
 
@@ -503,126 +502,114 @@ Ingmar Bitter, PhD
 
 ## Bad Analogies (Discard, Recap)
 
-- Water states ⇒ sequential, not co-eternal
-- One-man-three-roles ⇒ modalism
-- Parts/triangles ⇒ composition fallacies
-- Cerberus ⇒ limited creaturely image at best
-- Prefer precise terms: persons vs. nature
+- Popular analogies (water, roles, triangle, Cerberus) fail to capture the biblical and philosophical distinctions:
+  - Water states: sequential, not co-eternal.
+  - One-man-three-roles: modalism (one person, three masks).
+  - Triangle/parts: composition error (God is not made of parts).
+  - Cerberus: creaturely, not divine; helpful only as a springboard.
+- Use precise terms: "person" (who), "nature" (what).
 
 ---
 
 ## Logical Structure (Not a Contradiction)
 
-- One God in three persons = one nature, three hypostases
-- 3 persons ≠ 1 person (category error)
-- Predication vs. identity: “Son is God” = divine by nature
-- Preserve monotheism; allow real distinctions
-- Biblical language aligns with predication
+- Trinity is not a logical contradiction:
+  - "One God in three persons" means one divine nature (essence), three personal subjects (hypostases).
+  - The claim is not "3 persons = 1 person" (which would be incoherent).
+- Key: distinguish between "who" (person) and "what" (nature/essence).
 
 ---
 
 ## Identity & Leibniz’s Law (Basics)
 
-- Identity = reflexive, symmetric, transitive
-- Indiscernibility of identicals (Leibniz’s Law)
-- NT authors didn’t frame in modern identity logic
-- Their usage resists “Father = Son” identity claims
-- Avoid overreading “is” as identity
+- Modern identity: a = a; if a = b, then all properties of a = all properties of b (Leibniz’s Law).
+- NT authors did not use identity logic; their statements ("Father is God", "Son is God") are not identity claims.
+- Example: "Father is God" ≠ "God is the Father" (not interchangeable).
+- Avoid reading biblical "is" as strict identity.
 
 ---
 
 ## The “Is” of Language
 
-- “Is” of identity (“Clark Kent is Superman”)
-- “Is” of predication (“Elizabeth is Queen”)
-- “Is” of constitution (“Statue is bronze”)
-- Trinitarian “is” typically predicative
-- Prevents modalism and tritheism claims
+- Philosophers distinguish:
+  - "Is" of identity: "Clark Kent is Superman" (same individual).
+  - "Is" of predication: "Elizabeth is Queen" (holds a property/role).
+  - "Is" of constitution: "Statue is bronze" (material).
+- Trinitarian "is" is usually predicative: "Son is God" = Son is fully divine, not identical to the Father.
 
 ---
 
 ## One Essence, Three Persons (Clarification)
 
-- Three persons share one undivided divine essence; not three gods
-- Distinctions are about who (persons), not what (nature/being)
+- Three persons (Father, Son, Spirit) share one undivided divine essence.
+- Not three gods; distinctions are personal, not essential.
+- Analogy: Peter, James, John share human nature, but are distinct persons.
 
 ---
 
 ## Ancient vs. Modern “Person”
 
-- Patristic: rational hypostasis (individual with intellect/will)
-- Modern: center of self-consciousness, agency
-- Significant overlap for Trinity discourse
-- Cappadocians imply robust psychological personhood
-- Supports three “I”s in one divine nature
+- Patristic: "person" = rational hypostasis (individual with intellect/will).
+- Modern: "person" = center of self-consciousness, agency.
+- Cappadocians: three hypostases with mutual knowledge, love, will—close to modern personhood.
+- Trinity: three "I"s in one divine nature.
 
 ---
 
 ## Craig’s Model (Tri-Personal Soul)
 
-- God: one immaterial soul with three complete rational faculties
-- Each faculty sufficient for personhood (three centers of “I”)
-- Not three souls; one divine mind with tri-personal plenitude
-- Preserves unity, equality, distinction
-- Cerberus analogy: illustrative, not evidential
+- God is one immaterial soul with three complete sets of rational faculties (each sufficient for personhood).
+- Not three souls; one divine mind with three centers of self-consciousness.
+- Cerberus analogy: one being, three consciousnesses (but God is rational, not animal).
+- This model preserves unity, equality, and distinction.
 
 ---
 
 ## Objection: Tritheism?
 
-- Reply: one soul/nature, not three substances
-- No partitioning; faculties belong to one being
-- Perichoretic unity (mutual indwelling)
-- One will in perfect harmony vs. three wills? (see next)
-- Distinguish “faculty-sets” from conflicting volitions
+- Tritheism = three gods (three substances).
+- Craig's model: one soul/nature, three personal faculties.
+- No partitioning; faculties belong to one being.
+- Perichoresis: mutual indwelling, perfect unity.
+- One will in perfect harmony (not three conflicting wills).
 
 ---
 
 ## Unity of Will and Action
 
-- Classical view: one will in God (nature-will)
-- Personal “modes” of willing harmonize perfectly
-- Economic submission without ontological inequality
-- Single divine operation ad extra (inseparable operations)
-- Co-liberation, not competition
+- Classical doctrine: one divine will (nature-will).
+- Each person acts in perfect harmony; economic submission (Son submits to Father) does not imply ontological inequality.
+- "Inseparable operations": God acts as one in creation, redemption, etc.
 
 ---
 
 ## Explanatory Payoff
 
-- Monotheism upheld (numerical oneness of nature)
-- Full deity of each person
-- Real interpersonal relations
-- Coherent prayer/worship patterns
-- Avoids logical collapse to modalism or tritheism
+- Monotheism upheld: one divine nature.
+- Full deity of each person: all attributes shared.
+- Real interpersonal relations: genuine "I-Thou" dialogue.
+- Coherent prayer/worship: fits biblical patterns.
+- Avoids collapse to modalism (one person) or tritheism (three gods).
 
 ---
 
 ## Alternative Models (Quick Survey)
 
-- Latin (one nature subsisting in three relations)
-- Social (three centers of consciousness in unity)
-- Relative Identity (same God, not same person)
-- Material constitution analogies (limited)
-- Craig’s model: a social-leaning, single-soul account
+- Latin: one nature subsisting in three relations.
+- Social: three centers of consciousness in unity.
+- Relative Identity: same God, not same person.
+- Material constitution: limited analogy.
+- Craig’s model: social-leaning, single-soul account.
 
 ---
 
 ## Coherence Recap (Short Form)
 
-- Different senses of “one” resolve alleged paradox
-- Predication explains biblical “is God” language
-- Identity logic misreads avoided
-- Persons/nature distinction primary
-- Philosophical and biblical alignment
-
----
-
-## Discussion (Coherence)
-
-- Which model best fits your intuitions and Scripture?
-- Where does language still confuse your audience?
-- What is your favorite “guardrail” to keep?
+- Different senses of "one" resolve the apparent paradox.
+- Predication explains "is God" language in Scripture.
+- Identity logic misreads avoided.
+- Persons/nature distinction is primary.
+- Philosophical and biblical alignment achieved.
 
 ---
 
