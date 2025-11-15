@@ -64,8 +64,8 @@ Topics
    6. [Argument from Mathematical Beauty](NaturalTheology/MathBeauty.slides.html)
    7. other arguments (Leibnitz argument from Contingency, from Consciousness, ...)
    8. [Atheistic Arguments](NaturalTheology/Atheism.slides.html)
-6. Problem of Evil/Suffering/Hell <small>Why does God not prevent all three? Christianity has the best answer, [gives comfort](Evil.emotion/Evil.emotion.slides.html)</small>
-7. Doctrine of the Trinity <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
+6. [Problem of Evil/Suffering/Hell](NaturalTheology/Evil.logic.slides.html) <small>Why does God not prevent all three? Christianity has the best answer, [gives comfort](NaturalTheology/Evil.emotion.slides.html)</small>
+7. [Doctrine of the Trinity](Trinity/Trinity.Slides.html) <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
 8. Doctrine of Christ <small>Deity and Humanity of Christ, History of Explanations, Possible Model</small>
 9. Doctrine of the Holy Spirit <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
 10. Doctrine of Creation vs Evolutionism
