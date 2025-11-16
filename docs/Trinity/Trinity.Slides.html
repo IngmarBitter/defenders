@@ -8,7 +8,7 @@ Ingmar Bitter, PhD
 
 ---
 
-# Session 1: Biblical Foundation
+# Biblical Foundation
 
 ---
 
@@ -365,59 +365,61 @@ Ingmar Bitter, PhD
 
 ---
 
-## Orientation & Timeline (1/3)
+## 1st Century
 
-- Apostolic era: evangelists/apostles present data (Father, Son, Spirit) without formal philosophical categories.
-  - Scripture supplies relational data; technical vocabulary comes later.
-- 2nd c. Greek Apologists (Justin, Athenagoras): begin to speak of the Logos (the Word) as God’s rational principle — a bridge between Jewish monotheism and Greek philosophy.
-  - Function: explain Christ’s divinity and role in creation to Hellenistic audiences.
-- Irenaeus: incorporates Logos language - links Word and Son.
-- Takeaway: early period = biblical data + attempts to translate it into intelligible categories.
+- Apostolic era
+  - Evangelists/apostles write the NT books
+  - Present data about the Father, Son, Spirit
+    - Relational
+    - Historical accounts
+  - No formal philosophical analysis
+  - No technical vocabulary
+  - No Trinity
 
 ---
 
-## Orientation & Timeline (2/3)
+## 2nd Century - Logos Christology I
 
-- 3rd c.: competing options appear.
-  - Modalism/Monarchianism (Noetus, Praxeas, Sabellius): preserve strict numerical unity but collapse personal distinction — resulted from trying to avoid tritheism.
-  - Social/Logos strands: preserve distinct persons but need accounts of sameness of God.
+- **Greeks apologists:** Justin Martyr, Tatian, Theophilus, Athenagoras
+- **Key influence:** Philo of Alexandria (Hellenistic Jew)
+- Logos = God's immanent reason/mind that orders/creates the world
+- Apologists: Philo's Logos concept + John 1:1 ("the Word")
+- **Core idea:** Logos is God's immanent reason/agent that can "proceed" from the Father as a distinct personal agent through whom God creates and reveals
+  - **Two readings of procession:**
+    - Temporal: Logos proceeds at creation (after the Father)
+    - Eternal: no beginning; like light from an eternal sun (co-eternal with Father)
+
+---
+
+## 2nd Century - Logos Christology II
+
+- **Athenagoras:** Son = "the mind and reason of the Father… first begotten"; Spirit as effluence/"ray"
+- **Irenaeus:** adopts Logos into Western theology — identifies Word with Son and Wisdom with Spirit
+- **Why it matters:**
+  - Explains Christ's pre-existence and divine agency
+  - Introduces language (begotten, generation, procession) that shapes later councils
+  - Risk: can suggest subordination if procession is read as temporal only
+- **Obsolete:** Logos language was helpful but is not in later creedal formulations
+
+---
+
+## 3rd Century Overview
+
+- Competing options appear
+  - Modalism/Monarchianism (Noetus, Praxeas, Sabellius)
+    - Preserve strict numerical unity but collapse personal distinction — resulted from trying to avoid tritheism
+  - Social/Logos strands
+    - Preserve distinct persons but need accounts of sameness of God
 - Tertullian (Latin West): coins "trinitas" and presses for both unity (one substance) and distinction (three persons/hypostases).
-  - He introduces vocabulary and methodological guardrails later councils will adopt.
 
 ---
 
-## Orientation & Timeline (3/3)
+## 4th Century Overview
 
 - 4th c.: Arian controversy (Arius: Son creature/derived) forces precise language about essence and personhood.
 - Council of Nicaea (325): first ecumenical response — key terms (homoousios) adopted to protect Son's full divinity.
 - Post‑Nicene/Cappadocians: refine hypostasis/ousia distinction (1 ousia, 3 hypostases) and defend Spirit's full deity.
 - Council of Constantinople (381): further clarifies and ratifies the fuller Creedal formula.
-
----
-
-## Logos Christology (Expanded)
-
-- Who: 2nd‑c. Greek apologists — Justin Martyr, Tatian, Theophilus, Athenagoras, etc.
-- Key influence: Philo of Alexandria (Hellenistic Jew; Middle Platonist categories).
-  - Philo: Logos = God’s immanent reason/mind that orders and creates the world.
-  - Apologists synthesize John 1:1 (“the Word”) with Philo’s Logos to explain Christ’s divinity and role in creation.
-- Core content: the Logos is God’s immanent reason/agent that can “proceed” from the Father and become a distinct personal agent through whom God creates and reveals.
-  - Two readings of procession:
-    - temporal/processional at creation (Logos proceeds at creation), or
-    - eternal procession (no beginning; like light from the sun).
-- Athenagoras (sample claim): the Son is “the Word of the Father… the mind and reason of the Father… first begotten,” and the Spirit as an effluence/“ray” — illustrating the immanent → personal Logos idea.
-- Irenaeus takeaway: adopts Logos language into Western theology — identifies Word with the Son and Wisdom with the Spirit (bridging apologist Logos and later Trinitarian formulations).
-- Why it matters: Logos Christology supplies a conceptual route to affirm Christ’s pre‑existence and divine agency; it also introduces language (begotten, generation, procession) that shapes later conciliar debates and accusations of subordination if misread.
-- Teaching note: emphasize the philosophical background (Middle Platonism) and that Logos language is a theological translation tool — helpful but not identical with later creedal formulations.
-
----
-
-## Logos Christology (Highlights)
-
-- Core idea: the Logos is God’s immanent reason/agent — through whom God creates and reveals.
-- Strength: explains how the one God can speak/act (creation, revelation) without becoming polytheistic.
-- Risk: if pushed as a temporal “emission,” can suggest subordination (Son as secondary).
-- Practical note: Logos language undergirds "begotten, not made" — preserves divine status of Son while explaining economic mission.
 
 ---
 
@@ -496,7 +498,7 @@ Ingmar Bitter, PhD
 
 ---
 
-# Session 3: Philosophical Coherence
+# Philosophical Coherence
 
 ---
 
