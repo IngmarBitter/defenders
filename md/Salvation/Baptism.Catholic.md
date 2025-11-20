@@ -15,7 +15,7 @@ Baptism is the sacrament of rebirth in water and the Holy Spirit, by which one b
 !!!
     Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
 
-    - Matt. 28:19 MEV
+    - Matt. 28:19 NKJV (New King James Version, all other quotes are from the same Bible version)
 
 As disciples of Jesus, we obey His command to baptize. For adults, Baptism completes initial conversion by uniting obedient faith to the sacrament Christ instituted. For infants and those incapable of rational assent, Baptism communicates the same saving grace by God’s initiative, with the Church’s faith speaking on their behalf, so that none are excluded from the saving will of God (1 Tim 2:4).
 
@@ -27,11 +27,11 @@ Baptism is also profoundly symbolic, and its signs truly signify what they effec
 
 !!!
     Do you not know that we who were baptized into Jesus Christ were baptized into His death?   ​Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
-    - Rom. 6:3-4 MEV
+    - Rom. 6:3-4
 
 !!!
     And you, being dead in your sins and the uncircumcision of your flesh, He has resurrected together with Him, having forgiven you all sins.
-    - Col. 2:12 MEV
+    - Col. 2:12
 
 ### Baptism by Full Immersion
 
@@ -45,7 +45,7 @@ There are strong biblical and symbolic reasons to prefer or commend full immersi
 
 !!!
     9 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.   10 ​Coming up out of the water, He immediately saw the heavens opened and the Spirit descending on Him like a dove.
-    - Mark 1:9-10 MEV
+    - Mark 1:9-10
 
 !!!
     The whole region of Judea and all the people of Jerusalem went out to him [John the Baptist] and were all baptized by him in the Jordan River, confessing their sins.
@@ -54,12 +54,10 @@ There are strong biblical and symbolic reasons to prefer or commend full immersi
 
 !!!
     John also was baptizing in Aenon toward Salim, because much water was there. And people came and were baptized.
-
     - John 3:23
 
 !!!
-    36 ​As they went on their way, they came to some water. And the eunuch said, “Look, here is water. What hinders me from being baptized?”   ​37 Philip said, “If you believe with all your heart, you may.” He answered, “I believe that Jesus Christ is the Son of God.”   38 ​And he commanded the chariot to halt. Then both Philip and the eunuch went down into the water, and he baptized him.
-
+    36 ​As they went on their way, they came to some water. And the eunuch said, "Look, here is water. What hinders me from being baptized?"   ​37 Philip said, "If you believe with all your heart, you may." He answered, "I believe that Jesus Christ is the Son of God."   38 ​And he commanded the chariot to halt. Then both Philip and the eunuch went down into the water, and he baptized him.
     - Acts 8:36-38
 
 **Humble Submission and Personal Encounter:** Baptism is a humbled surrender to God’s saving action and a transformative encounter with Christ that confers the grace it signifies. Immersion can deepen the sign; valid alternative forms still convey the same sacramental reality.
@@ -68,11 +66,11 @@ There are strong biblical and symbolic reasons to prefer or commend full immersi
 
 <img src="BaptismSignificance.jpg" alt="BaptismSignificance" style="float:right;width:11rem;max-width:11rem;height:auto;margin:0 0 .5rem 1rem">
 
-Baptism is commanded by Christ (Mat 28:19) and is the ordinary means appointed by God to communicate regeneration and the Holy Spirit. It is the sacrament that incorporates us into Christ and His Church (1 Cor. 12:13), making us members of His Mystical Body. It is thus ordinarily necessary for salvation: God binds us to the sacrament, though He Himself is not bound by it.
+Baptism is commanded by Christ (Matt. 28:19) and is the ordinary means appointed by God to communicate regeneration and the Holy Spirit. It is the sacrament that incorporates us into Christ and His Church (1 Cor. 12:13), making us members of His Mystical Body. It is thus ordinarily necessary for salvation: God binds us to the sacrament, though He Himself is not bound by it.
 
 !!!
     Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
-    - Matt. 28:19 MEV
+    - Matt. 28:19
 
 For adults, the sacrament publicly manifests and completes their conversion, uniting obedient faith to Christ’s saving act. For Jewish converts then, and many converts now, baptism also bears social cost; yet the grace of incorporation into Christ exceeds the loss.
 
@@ -88,43 +86,37 @@ Examples of immediate baptism:
 
 !!!
     Then those who gladly received his word were baptized, and that day about three thousand souls were added to them.
-
-    - Acts 2:41 MEV
+    - Acts 2:41
 
 **The Ethiopian Eunuch (Acts 8:36-38):** On professing faith, he was baptized.
 
 !!!
-    ​As they went on their way, they came to some water. And the eunuch said, “Look, here is water. What hinders me from being baptized?”   ​Philip said, “If you believe with all your heart, you may.” He answered, “I believe that Jesus Christ is the Son of God.”   ​And he commanded the chariot to halt. Then both Philip and the eunuch went down into the water, and he baptized him.
-
-    - Acts 8:36-38 MEV
+    ​As they went on their way, they came to some water. And the eunuch said, "Look, here is water. What hinders me from being baptized?"   ​Philip said, "If you believe with all your heart, you may." He answered, "I believe that Jesus Christ is the Son of God."   ​And he commanded the chariot to halt. Then both Philip and the eunuch went down into the water, and he baptized him.
+    - Acts 8:36-38
 
 **Saul/Paul (Acts 9:1-18):** Having encountered Christ and received the Spirit through Ananias’ ministry, he was baptized at once.
 
 !!!
     Immediately something like scales fell from his eyes, and he could see again. And he rose up and was baptized.
-
-    - Acts 9:18 MEV
+    - Acts 9:18
 
 **Cornelius (Acts 10:44-48):** After the Spirit fell upon them, Peter commanded Baptism, showing the sacrament’s necessity even when God acts extraordinarily.
 
 !!!
-    47 “Can anyone forbid water for baptizing these, who have received the Holy Spirit as we have?”   48 ​So he commanded them to be baptized in the name of the Lord. [...]
-
-    - Acts 10:47-48 MEV
+    47 "Can anyone forbid water for baptizing these, who have received the Holy Spirit as we have?"   48 ​So he commanded them to be baptized in the name of the Lord. [...]
+    - Acts 10:47-48
 
 **Lydia (Acts 16:14-15):** She believed, and she and her household were baptized.
 
 !!!
-    14 ​A woman named Lydia, a seller of purple fabric of the city of Thyatira, who worshipped God, heard us. The Lord opened her heart to acknowledge what Paul said.   15 ​When she and her household were baptized, she entreated us, saying, “If you have judged me to be faithful to the Lord, come to my house and remain there.” And she persuaded us.
-
-    - Acts 16:14-15 MEV
+    14 ​A woman named Lydia, a seller of purple fabric of the city of Thyatira, who worshipped God, heard us. The Lord opened her heart to acknowledge what Paul said.   15 ​When she and her household were baptized, she entreated us, saying, "If you have judged me to be faithful to the Lord, come to my house and remain there." And she persuaded us.
+    - Acts 16:14-15
 
 **Philippian Jailer (Acts 16:30-33):** He believed and was baptized with his household—at once.
 
 !!!
-    30 He then led them out and asked, “Sirs, what must I do to be saved?”   ​31 They said, “Believe in the Lord Jesus Christ, and you and your household will be saved.”   32 ​And they spoke the word of the Lord to him and to all who were in his household.   33 ​In that hour of the night he took them and washed their wounds. And immediately he and his entire household were baptized.
-
-    - Acts 16:30-33 MEV
+    30 He then led them out and asked, "Sirs, what must I do to be saved?"   ​31 They said, "Believe in the Lord Jesus Christ, and you and your household will be saved."   32 ​And they spoke the word of the Lord to him and to all who were in his household.   33 ​In that hour of the night he took them and washed their wounds. And immediately he and his entire household were baptized.
+    - Acts 16:30-33
 
 ## Delayed / Missed Baptism
 
@@ -139,13 +131,12 @@ There is one Baptism (Eph. 4:5). Valid Christian Baptism—administered with wat
 !!!
     14 Now when the apostles who were at Jerusalem heard that **Samaria had received the word of God**, they sent Peter and John to them.   15 ​When they came down, they prayed for them that they **might receive the Holy Spirit**,   ​16 **for still He had come on none of them. They were only baptized in the name of the Lord Jesus**.   17 ​Then **they laid their hands on them, and they received the Holy Spirit**.
 
-    18 ​When Simon saw that through the laying on of the apostles' hands the Holy Spirit was given, he offered them money,   ​saying, “Give me also this power, that whomever I lay hands on may receive the Holy Spirit.”
+    18 ​When Simon saw that through the laying on of the apostles' hands the Holy Spirit was given, he offered them money,   ​saying, "Give me also this power, that whomever I lay hands on may receive the Holy Spirit."
     
-    20 ​Peter said to him, “May your money perish with you because you thought you could purchase the gift of God with money!   21 ​You have neither part nor share in this matter, for your heart is not right before God.   22 ​Therefore repent of your wickedness, and ask God if perhaps the intention of your heart may be forgiven you.   ​23 For I see that you are in the gall of bitterness and in the bond of iniquity.”
+    20 ​Peter said to him, "May your money perish with you because you thought you could purchase the gift of God with money!   21 ​You have neither part nor share in this matter, for your heart is not right before God.   22 ​Therefore repent of your wickedness, and ask God if perhaps the intention of your heart may be forgiven you.   ​23 For I see that you are in the gall of bitterness and in the bond of iniquity."
     
-    24 ​Then Simon answered, “Pray to the Lord for me that nothing you have spoken may come upon me.”
-
-    - Acts 8:14-24 MEV
+    24 ​Then Simon answered, "Pray to the Lord for me that nothing you have spoken may come upon me."
+    - Acts 8:14-24
 
 ## Baptism as a Unifying Force Among Believers
 
@@ -155,13 +146,11 @@ There is one Baptism (Eph. 4:5). Valid Christian Baptism—administered with wat
 
 !!!
     2 ​With all humility, meekness, and patience, bearing with one another in love,   ​3 be eager to **keep the unity** of the Spirit in **the bond of peace**.   4 ​There is one body and one Spirit, even as you were called in one hope of your calling,   5 ​one Lord, one faith, **one baptism**,   6 ​one God and Father of all, who is above all, and through all, and in you all.
-
-    - Ephesians 4:2-6 MEV
+    - Ephesians 4:2-6
 
 !!!
-    20 ​“I do not pray for these alone, but also for those who will believe in Me through their word,   21 ​that **they may all be one**, as You, Father, are in Me, and I in You. May **they also be one in Us**, that the world may believe that You have sent Me.   22 ​I have given them the glory which You gave Me, that **they may be one** even as We are one:   23 ​I in them and You in Me, that **they may be perfect in unity**, and that the world may know that You have sent Me, and have loved them as You have loved Me.
-
-    - John 17:20-23 MEV
+    20 ​"I do not pray for these alone, but also for those who will believe in Me through their word,   21 ​that **they may all be one**, as You, Father, are in Me, and I in You. May **they also be one in Us**, that the world may believe that You have sent Me.   22 ​I have given them the glory which You gave Me, that **they may be one** even as We are one:   23 ​I in them and You in Me, that **they may be perfect in unity**, and that the world may know that You have sent Me, and have loved them as You have loved Me.
+    - John 17:20-23
 
 ## No State of Limbo between Belief and Baptism
 
@@ -249,7 +238,8 @@ Next, let's see how these assessments resonate with scripture.
 #### Romans 8:9 Spirit in you yes/no => belong to Christ yes/no
 
 !!!
-    9 You, however, are not in the flesh but in the Spirit, if indeed the Spirit of God lives in you. Now if any man does not have the Spirit of Christ, he does not belong to Him. <sub>-MEV</sub>
+    9 You, however, are not in the flesh but in the Spirit, if indeed the Spirit of God lives in you. Now if any man does not have the Spirit of Christ, he does not belong to Him.
+    - Rom. 8:9
 
 The Spirit’s indwelling identifies those who belong to Christ. Baptism is the normative moment of this gift (Acts 2:38; Titus 3:5), while Acts records certain mission-critical exceptions.
 
@@ -318,7 +308,6 @@ Note also: Acts does not narrate a case where the gift of the Holy Spirit is exp
 
 !!!
     “For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish, but have eternal life.
-
     - John 3:16
 
 * *obedient-faith:* This states the conditions for salvation. If water baptism was one of them it should be mentioned, but is not.
@@ -329,6 +318,7 @@ Note also: Acts does not narrate a case where the gift of the Holy Spirit is exp
 
 !!!
     1  Now, brothers, I declare to you the gospel which I preached to you, which you have received, and in which you stand.   2  Through it you are saved, if you keep in memory what I preached to you unless you have believed in vain.  3  For I delivered to you first of all that which I also received: how **Christ died for our sins** according to the Scriptures,   4  **was buried, rose again the third day** according to the Scriptures,   5  and was seen by Cephas, and then by the twelve.   6  Then He was seen by over five hundred brothers at once, of whom the greater part remain to this present time, though some have passed away.   7  Then He was seen by James and then by all the apostles.   8  Last of all, He was seen by me also, as by one born at the wrong time.
+    - 1 Corinthians 15:1-8
 
 * *obedient-faith:* This passage defines the core of gospel as "Christ died for our sins, was buried and rose again". Baptism is not included, but would be if Paul understood it to be part of the core of the Gospel.
 
@@ -340,7 +330,6 @@ Note also: Acts does not narrate a case where the gift of the Holy Spirit is exp
     14 I thank God that I baptized none of you except Crispus and Gaius, 15 [...] 16 [...]
 
     17 For Christ did not send me to baptize, but to evangelize [...]
-
     - 1 Corinthians 1:14,17
 
 * *obedient-faith:* If baptism was necessary for salvation, why did Paul say he was thankful he baptized so few people? Why did he say that he was not sent to baptize? If baptism was necessary for salvation, Paul essentially said, “I am thankful I saved so few ...” and “For Christ did not send me to save ...”. That would be an unbelievably ridiculous statement for Paul to make. (See https://www.gotquestions.org/baptism-salvation.html )
@@ -351,6 +340,7 @@ Note also: Acts does not narrate a case where the gift of the Holy Spirit is exp
 
 !!!
     8  For by grace you have been saved through faith, and this is not of yourselves. It is the gift of God,   9  not of works, so that no one should boast.   10  For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we should walk in them.
+    - Ephesians 2:8-9
 
 * *obedient-faith:* Adding any works, incl. demonstrating obedience in water baptism, would make it no longer just faith. Thus water baptism is not a requirement.
 
@@ -360,6 +350,7 @@ Note also: Acts does not narrate a case where the gift of the Holy Spirit is exp
 
 !!!
     5  not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of rebirth and the renewal of the Holy Spirit,
+    - Titus 3:5
 
 * *obedient-faith:* Adding any works, incl. demonstrating obedience in water baptism, would make it no longer faith-alone. Thus water baptism is not a requirement.
 
@@ -369,6 +360,7 @@ Note also: Acts does not narrate a case where the gift of the Holy Spirit is exp
 
 !!!
     ​And without faith it is impossible to please God, for he who comes to God must believe that He exists and that He is a rewarder of those who diligently seek Him.
+    - Hebrews 11:6
 
 * *obedient-faith:* Being baptized is something we do to please God. According to this verse that is not possible to do until after we are saved.
 
@@ -385,13 +377,12 @@ Note also: Acts does not narrate a case where the gift of the Holy Spirit is exp
 #### [Acts 2:37-38,40](https://www.biblegateway.com/passage/?search=Acts+2%3A37-40&version=MEV): Repent and be baptized for the forgiveness of sin and receiving the Holy Spirit
 
 !!!
-    37 When they heard this, **they were stung in the heart** and said to Peter and to the rest of the apostles, “Brothers, **what shall we do?**”
+    37 When they heard this, **they were stung in the heart** and said to Peter and to the rest of the apostles, "Brothers, **what shall we do?**"
 
-    38 Peter said to them, “**Repent and be baptized**, every one of you, in the name of Jesus Christ for **the forgiveness of sins**, and you shall **receive the gift of the Holy Spirit**.   39 [...]
+    38 Peter said to them, "**Repent and be baptized**, every one of you, in the name of Jesus Christ for **the forgiveness of sins**, and you shall **receive the gift of the Holy Spirit**.   39 [...]
 
-    40 **With many other words** he testified and exhorted them, saying, “Be saved from this perverse generation.”
-
-    - Acts 2:37-38,40 MEV
+    40 **With many other words** he testified and exhorted them, saying, "Be saved from this perverse generation."
+    - Acts 2:37-38,40
 
 * *obedient-faith:* Repenting implies having faith. The receiving of the Holy Spirit happens when we start to have firm obedient faith in Jesus as our Lord and Savior, which typically is before water baptism.
 
@@ -402,8 +393,7 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 #### [Mark 16:16] (https://www.biblegateway.com/passage/?search=mark+16%3A16&version=MEV) Belief and Baptism saves
 
 !!!
-    “He who believes and is baptized will be saved; but he who does not believe will be condemned”.
-
+    "He who believes and is baptized will be saved; but he who does not believe will be condemned".
     - Mark 16:16
 
 * *obedient-faith:* based on other verses, un-baptized obedient-faith believers are saved as well.
@@ -414,8 +404,7 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 
 !!!
     Figuratively this is like **baptism, which also saves us now**. It is not washing off the dirt from the body, but a response to God **from a good conscience through the resurrection of Jesus Christ**,
-
-    - 1 Peter 3:21 MEV
+    - 1 Peter 3:21
 
 * *obedient-faith:* Here the second part of the verse is to clarify the meaning of the first, namely that the significance of the baptism is not the "washing of the dirt" (the physical action of baptism) but "a response to God from a good conscience", meaning the conscience is already good before the baptisms starts. This implies that it must be after one's sins are forgiven and salvation has been received. Thus, baptism cannot be a prerequisite for salvation. See [gotquestions.org/baptism-1Peter-3-21](https://www.gotquestions.org/baptism-1Peter-3-21.html)
 
@@ -425,7 +414,6 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 
 !!!
     "And now what are you waiting for? Get up, be baptized, and wash your sins away, calling on his name."
-
     - Acts 22:16
 
 * *baptism-completes-faith:* Trusting Jesus culminates in baptism, where sins are washed away as we call on His name. This combines faith and the act of baptism as the point where God forgives and unites us to Christ.
@@ -444,13 +432,12 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
   * Baptism here can be seen as baptism by the Holy Spirit, not by water. Thus it does not teach that baptism by water is a requirement for salvation.
   * Alternatively, if baptism is understood as a believer's water baptism, then everyone that was baptized also believed. And as such it is true that they were saved, or as stated here, "put on Christ". However, not based on the baptism, but based on the underlying prior belief.
   * Finally, even if it is the water baptism that is providing the being "put on Christ", then it is actually obvious that this is not literal but symbolic. And a symbolic association happens after the real event has already passed. 
-  * See [gotquestions.org/baptism-Galatians-3-27](https://www.gotquestions.org/baptism-Galatians-3-27.html)
+  * See [gotquestions.org/baptism-Galatians-3-27.html](https://www.gotquestions.org/baptism-Galatians-3-27.html)
 
 #### [Romans 6:3-4](https://www.biblegateway.com/passage/?search=Romans%206&version=MEV)
 
 !!!
     3 Do you not know that we who were baptized into Jesus Christ were baptized into His death? 4 Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
-
     - Rom. 6:3-4
 
 * *baptism-completes-faith:* Paul attributes real participation in Christ’s death and resurrection to Baptism; this is where the “old man” dies and the new life begins. The rich symbolism communicates an ontological change effected by God.
@@ -460,13 +447,15 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 #### [Romans 6:2-4, 5-7](https://www.biblegateway.com/passage/?search=Romans+6%3A2-7&version=MEV) We have died to sin since we were baptized into Christ's death and crucified with Christ
 !!!
     2 God forbid! How shall **we who died to sin** live any longer in it? 3 Do you not know that **we who were baptized into Jesus Christ were baptized into His death**? 4 Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+    - Rom. 6:2-4
 
 !!!
     5 For if we have been united with Him in the likeness of His death, so shall we also be united with Him in the likeness of His resurrection, 6 knowing this, that **our old man has been crucified with Him**, so that **the body of sin might be destroyed**, and we should no **longer be slaves to sin**. 7 For **the one who has died is freed from sin**.
+    - Rom. 6:5-7
 
-*baptism-completes-faith*: Paul presents a cohesive reality: in Baptism, we are united to Christ’s death; therefore, the old self is crucified and we are freed from sin’s slavery. The sacrament effects what it signifies.
+* *baptism-completes-faith*: Paul presents a cohesive reality: in Baptism, we are united to Christ’s death; therefore, the old self is crucified and we are freed from sin’s slavery. The sacrament effects what it signifies.
 
-*obedient-faith:* Romans 6:2-4 and 6:5-7 are part of the same line of thought. Clearly, both have some symbolic meanings. Why should we think that the first one also teaches that during the baptism our sins are literally washed away, when right after it talks about being crucified with Christ which was not during our baptism and that also washes away our sins? It does not make sense that both, baptized into Christ and crucified with Christ each are the moment at which we are saved as they are different moments in time. Picking one as symbolic and literal and the other as only symbolic is arbitrary. However, it is reasonable to see these two as both being symbolic references to the one single other event at which we were saved. And each of these symbolic references highlights a different aspect of our actual being saved event. And when that event was we need to get from the wider biblical context, but at least it's clear it needs to be prior to baptism.
+* *obedient-faith:* Romans 6:2-4 and 6:5-7 are part of the same line of thought. Clearly, both have some symbolic meanings. Why should we think that the first one also teaches that during the baptism our sins are literally washed away, when right after it talks about being crucified with Christ which was not during our baptism and that also washes away our sins? It does not make sense that both, baptized into Christ and crucified with Christ each are the moment at which we are saved as they are different moments in time. Picking one as symbolic and literal and the other as only symbolic is arbitrary. However, it is reasonable to see these two as both being symbolic references to the one single other event at which we were saved. And each of these symbolic references highlights a different aspect of our actual being saved event. And when that event was we need to get from the wider biblical context, but at least it's clear it needs to be prior to baptism.
 
 #### Conclusion of Emphasis on Baptism
 
@@ -474,7 +463,7 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 
 *baptism-completes-faith*: Baptism is God’s ordinary means to confer forgiveness, regeneration, and union with Christ and His Church. It should be taught and administered without delay for adults who come to faith and for infants, trusting God’s grace in both ordinary and extraordinary circumstances.
 
-<sub><sup>Version 0.18-Catholic; adapted from Baptism.md with Catholic commentary; sources include early Church practice (e.g., Didache), and Frank’s notes.</sub></sup>
+<sub><sup>Version 0.18-Catholic; adapted from Baptism.md with Catholic commentary; sources include early Church practice (e.g., Didache), and Frank's notes.</sub></sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
