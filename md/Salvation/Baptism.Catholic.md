@@ -10,12 +10,12 @@ Catholic Perspective, adapted by Ingmar Bitter
 
 Baptism, instituted by the Lord and commanded in Matthew 28:19, is not merely a public declaration; it is God’s own act that regenerates, forgives sins, and incorporates the person into Christ and His Church. In Baptism, God infuses sanctifying grace, gives the Holy Spirit, and unites the baptized to Christ’s death and resurrection. It is an ontological transformation and a sacramental participation in Christ, not merely a psychological milestone.
 
-Baptism is the sacrament of rebirth in water and the Holy Spirit, by which one becomes a member of Christ’s Body (1 Cor 12:13). It is ordinarily necessary for salvation because Christ made it the normative means by which we receive the grace He won on the Cross. God can act extraordinarily by grace (e.g., baptism of desire/blood), but He has promised and commanded to act ordinarily through this sacrament.
+Baptism is the sacrament of rebirth in water and the Holy Spirit, by which one becomes a member of Christ’s Body (1 Cor. 12:13). It is ordinarily necessary for salvation because Christ made it the normative means by which we receive the grace He won on the Cross. God can act extraordinarily by grace (e.g., baptism of desire/blood), but He has promised and commanded to act ordinarily through this sacrament.
 
 !!!
     Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
 
-    - Mat 28:19 MEV
+    - Matt. 28:19 MEV
 
 As disciples of Jesus, we obey His command to baptize. For adults, Baptism completes initial conversion by uniting obedient faith to the sacrament Christ instituted. For infants and those incapable of rational assent, Baptism communicates the same saving grace by God’s initiative, with the Church’s faith speaking on their behalf, so that none are excluded from the saving will of God (1 Tim 2:4).
 
@@ -27,11 +27,11 @@ Baptism is also profoundly symbolic, and its signs truly signify what they effec
 
 !!!
     Do you not know that we who were baptized into Jesus Christ were baptized into His death?   ​Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
-    - Rom 6:3-4 MEV
+    - Rom. 6:3-4 MEV
 
 !!!
     And you, being dead in your sins and the uncircumcision of your flesh, He has resurrected together with Him, having forgiven you all sins.
-    - Col 2:12 MEV
+    - Col. 2:12 MEV
 
 ### Baptism by Full Immersion
 
@@ -68,11 +68,11 @@ There are strong biblical and symbolic reasons to prefer or commend full immersi
 
 <img src="BaptismSignificance.jpg" alt="BaptismSignificance" style="float:right;width:11rem;max-width:11rem;height:auto;margin:0 0 .5rem 1rem">
 
-Baptism is commanded by Christ (Mat 28:19) and is the ordinary means appointed by God to communicate regeneration and the Holy Spirit. It is the sacrament that incorporates us into Christ and His Church (1 Cor 12:13), making us members of His Mystical Body. It is thus ordinarily necessary for salvation: God binds us to the sacrament, though He Himself is not bound by it.
+Baptism is commanded by Christ (Mat 28:19) and is the ordinary means appointed by God to communicate regeneration and the Holy Spirit. It is the sacrament that incorporates us into Christ and His Church (1 Cor. 12:13), making us members of His Mystical Body. It is thus ordinarily necessary for salvation: God binds us to the sacrament, though He Himself is not bound by it.
 
 !!!
     Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
-    - Mat 28:19 MEV
+    - Matt. 28:19 MEV
 
 For adults, the sacrament publicly manifests and completes their conversion, uniting obedient faith to Christ’s saving act. For Jewish converts then, and many converts now, baptism also bears social cost; yet the grace of incorporation into Christ exceeds the loss.
 
@@ -134,7 +134,7 @@ Baptism is commanded and ordinarily necessary. Adults who come to faith should n
 
 <img src="BaptismRepeated.jpg" alt="BaptismRepeated" style="float:right;width:11rem;max-width:11rem;height:auto;margin:0 0 .5rem 1rem">
 
-There is one Baptism (Eph 4:5). Valid Christian Baptism—administered with water and the Trinitarian formula—may never be repeated. If a person doubts whether he was truly baptized, the Church may use conditional Baptism. Post-baptismal sin does not warrant rebaptism; rather, repentance and sacramental Reconciliation restore grace (see Acts 8:14-24 as a call to repentance).
+There is one Baptism (Eph. 4:5). Valid Christian Baptism—administered with water and the Trinitarian formula—may never be repeated. If a person doubts whether he was truly baptized, the Church may use conditional Baptism. Post-baptismal sin does not warrant rebaptism; rather, repentance and sacramental Reconciliation restore grace (see Acts 8:14-24 as a call to repentance).
 
 !!!
     14 Now when the apostles who were at Jerusalem heard that **Samaria had received the word of God**, they sent Peter and John to them.   15 ​When they came down, they prayed for them that they **might receive the Holy Spirit**,   ​16 **for still He had come on none of them. They were only baptized in the name of the Lord Jesus**.   17 ​Then **they laid their hands on them, and they received the Holy Spirit**.
@@ -151,7 +151,7 @@ There is one Baptism (Eph 4:5). Valid Christian Baptism—administered with wate
 
 <img src="BaptismUnifying.jpg" alt="BaptismUnifying" style="float:right;width:11rem;max-width:11rem;height:auto;margin:0 0 .5rem 1rem">
 
-“There is one Lord, one faith, one Baptism” (Eph 4:5). Trinitarian Baptism creates a real bond of unity among Christians. The Catholic Church recognizes as valid the Baptisms of many ecclesial communities. Christ prayed for unity (John 17:20–23); Baptism grounds our ecumenical hope and summons all the baptized toward full communion in truth and charity.
+“There is one Lord, one faith, one Baptism” (Eph. 4:5). Trinitarian Baptism creates a real bond of unity among Christians. The Catholic Church recognizes as valid the Baptisms of many ecclesial communities. Christ prayed for unity (John 17:20–23); Baptism grounds our ecumenical hope and summons all the baptized toward full communion in truth and charity.
 
 !!!
     2 ​With all humility, meekness, and patience, bearing with one another in love,   ​3 be eager to **keep the unity** of the Spirit in **the bond of peace**.   4 ​There is one body and one Spirit, even as you were called in one hope of your calling,   5 ​one Lord, one faith, **one baptism**,   6 ​one God and Father of all, who is above all, and through all, and in you all.
@@ -192,7 +192,7 @@ There is a difference between commands given to disciples and the salvific means
 
 From a Catholic perspective, this is not merely a to-do list but a sacramental economy: God binds saving grace to visible means. The “package” of evangelization, Baptism, and life-long formation is the normative mode by which Christ applies His saving work to persons. Good works flow from grace, yet Baptism is not in the same category as post-justification works; it is the means of entry by which we are justified, regenerated, and incorporated into Christ.
 
-Is Baptism a necessary requirement for salvation or a consequence of salvation? The Catholic answer is: ordinarily necessary. Faith is absolutely necessary; and in God’s design, faith is perfected and made fully efficacious through Baptism—“faith working through love” (Gal 5:6) receives its sacramental form. Scripture sometimes speaks of faith without enumerating every implied element; at other times it speaks of Baptism as effecting salvation. Both are true together in the ordinary case; desire can suffice extraordinarily.
+Is Baptism a necessary requirement for salvation or a consequence of salvation? The Catholic answer is: ordinarily necessary. Faith is absolutely necessary; and in God’s design, faith is perfected and made fully efficacious through Baptism—“faith working through love” (Gal. 5:6) receives its sacramental form. Scripture sometimes speaks of faith without enumerating every implied element; at other times it speaks of Baptism as effecting salvation. Both are true together in the ordinary case; desire can suffice extraordinarily.
 
 ![](JustificationAndSanctification.jpg)
 
@@ -200,11 +200,11 @@ Both readings agree on a common conversion sequence: hearing the Gospel, faith, 
 
 From a Catholic perspective, in the ordinary course God sacramentally applies saving grace in Baptism: for adults, Baptism follows obedient faith and repentance; for infants and those lacking reason, prevenient grace and the Church’s faith dispose them to receive the same gift. Scripture also records salvation-historical exceptions (e.g., Cornelius), and the Church recognizes desire/blood as extraordinary modes that do not replace the norm.
 
-Biblically, some texts speak simply of faith as the condition (e.g., Jn 3:16; Eph 2:8–9) without listing the sacramental response; others speak of Baptism as the instrumental means (Acts 2:38; Rom 6; 1 Pet 3:21). The Catholic synthesis reads these not as competing but as complementary witnesses within the one economy Christ instituted.
+Biblically, some texts speak simply of faith as the condition (e.g., John 3:16; Eph. 2:8–9) without listing the sacramental response; others speak of Baptism as the instrumental means (Acts 2:38; Rom. 6; 1 Pet. 3:21). The Catholic synthesis reads these not as competing but as complementary witnesses within the one economy Christ instituted.
 
 With this framing, we can contrast the two interpretive patterns as follows:
 
-**Baptism-completes-faith (necessary requirement, ordinary case):** Baptism is the divinely instituted occasion and instrument by which Christ’s atoning death and resurrection are applied to the believer. The sacrament is not a meritorious work; it is God’s action through a visible sign. For adults, obedient faith prepares and disposes the soul; in Baptism, God regenerates, forgives, gives the Spirit, and incorporates into the Church. This is why Scripture can say, without contradiction, that “baptism now saves you” (1 Pet 3:21), that we are “buried with him by baptism” (Rom 6:4), and that we “put on Christ” in Baptism (Gal 3:27).
+**Baptism-completes-faith (necessary requirement, ordinary case):** Baptism is the divinely instituted occasion and instrument by which Christ’s atoning death and resurrection are applied to the believer. The sacrament is not a meritorious work; it is God’s action through a visible sign. For adults, obedient faith prepares and disposes the soul; in Baptism, God regenerates, forgives, gives the Spirit, and incorporates into the Church. This is why Scripture can say, without contradiction, that “baptism now saves you” (1 Pet. 3:21), that we are “buried with him by baptism” (Rom. 6:4), and that we “put on Christ” in Baptism (Gal. 3:27).
 
 **Obedient-faith (baptism as consequence):** When one has true, obedient faith—that Jesus is the divine Lord who died, was buried, rose, and reigns; that I have personally sinned and am under just condemnation; that I repent and trust His atoning death to clear my guilt—and I commit to make Him my Lord and to follow His commands—then God saves by applying Christ’s sacrifice and giving the indwelling Spirit. Baptism then follows as the first public step of obedience and solemn witness. Refusal to be baptized raises serious doubt about the authenticity of faith. Note the distinction between a sincere commitment to obey and a subsequent track record of obedience: on this view, saving faith may precede the first outward act, which Baptism then seals publicly; Baptism itself is not a meritorious work but a commanded sign that flows from salvation.
 
@@ -222,7 +222,7 @@ To maintain the *baptism-completes-faith* view (necessary in the ordinary case),
 
 The *obedient-faith* view must:
 
-* Reinterpret or minimize texts that attribute salvific effect to Baptism (Acts 2:38; 1 Pet 3:21; Rom 6), or reduce the sacrament to symbol rather than God’s instrumental action.
+* Reinterpret or minimize texts that attribute salvific effect to Baptism (Acts 2:38; 1 Pet. 3:21; Rom. 6), or reduce the sacrament to symbol rather than God’s instrumental action.
 
 #### Assessment of challenges
 
@@ -436,6 +436,7 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 
 !!!
     27 For as many of you as have been baptized into Christ have put on Christ.
+    - Gal. 3:27
 
 * *baptism-completes-faith:* Baptism is the sacramental clothing with Christ. Paul speaks of an effective union, not bare symbolism: the baptized person is vested with Christ’s life.
 
@@ -449,6 +450,8 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 
 !!!
     3 Do you not know that we who were baptized into Jesus Christ were baptized into His death? 4 Therefore we were buried with Him by baptism into death, that just as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+
+    - Rom. 6:3-4
 
 * *baptism-completes-faith:* Paul attributes real participation in Christ’s death and resurrection to Baptism; this is where the “old man” dies and the new life begins. The rich symbolism communicates an ontological change effected by God.
 
@@ -471,7 +474,7 @@ If paraphrasing at a Baptism, it is best to keep the Trinitarian formula. When c
 
 *baptism-completes-faith*: Baptism is God’s ordinary means to confer forgiveness, regeneration, and union with Christ and His Church. It should be taught and administered without delay for adults who come to faith and for infants, trusting God’s grace in both ordinary and extraordinary circumstances.
 
-<sub><sup>Version 0.17-Catholic; adapted from Baptism.md with Catholic commentary; sources include early Church practice (e.g., Didache), and Frank’s notes.<sub><sup>
+<sub><sup>Version 0.18-Catholic; adapted from Baptism.md with Catholic commentary; sources include early Church practice (e.g., Didache), and Frank’s notes.</sub></sup>
 
 <style class="fallback">body{visibility:hidden}</style>
 <script>markdeepOptions={tocStyle:'short'};</script>
