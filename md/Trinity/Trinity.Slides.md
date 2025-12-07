@@ -374,7 +374,7 @@ Ingmar Bitter, PhD
     - Historical accounts
   - No formal philosophical analysis
   - No technical vocabulary
-  - No Trinity
+  - No formal term “Trinity” (but the raw data is present)
 
 ---
 
@@ -399,7 +399,7 @@ Ingmar Bitter, PhD
   - Explains Christ's pre-existence and divine agency
   - Introduces language (begotten, generation, procession) that shapes later councils
   - Risk: can suggest subordination if procession is read as temporal only
-- **Obsolete:** Logos language was helpful but is not in later creedal formulations
+- **Later development:** Creeds keep the idea of Logos but use different wording
 
 ---
 
@@ -410,24 +410,7 @@ Ingmar Bitter, PhD
     - Preserve strict numerical unity but collapse personal distinction — resulted from trying to avoid tritheism
   - Social/Logos strands
     - Preserve distinct persons but need accounts of sameness of God
-- Tertullian (Latin West): coins "trinitas" and presses for both unity (one substance) and distinction (three persons/hypostases).
-
----
-
-## 4th Century Overview
-
-- 4th c.: Arian controversy (Arius: Son creature/derived) forces precise language about essence and personhood.
-- Council of Nicaea (325): first ecumenical response — key terms (homoousios) adopted to protect Son's full divinity.
-- Post‑Nicene/Cappadocians: refine hypostasis/ousia distinction (1 ousia, 3 hypostases) and defend Spirit's full deity.
-- Council of Constantinople (381): further clarifies and ratifies the fuller Creedal formula.
-
----
-
-## Modalism (What/Why Rejected)
-
-- Modalism: Father, Son, Spirit = one person manifesting in different “modes” or roles (avoids plural gods but erases interpersonal relations).
-- Why problem: Scripture records I–Thou relations (prayer, obedience, sending). Modalism cannot account for genuine dialogue (e.g., Father speaking to Son).
-- Early refutation: Tertullian and others deploy plural pronouns and dialogical prooftexts to argue for personal distinctness.
+- Tertullian (Latin West): coins "trinitas" and presses for both unity (one substance) and distinction (three persons).
 
 ---
 
@@ -443,18 +426,51 @@ Ingmar Bitter, PhD
 
 ---
 
+## 4th Century Overview
+
+- 4th c.: Arian controversy (Arius: Son creature/derived) forces precise language about essence and personhood.
+- Council of Nicaea (325): first ecumenical response — key terms (homoousios) adopted to protect Son's full divinity.
+- Post‑Nicene/Cappadocians: refine hypostasis/ousia distinction (1 ousia, 3 hypostases) and defend Spirit's full deity.
+- Council of Constantinople (381): further clarifies and ratifies the fuller Creedal formula.
+
+---
+
+## Key Terms: Greek – Latin – English
+
+| Greek (East)                    | Latin (West) | Plain English sense                              |
+|---------------------------------|--------------|--------------------------------------------------|
+| **οὐσί-α** (ousi-a, noun)       | *substantia* | substance; what a thing really is                |
+| **οὐσί-α** (ousi-a, noun)       | *essentia*   | essence; the core properties of a thing          |
+| **ὁμο-ούσι-ος**  (homo-ousi-os) | —            | same    substance/essence (adjective)            |
+| **ὁμοι-ούσι-ος** (homoi-ousi-os)| —            | similar substance/essence (adjective)            |
+| **ὑπόστασις** (hypostasis)      | *persona*    | person; who someone is                           |
+| **φύσις** (physis)              | *natura*     | nature; kind of being (e.g., divine vs. human)   |
+
+* Early Latin text used hypostasis as imported word and synonym for substantia, hence confusion.
+
+---
+
+## Modalism (What/Why Rejected)
+
+- Modalism: Father, Son, Spirit = one person manifesting in different “modes” or roles 
+  - avoids plural gods but erases interpersonal relations
+- Why problem: Scripture records I–Thou relations (prayer, obedience, sending). Modalism cannot account for genuine dialogue (e.g., Father speaking to Son).
+- Early refutation: Tertullian and others deploy plural pronouns and dialogical prooftexts to argue for personal distinctness.
+
+---
+
 ## Arianism (Core Claims & Stakes)
 
 - Arius (Alexandria): Son is creaturely/derived — “there was when he was not.”
 - Why it mattered: If Son is created → Son cannot mediate salvation in a way that secures worship or ultimate reconciliation (undermines atonement and worship).
-- Council outcome: Nicaea condemned Arian propositions and affirmed Son’s full divinity (homoousios).
+- Council outcome: Nicaea condemned Arian propositions and affirmed Son’s full divinity (**homoousios** with the Father).
 - Classroom tip: explain the pastoral and liturgical stakes — not only metaphysics, but who may be prayed to/worshiped.
 
 ---
 
 ## Nicene Creed (Key Lines & Why They Matter)
 
-- “God from God, Light from Light, true God from true God, begotten, not made, of one substance (homoousios) with the Father.”
+- “God from God, Light from Light, true God from true God, begotten, not made, of one substance (**homoousios**) with the Father.”
   - homoousios = “same essence” — Son shares divine nature, not a created being.
   - begotten, not made = distinguishes filial relation from creaturely origination.
 - Anathemas appended: reject “there was when he was not” / Son as created.
@@ -462,29 +478,16 @@ Ingmar Bitter, PhD
 
 ---
 
-## Nicene Creed (Practical Clarifications)
-
-- Homoousios vs. Homoiousios: a single iota change — “same” vs. “similar” essence — mattered enormously (same = full deity; similar = creaturely likeness).
-- Begotten (generation) language: safeguards divine sonship while avoiding “made” language; later debates refine whether begetting is eternal or economic.
-- Classroom tip: give quick examples (cat begets cat → shared nature) but stress theological import (worship, salvation efficacy).
-
----
-
-## Hypostasis vs. Ousia (Term Rescue — Why Confusion Happened)
-
-- Latin West used substantia ~ hypostasis as near synonyms; Greek East read hypostasis as “individual instance” and ousia as “nature/essence.”
-- Resulting confusion: early Nicene phrasing sounded to Greeks like a denial of personal distinctness; decades of debate followed.
-- Resolution (Cappadocian input): settle on one ousia (divine essence) and three hypostases (real, personal instances) — 1 ousia / 3 hypostases.
-- Teaching hook: show how little differences in technical usage change theological conclusions — be precise with terms.
-
----
-
 ## Cappadocians’ Clarity
 
-- Basil, Gregory of Nazianzus, Gregory of Nyssa: pivotal in clarifying “one essence, three persons.”
-  - Emphasized personal properties (mutual knowledge, love, will) to defend real interpersonal relations.
-  - Defended full deity of the Spirit — not a mere influence or impersonal power.
-- Their contribution: gave the church stable conceptual tools (perichoresis, mutual indwelling) to articulate orthodox Trinitarianism.
+- Basil, Gregory of Nazianzus, Gregory of Nyssa:
+  - Emphasized:
+    - One divine essence (ousia)
+    - Three real, distinct persons (hypostases)
+  - Defended the Spirit’s full deity
+- Outcome:
+  - Stable formula: **one essence, three persons**
+  - Provides the framework still used in orthodox Trinitarianism
 
 ---
 
