@@ -439,8 +439,8 @@ Ingmar Bitter, PhD
 
 | Greek (East)                    | Latin (West) | Plain English sense                              |
 |---------------------------------|--------------|--------------------------------------------------|
-| **οὐσί-α** (ousi-a, noun)       | *substantia* | substance; what a thing really is                |
 | **οὐσί-α** (ousi-a, noun)       | *essentia*   | essence; the core properties of a thing          |
+| **οὐσί-α** (ousi-a, noun)       | *substantia* | substance; what a thing really is                |
 | **ὁμο-ούσι-ος**  (homo-ousi-os) | —            | same    substance/essence (adjective)            |
 | **ὁμοι-ούσι-ος** (homoi-ousi-os)| —            | similar substance/essence (adjective)            |
 | **ὑπόστασις** (hypostasis)      | *persona*    | person; who someone is                           |
@@ -480,7 +480,7 @@ Ingmar Bitter, PhD
 
 ## Cappadocians’ Clarity
 
-* Basil, Gregory of Nazianzus, Gregory of Nyssa:
+* Basil, Gregory of Nazianzus, Gregory of Nyssa (the **Cappadocian Fathers**, late 4th century):
   * One divine essence (ousia)
   * Three real, distinct persons (hypostases)
   * Defended the Spirit’s full deity
@@ -494,7 +494,7 @@ Ingmar Bitter, PhD
 
 * Not three gods (numerical unity of essence).
 * Not one person in three roles (reject modalism).
-* Not subordination (role ≠ lesser nature).
+* Not subordination (role ≠ lesser essence).
 * The **Trinity** is about **God’s identity**, not about **God’s roles in acting toward us**.
 
 ---
@@ -510,68 +510,60 @@ Ingmar Bitter, PhD
   * One-man-three-roles: modalism (one person, three masks).
   * Triangle/parts: composition error (God is not made of parts).
   * Cerberus: creaturely, not divine; helpful only as a springboard.
-* Use precise terms: "person" (who), "essence/nature" (what).
-
----
-
-## Logical Structure (Not a Contradiction)
-
-* Trinity is not a logical contradiction:
-  * "One God in three persons" means one divine nature (essence), three personal subjects (hypostases).
-  * The claim is not "3 persons = 1 person" (which would be incoherent).
-* Key: distinguish between "who" (person) and "what" (nature/essence).
-
----
-
-## Identity & Leibniz’s Law (Basics)
-
-* Modern identity: a = a; if a = b, then all properties of a = all properties of b (Leibniz’s Law).
-* NT authors did not use identity logic; their statements ("Father is God", "Son is God") are not identity claims.
-* Example: "Father is God" ≠ "God is the Father" (not interchangeable).
-* Avoid reading biblical "is" as strict identity.
+* Use precise terms: "person" (who), "essence" (what).
 
 ---
 
 ## The “Is” of Language
 
-* Philosophers distinguish:
-  * "Is" of identity: "Clark Kent is Superman" (same individual).
-  * "Is" of predication: "Elizabeth is Queen" (holds a property/role).
-  * "Is" of constitution: "Statue is bronze" (material).
-* Trinitarian "is" is usually predicative: "Son is God" = Son is fully divine, not identical to the Father.
+* "Is" of identity: "Clark Kent is Superman" (same individual).
+* "Is" of predication: "Elizabeth is Queen" (holds a property/role).
+* "Is" of definition: "A bachelor is an unmarried man" (defines what something is).
+* "Is" of constitution: "The statue is bronze" (material / what it is made of).
+* The biblical "is" is not always the is of identity, isn't it? ;-)
 
 ---
 
-## One Essence, Three Persons (Clarification)
+## Logical Structure (Not a Contradiction)
 
-* Three persons (Father, Son, Spirit) share one undivided divine essence.
-* Not three gods; distinctions are personal, not essential.
-* Analogy: Peter, James, John share human nature, but are distinct persons.
+* The Trinity **is** three persons in one God.
+  * Means: three persons with one common divine essence.
+  * Uses an **is of definition/predication**, not identity.
+  * The claim is not "3 persons = 1 person" (which would be incoherent).
+* Jesus **is** God.
+  * Means: Jesus **is** divine.
+  * Uses an **is of predication**, not identity.
+* Key: distinguish between "who" (person) and "what" (essence).
 
 ---
 
 ## Ancient vs. Modern “Person”
 
-* Patristic: "person" = rational hypostasis (individual with intellect/will).
-* Modern: "person" = center of self-consciousness, agency.
-* Cappadocians: three hypostases with mutual knowledge, love, will—close to modern personhood.
-* Trinity: three "I"s in one divine nature.
+* Ancient: "person" = rational hypostasis (an individual who **knows**, **wills**, and **acts**).
+* Modern: "person" = a self-conscious agent (who **knows**, **wills**, **acts**, and has a first‑person point of view).
+* Substantial overlap: both views involve intellect, will, agency, and the capacity for interpersonal love.
+* Cappadocians: three hypostases with mutual knowledge, will, and love—very close to what we now call “persons.”
+* Trinity (on the basis of Scripture): three "I"s in one divine nature.
 
 ---
 
-## Craig’s Model (Tri-Personal Soul)
+## Tri-Personal Soul Model
 
-* God is one immaterial soul with three complete sets of rational faculties (each sufficient for personhood).
-* Not three souls; one divine mind with three centers of self-consciousness.
-* Cerberus analogy: one being, three consciousnesses (but God is rational, not animal).
-* This model preserves unity, equality, and distinction.
+* God is one immaterial soul with three complete “sets” of personhood.
+  * Each “set” includes:
+    * **Mind**: rational intellect, will, self-consciousness, agency.
+    * **Heart**: emotions, capacity to love.
+    * **Spirit**: personal communion with the other divine persons.
+* This model aims to preserve unity (one soul), equality (each fully divine), and real personal distinction.
+* Closest analogy: Cerberus — one living being with three consciousnesses.
+  * But: creaturely, material, and sub‑rational; only a very rough pointer, not a pattern for deity.
 
 ---
 
 ## Objection: Tritheism?
 
 * Tritheism = three gods (three substances).
-* Craig's model: one soul/nature, three personal faculties.
+* Tri-Personal Soul Model: one soul/nature, three personal faculties.
 * No partitioning; faculties belong to one being.
 * Perichoresis: mutual indwelling, perfect unity.
 * One will in perfect harmony (not three conflicting wills).
@@ -580,8 +572,8 @@ Ingmar Bitter, PhD
 
 ## Unity of Will and Action
 
-* Classical doctrine: one divine will (nature-will).
-* Each person acts in perfect harmony; economic submission (Son submits to Father) does not imply ontological inequality.
+* Classical doctrine: one divine will.
+* Each person acts in perfect harmony; role differentiation (Son submits to Father) does not imply essence inequality.
 * "Inseparable operations": God acts as one in creation, redemption, etc.
 
 ---
@@ -596,22 +588,12 @@ Ingmar Bitter, PhD
 
 ---
 
-## Alternative Models (Quick Survey)
-
-* Latin: one nature subsisting in three relations.
-* Social: three centers of consciousness in unity.
-* Relative Identity: same God, not same person.
-* Material constitution: limited analogy.
-* Craig’s model: social-leaning, single-soul account.
-
----
-
-## Coherence Recap (Short Form)
+## Coherence Recap
 
 * Different senses of "one" resolve the apparent paradox.
 * Predication explains "is God" language in Scripture.
 * Identity logic misreads avoided.
-* Persons/nature distinction is primary.
+* Persons vs. nature/essence distinction is primary.
 * Philosophical and biblical alignment achieved.
 
 ---
