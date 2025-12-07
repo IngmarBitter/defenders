@@ -380,7 +380,7 @@ Ingmar Bitter, PhD
 
 ## 2nd Century - Logos Christology I
 
-- **Greeks apologists:** Justin Martyr, Tatian, Theophilus, Athenagoras
+- **Greek apologists:** Justin Martyr, Tatian, Theophilus, Athenagoras
 - **Key influence:** Philo of Alexandria (Hellenistic Jew)
 - Logos = God's immanent reason/mind that orders/creates the world
 - Apologists: Philo's Logos concept + John 1:1 ("the Word")
