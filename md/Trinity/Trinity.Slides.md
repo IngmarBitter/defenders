@@ -488,13 +488,14 @@ Ingmar Bitter, PhD
   * Stable formula: **one essence, three persons**
   * Provides the framework still used in orthodox Trinitarianism
 
-## Guardrails (Reinforced)
+---
 
-* Keep these distinctives explicit when teaching:
-  * Not three gods (numerical unity of essence).
-  * Not one person in three roles (reject modalism).
-  * Not ontological subordination (role ≠ lesser nature).
-* Distinguish ontological claims (who God is) from economic claims (how God acts toward creation).
+## Trinity Guardrails
+
+* Not three gods (numerical unity of essence).
+* Not one person in three roles (reject modalism).
+* Not subordination (role ≠ lesser nature).
+* The **Trinity** is about **God’s identity**, not about **God’s roles in acting toward us**.
 
 ---
 
@@ -509,7 +510,7 @@ Ingmar Bitter, PhD
   * One-man-three-roles: modalism (one person, three masks).
   * Triangle/parts: composition error (God is not made of parts).
   * Cerberus: creaturely, not divine; helpful only as a springboard.
-* Use precise terms: "person" (who), "nature" (what).
+* Use precise terms: "person" (who), "essence/nature" (what).
 
 ---
 
@@ -640,13 +641,14 @@ Ingmar Bitter, PhD
 
 ---
 
-## Ontological vs. Economic Trinity
+## God's Identity vs Roles
 
-* Ontological: who God is in Himself (co-equal, co-eternal)
-* Economic: roles in creation/redemption (sending, indwelling)
-* Functional submission ≠ lesser deity
-* Avoid projecting economy back into essence
-* Unity of action; distinct personal appropriations
+* **God's identity** (Ontological Trinity)
+  * The eternal, unchanging essence of God.
+  * Father, Son, and Holy Spirit as co-equal, co-eternal persons
+* **God's roles in acting** (Economic Trinity)
+  * The different roles in creation, redemption, and ongoing relationship with humanity.
+  * Father as creator, Son as redeemer, Spirit as helper.
 
 ---
 
