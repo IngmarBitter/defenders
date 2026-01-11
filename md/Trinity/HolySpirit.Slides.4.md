@@ -11,7 +11,7 @@
 * Virginal conception is attributed to the Holy Spirit (Lk 1:35)
 * From the beginning of the incarnation, the Spirit is active
 * JWs: The Holy Spirit is God's power that overshadows Mary.
-  * Illogical: The text personifies the Spirit as "coming upon" and "overshadowing," but if it's just power, why not say "God's power"? The personal language suggests a personal agent.
+  * Illogical: The verse names both "the Holy Spirit" and "the power of the Highest"; “power” describes divine action/effect, not a definition that reduces the Spirit to an impersonal force.
 
 ---
 
@@ -23,7 +23,7 @@
   * Spirit descends upon the Son
   * Public inauguration and empowering for ministry
 * JWs: The Spirit is God's active force that descends visibly as a dove
-  * Illogical: The Spirit "descends in bodily form," implying a distinct entity; impersonal forces don't have bodily forms nor descend
+  * Illogical: The Spirit "descended … like a dove"—a visible manifestation in a Father/Son/Spirit scene; that’s not how Scripture describes an impersonal force.
 
 ---
 
@@ -47,7 +47,7 @@
 * Jesus ministers “in the power of the Spirit” (Lk 4:14)
 * This shows the Spirit's ongoing empowerment of Christ's mission
 * JWs: Jesus is empowered by God's spirit (force), not a person.
-  * Illogical: The Spirit provides power personally; forces don't empower distinct individuals in this way.
+  * Illogical: Scripture can speak of the "power of the Spirit"—distinguishing the Spirit from the power by which Jesus ministers.
 
 ---
 
@@ -58,7 +58,7 @@
 * Isaiah’s prophecy applied to Jesus’ preaching: “The Spirit of the Lord is upon me…” (Lk 4:18–21)
 * Implication: if Jesus’ earthly ministry is Spirit-empowered, ours must be also
 * JWs: Jesus is empowered by God's spirit (force), not a person.
-  * Illogical: The Spirit "anoints" and "sends" Jesus, actions requiring personhood; forces don't anoint or send.
+  * Illogical: The text distinguishes "the Spirit of the Lord" from Jesus ("on Me") and presents the Spirit as the source of anointing/commissioning, not merely an impersonal force.
 
 ---
 
@@ -70,7 +70,7 @@
 * Jesus promises to send the Spirit as His personal representative
 * The Spirit's coming is contingent on Jesus' departure, showing distinct roles
 * JWs: The Spirit is God's force sent after Jesus.
-  * Illogical: Jesus sends "Him," a personal being; forces aren't sent by persons in this way.
+  * Illogical: Jesus speaks of "the Helper" whom He will send, and whose coming is contingent on Jesus’ departure—distinct roles, not merely “God’s force.”
 
 ---
 

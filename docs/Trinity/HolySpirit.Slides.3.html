@@ -21,9 +21,11 @@
 <p style="font-family: 'Gabriola', serif;">“Ananias, why has Satan filled your heart to lie to the Holy Spirit […]? […] You have not lied to men but to God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 5:3–4 (NKJV)</em></p>
 
 * Peter equates lying to the Spirit with lying to God
-* Conclusion: the Spirit is not a created messenger; the Spirit is divine
+* “Lie to” is personal language: you don’t meaningfully lie to an impersonal force (e.g., gravity)
+* Conclusion: the Spirit is not merely an impersonal “power”; the Spirit is divine
 * JWs: Lying to God's spirit is lying to God, since the spirit is God's power.
-  * Illogical: The text distinguishes "the Holy Spirit" from "God" in the first part, then equates them; if it were just God's power, it would be redundant.
+  * Illogical: “Lie to” assumes a personal recipient; you don’t lie to a force.
+  * The text distinguishes "the Holy Spirit" from "God" and then equates them; it identifies the Spirit with God.
 
 ---
 
@@ -34,7 +36,7 @@
 * “Eternal” is a divine attribute
 * The Spirit is not a late addition to God’s life
 * JWs: "Eternal" means everlasting in effect, not that the Spirit is eternal.
-  * Illogical: The word "eternal" modifies "Spirit" directly; everlasting means future without end, eternal also means without beginnig, that's very different.
+  * Illogical: The word "eternal" modifies "Spirit" directly; everlasting means future without end, eternal also means without beginning, that's very different.
 
 ---
 
