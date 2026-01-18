@@ -40,7 +40,6 @@
 
 * The Spirit is the source of human life - "has made me"
 * The Spirit adorns the heavens - beautifying and ordering creation
-* The Spirit's work in creation is active and powerful
 * **JWs:** Job 33:4 means God's life-force created humans; Job 26:13 means God's power decorated the sky
 * **Illogical:** Job 33:4 attributes direct creative action to the Spirit ("has made"), not passive transmission. Job 26:13 credits the Spirit with aesthetic work - "adorning" requires design and purpose
 
@@ -59,6 +58,7 @@
 * The Spirit teaches spiritual truths in words He provides
 * **JWs:** The "spirit" here is God's impersonal active force revealing information to Christians
 * **Illogical:** Impersonal forces don't "search" or "teach" - these require intelligence. The Spirit "searches" the depths of God (v.10)
+
 ---
 
 ## The Spirit of Truth Guides
@@ -70,6 +70,7 @@
 * The Spirit has authority relationships ("not on His own authority")
 * **JWs:** This is Jesus describing God's impersonal force giving information
 * **Illogical:** Forces don't "guide," "hear," "speak," or "tell" - these require personhood. The phrase "Spirit of truth" indicates personal identity, not mere power
+
 ---
 
 # (3) Inspiration of Scripture

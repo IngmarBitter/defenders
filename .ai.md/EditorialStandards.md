@@ -63,6 +63,31 @@ When omitting text within quotes, use `[…]` format:
 
 ---
 
+## Markdown Formatting Standards
+
+### Section Dividers
+All `---` dividers MUST be surrounded by empty lines:
+
+**Correct:**
+```markdown
+* Last bullet point
+
+---
+
+## Next Section Header
+```
+
+**Incorrect:**
+```markdown
+* Last bullet point
+---
+## Next Section Header
+```
+
+This ensures proper rendering in Markdeep slides.
+
+---
+
 ## Section Structure Standards
 
 ### 11 Primary Ministries
