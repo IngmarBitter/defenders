@@ -1,4 +1,4 @@
-<meta charset="utf-8" lang="en">
+﻿<meta charset="utf-8" lang="en">
 
 # Work of the Holy Spirit
 
@@ -326,6 +326,20 @@
 * The Spirit creates one unified church body across all ethnic boundaries
 * **JWs:** The Spirit empowered the early church, but modern witnessing is done through organizational training and door-to-door methods
 * **Illogical:** Jesus promises "you shall receive power when the Holy Spirit has come upon you." If the Spirit doesn't empower modern witness, then Jesus' promise failed. Either the Spirit still empowers evangelism, or the Great Commission is impossible
+
+---
+
+## Summary: The Vital Work of the Holy Spirit
+
+* The Holy Spirit is far from the "forgotten person" of the Trinity
+* His work spans from creation to consummation:
+  * **Foundation:** Creation, Revelation, Inspiration of Scripture
+  * **Salvation:** Conception of Christ, Regeneration, Indwelling, Assurance
+  * **Christian Life:** Sanctification, Spiritual Gifts, Spiritual Fruits, Evangelism
+* **OT:** Temporary empowerment for specific tasks (Bezalel, Judges)
+* **NT:** Permanent indwelling via Spirit-baptism (Acts 1:8 expansion)
+* The Spirit's personal agency refutes JW's "impersonal force" theology
+* Every believer possesses and needs the Spirit's power for the Christian life
 
 ---
 
