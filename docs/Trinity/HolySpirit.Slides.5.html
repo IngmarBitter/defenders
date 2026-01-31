@@ -144,7 +144,7 @@
 
 ## The 144,000 in Context
 
-<p style="font-family: 'Gabriola', serif;">"And I heard the number of those who were sealed. One hundred and forty-four thousand of all the tribes of the children of Israel were sealed: of the tribe of Judah twelve thousand were sealed; of the tribe of Reuben […Benjamin] twelve thousand were sealed.<br>After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 7:4–9 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"And I heard the number of those who were sealed. One hundred and forty-four thousand of all the tribes of the children of Israel were sealed: of the tribe of {Judah|Reuben|Gad|Asher|Naphtali|Manasseh|Simeon|Levi|Issachar|Zebulun|Joseph|Benjamin} twelve thousand were sealed.<br>After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 7:4–9 (NKJV)</em></p>
 
 * 144,000 from **twelve tribes of Israel** — sealed on earth (v.1–3)
 * Great multitude — standing **before the throne** in heaven
