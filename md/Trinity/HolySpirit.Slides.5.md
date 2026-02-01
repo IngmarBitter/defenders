@@ -144,7 +144,7 @@
 
 ## The 144,000 in Context
 
-<p style="font-family: 'Gabriola', serif;">"And I heard the number of those who were sealed. One hundred and forty-four thousand of all the tribes of the children of Israel were sealed: of the tribe of {Judah|Reuben|Gad|Asher|Naphtali|Manasseh|Simeon|Levi|Issachar|Zebulun|Joseph|Benjamin} twelve thousand were sealed.<br>After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 7:4–9 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"And I heard the number of those who were sealed. One hundred and forty-four thousand of all the tribes of the children of Israel were sealed: of the tribe of{ Judah | Reuben | Gad | Asher | Naphtali | Manasseh | Simeon | Levi | Issachar | Zebulun | Joseph | Benjamin } twelve thousand were sealed.<br>After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 7:4–9 (NKJV)</em></p>
 
 * 144,000 from **twelve tribes of Israel** — sealed on earth (v.1–3)
 * Great multitude — standing **before the throne** in heaven
@@ -345,12 +345,12 @@
 
 <p style="font-family: 'Gabriola', serif;">"But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Acts 1:8 (NKJV)</em></p>
 
-* Jesus promises the Spirit will empower witness - power for evangelism
-* Geographic expansion: Jerusalem → Judea → Samaria → ends of the earth
+* Jesus promises the Spirit will empower witness - evangelism
+* Geographic expansion: Jerusalem → Judea → Samaria → all earth
 * The book of Acts shows this pattern unfolding (Acts 2, 8, 10-11, 19)
-* The Spirit creates one unified church body across all ethnic boundaries
+* The Spirit creates one unified church body across all ethnicities
 * **JWs:** The Spirit empowered the early church, but modern witnessing is done through organizational training and door-to-door methods
-* **Illogical:** Jesus promises "you shall receive power when the Holy Spirit has come upon you." If the Spirit doesn't empower modern witness, then Jesus' promise failed. Either the Spirit still empowers evangelism, or the Great Commission is impossible
+* **Illogical:** Jesus promises "you shall receive power when the Holy Spirit has come upon you." If the Spirit doesn't empower modern witness, Jesus' promise failed and the Great Commission is impossible
 
 ---
 

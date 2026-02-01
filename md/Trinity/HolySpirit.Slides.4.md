@@ -95,6 +95,8 @@
 
 ---
 
+## Navigation
+
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
 * Next: [Work of the Holy Spirit](HolySpirit.Slides.5.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)

@@ -15,7 +15,7 @@ Ingmar Bitter, PhD
 * [Work of the Spirit](HolySpirit.Slides.5.html)
 * [Baptism of the Spirit](HolySpirit.Slides.6.html)
 * [Fullness of the Spirit](HolySpirit.Slides.7.html)
-* [Practical Takeaways and Credits](HolySpirit.Slides.8.html)
+* [Summary & Practical Takeaways](HolySpirit.Slides.8.html)
 
 ---
 

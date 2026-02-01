@@ -17,7 +17,7 @@
 
 ## Personhood: The Spirit Speaks
 
-<p style="font-family: 'Gabriola', serif;">“[…] the Holy Spirit said, ‘Now separate to Me Barnabas and Saul for the work to which I have called them.’”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 13:2</em></p>
+<p style="font-family: 'Gabriola', serif;">“[…] the Holy Spirit said, ‘Now separate to Me Barnabas and Saul for the work to which I have called them.’”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 13:2 (NKJV)</em></p>
 
 * Speech + first-person pronouns (“me”) indicate personhood
 * The Spirit issues directives and calls people to mission
@@ -101,6 +101,8 @@
 * None of the JW arguments to the contrary are sound
 
 ---
+
+## Navigation
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
 * Next: [Deity of the Holy Spirit](HolySpirit.Slides.3.html)
