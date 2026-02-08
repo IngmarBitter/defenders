@@ -112,6 +112,7 @@ Resources
 - http://www.studylight.org/ Tons of Bible Translations, 10 in parallel, commentaries, articles, news
 - http://biblegateway.com   http://biblos.com   http://biblehub.com   http://www.blueletterbible.org
 - https://www.logos.com/ best PC software for Bible study, but $$$
+- [ColorHuBiSa](HuBiSa/HuBiSa.Slides.html) Perception-uniform color space — blue alternatives feedback
 
 ![](pics/CreeksideDefendersQRcode.jpg style="float: right; width: 9rem")
 
