@@ -1,6 +1,6 @@
 <meta charset="utf-8" lang="en">
 
-# Conclusion: The Holy Spirit
+# Holy Spirit Summary & Practical Takeaways
 
 ---
 

@@ -74,14 +74,14 @@ Ingmar Bitter, PhD
 ## Personhood: The Spirit Teaches and Guides
 
 * Jesus promises “another Counselor/Helper”
-  * The Spirit will be “with you” and “in you” (Jn 14:15–17)
+  * The Spirit will be “with you” and “in you” (John 14:15–17)
 
 <p style="font-family: 'Gabriola', serif;">
         “If you love Me, keep My commandments. And I will pray the Father, and He will give you another Helper, that He may abide with you forever, the Spirit of truth, whom the world cannot receive, because it neither sees Him nor knows Him; but you know Him, for He dwells with you and will be in you.”
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 14:15–17 (NKJV)</em></p>
 
-  * The Spirit will “teach you all things” (Jn 14:25–26)
-  * The Spirit will “guide you into all truth” (Jn 16:13–15)
+  * The Spirit will “teach you all things” (John 14:25–26)
+  * The Spirit will “guide you into all truth” (John 16:13–15)
 * Note: NT writers sometimes use masculine reference for the Spirit
   * Emphasizes “who”, not “which"
 
@@ -102,7 +102,7 @@ Ingmar Bitter, PhD
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:26–27 (NKJV)</em></p>
 
 * Intercession implies mind, intention, and agency
-* “The mind of the Spirit” (Rom 8:27) → personal subject
+* “The mind of the Spirit” (Romans 8:27) → personal subject
 
 <p style="font-family: 'Gabriola', serif;">
         “Now He who searches the hearts knows what the mind of the Spirit is, because He makes intercession for the saints according to the will of God.”
@@ -114,13 +114,13 @@ Ingmar Bitter, PhD
 
 * The Spirit is not merely the Father/Son “in a different role”
 * Triadic formulas name three distinct persons together
-  * Baptismal formula (Mt 28:19)
+  * Baptismal formula (Matthew 28:19)
 
 <p style="font-family: 'Gabriola', serif;">
         “Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,”
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Matthew 28:19 (NKJV)</em></p>
 
-  * Benediction (2 Cor 13:14)
+  * Benediction (2 Corinthians 13:14)
 
 <p style="font-family: 'Gabriola', serif;">
         “The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.”
@@ -146,11 +146,11 @@ Ingmar Bitter, PhD
 ## Attributes of Deity (Overview)
 
 * Divine attributes explicitly predicated of the Spirit
-  * Eternity (Heb 9:14)
-  * Omnipresence (Ps 139:7–8)
-  * Omniscience (1 Cor 2:10–11)
-  * Holiness (Rom 1:4)
-  * Love (Rom 5:5)
+  * Eternity (Hebrews 9:14)
+  * Omnipresence (Psalm 139:7–8)
+  * Omniscience (1 Corinthians 2:10–11)
+  * Holiness (Romans 1:4)
+  * Love (Romans 5:5)
 
 ---
 
@@ -189,13 +189,13 @@ Ingmar Bitter, PhD
 
 ## Holiness and Love
 
-* The Spirit is “the Spirit of holiness” (Rom 1:4)
+* The Spirit is “the Spirit of holiness” (Romans 1:4)
 
 <p style="font-family: 'Gabriola', serif;">
         “and declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead.”
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 1:4 (NKJV)</em></p>
 
-* God’s love is poured into our hearts “through the Holy Spirit” (Rom 5:5)
+* God’s love is poured into our hearts “through the Holy Spirit” (Romans 5:5)
 
 <p style="font-family: 'Gabriola', serif;">
         “Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.”
@@ -211,7 +211,7 @@ Ingmar Bitter, PhD
 
 ## Conception of Christ
 
-* Virginal conception is attributed to the Holy Spirit (Lk 1:35)
+* Virginal conception is attributed to the Holy Spirit (Luke 1:35)
 
 <p style="font-family: 'Gabriola', serif;">
         “The Holy Spirit will come upon you, and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God.”
@@ -223,7 +223,7 @@ Ingmar Bitter, PhD
 
 ## Baptism and Anointing
 
-* At Jesus’ baptism, Father/Son/Spirit are all present (Lk 3:21–22)
+* At Jesus’ baptism, Father/Son/Spirit are all present (Luke 3:21–22)
   * Spirit descends upon the Son
   * Public inauguration and empowering for ministry
 
@@ -242,7 +242,7 @@ Ingmar Bitter, PhD
         “how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with Him.”
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 10:38 (NKJV)</em></p>
 
-  * Jesus attributes exorcisms to the Spirit of God (Mt 12:28)
+  * Jesus attributes exorcisms to the Spirit of God (Matthew 12:28)
 
 <p style="font-family: 'Gabriola', serif;">
         “But if I cast out demons by the Spirit of God, surely the kingdom of God has come upon you.”
@@ -252,13 +252,13 @@ Ingmar Bitter, PhD
 
 ## Preaching and Mission
 
-* Jesus ministers “in the power of the Spirit” (Lk 4:14)
+* Jesus ministers “in the power of the Spirit” (Luke 4:14)
 
 <p style="font-family: 'Gabriola', serif;">
         “Then Jesus returned in the power of the Spirit to Galilee, and news of Him went out through all the surrounding region.”
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 4:14 (NKJV)</em></p>
 
-* Isaiah’s prophecy applied to Jesus’ preaching: “The Spirit of the Lord is upon me…” (Lk 4:18–21)
+* Isaiah’s prophecy applied to Jesus’ preaching: “The Spirit of the Lord is upon me…” (Luke 4:18–21)
 
 <p style="font-family: 'Gabriola', serif;">
         “The Spirit of the Lord is on Me, Because He has anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, To proclaim liberty to the captives And recovery of sight to the blind, To set at liberty those who are oppressed; To proclaim the acceptable year of the Lord.”
@@ -270,7 +270,7 @@ Ingmar Bitter, PhD
 
 ## Continuing Christ’s Ministry
 
-* Jesus: it is “to your advantage” that he goes away so the Spirit comes (Jn 16:7)
+* Jesus: it is “to your advantage” that he goes away so the Spirit comes (John 16:7)
 
 <p style="font-family: 'Gabriola', serif;">
         “Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.”
@@ -279,7 +279,7 @@ Ingmar Bitter, PhD
 * The Spirit continues and extends Christ’s ministry in the church age
   * Convicts the world
   * Guides into truth
-  * Glorifies Christ (Jn 16:13–15)
+  * Glorifies Christ (John 16:13–15)
 
 <p style="font-family: 'Gabriola', serif;">
         “However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify Me, for He will take of what is Mine and declare it to you.”
@@ -306,7 +306,7 @@ Ingmar Bitter, PhD
 ## (1–3) Scripture and Revelation
 
 * OT: God’s “Spirit” is active (e.g., Gen 1:2), though the personhood is less differentiated
-* The Spirit reveals God’s truth (1 Cor 2:9–13)
+* The Spirit reveals God’s truth (1 Corinthians 2:9–13)
 
 <p style="font-family: 'Gabriola', serif;">
         “But as it is written: ‘Eye has not seen, nor ear heard, Nor have entered into the heart of man The things which God has prepared for those who love Him.’ But God has revealed them to us through His Spirit. For the Spirit searches all things, yes, the deep things of God. […] These things we also speak, not in words which man’s wisdom teaches but which the Holy Spirit teaches, comparing spiritual things with spiritual.”
@@ -323,24 +323,24 @@ Ingmar Bitter, PhD
 
 ## (4–7) Salvation Applied
 
-* Conception of Christ (Lk 1:35)
-* Regeneration / new birth (Jn 3:5–7)
+* Conception of Christ (Luke 1:35)
+* Regeneration / new birth (John 3:5–7)
 
 <p style="font-family: 'Gabriola', serif;">
         “Jesus answered, ‘Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.’”
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 3:5–7 (NKJV)</em></p>
 
-* Indwelling and Spirit-baptism as belonging to Christ (Rom 8:9; 1 Cor 12:13)
+* Indwelling and Spirit-baptism as belonging to Christ (Romans 8:9; 1 Cor 12:13)
 
 <p style="font-family: 'Gabriola', serif;">
-        “But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His.” (Rom 8:9)
+        “But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His.” (Romans 8:9)
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:9 (NKJV)</em></p>
 
 <p style="font-family: 'Gabriola', serif;">
-        “For by one Spirit we were all baptized into one body—whether Jews or Greeks, whether slaves or free—and have all been made to drink into one Spirit.” (1 Cor 12:13)
+        “For by one Spirit we were all baptized into one body—whether Jews or Greeks, whether slaves or free—and have all been made to drink into one Spirit.” (1 Corinthians 12:13)
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 12:13 (NKJV)</em></p>
 
-* Assurance of salvation (Rom 8:14–16)
+* Assurance of salvation (Romans 8:14–16)
   * The Spirit bears witness with our spirit
 
 <p style="font-family: 'Gabriola', serif;">
@@ -351,24 +351,24 @@ Ingmar Bitter, PhD
 
 ## (8–10) Life, Gifts, and Fruit
 
-* Enablement for holy living (Gal 5:16–18, 25)
+* Enablement for holy living (Galatians 5:16–18, 25)
 
 <p style="font-family: 'Gabriola', serif;">
-        “I say then: Walk in the Spirit, and you shall not fulfill the lust of the flesh. […] But if you are led by the Spirit, you are not under the law.” (Gal 5:16–18)
+        “I say then: Walk in the Spirit, and you shall not fulfill the lust of the flesh. […] But if you are led by the Spirit, you are not under the law.” (Galatians 5:16–18)
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Galatians 5:16–18 (NKJV)</em></p>
 
 <p style="font-family: 'Gabriola', serif;">
-        “If we live in the Spirit, let us also walk in the Spirit.” (Gal 5:25)
+        “If we live in the Spirit, let us also walk in the Spirit.” (Galatians 5:25)
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Galatians 5:25 (NKJV)</em></p>
 
-* Distribution of spiritual gifts (1 Cor 12:4–11)
+* Distribution of spiritual gifts (1 Corinthians 12:4–11)
   * Given “as he wills” for the common good
 
 <p style="font-family: 'Gabriola', serif;">
         “There are diversities of gifts, but the same Spirit. […] But one and the same Spirit works all these things, distributing to each one individually as He wills.”
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 12:4–11 (NKJV)</em></p>
 
-* Production of spiritual fruit (Gal 5:22–24)
+* Production of spiritual fruit (Galatians 5:22–24)
   * The most reliable evidence of Spirit-filled life
 
 <p style="font-family: 'Gabriola', serif;">
@@ -393,7 +393,7 @@ Ingmar Bitter, PhD
 ## Example: Skilled Craftsmanship
 
 * Bezalel (and others) filled with God’s Spirit for craftsmanship
-  * Tabernacle design, artistry, teaching skill (Ex 31:1–3; Ex 35:30–35)
+  * Tabernacle design, artistry, teaching skill (Exodus 31:1–3; Exodus 35:30–35)
 
 <p style="font-family: 'Gabriola', serif;">
         “Then the Lord spoke to Moses, saying: ‘See, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah; and I have filled him with the Spirit of God, in wisdom, in understanding, in knowledge, and in all manner of workmanship,’”
@@ -406,14 +406,14 @@ Ingmar Bitter, PhD
 
 ## Example: Leadership and Prophetic Empowering
 
-* Seventy elders share in the Spirit’s empowering for governance (Num 11:16–17, 25)
+* Seventy elders share in the Spirit’s empowering for governance (Numbers 11:16–17, 25)
 
 <p style="font-family: 'Gabriola', serif;">
-        “So the Lord said to Moses: ‘Gather to Me seventy men of the elders of Israel […] Then I will come down and talk with you there. I will take of the Spirit that is upon you and will put the same upon them; and they shall bear the burden of the people with you, that you may not bear it yourself alone.’” (Num 11:16–17)
+        “So the Lord said to Moses: ‘Gather to Me seventy men of the elders of Israel […] Then I will come down and talk with you there. I will take of the Spirit that is upon you and will put the same upon them; and they shall bear the burden of the people with you, that you may not bear it yourself alone.’” (Numbers 11:16–17)
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Numbers 11:16–17 (NKJV)</em></p>
 
 <p style="font-family: 'Gabriola', serif;">
-        “Then the Lord came down in the cloud, and spoke to him, and took of the Spirit that was upon him, and placed the same upon the seventy elders; and it happened, when the Spirit rested upon them, that they prophesied, although they never did so again.” (Num 11:25)
+        “Then the Lord came down in the cloud, and spoke to him, and took of the Spirit that was upon him, and placed the same upon the seventy elders; and it happened, when the Spirit rested upon them, that they prophesied, although they never did so again.” (Numbers 11:25)
 </p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Numbers 11:25 (NKJV)</em></p>
 
 * Judges are raised up with Spirit-empowerment for deliverance
@@ -454,7 +454,7 @@ Ingmar Bitter, PhD
 
   * Ezekiel depicts the glory departing in judgment (Ezek 9:3; 11:23)
 * New Covenant: the believer becomes the Spirit’s temple
-  * “Your body is a temple of the Holy Spirit” (1 Cor 6:19–20)
+  * “Your body is a temple of the Holy Spirit” (1 Corinthians 6:19–20)
 
 <p style="font-family: 'Gabriola', serif;">
         “Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own?”
@@ -554,11 +554,11 @@ Ingmar Bitter, PhD
 
 ## Natural, Carnal, Spiritual
 
-* Uses Paul’s categories (1 Cor 2:14–3:3)
+* Uses Paul’s categories (1 Corinthians 2:14–3:3)
   * Natural (unregenerate): does not have the Spirit
   * Carnal (regenerate but flesh-dominated): immature and ineffective
   * Spiritual (regenerate and Spirit-empowered): discernment and fruit
-* Works can be tested: gold vs wood/hay/straw (1 Cor 3:11–15)
+* Works can be tested: gold vs wood/hay/straw (1 Corinthians 3:11–15)
 
 ---
 
@@ -576,21 +576,21 @@ Ingmar Bitter, PhD
 * Two main causes
     1. Lack of total commitment
       * “Cares of the world… delight in riches… desire for other things” (Mark 4)
-      * Contrast: “Seek first the kingdom…” (Mt 6:33)
-      * Prescription: present yourself as a living sacrifice (Rom 12:1–2)
+      * Contrast: “Seek first the kingdom…” (Matthew 6:33)
+      * Prescription: present yourself as a living sacrifice (Romans 12:1–2)
     2. Reliance on self-effort
       * The Christian life cannot be lived by the flesh
-      * “Apart from me you can do nothing” (Jn 15:4–5)
+      * “Apart from me you can do nothing” (John 15:4–5)
 
 ---
 
 ## Practical Takeaways
 
-* Be assured: if you belong to Christ, you have the Spirit (Rom 8:9)
+* Be assured: if you belong to Christ, you have the Spirit (Romans 8:9)
 * Pursue fullness:
-  * Whole-life surrender to God’s will (Rom 12:1–2)
-  * Ongoing dependence / abiding (Jn 15:4–5)
-  * Aim at fruit, not spiritual status-signals (Gal 5:22–25)
+  * Whole-life surrender to God’s will (Romans 12:1–2)
+  * Ongoing dependence / abiding (John 15:4–5)
+  * Aim at fruit, not spiritual status-signals (Galatians 5:22–25)
 
 ---
 
@@ -622,37 +622,6 @@ Ingmar Bitter, PhD
 <script>
     markdeepOptions = {
         tocStyle: 'none',
-        detectMath: false,
-        onLoad: function() {
-            initSlides();
-        }
-    };
-</script>
-<style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style>
-<script src="../markdeep-slides/lib/markdeep/1.11/markdeep.min.js" charset="utf-8"></script>
-<script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>---
-<!-- Markdeep slides stuff -->
-<script>
-    markdeepSlidesOptions = {
-        aspectRatio: 16 / 9,
-        theme: 
-\../markdeep-slides/themes/dark.css\',
-        fontSize: 28,
-        diagramZoom: 1.0,
-        totalSlideNumber: false,
-        progressBar: true,
-        breakOnHeadings: false,
-        slideChangeHook: (oldSlide, newSlide) => {},
-        modeChangeHook: (newMode) => {}
-    };
-</script>
-<link rel="stylesheet" href="../markdeep-slides/lib/markdeep-relative-sizes/1.11/relativize.css">
-<link rel="stylesheet" href="../markdeep-slides/markdeep-slides.css">
-<script src="../markdeep-slides/markdeep-slides.js"></script>
-<script>
-    markdeepOptions = {
-        tocStyle: 
-\none\',
         detectMath: false,
         onLoad: function() {
             initSlides();

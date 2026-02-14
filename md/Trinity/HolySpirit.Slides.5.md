@@ -28,7 +28,7 @@
 * God's "Spirit" is active from the very beginning of creation
 * The Spirit "hovering" suggests active, life-giving presence
 * **JWs:** "Spirit" here is God's impersonal active force, like wind or energy moving over the waters
-* **Illogical:** Impersonal forces don't "hover" with purposeful presence - the Hebrew word suggests protective, deliberate action like a bird over its nest (cf. Deut 32:11)
+* **Illogical:** Impersonal forces don't "hover" with purposeful presence - the Hebrew word suggests protective, deliberate action like a bird over its nest (cf. Deuteronomy 32:11)
 
 ---
 
@@ -128,7 +128,7 @@
 * Physical birth (flesh) does not grant entry to the kingdom
 * Spirit birth does, and is given by the Holy Spirit
 * **JWs:** "Born of spirit" means becoming a spirit creature (only for a select 144,000)
-* **Illogical:** Paul says "those in the flesh" don't belong to Christ, but "if anyone" has the Spirit, they are Christ's (Rom 8:9). Flesh/Spirit contrasts unbelievers vs. believers - not two classes of believers
+* **Illogical:** Paul says "those in the flesh" don't belong to Christ, but "if anyone" has the Spirit, they are Christ's (Romans 8:9). Flesh/Spirit contrasts unbelievers vs. believers - not two classes of believers
 
 ---
 

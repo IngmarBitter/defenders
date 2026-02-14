@@ -31,9 +31,9 @@
 <p style="font-family: 'Gabriola', serif;">“If you love Me, keep My commandments. And I will pray the Father, and He will give you **another Helper**, that **He** may abide with you forever, **the Spirit** of truth, **whom** the world cannot receive, because it neither sees **Him** nor knows **Him**; but you know **Him**, for **He dwells** with you and will be in you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 14:15–17 (NKJV)</em></p>
 
 * Jesus promises “another Counselor/Helper”
-  * The Spirit will "dwell with" and “be in" you (Jn 14:15–17)
+  * The Spirit will "dwell with" and “be in" you (John 14:15–17)
   * “Another” implies another of the same kind, another person
-    * If JWs were correct, it should be a differnt helper, but it isn't
+    * If JWs were correct, it should be a different helper, but it isn't
 * NT writers intentionally use the masculine pronoun **He** for the Spirit
   * Breaking standard Greek grammar (since “pneuma” is neuter)
   * JW appeals to conventions in other languages: invalid, text is Greek
@@ -46,33 +46,33 @@
 
 <p style="font-family: 'Gabriola', serif;">“However, when **He, the Spirit** of truth, has come, **He** will **guide** you into all truth […]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 16:13 (NKJV)</em></p>
 
-* He, the Spirit will “teach you all things” (Jn 14:25–26)
+* He, the Spirit will “teach you all things” (John 14:25–26)
   * “Whom the Father will send” implies a person, not a force
   * Teaching is interactive and requires personhood
-  * JWs: Spirit 'teaches' via God's power, but powers do not teach, only persons
-* He, the Spirit will “guide you into all truth” (Jn 16:13–15)
+  * **JWs:** Spirit 'teaches' via God's power, but powers do not teach, only persons
+* He, the Spirit will “guide you into all truth” (John 16:13–15)
 * NT writers intentionally use the masculine pronoun **He** for the Spirit
   * Breaking standard Greek grammar (since “pneuma” is neuter)
 
 ---
 
-## Personhood: The Spirit Intercedes (Rom 8:26)
+## Personhood: The Spirit Intercedes (Romans 8:26)
 
 <p style="font-family: 'Gabriola', serif;">“Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us […] according to the will of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:26 (NKJV)</em></p>
 
 * Intercession implies mind, intention, and agency
-* JWs: God facilitates our prayer via His power (spirit)
-  * Illogical: Intercession is not toward us but for us toward God. Requires the intercessor to be a person distinct from God - can't be God to God
+* **JWs:** God facilitates our prayer via His power (spirit)
+  * **Illogical:** Intercession is not toward us but for us toward God. Requires the intercessor to be a person distinct from God - can't be God to God
 
 ---
 
-## Personhood: The Spirit Intercedes (Rom 8:27)
+## Personhood: The Spirit Intercedes (Romans 8:27)
 
 <p style="font-family: 'Gabriola', serif;">“Now He who searches the hearts knows what **the mind of the Spirit** is, because He makes intercession for the saints according to the will of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:27 (NKJV)</em></p>
 
-* “The mind of the Spirit” (Rom 8:27) → personal subject
-* JWs: "The mind of the Spirit": This is God's mind or will being expressed through the Spirit, not the Spirit having its own mind or thoughts.
-  * Illogical: The text says "the mind of the Spirit", not "the mind of God" - mind can only apply to a person. Attributing a mind to an impersonal force is like saying "the thoughts of my hammer" to mean my thoughts expressed through the hammer.
+* “The mind of the Spirit” (Romans 8:27) → personal subject
+* **JWs:** "The mind of the Spirit": This is God's mind or will being expressed through the Spirit, not the Spirit having its own mind or thoughts.
+  * **Illogical:** The text says "the mind of the Spirit", not "the mind of God" - mind can only apply to a person. Attributing a mind to an impersonal force is like saying "the thoughts of my hammer" to mean my thoughts expressed through the hammer.
 
 ---
 
@@ -84,8 +84,8 @@
 
 * The Spirit is not merely the Father/Son “in a different role”
 * Triadic formulas name three distinct persons together
-* JWs: Holy Spirit refers to God's active force, not a person. 
-  * Illogical: The parallel structure ("in the name of A and of B and of C") treats all three equally as persons with names/authorities; denying personhood to the Holy Spirit violates the grammar
+* **JWs:** Holy Spirit refers to God's active force, not a person. 
+  * **Illogical:** The parallel structure ("in the name of A and of B and of C") treats all three equally as persons with names/authorities; denying personhood to the Holy Spirit violates the grammar
 
 ---
 
@@ -93,11 +93,11 @@
 
 * Third person of the Trinity: co-equal, fully divine, fully personal
 * Speaks and issues directives (Acts 13:2)
-* Teaches and guides believers (Jn 14:26; 16:13)
-* Intercedes in prayer (Rom 8:26–27)
-* Distinct from Father and Son (Mt 28:19; 2 Cor 13:14)
+* Teaches and guides believers (John 14:26; 16:13)
+* Intercedes in prayer (Romans 8:26–27)
+* Distinct from Father and Son (Matthew 28:19; 2 Corinthians 13:14)
 * Masculine pronouns emphasize personhood (“who”, not “which”)
-* Possesses mind, will, and agency (Rom 8:26–27)
+* Possesses mind, will, and agency (Romans 8:26–27)
 * None of the JW arguments to the contrary are sound
 
 ---
