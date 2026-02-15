@@ -68,6 +68,18 @@
 
 ---
 
+## The Temptation Paradox
+
+<p style="font-family: 'Gabriola', serif;">"For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 4:15 (NKJV)</em></p>
+
+<p style="font-family: 'Gabriola', serif;">"Let no one say when he is tempted, 'I am tempted by God'; for God cannot be tempted by evil, nor does He Himself tempt anyone."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>James 1:13 (NKJV)</em></p>
+
+* Christ was genuinely tempted (Hebrews 4:15) — yet God cannot be tempted (James 1:13)
+* This tension requires a model that preserves both truths
+* Any adequate Christology must explain how temptation is real without implying the possibility of sin
+
+---
+
 ## Physical Limitations
 
 <p style="font-family: 'Gabriola', serif;">"Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 4:6 (NKJV)</em></p>
@@ -148,6 +160,28 @@
 
 ---
 
+## "What Is Not Assumed Is Not Saved"
+
+<p style="font-family: 'Gabriola', serif;">"For indeed He does not give aid to angels, but He does give aid to the seed of Abraham. Therefore, in all things He had to be made like His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make propitiation for the sins of the people."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:16–17 (NKJV)</em></p>
+
+* Gregory of Nyssa's principle: what Christ did not assume, he did not redeem
+* If Apollinarianism is true and Christ lacks a human mind, the human mind cannot be saved
+* Hebrews insists Christ was made like us "in all things" — a complete human nature is soteriologically necessary
+
+---
+
+## The Theotokos Controversy
+
+<p style="font-family: 'Gabriola', serif;">"But why is this granted to me, that the mother of my Lord should come to me?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 1:43 (NKJV)</em></p>
+
+* Nestorius (428) refused to call Mary *Theotokos* ("God-bearer" / "Mother of God")
+  * He insisted Mary bore only the man Jesus, not the divine Logos
+* The Council of Ephesus (431) affirmed *Theotokos*
+  * Not to exalt Mary, but to safeguard the unity of Christ's person
+* If you cannot say "Mary bore God incarnate," you have split Christ into two persons
+
+---
+
 ## Why Two Natures (Deity + Humanity)
 
 <p style="font-family: 'Gabriola', serif;">"And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 1:14 (NKJV)</em></p>
@@ -170,6 +204,16 @@
   * Rejects Nestorianism (no division into two persons)
 * It doesn’t tell us *how* the incarnation works
   * It marks out safe waters for further theorizing
+
+---
+
+## Incarnation as Mirror of the Trinity
+
+* The **Trinity**: multiple persons sharing one divine nature
+* The **Incarnation**: multiple natures united in one divine person
+* This structural parallel illuminates both doctrines
+  * Trinity guards against dividing the Godhead; Incarnation guards against dividing Christ
+  * Both require "without confusion, without separation" thinking
 
 ---
 
@@ -265,9 +309,43 @@
 
 ---
 
+## The Logos as Archetype of Humanity
+
+<p style="font-family: 'Gabriola', serif;">"Then God said, 'Let Us make man in Our image, according to Our likeness [...]' So God created man in His own image; in the image of God He created him; male and female He created them."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:26–27 (NKJV)</em></p>
+
+* The *Imago Dei*: humans bear God's image in rationality, self-consciousness, and freedom
+* Craig's insight: the Logos already possesses these capacities archetypally
+* In the incarnation, the Logos assumes a human nature brought to completeness through union with him
+* This explains plank 2: one person (not two) because the Logos *is* the rational soul
+
+---
+
+## The Subliminal Self (Iceberg Model)
+
+* William James' concept: consciousness has subliminal depths beneath waking awareness
+  * Your conscious and subconscious mind do not make you two persons
+* Craig's application: during the state of humiliation, the Logos' divine knowledge and power are largely **subliminal**
+  * Like an iceberg — the bulk of divine cognition is submerged beneath Jesus' waking human consciousness
+* Jesus' human mind develops genuinely — learning, growing, depending on the Father
+* Occasionally the divine subliminal surfaces (e.g., knowing Nathanael under the fig tree, John 1:48)
+
+---
+
+## Gethsemane: The Model in Action
+
+<p style="font-family: 'Gabriola', serif;">"Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done." Then an angel appeared to Him from heaven, strengthening Him. And being in agony, He prayed more earnestly. Then His sweat became like great drops of blood falling down to the ground."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 22:42–44 (NKJV)</em></p>
+
+* The subliminal model preserves the authenticity of Gethsemane
+  * Real anguish in prayer — not a performance
+  * Genuine moral struggle and submission to the Father's will
+* Christ's dependence on the Father is moment-by-moment, not theatrical
+* The incarnation means God knows suffering from the inside
+
+---
+
 ## True God and True Man
 
-<img src="pics/Trinity.and.JesusTrueGodTrueMan.jpg" style="display: block; margin: -0.95em auto 0; max-height: 68%; max-width: 76%;">
+<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -0.95em auto 0; max-height: 68%; max-width: 76%;">
 
 ---
 
@@ -278,6 +356,19 @@
 * **Humiliation:** conception → burial (servanthood and obedience)
 * **Exaltation:** resurrection → universal confession of Christ's lordship
 * "Emptying" is humility/servanthood (status), not loss of deity
+
+---
+
+## The Permanent Incarnation
+
+<p style="font-family: 'Gabriola', serif;">"This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Acts 1:11 (NKJV)</em></p>
+
+<p style="font-family: 'Gabriola', serif;">"For there is one God and one Mediator between God and men, the Man Christ Jesus,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Timothy 2:5 (NKJV)</em></p>
+
+* The ascension does not reverse the incarnation
+* Christ retains his human nature eternally — "the Man Christ Jesus" is present tense
+* The incarnation is not a temporary 33-year episode but a permanent union
+* God has forever dignified human nature by assuming it
 
 ---
 
