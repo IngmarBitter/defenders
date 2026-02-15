@@ -70,6 +70,10 @@ When fixing encoding issues, systematically replace:
 
 Margin adjustments: `-1.25em` for shorter slides, `-1.75em` for longer slides.
 
+If you stack multiple scripture quotes on the same slide:
+- Use `margin-bottom: -1.5em;` on the *intermediate* reference line(s) to reduce wasted vertical space between quotes.
+- Keep the *final* reference line at `margin-bottom: -0.75em;` (or looser if the slide has room).
+
 ### Ellipsis in Scripture Quotes
 
 When omitting text within quotes, use `[...]` format.
