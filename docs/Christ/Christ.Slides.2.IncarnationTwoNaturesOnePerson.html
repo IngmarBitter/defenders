@@ -265,6 +265,12 @@
 
 ---
 
+## True God and True Man
+
+<img src="pics/Trinity.and.JesusTrueGodTrueMan.jpg" style="display: block; margin: -0.95em auto 0; max-height: 68%; max-width: 76%;">
+
+---
+
 ## Humiliation → Exaltation
 
 <p style="font-family: 'Gabriola', serif;">"Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross. Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–11 (NKJV)</em></p>
