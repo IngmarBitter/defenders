@@ -6,9 +6,9 @@
 
 ## The Son Is Truly God
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: John 1:1]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 1:1 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"In the beginning was the Word, and the Word was with God, and the Word was God."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 1:1 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Colossians 2:9]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
 
 * The Word is God (deity is affirmed, not merely similarity)
 * The fullness of deity dwells in Christ bodily
@@ -18,9 +18,9 @@
 
 ## The Son Truly Became Human
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: John 1:14]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 1:14 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 1:14 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: 1 John 4:2–3]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
 
 * The Word became flesh (real incarnation, not appearance)
 * Confessing Jesus Christ “has come in the flesh” is a basic Christian test
@@ -41,9 +41,9 @@
 
 ## Human Growth and Learning
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Luke 2:52]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Luke 2:52 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"And Jesus increased in wisdom and stature, and in favor with God and men."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Luke 2:52 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Hebrews 5:8]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 5:8 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"though He was a Son, yet He learned obedience by the things which He suffered."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 5:8 (NKJV)</em></p>
 
 * Jesus’ human life includes genuine growth and development
 * “Learned obedience” implies real human experience (not pretense)
@@ -52,7 +52,7 @@
 
 ## A Limitation Text (Human Consciousness)
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Mark 13:32]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
 
 * The Son is said not to know the day/hour
 * This gives us a clear example of human limitation to be explained by our model
@@ -61,30 +61,50 @@
 
 ## Tempted Yet Without Sin
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Hebrews 4:15]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 4:15 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 4:15 (NKJV)</em></p>
 
 * Temptation is real, not theatrical
 * Sinlessness does not negate true humanity
 
 ---
 
-## Jesus’ True Humanity (Data Points)
+## Physical Limitations
 
-* Human birth, growth, and development
-* Temptation and testing
-* Physical limitations: hunger, thirst, fatigue
+<p style="font-family: 'Gabriola', serif;">"Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 4:6 (NKJV)</em></p>
+
+<p style="font-family: 'Gabriola', serif;">"After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, 'I thirst!'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 19:28 (NKJV)</em></p>
+
+* Jesus experienced genuine physical fatigue and thirst
+* These are not "performances" but real bodily limitations
+
+---
+
+## Real Suffering and Death
+
+<p style="font-family: 'Gabriola', serif;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:14 (NKJV)</em></p>
+
+* Christ shared in flesh and blood so that he could truly die
+* His death was real, not apparent, and purposeful: to destroy the power of death
+
+---
+
+## Jesus' True Humanity
+
+* Human birth, growth, and development (Luke 2:52)
+* Temptation and testing (Hebrews 4:15)
+* Physical limitations: hunger, thirst, fatigue (John 4:6; 19:28)
 * Genuine human psychology and cognition
   * Growth and learning (Hebrews 5:8)
   * Epistemic limits in his earthly consciousness (Mark 13:32)
-* Real suffering and real death
+* Real suffering and real death (Hebrews 2:14)
 
 ---
 
 ## The Tension In One Person
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Colossians 2:9]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Colossians 2:9 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Colossians 2:9 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Mark 13:32]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
 
 * Full deity is affirmed
 * Genuine limitation is also affirmed
@@ -107,9 +127,9 @@
 
 ## Anti-Docetism (Not “Seeming” Human)
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: 1 John 4:2–3]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
 
-* The apostolic test requires confessing Christ “come in the flesh”
+* The apostolic test requires confessing Christ "has come in the flesh"
 * So any view that denies real humanity is excluded
 
 ---
@@ -130,9 +150,9 @@
 
 ## Why Two Natures (Deity + Humanity)
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: John 1:14]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 1:14 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 1:14 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Colossians 2:9]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
 
 * Scripture pushes us to affirm both true humanity and full deity
 * Chalcedon functions as guardrails to keep both without confusion or division
@@ -155,10 +175,11 @@
 
 ## Kenosis (Emptying)
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Philippians 2:5–8]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–8 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–8 (NKJV)</em></p>
 
-* “Emptying” is described in terms of humility and servanthood
-* The text motivates the question: what kind of “emptying” is compatible with full deity?
+* The Greek *kenoō* ("to empty") is rendered as such in ESV and NASB and as "made Himself of no reputation" in NKJV
+* The "emptying" is described in terms of humility and servanthood, not loss of attributes
+* The text motivates the question: what kind of "emptying" is compatible with full deity?
 
 ---
 
@@ -177,7 +198,7 @@
 
 ## Full Deity Remains In The Incarnation
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Colossians 2:9]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
 
 * Full deity dwells in Christ bodily
 * This directly pressures radical kenosis (subtraction) models
@@ -187,7 +208,7 @@
 ## Against Radical Kenosis (Subtraction)
 
 * Radical kenotic views: the Logos divests divine attributes to become human
-* Craig’s objection (in outline)
+* Craig's objection
   * If the Logos gives up essential divine attributes, he ceases to be God
   * God does not “metamorphose” into a man (pagan-style transformation)
 * Better reading of Philippians 2 “emptying”
@@ -197,9 +218,9 @@
 
 ## Learning vs “Not Knowing”
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Hebrews 5:8]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 5:8 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"though He was a Son, yet He learned obedience by the things which He suffered."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 5:8 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Mark 13:32]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
 
 * These texts make “according to nature” predication natural
 * They push us to distinguish divine and human predicates in one person
@@ -221,9 +242,9 @@
 
 ## Deity + Human Growth Together
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Colossians 2:9]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Colossians 2:9 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Luke 2:52]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 2:52 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"And Jesus increased in wisdom and stature, and in favor with God and men."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 2:52 (NKJV)</em></p>
 
 * Colossians 2:9 anchors full deity
 * Luke 2:52 anchors genuine human development
@@ -246,35 +267,26 @@
 
 ## Humiliation → Exaltation
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Philippians 2:5–11]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–11 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross. Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–11 (NKJV)</em></p>
 
-* Humiliation: servanthood and obedience in the incarnation
-* Exaltation: resurrection and universal confession of Christ’s lordship
-
----
-
-## States of Christ: Humiliation → Exaltation
-
-* A common theological distinction
-  * **Humiliation:** conception → burial
-  * **Exaltation:** resurrection and onward
-* Helps read Philippians 2
-  * “Emptying” is humility/servanthood (status), not loss of deity
+* **Humiliation:** conception → burial (servanthood and obedience)
+* **Exaltation:** resurrection → universal confession of Christ's lordship
+* "Emptying" is humility/servanthood (status), not loss of deity
 
 ---
 
 ## Why The Incarnation Matters
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Hebrews 4:15]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 4:15 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 4:15 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“[PASTE NKJV TEXT: Hebrews 2:14]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:14 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:14 (NKJV)</em></p>
 
 * Hebrews 4:15 teaches Christ’s sympathy through genuine humanity
 * Hebrews 2:14 ties incarnation to redemption (sharing our nature)
 
 ---
 
-## Practical Takeaways (Why This Isn’t “Abstract”) 
+## Practical Takeaways (Why This Isn't "Abstract")
 
 * The incarnation safeguards:
   * God’s nearness and sympathy in suffering

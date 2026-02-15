@@ -44,15 +44,15 @@
 
 Slide `.md` files render as HTML via Markdeep, so use proper Unicode:
 
-- **Quotes:** Use curly quotes, NOT straight quotes
-- **Apostrophes:** Use curly apostrophe, NOT straight apostrophe
+- **Quotes:** Use ASCII straight quotes `"` (avoids encoding issues with the Edit tool)
+- **Apostrophes:** Use ASCII apostrophe `'`
 - **Em Dashes:** Use em dash, NOT hyphens or double hyphens
 - **Ellipsis:** Use horizontal ellipsis, NOT three periods
 - **Arrows:** Use rightwards arrow, NOT -> or question marks
 
 When fixing encoding issues, systematically replace:
 - Mojibake characters -> appropriate Unicode character based on context
-- Straight quotes -> curly quotes
+- Curly quotes -> ASCII straight quotes
 - `--` -> em dash
 - `...` -> `[...]` (for scripture ellipsis) or ellipsis (for general)
 
@@ -81,13 +81,6 @@ When omitting text within quotes, use `[...]` format.
 ## Markdown Formatting Standards
 
 All `---` dividers MUST be surrounded by empty lines (required for Markdeep rendering).
-
-## JW Rebuttal Standards
-
-Every slide section MUST include:
-
-1. **JW Objection:** Format: `**JWs:** [their interpretation]` -- must be verse-specific, reflecting official Watchtower teaching
-2. **Logical Rebuttal:** Format: `**Illogical:** [specific rebuttal]` -- must directly address the interpretation, show internal contradiction, use the text itself
 
 ## File Management
 
@@ -158,7 +151,6 @@ markdeepSlidesOptions = {
 - [ ] All Scripture quotes verified against blueletterbible.org
 - [ ] All encoding issues fixed (no mojibake characters)
 - [ ] All book names spelled out in full
-- [ ] All sections have JW objection + rebuttal
 - [ ] No duplicate content in file
 - [ ] File synced to HTML
 - [ ] Navigation links working

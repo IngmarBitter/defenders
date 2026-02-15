@@ -6,6 +6,8 @@
 
 ## Where We Are In Defenders
 
+![](pics/ChristOverview.jpg style="float: right; width: 9rem")
+
 * We’ve covered:
   * Doctrine of revelation (general and special)
   * Doctrine of God (attributes, natural theology)
@@ -16,6 +18,8 @@
 ---
 
 ## Christology: Person and Work
+
+![](pics/ChristOverview.jpg style="float: right; width: 9rem")
 
 * Two questions structure the doctrine of Christ
   * **Person:** Who is Jesus Christ?
@@ -30,6 +34,8 @@
 
 ## Why This Matters
 
+![](pics/ChristOverview.jpg style="float: right; width: 9rem")
+
 * The incarnation and atonement are the heart of distinctively Christian theism
   * Not merely “generic monotheism”
 * The doctrine of Christ anchors:
@@ -42,6 +48,8 @@
 
 ## Terms We’ll Use
 
+![](pics/ChristOverview.jpg style="float: right; width: 9rem")
+
 * **Incarnation:** the Son assumes a human nature
 * **Atonement:** what Christ achieves by his death for sinners
 * **Resurrection:** God raises Jesus bodily from the dead
@@ -50,6 +58,8 @@
 ---
 
 ## Navigation
+
+![](pics/ChristOverview.jpg style="float: right; width: 9rem")
 
 * [Return to Christ Overview](Christ.Slides.html)
 * Next: [The Incarnation: Two Natures, One Person](Christ.Slides.2.IncarnationTwoNaturesOnePerson.html)
