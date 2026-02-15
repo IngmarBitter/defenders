@@ -90,15 +90,45 @@ Every slide section MUST include:
 ### File Structure
 
 ```
-md/<Topic>/<Name>.Slides.N.md   -> Source file
-docs/<Topic>/<Name>.Slides.N.html -> Presentation file (copy of source)
+md/<Topic>/...                  -> Source Markdown (authoritative)
+docs/<Topic>/...                -> Rendered Markdeep HTML (generated output)
+
+# Slide decks
+md/<Topic>/<Deck>.Slides.md                               -> Deck TOC / index (source)
+md/<Topic>/<Deck>.Slides.<N>.<Subtitle>.md                -> Slide page (source)
+docs/<Topic>/<Deck>.Slides.html                           -> Deck TOC / index (rendered copy)
+docs/<Topic>/<Deck>.Slides.<N>.<Subtitle>.html            -> Slide page (rendered copy)
 ```
+
+### Docs Folder Rule
+
+- `docs/` is output-only: **do not place source `.md` files in `docs/`**.
+- Exception: third-party/library docs that already live under `docs/markdeep-slides/`.
+
+### Slide Page Naming Rules
+
+- Use the pattern: `Deck.Slides.<N>.<Subtitle>`.
+- `<Subtitle>` must be **CamelCase**, derived from the TOC title, and should omit punctuation.
+- Avoid underscores; use dots only for the `Slides.<N>.<Subtitle>` separators.
+
+### Renaming Rule (Slides)
+
+If you rename slide pages:
+- Perform **real filesystem renames** for both the `md/` source and the matching `docs/` `.html`.
+- Update all links (TOC + Prev/Next) in both `md/<Topic>/<Deck>.Slides.md` and `docs/<Topic>/<Deck>.Slides.html`, and within the slide pages themselves.
 
 ### Sync to HTML
 
 After editing a slide file, sync it:
 ```powershell
+# Single file (keep the same base name; only extension changes)
 Copy-Item "md/<Topic>/<file>.md" "docs/<Topic>/<file>.html"
+
+# Whole deck (copy all slide sources + TOC in one go)
+Get-ChildItem "md/<Topic>/<Deck>.Slides*.md" | ForEach-Object {
+  $dest = Join-Path "docs/<Topic>" ($_.BaseName + ".html")
+  Copy-Item $_.FullName $dest -Force
+}
 ```
 
 ## Markdeep Slide Configuration

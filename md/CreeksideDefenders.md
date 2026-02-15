@@ -66,8 +66,8 @@ Topics
    8. [Atheistic Arguments](NaturalTheology/Atheism.slides.html)
 6. [Problem of Evil/Suffering/Hell](NaturalTheology/Evil.logic.slides.html) <small>Why does God not prevent all three? Christianity has the best answer, [gives comfort](NaturalTheology/Evil.emotion.slides.html)</small>
 7. [Doctrine of the Trinity](Trinity/Trinity.Slides.html) <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
-8. Doctrine of Christ <small>Deity and Humanity of Christ, History of Explanations, Possible Model</small>
-9. [Doctrine of the Holy Spirit](Trinity/HolySpirit.Slides.html) <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
+8. [Doctrine of the Holy Spirit](Trinity/HolySpirit.Slides.html) <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
+9. [Doctrine of Christ](Christ/Christ.Slides.html) <small>Deity and Humanity of Christ, Incarnation, Death, Resurrection, and Access to Salvation through Christ</small>
 10. Doctrine of Creation vs Evolutionism
    1. Creation out of nothing
    2. 6 Days and/or not (6 24h days, Day Age Theory, It's just a moral story)
