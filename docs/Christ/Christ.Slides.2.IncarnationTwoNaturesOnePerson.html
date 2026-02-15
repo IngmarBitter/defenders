@@ -137,20 +137,21 @@
 
 ---
 
-## Anti-Docetism (Not “Seeming” Human)
+## Preview: The Model We're Building Toward
 
-<p style="font-family: 'Gabriola', serif;">"By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
+<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -1.4em auto 0; max-height: 68%; max-width: 76%;">
 
-* The apostolic test requires confessing Christ "has come in the flesh"
-* So any view that denies real humanity is excluded
+---
+
+# False Models
 
 ---
 
 ## The Historical Pressure (Errors To Avoid)
 
-* **Docetism:** Christ only “seemed” human
+* **Docetism:** Christ only "seemed" human
   * No real human life, no real suffering
-* **Apollinarianism:** unity preserved by truncating Christ’s humanity
+* **Apollinarianism:** unity preserved by truncating Christ's humanity
   * The Logos replaces the human rational soul/mind
   * Unity achieved, but at the cost of a complete human nature
 * **Nestorian tendency:** full deity + full humanity, but unity threatened
@@ -160,13 +161,22 @@
 
 ---
 
+## Anti-Docetism (Not "Seeming" Human)
+
+<p style="font-family: 'Gabriola', serif;">"By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
+
+* The apostolic test requires confessing Christ "has come in the flesh"
+* So any view that denies real humanity is excluded
+
+---
+
 ## "What Is Not Assumed Is Not Saved"
 
 <p style="font-family: 'Gabriola', serif;">"For indeed He does not give aid to angels, but He does give aid to the seed of Abraham. Therefore, in all things He had to be made like His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make propitiation for the sins of the people."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:16–17 (NKJV)</em></p>
 
 * Gregory of Nyssa's principle: what Christ did not assume, he did not redeem
 * If Apollinarianism is true and Christ lacks a human mind, the human mind cannot be saved
-* Hebrews insists Christ was made like us "in all things" — a complete human nature is soteriologically necessary
+* Hebrews insists Christ was made like us "in all things" — a complete human nature is necessary for salvation
 
 ---
 
@@ -219,10 +229,10 @@
 
 ## Kenosis (Emptying)
 
-<p style="font-family: 'Gabriola', serif;">"Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–8 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made **Himself of no reputation**, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–8 (NKJV)</em></p>
 
 * The Greek *kenoō* ("to empty") is rendered as such in ESV and NASB and as "made Himself of no reputation" in NKJV
-* The "emptying" is described in terms of humility and servanthood, not loss of attributes
+* The "emptying" is described in terms of humility and servanthood, loss of status and recognition, not loss of essence attributes
 * The text motivates the question: what kind of "emptying" is compatible with full deity?
 
 ---
@@ -345,7 +355,7 @@
 
 ## True God and True Man
 
-<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -0.95em auto 0; max-height: 68%; max-width: 76%;">
+<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -1.4em auto 0; max-height: 68%; max-width: 76%;">
 
 ---
 
