@@ -133,7 +133,7 @@
 ## Navigation
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
-* Next: [Conclusion](HolySpirit.Slides.8.html)
+* Next: [Conclusion](HolySpirit.Slides.8.SummaryPracticalTakeaways.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

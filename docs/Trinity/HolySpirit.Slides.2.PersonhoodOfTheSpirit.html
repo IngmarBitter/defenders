@@ -105,7 +105,7 @@
 ## Navigation
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
-* Next: [Deity of the Holy Spirit](HolySpirit.Slides.3.html)
+* Next: [Deity of the Holy Spirit](HolySpirit.Slides.3.DeityOfTheSpirit.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

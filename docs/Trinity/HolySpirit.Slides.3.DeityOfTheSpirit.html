@@ -87,7 +87,7 @@
 ## Navigation
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
-* Next: [Relation of the Holy Spirit to Christ](HolySpirit.Slides.4.html)
+* Next: [Relation of the Holy Spirit to Christ](HolySpirit.Slides.4.RelationOfTheHolySpiritToChrist.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

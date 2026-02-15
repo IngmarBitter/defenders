@@ -7,15 +7,14 @@
 Ingmar Bitter, PhD
 
 ---
-
-* [Overview: The Holy Spirit in Christian Doctrine](HolySpirit.Slides.1.html)
-* [Personhood of the Spirit](HolySpirit.Slides.2.html)
-* [Deity of the Spirit](HolySpirit.Slides.3.html)
-* [Relation of the Holy Spirit to Christ](HolySpirit.Slides.4.html)
-* [Work of the Spirit](HolySpirit.Slides.5.html)
-* [Baptism of the Spirit](HolySpirit.Slides.6.html)
-* [Fullness of the Spirit](HolySpirit.Slides.7.html)
-* [Holy Spirit Summary & Practical Takeaways](HolySpirit.Slides.8.html)
+* [Overview: The Holy Spirit in Christian Doctrine](HolySpirit.Slides.1.OverviewTheHolySpiritInChristianDoctrine.html)
+* [Personhood of the Spirit](HolySpirit.Slides.2.PersonhoodOfTheSpirit.html)
+* [Deity of the Spirit](HolySpirit.Slides.3.DeityOfTheSpirit.html)
+* [Relation of the Holy Spirit to Christ](HolySpirit.Slides.4.RelationOfTheHolySpiritToChrist.html)
+* [Work of the Spirit](HolySpirit.Slides.5.WorkOfTheSpirit.html)
+* [Baptism of the Spirit](HolySpirit.Slides.6.BaptismOfTheSpirit.html)
+* [Fullness of the Spirit](HolySpirit.Slides.7.FullnessOfTheSpirit.html)
+* [Holy Spirit Summary & Practical Takeaways](HolySpirit.Slides.8.SummaryPracticalTakeaways.html)
 
 ---
 
