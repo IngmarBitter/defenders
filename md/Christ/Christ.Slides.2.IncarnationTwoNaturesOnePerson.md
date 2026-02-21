@@ -82,7 +82,7 @@
 
 ## Physical Limitations
 
-<p style="font-family: 'Gabriola', serif;">"Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 4:6 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 4:6 (NKJV)</em></p>
 
 <p style="font-family: 'Gabriola', serif;">"After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, 'I thirst!'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 19:28 (NKJV)</em></p>
 
@@ -95,7 +95,7 @@
 
 <p style="font-family: 'Gabriola', serif;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:14 (NKJV)</em></p>
 
-* Christ shared in flesh and blood so that he could truly die
+* Christ shared in flesh and blood so that He could truly die
 * His death was real, not apparent, and purposeful: to destroy the power of death
 
 ---
@@ -174,7 +174,7 @@
 
 <p style="font-family: 'Gabriola', serif;">"For indeed He does not give aid to angels, but He does give aid to the seed of Abraham. Therefore, in all things He had to be made like His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make propitiation for the sins of the people."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:16–17 (NKJV)</em></p>
 
-* Gregory of Nyssa's principle: what Christ did not assume, he did not redeem
+* Gregory of Nazianzus' principle: what Christ did not assume, He did not redeem
 * If Apollinarianism is true and Christ lacks a human mind, the human mind cannot be saved
 * Hebrews insists Christ was made like us "in all things" — a complete human nature is necessary for salvation
 
@@ -233,7 +233,41 @@
 
 * The Greek *kenoō* ("to empty") is rendered as such in ESV and NASB and as "made Himself of no reputation" in NKJV
 * The "emptying" is described in terms of humility and servanthood, loss of status and recognition, not loss of essence attributes
-* The text motivates the question: what kind of "emptying" is compatible with full deity?
+* The text motivates the question: what kind of “emptying” is compatible with full deity?
+
+---
+
+## Humiliation → Exaltation
+
+<p style=”font-family: 'Gabriola', serif;”>”Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross. Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.”</p><p style=”text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;”> <em>Philippians 2:5–11 (NKJV)</em></p>
+
+* **Humiliation:** conception → burial (servanthood and obedience)
+* **Exaltation:** resurrection → universal confession of Christ's lordship
+* “Emptying” is humility/servanthood (status), not loss of deity
+
+---
+
+## The Permanent Incarnation
+
+<p style=”font-family: 'Gabriola', serif;”>”This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.”</p><p style=”text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;”> <em>Acts 1:11 (NKJV)</em></p>
+
+<p style=”font-family: 'Gabriola', serif;”>”For there is one God and one Mediator between God and men, the Man Christ Jesus,”</p><p style=”text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;”> <em>1 Timothy 2:5 (NKJV)</em></p>
+
+* The ascension does not reverse the incarnation
+* Christ retains His human nature eternally — “the Man Christ Jesus” is present tense
+* The incarnation is not a temporary 33-year episode but a permanent union
+* God has forever dignified human nature by assuming it
+
+---
+
+## Why The Incarnation Matters
+
+<p style=”font-family: 'Gabriola', serif;”>”For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin.”</p><p style=”text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;”> <em>Hebrews 4:15 (NKJV)</em></p>
+
+<p style=”font-family: 'Gabriola', serif;”>”Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,”</p><p style=”text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;”> <em>Hebrews 2:14 (NKJV)</em></p>
+
+* Hebrews 4:15 teaches Christ's sympathy through genuine humanity
+* Hebrews 2:14 ties incarnation to redemption (sharing our nature)
 
 ---
 
@@ -263,7 +297,7 @@
 
 * Radical kenotic views: the Logos divests divine attributes to become human
 * Craig's objection
-  * If the Logos gives up essential divine attributes, he ceases to be God
+  * If the Logos gives up essential divine attributes, He ceases to be God
   * God does not “metamorphose” into a man (pagan-style transformation)
 * Better reading of Philippians 2 “emptying”
   * A **change of status** (humiliation), not loss of deity
@@ -287,9 +321,9 @@
   * Divine predicates by divine nature
   * Human predicates by human nature
 * Examples
-  * Christ **died** with respect to his human nature
-  * Christ is **omnipresent** with respect to his divine nature
-  * Christ **learned obedience** (Hebrews 5:8) with respect to his human nature
+  * Christ **died** with respect to His human nature
+  * Christ is **omnipresent** with respect to His divine nature
+  * Christ **learned obedience** (Hebrews 5:8) with respect to His human nature
   * Christ’s “not knowing” (Mark 13:32) belongs to the human consciousness
 
 ---
@@ -308,29 +342,36 @@
 
 ## Craig’s Proposed Model (Three Planks)
 
-* (1) Chalcedon: **one person** exemplifying **two complete natures**
-* (2) A rehabilitated Apollinarian *insight* (handled carefully)
-  * A proposal about how unity of person is secured without splitting into two
-  * Without denying that Christ’s humanity is complete
-* (3) A **subliminal-divine** account during the state of humiliation
-  * Divine aspects largely “subliminal”
-  * A genuinely human waking consciousness that begins infant-like and grows
-  * Not pretense; a real human life
+* (1) One person with two complete natures
+* (2) The Logos Himself is the mind of Christ’s human nature — one person, not two
+* (3) During His earthly life, divine knowledge is beneath a genuinely human consciousness
 
 ---
 
-## The Logos as Archetype of Humanity
+## Plank 1: One Person, Two Complete Natures
+
+* Craig adopts Chalcedon as his starting point
+  * One person (the Logos) exemplifying two complete natures
+  * “Without confusion, without change, without division, without separation”
+* The incarnation is addition, not subtraction
+  * The Logos assumes a human nature; He does not divest divine attributes
+* Reduplicative predication resolves apparent contradictions
+  * Each predicate applies to Christ **with respect to** the relevant nature
+
+---
+
+## Plank 2: The Logos as Archetype of Humanity
 
 <p style="font-family: 'Gabriola', serif;">"Then God said, 'Let Us make man in Our image, according to Our likeness [...]' So God created man in His own image; in the image of God He created him; male and female He created them."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:26–27 (NKJV)</em></p>
 
 * The *Imago Dei*: humans bear God's image in rationality, self-consciousness, and freedom
 * Craig's insight: the Logos already possesses these capacities archetypally
-* In the incarnation, the Logos assumes a human nature brought to completeness through union with him
-* This explains plank 2: one person (not two) because the Logos *is* the rational soul
+* In the incarnation, the Logos assumes a human nature brought to completeness through union with Him
+* One person (not two) because the Logos *is* the rational soul
 
 ---
 
-## The Subliminal Self (Iceberg Model)
+## Plank 3: The Subliminal Self
 
 * William James' concept: consciousness has subliminal depths beneath waking awareness
   * Your conscious and subconscious mind do not make you two persons
@@ -343,7 +384,7 @@
 
 ## Gethsemane: The Model in Action
 
-<p style="font-family: 'Gabriola', serif;">"Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done." Then an angel appeared to Him from heaven, strengthening Him. And being in agony, He prayed more earnestly. Then His sweat became like great drops of blood falling down to the ground."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 22:42–44 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"'Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.' Then an angel appeared to Him from heaven, strengthening Him. And being in agony, He prayed more earnestly. Then His sweat became like great drops of blood falling down to the ground."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 22:42–44 (NKJV)</em></p>
 
 * The subliminal model preserves the authenticity of Gethsemane
   * Real anguish in prayer — not a performance
@@ -359,41 +400,7 @@
 
 ---
 
-## Humiliation → Exaltation
-
-<p style="font-family: 'Gabriola', serif;">"Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross. Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–11 (NKJV)</em></p>
-
-* **Humiliation:** conception → burial (servanthood and obedience)
-* **Exaltation:** resurrection → universal confession of Christ's lordship
-* "Emptying" is humility/servanthood (status), not loss of deity
-
----
-
-## The Permanent Incarnation
-
-<p style="font-family: 'Gabriola', serif;">"This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Acts 1:11 (NKJV)</em></p>
-
-<p style="font-family: 'Gabriola', serif;">"For there is one God and one Mediator between God and men, the Man Christ Jesus,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Timothy 2:5 (NKJV)</em></p>
-
-* The ascension does not reverse the incarnation
-* Christ retains his human nature eternally — "the Man Christ Jesus" is present tense
-* The incarnation is not a temporary 33-year episode but a permanent union
-* God has forever dignified human nature by assuming it
-
----
-
-## Why The Incarnation Matters
-
-<p style="font-family: 'Gabriola', serif;">"For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 4:15 (NKJV)</em></p>
-
-<p style="font-family: 'Gabriola', serif;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:14 (NKJV)</em></p>
-
-* Hebrews 4:15 teaches Christ’s sympathy through genuine humanity
-* Hebrews 2:14 ties incarnation to redemption (sharing our nature)
-
----
-
-## Practical Takeaways (Why This Isn't "Abstract")
+## Practical Takeaways
 
 * The incarnation safeguards:
   * God’s nearness and sympathy in suffering

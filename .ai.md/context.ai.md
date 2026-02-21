@@ -7,6 +7,8 @@
 - Slide 2 (Incarnation) is done: all NKJV quotes filled in from BLB, editorial fixes applied, review complete
 - Updated `root.ai.md`: removed JW Rebuttal Standards, standardized on ASCII `"` quotes
 - Editorial standards now merged into `root.ai.md` (no separate EditorialStandards.md)
+- Second review of Slide 2: fixed Gregory of Nyssa→Nazianzus attribution, Luke 22:42-44 quote marks, intermediate margin on Physical Limitations slide, capitalized Christ pronouns
+- Added pronoun capitalization rule (He/Him/His for God/Christ/Spirit) to `root.ai.md`
 
 ## Todo
 
