@@ -75,15 +75,12 @@ Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Sp
 ### Scripture Quote Format (Slides)
 
 ```markdown
-<p style="font-family: 'Gabriola', serif;">"[NKJV text verbatim]"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>[Full Book Name] [Chapter]:[Verses] (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"[NKJV text verbatim]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>[Full Book Name] [Chapter]:[Verses] (NKJV)</em></p>
 ```
 
-Margin adjustments: `-1.25em` for shorter slides, `-1.75em` for longer slides.
+Use the template margins for new quotes. Some slides have hand-adjusted margin values — do not change those.
 
-If you stack multiple scripture quotes on the same slide:
-
-- Use `margin-bottom: -1.5em;` on the *intermediate* reference line(s) to reduce wasted vertical space between quotes.
-- Keep the *final* reference line at `margin-bottom: -0.75em;` (or looser if the slide has room).
+If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1.5em;` on intermediate reference lines and `margin-bottom: -0.75em;` on the final one.
 
 ### Ellipsis in Scripture Quotes
 
