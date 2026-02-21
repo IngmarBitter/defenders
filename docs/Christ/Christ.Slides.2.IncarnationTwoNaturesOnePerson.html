@@ -270,7 +270,7 @@
 
 <p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
 
-* Radical kenotic views: the Logos divests divine attributes to become human
+* Radical Kenosis: the Logos drops divine attributes to become human
 * Craig's objection
   * Full deity dwells in Christ bodily — this is not negotiable
   * If the Logos gives up essential divine attributes, He ceases to be God
