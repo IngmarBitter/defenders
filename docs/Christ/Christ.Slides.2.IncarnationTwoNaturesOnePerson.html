@@ -130,7 +130,7 @@
 
 ## Preview: The Model We're Building Toward
 
-<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -1.4em auto 0; max-height: 68%; max-width: 76%;">
+<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -1.4em auto 0; max-height: 90%; max-width: 100%;">
 
 ---
 
@@ -138,62 +138,162 @@
 
 ---
 
-## The Historical Pressure (Errors To Avoid)
+## The Historical Heresies
 
-* **Docetism:** Christ only "seemed" human
-  * No real human life, no real suffering
-* **Apollinarianism:** unity preserved by truncating Christ's humanity
-  * The Logos replaces the human rational soul/mind
-  * Unity achieved, but at the cost of a complete human nature
-* **Nestorian tendency:** full deity + full humanity, but unity threatened
-  * Risk: two persons / two Sons
-* **Alexandrian (one-nature) tendency:** natures blended/confused
-* **Antiochene (two-nature) tendency:** natures kept, but union weakened
-
----
-
-## Anti-Docetism (Not "Seeming" Human)
-
-<p style="font-family: 'Gabriola', serif;">"By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
-
-* The apostolic test requires confessing Christ "has come in the flesh"
-* So any view that denies real humanity is excluded
+* The early church faced errors from every direction:
+  * **Docetism:** Christ only *seemed* human (no real flesh)
+  * **Apollinarianism:** Christ's human mind replaced by the Logos
+  * **Nestorianism:** Christ split into two persons
+  * **Eutychianism:** Christ's natures blended into one
+  * **Radical Kenosis:** the Logos strips away His divine attributes
+  * **Metamorphosis:** God turns into a man, then turns back
+* Each heresy preserves part of the truth while sacrificing the rest
 
 ---
 
-## "What Is Not Assumed Is Not Saved"
+## Docetism: Only Seeming Human
+
+![](pics/FalseModel.Docetism.png style="float: right; width: 14rem")
+
+<p style="font-family: 'Gabriola', serif;">"In the beginning was the Word, and the Word was with God, and the Word was God."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 1:1 (NKJV)</em></p>
+
+* Christ's deity so exalted, real flesh seemed impossible
+* **Teaching:** Christ only *appeared* to have a body — no real flesh, suffering, or death
+* **Proponents:** Gnostic groups (2nd century) who deprecated the material world
+* **The distortion:** eliminates true humanity entirely
+
+---
+
+## Why Docetism Fails
+
+<p style="font-family: 'Gabriola', serif;">"By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 John 4:2–3 (NKJV)</em></p>
+
+* The apostolic test itself excludes Docetism
+* No real humanity → no real death → no real redemption (Hebrews 2:14)
+* No real humanity → no genuine sympathy with our weaknesses (Hebrews 4:15)
+
+---
+
+## Apollinarianism: A Mind Replaced
+
+![](pics/FalseModel.Apollinarianism.png style="float: right; width: 14rem")
+
+<p style="font-family: 'Gabriola', serif;">"For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin."</p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.75em;"> <em>Hebrews 4:15 (NKJV)</em></p>
+
+* If Christ was "without sin," perhaps a fallible human mind was the problem
+* **Teaching:** The Logos replaces the human rational soul; Christ has a body but no human mind
+* **Proponent:** Apollinarius, Bishop of Laodicea (died ~390)
+* **Advantage:** preserves unity and explains sinlessness
+* **The distortion:** Christ's humanity is truncated — body without mind
+
+---
+
+## Why Apollinarianism Fails
 
 <p style="font-family: 'Gabriola', serif;">"For indeed He does not give aid to angels, but He does give aid to the seed of Abraham. Therefore, in all things He had to be made like His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make propitiation for the sins of the people."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:16–17 (NKJV)</em></p>
 
-* Gregory of Nazianzus' principle: what Christ did not assume, He did not redeem
-* If Apollinarianism is true and Christ lacks a human mind, the human mind cannot be saved
-* Hebrews insists Christ was made like us "in all things" — a complete human nature is necessary for salvation
+* Gregory of Nazianzus: "What is not assumed is not saved"
+  * If Christ lacks a human mind, the human mind is unredeemed
+* Without a human mind, no genuine sympathy with our struggles (Hebrews 4:15)
+* Condemned at the Synod of Rome, 377
 
 ---
 
-## The Theotokos Controversy
+## Nestorianism: Two Persons in One Body?
+
+![](pics/FalseModel.Nestorianism.png style="float: right; width: 14rem; margin-top: -1.0em")
+
+<p style="font-family: 'Gabriola', serif;">"But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
+
+* How can one person be both omniscient God and ignorant of the hour? Perhaps two persons
+* **Teaching:** Full deity and full humanity, but two persons, not union
+* **Proponent:** Nestorius, Patriarch of Constantinople (428)
+  * Refused to call Mary *Theotokos* ("God-bearer")
+  * Insisted Mary bore only the man Jesus, not the divine Logos
+* **The distortion:** two persons — Christ's unity dissolved
+
+---
+
+## Why Nestorianism Fails
 
 <p style="font-family: 'Gabriola', serif;">"But why is this granted to me, that the mother of my Lord should come to me?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 1:43 (NKJV)</em></p>
 
-* Nestorius (428) refused to call Mary *Theotokos* ("God-bearer" / "Mother of God")
-  * He insisted Mary bore only the man Jesus, not the divine Logos
-* The Council of Ephesus (431) affirmed *Theotokos*
-  * Not to exalt Mary, but to safeguard the unity of Christ's person
+* Elizabeth calls Mary "the mother of my Lord" — not "the mother of a man indwelt by the Lord"
 * If you cannot say "Mary bore God incarnate," you have split Christ into two persons
+* The Council of Ephesus (431) affirmed *Theotokos* to safeguard the unity of Christ's person
 
 ---
 
-## Chalcedon (451): Boundary Markers (Not An Explanation)
+## Eutychianism: Natures Confused
 
-* The church's guardrails:
-  * **One person** (one Son)
-  * **Two complete natures** (truly God and truly man)
-  * "Without confusion, without change, without division, without separation"
-* What it achieves
-  * Rejects Apollinarianism (complete humanity: "rational soul and body")
-  * Rejects Nestorianism (no division into two persons)
-* It doesn't tell us *how* the incarnation works
-  * It marks out safe waters for further theorizing
+![](pics/FalseModel.Eutychianism.png style="float: right; width: 14rem")
+
+<p style="font-family: 'Gabriola', serif;">"And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."</p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.75em;"> <em>John 1:14 (NKJV)</em></p>
+
+* If the Word "became" flesh, perhaps the two natures fused into one
+* **Teaching:** After the incarnation the two natures merge into one divine-human nature
+* **Proponent:** Eutyches, monk in Constantinople (~448); Alexandrian school tendency
+* **The distortion:** neither truly God nor truly man — a confused other
+
+---
+
+## Why Eutychianism Fails
+
+<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Colossians 2:9 (NKJV)</em></p>
+
+<p style="font-family: 'Gabriola', serif;">"And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 1:14 (NKJV)</em></p>
+
+* Full deity preserved (Colossians 2:9) and real flesh assumed (John 1:14) — not a blend
+* The Council of Chalcedon (451): "without confusion, without change"
+
+---
+
+## Radical Kenosis: Deity Subtracted
+
+![](pics/FalseModel.RadicalKenosis.png style="float: right; width: 14rem; margin-top: -1.0em")
+
+<p style="font-family: 'Gabriola', serif;">"but emptied himself, by taking the form of a servant, being born in the likeness of men."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:7 (ESV)</em></p>
+
+* If Christ "emptied Himself," perhaps He literally gave up divine attributes
+* **Teaching:** In becoming human, the Logos literally divests Himself of divine attributes (omnipotence, omniscience, omnipresence)
+* **Proponents:** 19th-century kenotic theologians
+* **The distortion:** incarnation as subtraction — God gives up being God
+
+---
+
+## Why Radical Kenosis Fails
+
+<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
+
+* Craig: Colossians 2:9 "shipwrecks Kenoticism" — *all* the fullness of deity dwells in Christ bodily
+* If the Logos gives up attributes essential to deity, He ceases to be God
+* Philippians 2 describes a change of *status* — humiliation to exaltation — not loss of *essence*
+
+---
+
+## Metamorphosis: Successive Stages
+
+![](pics/FalseModel.Metamorphosis.png style="float: right; width: 14rem; margin-top: -1.0em")
+
+<p style="font-family: 'Gabriola', serif;">"but emptied himself, by taking the form of a servant, being born in the likeness of men. [...] Therefore God has highly exalted him and bestowed on him the name that is above every name,"</p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.75em;"> <em>Philippians 2:7–9 (ESV)</em></p>
+
+* Philippians 2 as temporal stages: divine → human → divine again
+* **Teaching:** Christ was purely divine, then became purely human, then returned to purely divine
+* A pagan-style transformation: God turns into a man, then turns back
+* A temporary episode, not a permanent union
+* **The distortion:** Christ is never *simultaneously* God and man
+
+---
+
+## Why Metamorphosis Fails
+
+<p style="font-family: 'Gabriola', serif;">"This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Acts 1:11 (NKJV)</em></p>
+
+<p style="font-family: 'Gabriola', serif;">"For there is one God and one Mediator between God and men, the Man Christ Jesus,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Timothy 2:5 (NKJV)</em></p>
+
+* "This same Jesus" — continuity of person and nature through the ascension
+* "The Man Christ Jesus" — present tense, post-ascension; Christ retains His human nature forever
+* The incarnation is permanent: God has forever dignified human nature by assuming it
 
 ---
 
@@ -207,93 +307,6 @@
 
 ---
 
-## Kenosis (Emptying)
-
-<p style="font-family: 'Gabriola', serif;">"Let this mind be in you which was also in Christ Jesus, who, being in the form of God, did not consider it robbery to be equal with God, but made **Himself of no reputation**, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:5–8 (NKJV)</em></p>
-
-* The Greek *kenoō* ("to empty") is rendered as such in ESV and NASB and as "made Himself of no reputation" in NKJV
-* The "emptying" is described in terms of humility and servanthood, loss of status and recognition, not loss of essence attributes
-* The text motivates the question: what kind of "emptying" is compatible with full deity?
-
----
-
-## Humiliation → Exaltation
-
-<p style="font-family: 'Gabriola', serif;">"but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men. And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Philippians 2:7–8 (NKJV)</em></p>
-
-<p style="font-family: 'Gabriola', serif;">"Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Philippians 2:9–11 (NKJV)</em></p>
-
-* **Humiliation:** conception → burial (servanthood and obedience)
-* **Exaltation:** resurrection → universal confession of Christ's lordship
-* "Emptying" is humility/servanthood (status), not loss of deity
-
----
-
-## The Permanent Incarnation
-
-<p style="font-family: 'Gabriola', serif;">"This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Acts 1:11 (NKJV)</em></p>
-
-<p style="font-family: 'Gabriola', serif;">"For there is one God and one Mediator between God and men, the Man Christ Jesus,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Timothy 2:5 (NKJV)</em></p>
-
-* The ascension does not reverse the incarnation
-* Christ retains His human nature eternally — "the Man Christ Jesus" is present tense
-* The incarnation is not a temporary 33-year episode but a permanent union
-* God has forever dignified human nature by assuming it
-
----
-
-## Why The Incarnation Matters
-
-<p style="font-family: 'Gabriola', serif;">"For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 4:15 (NKJV)</em></p>
-
-<p style="font-family: 'Gabriola', serif;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 2:14 (NKJV)</em></p>
-
-* Hebrews 4:15 teaches Christ's sympathy through genuine humanity
-* Hebrews 2:14 ties incarnation to redemption (sharing our nature)
-
----
-
-## Craig: "Two Natures" Means Natural Kinds
-
-* "Nature" here is a **kind essence** (natural-kind membership)
-  * Humanity: the properties that make something human
-  * Deity: the properties that constitute divinity
-* The Logos possesses:
-  * The **divine nature essentially**
-  * A **human nature contingently** (assumed in the virginal conception)
-* This frames the incarnation as **addition, not subtraction**
-  * The Logos does not cease to be God
-
----
-
-## Against Radical Kenosis (Subtraction)
-
-<p style="font-family: 'Gabriola', serif;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
-
-* Radical Kenosis: the Logos drops divine attributes to become human
-* Craig's objection
-  * Full deity dwells in Christ bodily — this is not negotiable
-  * If the Logos gives up essential divine attributes, He ceases to be God
-  * God does not "metamorphose" into a man (pagan-style transformation)
-* Better reading of Philippians 2 "emptying"
-  * A **change of status** (humiliation), not loss of deity
-
----
-
-## Reduplicative Predication
-
-<p style="font-family: 'Gabriola', serif;">"though He was a Son, yet He learned obedience by the things which He suffered."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 5:8 (NKJV)</em></p>
-
-<p style="font-family: 'Gabriola', serif;">"But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 13:32 (NKJV)</em></p>
-
-* Predicates apply to Christ **with respect to** a nature
-  * Christ **died** with respect to His human nature
-  * Christ is **omnipresent** with respect to His divine nature
-  * Christ **learned obedience** (Hebrews 5:8) with respect to His human nature
-  * Christ's "not knowing" belongs to human consciousness
-
----
-
 ## Craig's Proposed Model (Three Planks)
 
 * (1) One person with two complete natures
@@ -304,13 +317,15 @@
 
 ## Plank 1: One Person, Two Complete Natures
 
-* Craig adopts Chalcedon as his starting point
-  * One person (the Logos) exemplifying two complete natures
-  * "Without confusion, without change, without division, without separation"
-* The incarnation is addition, not subtraction
-  * The Logos assumes a human nature; He does not divest divine attributes
+<p style="font-family: 'Gabriola', serif;">"though He was a Son, yet He learned obedience by the things which He suffered."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 5:8 (NKJV)</em></p>
+
+* **Nature 1 — Humanity:** the kind essence that makes someone human
+* **Nature 2 — Deity:** the kind essence that makes someone divine
+* The Logos possesses **deity essentially** and **humanity contingently**
+* The incarnation is **addition, not subtraction** — the Logos does not cease to be God
 * Reduplicative predication resolves apparent contradictions
-  * Each predicate applies to Christ **with respect to** the relevant nature
+  * Christ **learned obedience** *with respect to* His human nature
+  * Christ is **omnipresent** *with respect to* His divine nature
 
 ---
 
@@ -325,14 +340,14 @@
 
 ---
 
-## Plank 3: The Subliminal Self
+## Plank 3: The Subconscious Self
 
-* William James' concept: consciousness has subliminal depths beneath waking awareness
-  * Your conscious and subconscious mind do not make you two persons
-* Craig's application: during the state of humiliation, the Logos' divine knowledge and power are largely **subliminal**
+* William James: consciousness has subconscious depths beneath waking awareness
+  * Your conscious and subconscious mind don't make you two persons
+* Craig's application: during the state of humiliation, the Logos' divine knowledge and power are largely **subconscious**
   * Like an iceberg — the bulk of divine cognition is submerged beneath Jesus' waking human consciousness
-* Jesus' human mind develops genuinely — learning, growing, depending on the Father
-* Occasionally the divine subliminal surfaces (e.g., knowing Nathanael under the fig tree, John 1:48)
+* Jesus' human mind develops genuinely — learning and growing
+* Occasionally the divine subconscious surfaces (e.g., knowing Nathanael under the fig tree, John 1:48)
 
 ---
 
@@ -340,7 +355,7 @@
 
 <p style="font-family: 'Gabriola', serif;">"'Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.' Then an angel appeared to Him from heaven, strengthening Him. And being in agony, He prayed more earnestly. Then His sweat became like great drops of blood falling down to the ground."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 22:42–44 (NKJV)</em></p>
 
-* The subliminal model preserves the authenticity of Gethsemane
+* The subconscious model preserves the authenticity of Gethsemane
   * Real anguish in prayer — not a performance
   * Genuine moral struggle and submission to the Father's will
 * Christ's dependence on the Father is moment-by-moment, not theatrical
@@ -350,7 +365,9 @@
 
 ## True God and True Man
 
-<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -1.4em auto 0; max-height: 68%; max-width: 76%;">
+<img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -1.4em auto 0; max-height: 90%; max-width: 100%;">
+
+* *Incarnation: divine knowledge is subconscious — present but beneath awareness*
 
 ---
 
@@ -360,8 +377,17 @@
   * God's nearness and sympathy in suffering
   * The meaningfulness of Christ's death (real death)
   * The hope of resurrection (transformed humanity)
+* True God and true man — a valid substitute, guaranteeing our atonement and future in heaven
 * Christology is not abstract
   * It structures worship, prayer, and obedience
+
+---
+
+## Credits
+
+* Theological content draws from Dr. William Lane Craig's Defenders podcast series on the Doctrine of Christ
+  * Full notes available at: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
+* Structure, presentation, and diagrams by Dr. Ingmar Bitter
 
 ---
 
