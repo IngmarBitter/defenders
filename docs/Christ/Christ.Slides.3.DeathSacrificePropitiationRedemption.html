@@ -188,11 +188,11 @@
 
 ## The Servant Wounded for Us
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'Gabriola', serif;">"But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
 
-* Isaiah 53 is the most deeply embedded Old Testament passage in New Testament soteriology
+* Isaiah 53 is the most deeply embedded Old Testament passage in New Testament **soteriology** (the doctrine of salvation)
 * The language is explicitly **substitutionary**: *our* transgressions, *our* iniquities — laid on *Him*
 * The suffering is **punitive**: "the chastisement for our peace" — His punishment purchases our reconciliation
 
@@ -200,7 +200,7 @@
 
 ## The Servant Bears Our Sin
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'Gabriola', serif;">"He shall see the labor of His soul, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities. Therefore I will divide Him a portion with the great, And He shall divide the spoil with the strong, Because He poured out His soul unto death, And He was numbered with the transgressors, And He bore the sin of many, And made intercession for the transgressors."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:11–12 (NKJV)</em></p>
 
@@ -210,15 +210,80 @@
 
 ---
 
+## More Than a Scapegoat
+
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"Aaron shall lay both his hands on the head of the live goat, confess over it all the iniquities of the children of Israel[...] putting them on the head of the goat, and shall send it away into the wilderness[...] The goat shall bear on itself all their iniquities to an uninhabited land."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 16:21–22 (NKJV)</em></p>
+
+* The scapegoat was merely a symbolic vehicle for sin's removal
+  * Sins laid on it, driven away — but not punished
+* The Suffering Servant actually **bears punishment** for others
+  * "Wounded for," "bruised for," "chastisement," "laid on Him"
+* If sin could be removed by laying it on a goat, the sacrificial system would be pointless — a **death** is necessary
+
+---
+
+## A Shocking Substitution
+
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"So Moses returned to the LORD and said, 'Oh, these people have committed a great sin... Yet now, if You will forgive their sin — but if not, I pray, blot me out of Your book which You have written.'"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Exodus 32:31–32 (NKJV)</em></p>
+
+* Moses offers to die in Israel's place — God declines
+* Abraham is commanded to sacrifice Isaac — God stops it (Genesis 22)
+* In Isaiah 53, God does what He refused before — He inflicts on His righteous Servant what He spared Moses and Isaac
+* Substitutionary death is a recurring principle in God's moral economy — a concept deeply familiar to any first-century Jew
+
+---
+
+## The Function, Not the Identity
+
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"Yet it pleased the LORD to bruise Him; He has put Him to grief. When You make His soul an offering for sin, He shall see His seed, He shall prolong His days, And the pleasure of the LORD shall prosper in His hand."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:10 (NKJV)</em></p>
+
+* The key point of Isaiah 53 is not *who* the Servant is, but *what he does*
+  * Whoever the Servant is, his function is clear: substitutionary punishment to bring reconciliation
+* The suffering is **penal** — the innocent Servant endures the punishment that the guilty deserved
+* The New Testament authors, reading Isaiah 53 in light of Christ, identify Jesus as this Servant
+
+---
+
 ## Isaiah 53 in the New Testament
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'Gabriola', serif;">"who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness — by whose stripes you were healed."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Peter 2:24 (NKJV)</em></p>
 
-* Peter directly applies the Suffering Servant to Christ's crucifixion
-* Jesus echoes this passage at the Last Supper: "My blood... shed for many" (Matt 26:28; cf. Isa 53:12)
-* 10 of 12 verses in Isaiah 53 are quoted or alluded to in the New Testament
+* Peter applies the Suffering Servant to the crucifixion
+* Jesus echoes this passage at the Last Supper: "My blood... shed for many" (Matthew 26:28; cf. Isaiah 53:12)
+* 10 of 12 verses of Isaiah 53 appear in the New Testament — more densely quoted than any other Old Testament passage
+  * Matthew 8:17; Luke 22:37; John 12:38; Acts 8:32–33; Romans 4:25; 5:19; 10:16; 1 Peter 2:22–25; Hebrews 9:28
+
+---
+
+## Philip and the Ethiopian
+
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"So the eunuch answered Philip and said, 'I ask you, of whom does the prophet say this, of himself or of some other man?' Then Philip opened his mouth, and beginning at this Scripture, preached Jesus to him."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Acts 8:34–35 (NKJV)</em></p>
+
+* An Ethiopian official, reading Isaiah 53, asks: "Of whom does the prophet say this?"
+* Philip's answer: Jesus — the good news *is* the Suffering Servant fulfilled
+* The earliest recorded example of reading Isaiah 53 as pointing to Christ
+
+---
+
+## Once to Bear the Sins of Many
+
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"so Christ was offered once to bear the sins of many. To those who eagerly wait for Him He will appear a second time, apart from sin, for salvation."</p><p style="text-align: right; margin-top: -0.75em; margin-bottom: -0.75em;"> <em>Hebrews 9:28 (NKJV)</em></p>
+
+* "Bear the sins of many" echoes Isaiah 53:12 — the author of Hebrews reads Christ's death through the Servant lens
+* "Offered once" — connects the Suffering Servant motif back to the sacrifice motif
+* The two motifs converge: Christ is both the sacrificial offering and the Servant who bears punishment
 
 ---
 

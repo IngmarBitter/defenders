@@ -84,7 +84,7 @@ If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1
 
 ### Ellipsis in Scripture Quotes
 
-When omitting text within quotes, use `[...]` format.
+When omitting text within quotes, use `[...]` format with a space before and after.
 
 ## Markdeep Slide Numbering
 
