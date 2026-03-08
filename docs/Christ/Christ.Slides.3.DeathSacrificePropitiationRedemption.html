@@ -293,31 +293,126 @@
 
 ## God as Righteous Judge
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 3:26 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 3:26 (NKJV)</em></p>
 
-* The atonement has a **forensic** dimension — legal categories of guilt, condemnation, and acquittal
+* The atonement has a **judicial** dimension — guilt (liability to punishment), condemnation, and acquittal
 * God's problem: how can a righteous Judge forgive the guilty without compromising His justice?
-* The cross solves this: God is simultaneously **just** (sin is punished) and **the justifier** (sinners are pardoned)
+* Christ's death solves this: God is simultaneously **just** (sin is punished) and **the justifier** (sin-guilt is cleared)
+
+---
+
+## God as Judge and Lawgiver
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"For the LORD is our Judge, The LORD is our Lawgiver, The LORD is our King; He will save us"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Isaiah 33:22 (NKJV)</em></p>
+
+* Three roles in one God: He defines the standard (**Lawgiver**), enforces it (**Judge**), and rules by it (**King**)
+* A fair judge cannot simply waive penalties — justice must be satisfied according to the law
+* Yet "He will save us" — the same God who judges also provides the means of salvation
+
+---
+
+## Justifying the Ungodly
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"keeping mercy for thousands, forgiving iniquity and transgression and sin, by no means clearing the guilty,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.5em;"> <em>Exodus 34:7 (NKJV)</em></p>
+
+<p style="font-family: 'Gabriola', serif;">"But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 4:5 (NKJV)</em></p>
+
+* God forgives — yet **by no means clears the guilty**. How can both be true?
+* Yet Paul says God "justifies the ungodly" — the very thing a corrupt judge would do
+* How? Through Christ's atoning death, the liability to punishment is executed, not waived — and God can clear sin-guilt without compromising His justice
+
+---
+
+## Wrath as a Call to Repentance
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.25em;"> <em>Romans 2:4 (NKJV)</em></p>
+
+* In criminal justice, a sentence serves a purpose — time to reflect and resolve to change
+* God's pending wrath functions similarly: it hangs over us not as instant destruction but as a summons to repentance
+* When a person turns from sin and to God in faith, *then* Christ's death is applied to their sin-guilt account and God decrees them justified
+* This makes the system profoundly moral: the unrepentant face justice, the repentant receive mercy, and everyone is given the opportunity to turn
+
+---
+
+## Righteousness: God's and Ours
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith;"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Philippians 3:9 (NKJV)</em></p>
+
+* "The righteousness of God" (*dikaiosyne theou*) is **multivalent** (has more than one meaning)
+  * A property of God Himself — He *is* righteous
+  * A gift to believers — righteousness *from* God through faith
+* Paul had blameless righteousness under the law — yet counted it as rubbish compared to the righteousness from God in Christ (Philippians 3:6–8)
 
 ---
 
 ## Imputation: Made Righteous in Him
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>2 Corinthians 5:21 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>2 Corinthians 5:21 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"For as by one man's disobedience many were made sinners, so also by one Man's obedience many will be made righteous."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 5:19 (NKJV)</em></p>
+<p style="font-family: 'Gabriola', serif;">"For as by one man's disobedience many were made sinners, so also by one Man's obedience many will be made righteous."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 5:19 (NKJV)</em></p>
 
-* A double exchange: our sin is reckoned to Christ's account; His righteousness is reckoned to ours
-* This is **imputation** (a legal transaction), not infusion (a moral transformation)
-* God does not merely acquit — He positively ascribes righteousness to those who have faith
+* A double exchange: our sin is charged to Christ's account; His righteousness is credited to ours
+* This is **imputation** (a legal crediting), not infusion (a moral transformation)
+* God does not merely acquit — He positively credits righteousness to those who have faith
 
 ---
 
-## Representation: One Died for All
+## Not Merely Covenant Faithfulness
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who suppress the truth in unrighteousness,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 1:18 (NKJV)</em></p>
+
+* The "New Perspective on Paul" reduces God's righteousness to **covenant faithfulness**
+* If true, justice and justification are not applicable
+* "Unrighteousness" (*adikia*) means not-righteous (a moral concept), not unfaithful (contract language)
+* If true, righteousness applies only to Israel — yet Job (a Gentile) is called righteous and other Gentiles are called unrighteous
+* Righteousness includes faithfulness, but is far richer
+
+---
+
+## Divine Justice — Summary
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+* God is a righteous judge who cannot simply overlook sin
+* Christ's death satisfies divine justice: the penalty is borne, not waived
+* God's wrath is not vindictive but redemptive — a call to repentance
+* Through imputation, Christ bears our guilt and we receive His righteousness
+* This is real justice (not merely covenant faithfulness) — legal, moral, and gracious
+
+---
+
+# Motif 4: Representation
+
+---
+
+## Substitute and Representative
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+* A **substitute** acts *in place of* another
+  * Like a pinch-hitter — he bats instead of you, but his performance is not yours
+* A **representative** acts *on behalf of* another
+  * Like a proxy at a shareholders' meeting — his vote *is* your vote
+* Christ is both: He dies in our place *and* on our behalf
+  * In punishing Christ, God punishes us — in our representative
+
+---
+
+## One Died for All
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
@@ -325,13 +420,25 @@
 
 <p style="font-family: 'Gabriola', serif;">"Therefore, as through one man's offense judgment came to all men, resulting in condemnation, even so through one Man's righteous act the free gift came to all men, resulting in justification of life."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 5:18 (NKJV)</em></p>
 
-* Christ is not merely a substitute (acting *in place of*) but a representative (acting *on behalf of*)
 * "If One died for all, then all died" — His death counts as ours because He represents us
 * As Adam's disobedience brought condemnation to all, Christ's obedience brings justification to all
+* Already foreshadowed in the Old Testament: on Yom Kippur only the high priest could enter God's presence — acting as the people's representative
 
 ---
 
-# Motif 4: Redemption
+## In Christ: Appropriating the Benefits
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+<p style="font-family: 'Gabriola', serif;">"Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death? Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 6:3–4 (NKJV)</em></p>
+
+* Christ's death is universal in scope — but its benefits must be **appropriated** through faith
+* By faith we identify with Christ's death and resurrection — we are "crucified with Him" (Galatians 2:20)
+* Even the elect were "children of wrath" before conversion (Ephesians 2:3) — representation requires a response
+
+---
+
+# Motif 5: Redemption
 
 ---
 
