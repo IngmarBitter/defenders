@@ -86,6 +86,10 @@ If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1
 
 When omitting text within quotes, use `[...]` format.
 
+## Markdeep Slide Numbering
+
+The title slide (first `#` heading) is slide **#0**. The first `##` content slide is **#1**, and so on.
+
 ## Markdown Formatting Standards
 
 All `---` dividers MUST be surrounded by empty lines (required for Markdeep rendering).

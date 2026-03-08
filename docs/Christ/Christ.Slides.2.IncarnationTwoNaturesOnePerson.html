@@ -28,17 +28,6 @@
 
 ---
 
-## The Biblical Data (Non-Negotiables)
-
-* The New Testament affirms both **deity** and **humanity** of Christ
-  * The Son is truly God (e.g., John 1:1; Colossians 2:9)
-  * The Son truly became human (e.g., John 1:14; 1 John 4:2–3)
-* Orthodoxy insists on both without compromise
-  * Deny deity → not Christian theism
-  * Deny humanity → no real incarnation, no real suffering, no real redemption
-
----
-
 ## Human Growth and Learning
 
 <p style="font-family: 'Gabriola', serif;">"And Jesus increased in wisdom and stature, and in favor with God and men."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Luke 2:52 (NKJV)</em></p>
@@ -98,7 +87,7 @@
 * Physical limitations: hunger, thirst, fatigue (John 4:6; 19:28)
 * Genuine human psychology and cognition
   * Growth and learning (Hebrews 5:8)
-  * Epistemic limits in His earthly consciousness (Mark 13:32)
+  * Limits in His earthly knowledge (Mark 13:32)
 * Real suffering and real death (Hebrews 2:14)
 
 ---
@@ -115,7 +104,7 @@
 
 ---
 
-## The Apparent Contradiction (Incompatible Predicates)
+## The Apparent Contradiction
 
 * How can one person be both:
   * Creator and creature?
@@ -323,7 +312,7 @@
 * **Nature 2 — Deity:** the kind essence that makes someone divine
 * The Logos possesses **deity essentially** and **humanity contingently**
 * The incarnation is **addition, not subtraction** — the Logos does not cease to be God
-* Reduplicative predication resolves apparent contradictions
+* We resolve apparent contradictions by specifying *which nature* we mean
   * Christ **learned obedience** *with respect to* His human nature
   * Christ is **omnipresent** *with respect to* His divine nature
 
@@ -342,7 +331,7 @@
 
 ## Plank 3: The Subconscious Self
 
-* William James: consciousness has subconscious depths beneath waking awareness
+* Psychologist William James: consciousness has subconscious depths beneath waking awareness
   * Your conscious and subconscious mind don't make you two persons
 * Craig's application: during the state of humiliation, the Logos' divine knowledge and power are largely **subconscious**
   * Like an iceberg — the bulk of divine cognition is submerged beneath Jesus' waking human consciousness
