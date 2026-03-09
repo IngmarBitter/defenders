@@ -239,7 +239,12 @@ p[style*="EB Garamond"] {
 }
 p[style*="EB Garamond"] + p[style*="text-align: right"] {
     margin-top: 0;
-    margin-bottom: 0.3em;
+    margin-bottom: -0.5em;
+}
+
+/* compact bullet/list text to match quote apparent size */
+.md ul, .md ol {
+    font-size: 0.88em;
 }
 
 /* endnotes and bibliography */
