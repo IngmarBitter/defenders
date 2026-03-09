@@ -29,7 +29,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/1Tim316.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     16 All **scripture** is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,
 </p><p style="text-align: right; margin-top: -1em;">    <em>2 Timothy 3:16 (NKJV)</em></p>
 
@@ -57,7 +57,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/BibleWithBeauty.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     16 **All** scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,
 </p><p style="text-align: right; margin-top: -1em;">    <em>2 Timothy 3:16 (NKJV)</em></p>
 
@@ -70,7 +70,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/LightOnWords.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     16 Now to Abraham and his **Seed** were the promises made. He does not say, "And to **seeds**," as of many, but as of one, "And to your **Seed**," who is Christ.
 </p><p style="text-align: right; margin-top: -1em;">    <em>Galatians 3:16 (NKJV)</em></p>
 
@@ -84,7 +84,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/BibleGuarded.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     18 For I testify to everyone who hears the **words** of the prophecy of this book: If anyone adds to these things, God will add to him the plagues that are written in this book; 19 and if anyone takes away from the **words** of the book of this prophecy, God shall take away his part from the Book of Life, from the holy city, and from the things which are written in this book.
 </p>
 <p style="text-align: right; margin-top: -1em;">
@@ -143,7 +143,7 @@ Ingmar Bitter, PhD
   * Mark 16:9-20 - Longer ending of Mark found in some manuscripts
   * 1 John 1:4 - "our joy" vs. "your joy"
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
      4 And these things we write to you that **your** joy may be full.
 </p><p style="text-align: right; margin-top: -2.5em;">    <em>1 John 1:4 (NKJV)</em></p>
 
@@ -178,13 +178,13 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/OldLibrary.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     18 No one has seen God at any time. The **only begotten Son**, who is in the bosom of the Father, He has declared Him.
 </p><p style="text-align: right; margin-top: -2em;">    <em>John 1:18 (NKJV)</em></p>
 
 * Alexandrian: "the only begotten God"
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     7 For there are three that bear witness in heaven: the Father, **the Word, and the Holy Spirit**; and these three are one. 8 And there are three that bear witness on earth: the Spirit, **the water, and the blood**; and these three agree as one.
 </p><p style="text-align: right; margin-top: -2em;">    <em>1 John 5:7-8 (NKJV)</em></p>
 
@@ -226,7 +226,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/LitmusTest.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     36 But if any man thinks he is behaving improperly toward his virgin, if she is past the flower of youth, and thus it must be, let him do what he wishes. He does not sin; let them marry. 37 Nevertheless he who stands steadfast in his heart, having no necessity, but has power over his own will, and has so determined in his heart that he will keep his virgin, does well. 38 So then he who **gives her in marriage (γαμίσκω)** does well, but he who does not **give her in marriage (γαμίσκω)** does better.
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">
@@ -244,11 +244,11 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/BibleAndPeople.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     1 This is the book of the genealogy of **Adam**. In the day that God created man, He made him in the likeness of God. 2 He created them male and female, and blessed them and called them **Mankind**(Adam) in the day they were created.
 </p><p style="text-align: right; margin-top: -2em;">    <em>Genesis 5:2 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     16 “**Men and brethren**, this Scripture had to be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who became a guide to those who arrested Jesus;
 </p><p style="text-align: right; margin-top: -2em;">    <em>Acts 1:16 (NKJV)</em></p>
 
@@ -306,7 +306,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/HolySpiritDove.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     19 And so we have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts; 20 knowing this first, that no prophecy of Scripture is of any private interpretation, 21 for prophecy never came by the will of man, but **holy men of God spoke as they were moved by the Holy Spirit**.
 </p>
 <p style="text-align: right; margin-top: -1em;">
@@ -323,7 +323,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/Greetings.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     23 Gaius, my host and the host of the whole church, greets you. Erastus, the treasurer of the city, greets you, and Quartus, a brother.
 </p>
 <p style="text-align: right; margin-top: -1em;">
@@ -340,7 +340,7 @@ Ingmar Bitter, PhD
 
 ![](InspirationPics/Prayer.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     1 How long, O Lord? Will You forget me forever? How long will You hide Your face from me? 2 How long shall I take counsel in my soul, having sorrow in my heart daily? How long will my enemy be exalted over me? 3 Consider and hear me, O Lord my God; enlighten my eyes, lest I sleep the sleep of death; 4 lest my enemy say, “I have prevailed against him”; lest those who trouble me rejoice when I am moved.
 </p>
 <p style="text-align: right; margin-top: -1em;">

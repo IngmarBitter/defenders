@@ -33,7 +33,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodAbraham.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     When Abram was ninety-nine years old, the LORD appeared to Abram and said to him, “I am **Almighty God**; walk before Me and be blameless.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Genesis 17:1 (NKJV)</em></p>
 
@@ -46,7 +46,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodOmnipotent.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And I heard, as it were, the voice of a great multitude, as the sound of many waters and as the sound of mighty thunderings, saying, “Alleluia! For **the Lord God Omnipotent** reigns!”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Revelation 19:6 (NKJV)</em></p>
 
@@ -63,7 +63,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodCreation.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     In the beginning God created the heavens and the earth.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Genesis 1:1 (NKJV)</em></p>
 
@@ -76,7 +76,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodWordEarth.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For He spoke, and it was done; He commanded, and it stood fast.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Psalm 33:9 (NKJV)</em></p>
 
@@ -89,7 +89,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodIntoExistence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     [...] God, who gives life to the dead and calls those things which do not exist as though they did;
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 4:17b (NKJV)</em></p>
 
@@ -105,7 +105,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodAllPossible.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Is anything too hard for the LORD? At the appointed time I will return to you, according to the time of life, and Sarah shall have a son.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Genesis 18:14 (NKJV)</em></p>
 
@@ -118,7 +118,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodOutstretchedArms.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Ah, Lord GOD! Behold, You have made the heavens and the earth by Your great power and outstretched arm. There is nothing too hard for You.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Jeremiah 32:17 (NKJV)</em></p>
 
@@ -131,7 +131,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodUmlimitedPower.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then the word of the LORD came to Jeremiah, saying, “Behold, I am the LORD, the God of all flesh. Is there anything too hard for Me?”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Jeremiah 32:26-27 (NKJV)</em></p>
 
@@ -144,7 +144,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodCanDoAll.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then Job answered the LORD and said: “I know that You can do everything, And that no purpose of Yours can be withheld from You.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Job 42:1-2 (NKJV)</em></p>
 
@@ -157,7 +157,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/JesusAllPossible.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But Jesus looked at them and said to them, “With men this is impossible, but with God all things are possible.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Matthew 19:26 (NKJV)</em></p>
 
@@ -170,7 +170,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodJesus.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And He said, “Abba, Father, all things are possible for You. Take this cup away from Me; nevertheless, not what I will, but what You will.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Mark 14:36 (NKJV)</em></p>
 
@@ -207,7 +207,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodSin.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>1 John 1:5 (NKJV)</em></p>
 
@@ -225,7 +225,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/JesusTemptation.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But He answered and said, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds from the mouth of God.’”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Matthew 4:4 (NKJV)</em></p>
 
@@ -241,7 +241,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/JesusSinLess.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Hebrews 4:15 (NKJV)</em></p>
 
@@ -330,7 +330,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodPowerInUs.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For it is the God who commanded light to shine out of darkness, who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ. But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us. We are hard-pressed on every side, yet not crushed; we are perplexed, but not in despair; persecuted, but not forsaken; struck down, but not destroyed—always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -1em;"> <em>2 Corinthians 4:6-10 (NKJV)</em></p>
 
@@ -345,7 +345,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodTouchingMan.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     ...and what is the exceeding greatness of His power toward us who believe, according to the working of His mighty power which He worked in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly places, far above all principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -1em;"> <em>Ephesians 1:19-21 (NKJV)</em></p>
 
@@ -358,7 +358,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GobPowerBeyond.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, to Him be glory in the church by Christ Jesus to all generations, forever and ever. Amen.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -1em;"> <em>Ephesians 3:20-21 (NKJV)</em></p>
 
@@ -371,7 +371,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Vine.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>John 15:5 (NKJV)</em></p>
 
@@ -387,7 +387,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/StrengthThroughChrist.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     I can do all things through Christ who strengthens me.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Philippians 4:13 (NKJV)</em></p>
 
@@ -402,7 +402,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/ChickenPower.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Concerning this thing I pleaded with the Lord three times that it might depart from me. And He said to me, “My grace is sufficient for you, for My strength is made perfect in weakness.” Therefore most gladly I will rather boast in my infirmities, that the power of Christ may rest upon me. Therefore I take pleasure in infirmities, in reproaches, in needs, in persecutions, in distresses, for Christ’s sake. For when I am weak, then I am strong.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -1em;"> <em>2 Corinthians 12:8-10 (NKJV)</em></p>
 
@@ -428,7 +428,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Decree.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     In him, according to the purpose of him who accomplishes all things according to the counsel of his will...
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Ephesians 1:11 (NKJV)</em></p>
 
@@ -510,7 +510,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/LookingUpInWorship.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, to Him be glory in the church by Christ Jesus to all generations, forever and ever. Amen.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Ephesians 3:20-21 (NKJV)</em></p>
 

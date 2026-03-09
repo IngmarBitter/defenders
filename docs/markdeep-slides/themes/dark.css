@@ -1,5 +1,6 @@
 @import url('../lib/webfonts/vollkorn/4.105/webfont.css');
 @import url('../lib/webfonts/iosevka/2.3.1/webfont.css');
+@import url('../lib/webfonts/eb-garamond/1.0/webfont.css');
 
 :root {
     --text-color: white;

@@ -63,7 +63,7 @@ Ingmar Bitter, PhD
   * Dual aspects: Love and Justice.  
   * OT: God as Judge and Ruler, establishing moral order.  
   * Positive (salvific) and negative (punitive) senses.  
-  * "God is love" (<span style="font-family:Gabriola;font-size:1.2em">1 John 4:8 NKJV</span>) + hatred of sin.  
+  * "God is love" (<span style="font-family:'EB Garamond',serif;font-style:italic;font-size:1.2em">1 John 4:8 NKJV</span>) + hatred of sin.  
 * **Holiness** (*qōdesh*):  
   * Absolute purity.  
   * Separation from sin.  
@@ -74,7 +74,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     What shall we say then? Is there unrighteousness with God? Certainly not! For He says to Moses, “I will have mercy on whomever I will have mercy, and I will have compassion on whomever I will have compassion.” So then it is not of him who wills, nor of him who runs, but of God who shows mercy. ... Who are you to reply against God? Will the thing formed say to him who formed it, “Why have you made me like this?” Does not the potter have power over the clay...?
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 9:14-21 (NKJV)</em></p>
 
@@ -88,7 +88,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then Moses said, “I will now turn aside and see this great sight, why the bush does not burn.” ... And He said, “Do not draw near this place. Take your sandals off your feet, for the place where you stand is holy ground.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Exodus 3:3-5 (NKJV)</em></p>
 
@@ -102,7 +102,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Speak to all the congregation of the children of Israel, and say to them: ‘You shall be holy, for I the LORD your God am holy.’
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Leviticus 19:2 (NKJV)</em></p>
 
@@ -116,7 +116,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     The four living creatures ... do not rest day or night, saying: “Holy, holy, holy, is the Lord God Almighty, Who was and is and is to come!”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Revelation 4:8 (NKJV)</em></p>
 
@@ -130,7 +130,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     I saw the Lord sitting on a throne, high and lifted up, and the train of His robe filled the temple. ... And one [seraph] cried to another and said: “Holy, holy, holy is the LORD of hosts; The whole earth is full of His glory!” ... So I said: “Woe is me, for I am undone! Because I am a man of unclean lips..."
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Isaiah 6:1-5 (NKJV)</em></p>
 
@@ -144,7 +144,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     You are of purer eyes than to behold evil, And cannot look on wickedness.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Habakkuk 1:13a (NKJV)</em></p>
 
@@ -168,7 +168,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And war broke out in heaven: Michael and his angels fought with the dragon; and the dragon and his angels fought, but they did not prevail, nor was a place found for them in heaven any longer. So the great dragon was cast out, that serpent of old, called the Devil and Satan, who deceives the whole world; he was cast to the earth, and his angels were cast out with him.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Revelation 12:7-9 (NKJV)</em></p>
 
@@ -182,7 +182,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Pursue peace with all people, and holiness, without which no one will see the Lord.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Hebrews 12:14 (NKJV)</em></p>
 
@@ -197,7 +197,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Behold, the LORD’s hand is not shortened, That it cannot save; Nor His ear heavy, That it cannot hear. But your iniquities have separated you from your God; And your sins have hidden His face from you, So that He will not hear.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Isaiah 59:1-2 (NKJV)</em></p>
 
@@ -284,7 +284,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And another angel ... cried with a loud voice to him who had the sharp sickle, saying, “Thrust in your sharp sickle and gather the clusters of the vine of the earth, for her grapes are fully ripe.” So the angel thrust his sickle into the earth and ... threw them into the great winepress of the wrath of God. And the winepress was trampled ... and blood came out ... as high as the horses’ bridles, for one thousand six hundred furlongs.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Revelation 14:18-20 (NKJV)</em></p>
 
@@ -298,7 +298,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     These things you have done, and I kept silent; You thought that I was altogether like you; But I will rebuke you, And set them in order before your eyes.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Psalm 50:21 (NKJV)</em></p>
 
@@ -312,7 +312,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     As obedient children, not conforming yourselves to the former lusts, as in your ignorance; but as He who called you is holy, you also be holy in all your conduct, because it is written, “Be holy, for I am holy.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>1 Peter 1:14-16 (NKJV)</em></p>
 
@@ -326,7 +326,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But seek first the kingdom of God and His righteousness, and all these things shall be added to you.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Matthew 6:33 (NKJV)</em></p>
 
@@ -340,7 +340,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For I am not ashamed of the gospel of Christ, for it is the power of God to salvation for everyone who believes ... For in it the righteousness of God is revealed from faith to faith; as it is written, “The just shall live by faith.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 1:16-17 (NKJV)</em></p>
 
@@ -354,7 +354,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodHoly.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But now the righteousness of God apart from the law is revealed ... through faith in Jesus Christ, to all ... who believe. For there is no difference; for all have sinned and fall short of the glory of God, being justified freely by His grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness...
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 3:21-26 (NKJV)</em></p>
 

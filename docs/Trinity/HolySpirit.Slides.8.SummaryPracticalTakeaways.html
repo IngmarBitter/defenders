@@ -18,7 +18,7 @@
 
 ## The Spirit Is a Person
 
-<p style="font-family: 'Gabriola', serif;">"[…] the Holy Spirit said, 'Now separate to Me Barnabas and Saul for the work to which I have called them.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 13:2 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[…] the Holy Spirit said, 'Now separate to Me Barnabas and Saul for the work to which I have called them.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 13:2 (NKJV)</em></p>
 
 * He speaks, teaches, guides, intercedes (Acts 13:2; John 14:26; 16:13; Romans 8:26–27)
 * He has a mind and will (Romans 8:27)
@@ -29,7 +29,7 @@
 
 ## The Spirit Is God
 
-<p style="font-family: 'Gabriola', serif;">"Ananias, why has Satan filled your heart to lie to the Holy Spirit […]? […] You have not lied to men but to God."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 5:3–4 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Ananias, why has Satan filled your heart to lie to the Holy Spirit […]? […] You have not lied to men but to God."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 5:3–4 (NKJV)</em></p>
 
 * Lying to the Holy Spirit = lying to God → the Spirit is God
 * Possesses divine attributes: eternal, omnipresent, omniscient, holy
@@ -40,7 +40,7 @@
 
 ## The Spirit and Christ
 
-<p style="font-family: 'Gabriola', serif;">"The Spirit of the Lord is upon Me, because He has anointed Me to preach the gospel to the poor."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 4:18 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The Spirit of the Lord is upon Me, because He has anointed Me to preach the gospel to the poor."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 4:18 (NKJV)</em></p>
 
 * Active in Christ's conception, baptism, miracles, and preaching
 * Jesus ministered "in the power of the Spirit"
@@ -51,7 +51,7 @@
 
 ## The Spirit's Work in Believers
 
-<p style="font-family: 'Gabriola', serif;">"But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:9 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:9 (NKJV)</em></p>
 
 * **Indwelling:** Every believer has the Spirit (Romans 8:9)
 * **Baptism:** At conversion, not a "second blessing" (1 Corinthians 12:13)

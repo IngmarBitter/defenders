@@ -6,7 +6,7 @@
 
 ## Conception of Christ
 
-<p style="font-family: 'Gabriola', serif;">“The Holy Spirit will come upon you, and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 1:35 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“The Holy Spirit will come upon you, and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 1:35 (NKJV)</em></p>
 
 * Virginal conception is attributed to the Holy Spirit (Luke 1:35)
 * From the beginning of the incarnation, the Spirit is active
@@ -17,7 +17,7 @@
 
 ## Baptism and Anointing
 
-<p style="font-family: 'Gabriola', serif;">“When all the people were baptized, it came to pass that Jesus also was baptized; and while He prayed, the heaven was opened. And the Holy Spirit descended in bodily form like a dove upon Him, and a voice came from heaven which said, ‘You are My beloved Son; in You I am well pleased.’”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 3:21–22 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“When all the people were baptized, it came to pass that Jesus also was baptized; and while He prayed, the heaven was opened. And the Holy Spirit descended in bodily form like a dove upon Him, and a voice came from heaven which said, ‘You are My beloved Son; in You I am well pleased.’”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 3:21–22 (NKJV)</em></p>
 
 * At Jesus’ baptism, Father/Son/Spirit are all present (Luke 3:21–22)
   * Spirit descends upon the Son
@@ -29,9 +29,9 @@
 
 ## Miracles and Exorcisms
 
-<p style="font-family: 'Gabriola', serif;">“how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with Him.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 10:38 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with Him.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 10:38 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“But if I cast out demons by the Spirit of God, surely the kingdom of God has come upon you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Matthew 12:28 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“But if I cast out demons by the Spirit of God, surely the kingdom of God has come upon you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Matthew 12:28 (NKJV)</em></p>
 
 * God anointed Jesus with the Holy Spirit and power (Acts 10:38)
 * Jesus attributes exorcisms to the Spirit of God (Matthew 12:28)
@@ -42,7 +42,7 @@
 
 ## Preaching and Mission (Luke 4:14)
 
-<p style="font-family: 'Gabriola', serif;">“Then Jesus returned in the power of the Spirit to Galilee, and news of Him went out through all the surrounding region.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Luke 4:14 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Then Jesus returned in the power of the Spirit to Galilee, and news of Him went out through all the surrounding region.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Luke 4:14 (NKJV)</em></p>
 
 * Jesus ministers “in the power of the Spirit” (Luke 4:14)
 * This shows the Spirit's ongoing empowerment of Christ's mission
@@ -53,7 +53,7 @@
 
 ## Preaching and Mission (Luke 4:18–21)
 
-<p style="font-family: 'Gabriola', serif;">“The Spirit of the Lord is on Me, Because He has anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, To proclaim liberty to the captives And recovery of sight to the blind, To set at liberty those who are oppressed; To proclaim the acceptable year of the Lord.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 4:18–21 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“The Spirit of the Lord is on Me, Because He has anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, To proclaim liberty to the captives And recovery of sight to the blind, To set at liberty those who are oppressed; To proclaim the acceptable year of the Lord.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 4:18–21 (NKJV)</em></p>
 
 * Isaiah’s prophecy applied to Jesus’ preaching: “The Spirit of the Lord is upon me…” (Luke 4:18–21)
 * Implication: if Jesus’ earthly ministry is Spirit-empowered, ours must be also
@@ -64,7 +64,7 @@
 
 ## Continuing Christ’s Ministry (John 16:7)
 
-<p style="font-family: 'Gabriola', serif;">“Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 16:7 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 16:7 (NKJV)</em></p>
 
 * Jesus: it is “to your advantage” that he goes away so the Spirit comes (John 16:7)
 * Jesus promises to send the Spirit as His personal representative
@@ -76,7 +76,7 @@
 
 ## Continuing Christ’s Ministry (John 16:13–15)
 
-<p style="font-family: 'Gabriola', serif;">“However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify Me, for He will take of what is Mine and declare it to you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 16:13–15 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. He will glorify Me, for He will take of what is Mine and declare it to you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 16:13–15 (NKJV)</em></p>
 
 * The Spirit continues and extends Christ’s ministry in the church age
   * Convicts the world

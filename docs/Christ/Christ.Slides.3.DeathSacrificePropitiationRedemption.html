@@ -20,7 +20,7 @@
 
 ![](pics/DiedForOurSins.jpg style="float: right; width: 11rem")
 
-<p style="font-family: 'Gabriola', serif;">"For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, and that He was buried, and that He rose again the third day according to the Scriptures,"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>1 Corinthians 15:3–4 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, and that He was buried, and that He rose again the third day according to the Scriptures,"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>1 Corinthians 15:3–4 (NKJV)</em></p>
 
 * This creed dates to within five years of the crucifixion — the earliest Christian creed
 * "According to the Scriptures" — His death fulfills Old Testament prophecy
@@ -37,7 +37,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Now the blood shall be a sign for you on the houses where you are. And when I see the blood, I will pass over you; and the plague shall not be on you to destroy you when I strike the land of Egypt."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Exodus 12:13 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Now the blood shall be a sign for you on the houses where you are. And when I see the blood, I will pass over you; and the plague shall not be on you to destroy you when I strike the land of Egypt."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Exodus 12:13 (NKJV)</em></p>
 
 * The blood on the doorframes was a **sign** — marking Israel as God's people, distinct from Egypt
 * The lamb dies so the firstborn does not — **substitutionary** death (one life given in place of another)
@@ -49,7 +49,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your souls; for it is the blood that makes atonement for the soul."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 17:11 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your souls; for it is the blood that makes atonement for the soul."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 17:11 (NKJV)</em></p>
 
 * **Atonement** = being at-one-made with God by clearing the sin-guilt that separated us from God
 * God Himself provides the means of atonement
@@ -65,7 +65,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Then he shall put his hand on the head of the burnt offering, and it will be accepted on his behalf to make atonement for him."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 1:4 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then he shall put his hand on the head of the burnt offering, and it will be accepted on his behalf to make atonement for him."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 1:4 (NKJV)</em></p>
 
 * Before slaying the animal, the worshiper pressed his hand on its head — identifying himself with the sacrifice
 * The animal suffers the fate that would have been the worshiper's punishment: death, the penalty for sin
@@ -77,7 +77,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For on that day the priest shall make atonement for you, to cleanse you, that you may be clean from all your sins before the LORD."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 16:30 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For on that day the priest shall make atonement for you, to cleanse you, that you may be clean from all your sins before the LORD."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 16:30 (NKJV)</em></p>
 
 * Yom Kippur — the supreme **expiatory** (sin-guilt clearing) ritual, offered annually for the whole nation
 * "To cleanse you, that you may be clean from all your sins" — covering the full range, including serious sins the daily sacrifices could not address
@@ -89,9 +89,9 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.0em;"> <em>Ephesians 5:2 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.0em;"> <em>Ephesians 5:2 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"The next day John saw Jesus coming toward him, and said, 'Behold! The Lamb of God who takes away the sin of the world!'"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>John 1:29 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The next day John saw Jesus coming toward him, and said, 'Behold! The Lamb of God who takes away the sin of the world!'"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>John 1:29 (NKJV)</em></p>
 
 * The New Testament's main motif for the atonement is **sacrifice**
 * Christ is both priest and offering — He gives Himself as a "sweet-smelling aroma" to God
@@ -103,7 +103,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, 'Take, eat; this is My body.' Then He took the cup, and gave thanks, and gave it to them, saying, 'Drink from it, all of you. For this is My blood of the new covenant, which is shed for many for the remission of sins.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Matthew 26:26–28 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, 'Take, eat; this is My body.' Then He took the cup, and gave thanks, and gave it to them, saying, 'Drink from it, all of you. For this is My blood of the new covenant, which is shed for many for the remission of sins.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Matthew 26:26–28 (NKJV)</em></p>
 
 * Jesus deliberately chose Passover as the setting
   * His death fulfills what the Passover lamb foreshadowed
@@ -117,7 +117,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For what the law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh,"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Romans 8:3 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For what the law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh,"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Romans 8:3 (NKJV)</em></p>
 
 * "On account of sin" (*peri hamartias*)
   * The Septuagint's phrase for the **sin offering**
@@ -130,9 +130,9 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"He then would have had to suffer often since the foundation of the world; but now, once at the end of the ages, He has appeared to put away sin by the sacrifice of Himself."</p><p style="text-align: right; margin-top: -2.0em; margin-bottom: -1.0em;"> <em>Hebrews 9:26 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"He then would have had to suffer often since the foundation of the world; but now, once at the end of the ages, He has appeared to put away sin by the sacrifice of Himself."</p><p style="text-align: right; margin-top: -2.0em; margin-bottom: -1.0em;"> <em>Hebrews 9:26 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"By that will we have been sanctified through the offering of the body of Jesus Christ once for all."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 10:10 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"By that will we have been sanctified through the offering of the body of Jesus Christ once for all."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 10:10 (NKJV)</em></p>
 
 * **Expiation** = clearing sin-guilt through lifeblood sacrifice
 * The object of expiation is **sin itself** — specifically **sin-guilt** (not sin-nature or sin-action, but the guilt before God that results)
@@ -144,7 +144,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"being justified freely by His grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 3:24–25 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"being justified freely by His grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 3:24–25 (NKJV)</em></p>
 
 * **Propitiation** = extinguishing God's righteous wrath over sin-guilt by executing the just punishment for it
 * The object of propitiation is **God Himself**
@@ -157,7 +157,7 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Much more then, having now been justified by His blood, we shall be saved from wrath through Him."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 5:9 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Much more then, having now been justified by His blood, we shall be saved from wrath through Him."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 5:9 (NKJV)</em></p>
 
 * **Justified** = God's decree clearing our sin-guilt record
 * **Saved** = God's pending wrath averted through justification
@@ -190,7 +190,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
 
 * Isaiah 53 is the most deeply embedded Old Testament passage in New Testament **soteriology** (the doctrine of salvation)
 * The language is explicitly **substitutionary**: *our* transgressions, *our* iniquities — laid on *Him*
@@ -202,7 +202,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"He shall see the labor of His soul, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities. Therefore I will divide Him a portion with the great, And He shall divide the spoil with the strong, Because He poured out His soul unto death, And He was numbered with the transgressors, And He bore the sin of many, And made intercession for the transgressors."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:11–12 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"He shall see the labor of His soul, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities. Therefore I will divide Him a portion with the great, And He shall divide the spoil with the strong, Because He poured out His soul unto death, And He was numbered with the transgressors, And He bore the sin of many, And made intercession for the transgressors."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:11–12 (NKJV)</em></p>
 
 * "Bear their iniquities" — a Hebrew idiom meaning to be held culpable, to endure punishment for guilt
 * The Servant is **righteous** yet bears the sins of **many** — innocence suffering in place of the guilty
@@ -214,7 +214,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Aaron shall lay both his hands on the head of the live goat, confess over it all the iniquities of the children of Israel[...] putting them on the head of the goat, and shall send it away into the wilderness[...] The goat shall bear on itself all their iniquities to an uninhabited land."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 16:21–22 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Aaron shall lay both his hands on the head of the live goat, confess over it all the iniquities of the children of Israel[...] putting them on the head of the goat, and shall send it away into the wilderness[...] The goat shall bear on itself all their iniquities to an uninhabited land."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Leviticus 16:21–22 (NKJV)</em></p>
 
 * The scapegoat was merely a symbolic vehicle for sin's removal
   * Sins laid on it, driven away — but not punished
@@ -228,7 +228,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"So Moses returned to the LORD and said, 'Oh, these people have committed a great sin... Yet now, if You will forgive their sin — but if not, I pray, blot me out of Your book which You have written.'"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Exodus 32:31–32 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"So Moses returned to the LORD and said, 'Oh, these people have committed a great sin... Yet now, if You will forgive their sin — but if not, I pray, blot me out of Your book which You have written.'"</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Exodus 32:31–32 (NKJV)</em></p>
 
 * Moses offers to die in Israel's place — God declines
 * Abraham is commanded to sacrifice Isaac — God stops it (Genesis 22)
@@ -241,7 +241,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Yet it pleased the LORD to bruise Him; He has put Him to grief. When You make His soul an offering for sin, He shall see His seed, He shall prolong His days, And the pleasure of the LORD shall prosper in His hand."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:10 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Yet it pleased the LORD to bruise Him; He has put Him to grief. When You make His soul an offering for sin, He shall see His seed, He shall prolong His days, And the pleasure of the LORD shall prosper in His hand."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Isaiah 53:10 (NKJV)</em></p>
 
 * The key point of Isaiah 53 is not *who* the Servant is, but *what he does*
   * Whoever the Servant is, his function is clear: substitutionary punishment to bring reconciliation
@@ -254,7 +254,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness — by whose stripes you were healed."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Peter 2:24 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness — by whose stripes you were healed."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Peter 2:24 (NKJV)</em></p>
 
 * Peter applies the Suffering Servant to the crucifixion
 * Jesus echoes this passage at the Last Supper: "My blood... shed for many" (Matthew 26:28; cf. Isaiah 53:12)
@@ -267,7 +267,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"So the eunuch answered Philip and said, 'I ask you, of whom does the prophet say this, of himself or of some other man?' Then Philip opened his mouth, and beginning at this Scripture, preached Jesus to him."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Acts 8:34–35 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"So the eunuch answered Philip and said, 'I ask you, of whom does the prophet say this, of himself or of some other man?' Then Philip opened his mouth, and beginning at this Scripture, preached Jesus to him."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Acts 8:34–35 (NKJV)</em></p>
 
 * An Ethiopian official, reading Isaiah 53, asks: "Of whom does the prophet say this?"
 * Philip's answer: Jesus — the good news *is* the Suffering Servant fulfilled
@@ -279,7 +279,7 @@
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"so Christ was offered once to bear the sins of many. To those who eagerly wait for Him He will appear a second time, apart from sin, for salvation."</p><p style="text-align: right; margin-top: -0.75em; margin-bottom: -0.75em;"> <em>Hebrews 9:28 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"so Christ was offered once to bear the sins of many. To those who eagerly wait for Him He will appear a second time, apart from sin, for salvation."</p><p style="text-align: right; margin-top: -0.75em; margin-bottom: -0.75em;"> <em>Hebrews 9:28 (NKJV)</em></p>
 
 * "Bear the sins of many" echoes Isaiah 53:12 — the author of Hebrews reads Christ's death through the Servant lens
 * "Offered once" — connects the Suffering Servant motif back to the sacrifice motif
@@ -295,7 +295,7 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 3:26 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 3:26 (NKJV)</em></p>
 
 * The atonement has a **judicial** dimension — guilt (liability to punishment), condemnation, and acquittal
 * God's problem: how can a righteous Judge forgive the guilty without compromising His justice?
@@ -307,7 +307,7 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For the LORD is our Judge, The LORD is our Lawgiver, The LORD is our King; He will save us"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Isaiah 33:22 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the LORD is our Judge, The LORD is our Lawgiver, The LORD is our King; He will save us"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Isaiah 33:22 (NKJV)</em></p>
 
 * Three roles in one God: He defines the standard (**Lawgiver**), enforces it (**Judge**), and rules by it (**King**)
 * A fair judge cannot simply waive penalties — justice must be satisfied according to the law
@@ -319,9 +319,9 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"keeping mercy for thousands, forgiving iniquity and transgression and sin, by no means clearing the guilty,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.5em;"> <em>Exodus 34:7 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"keeping mercy for thousands, forgiving iniquity and transgression and sin, by no means clearing the guilty,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.5em;"> <em>Exodus 34:7 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 4:5 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness,"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 4:5 (NKJV)</em></p>
 
 * God forgives — yet **by no means clears the guilty**. How can both be true?
 * Yet Paul says God "justifies the ungodly" — the very thing a corrupt judge would do
@@ -333,12 +333,12 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.25em;"> <em>Romans 2:4 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -1.25em;"> <em>Romans 2:4 (NKJV)</em></p>
 
 * In criminal justice, a sentence serves a purpose — time to reflect and resolve to change
-* God's pending wrath functions similarly: it hangs over us not as instant destruction but as a summons to repentance
+* God's pending wrath functions similarly: not instant destruction, but a summons to repentance
 * When a person turns from sin and to God in faith, *then* Christ's death is applied to their sin-guilt account and God decrees them justified
-* This makes the system profoundly moral: the unrepentant face justice, the repentant receive mercy, and everyone is given the opportunity to turn
+* Profoundly moral: the unrepentant face justice, the repentant receive mercy, and all are given the chance to turn
 
 ---
 
@@ -346,7 +346,7 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith;"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Philippians 3:9 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith;"</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Philippians 3:9 (NKJV)</em></p>
 
 * "The righteousness of God" (*dikaiosyne theou*) is **multivalent** (has more than one meaning)
   * A property of God Himself — He *is* righteous
@@ -359,9 +359,9 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>2 Corinthians 5:21 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>2 Corinthians 5:21 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"For as by one man's disobedience many were made sinners, so also by one Man's obedience many will be made righteous."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 5:19 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For as by one man's disobedience many were made sinners, so also by one Man's obedience many will be made righteous."</p><p style="text-align: right; margin-top: -2.25em; margin-bottom: -0.75em;"> <em>Romans 5:19 (NKJV)</em></p>
 
 * A double exchange: our sin is charged to Christ's account; His righteousness is credited to ours
 * This is **imputation** (a legal crediting), not infusion (a moral transformation)
@@ -373,7 +373,7 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who suppress the truth in unrighteousness,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 1:18 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who suppress the truth in unrighteousness,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 1:18 (NKJV)</em></p>
 
 * The "New Perspective on Paul" reduces God's righteousness to **covenant faithfulness**
 * If true, justice and justification are not applicable
@@ -416,9 +416,9 @@
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For the love of Christ compels us, because we judge thus: that if One died for all, then all died;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if **One died for all**, then all died;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"Therefore, as through one man's offense judgment came to all men, resulting in condemnation, even so through one Man's righteous act the free gift came to all men, resulting in justification of life."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 5:18 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, as through one man's offense judgment came to all men, resulting in condemnation, even so through one Man's righteous act the free gift came to all men, resulting in justification of life."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 5:18 (NKJV)</em></p>
 
 * "If One died for all, then all died" — His death counts as ours because He represents us
 * As Adam's disobedience brought condemnation to all, Christ's obedience brings justification to all
@@ -430,7 +430,7 @@
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death? Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 6:3–4 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death? Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 6:3–4 (NKJV)</em></p>
 
 * Christ's death is universal in scope — but its benefits must be **appropriated** through faith
 * By faith we identify with Christ's death and resurrection — we are "crucified with Him" (Galatians 2:20)
@@ -446,9 +446,9 @@
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Mark 10:45 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Mark 10:45 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Peter 1:18–19 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Peter 1:18–19 (NKJV)</em></p>
 
 * **Redemption** frames salvation as liberation — buying captives out of bondage
 * The ransom price is not silver or gold but Christ's own blood
@@ -460,9 +460,9 @@
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-<p style="font-family: 'Gabriola', serif;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 2:14–15 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>Hebrews 2:14–15 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">"And they sang a new song, saying: 'You are worthy to take the scroll, and to open its seals; for You were slain, and have redeemed us to God by Your blood out of every tribe and tongue and people and nation, and have made us kings and priests to our God; and we shall reign on the earth.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 5:9–10 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they sang a new song, saying: 'You are worthy to take the scroll, and to open its seals; for You were slain, and have redeemed us to God by Your blood out of every tribe and tongue and people and nation, and have made us kings and priests to our God; and we shall reign on the earth.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 5:9–10 (NKJV)</em></p>
 
 * Christ's death is a victory: He destroys the devil's power and liberates those held in bondage
 * The redeemed become "kings and priests" — echoing Exodus 19:6, the new covenant fulfills God's original design

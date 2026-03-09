@@ -29,7 +29,7 @@ God sometimes ...
 
 ![](EvilPics/woman.crying.jpg style="float: right; width: 8rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But you, O Lord, are a God merciful and gracious, slow to anger and abounding in steadfast love and faithfulness.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Psalm 86:15 (NKJV)</em></p>
 

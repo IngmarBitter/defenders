@@ -17,7 +17,7 @@
 
 ## Personhood: The Spirit Speaks
 
-<p style="font-family: 'Gabriola', serif;">“[…] the Holy Spirit said, ‘Now separate to Me Barnabas and Saul for the work to which I have called them.’”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 13:2 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“[…] the Holy Spirit said, ‘Now separate to Me Barnabas and Saul for the work to which I have called them.’”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 13:2 (NKJV)</em></p>
 
 * Speech + first-person pronouns (“me”) indicate personhood
 * The Spirit issues directives and calls people to mission
@@ -28,7 +28,7 @@
 
 ## Personhood: He, the Spirit Will be In/With you
 
-<p style="font-family: 'Gabriola', serif;">“If you love Me, keep My commandments. And I will pray the Father, and He will give you **another Helper**, that **He** may abide with you forever, **the Spirit** of truth, **whom** the world cannot receive, because it neither sees **Him** nor knows **Him**; but you know **Him**, for **He dwells** with you and will be in you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 14:15–17 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“If you love Me, keep My commandments. And I will pray the Father, and He will give you **another Helper**, that **He** may abide with you forever, **the Spirit** of truth, **whom** the world cannot receive, because it neither sees **Him** nor knows **Him**; but you know **Him**, for **He dwells** with you and will be in you.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -1.5em;"> <em>John 14:15–17 (NKJV)</em></p>
 
 * Jesus promises “another Counselor/Helper”
   * The Spirit will "dwell with" and “be in" you (John 14:15–17)
@@ -42,9 +42,9 @@
 
 ## Personhood: The Spirit Teaches and Guides
 
-<p style="font-family: 'Gabriola', serif;">“But **the Helper, the Holy Spirit, whom** the Father will send in My name, **He** will **teach** you all things […]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 14:25–26 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“But **the Helper, the Holy Spirit, whom** the Father will send in My name, **He** will **teach** you all things […]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 14:25–26 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“However, when **He, the Spirit** of truth, has come, **He** will **guide** you into all truth […]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 16:13 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“However, when **He, the Spirit** of truth, has come, **He** will **guide** you into all truth […]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 16:13 (NKJV)</em></p>
 
 * He, the Spirit will “teach you all things” (John 14:25–26)
   * “Whom the Father will send” implies a person, not a force
@@ -58,7 +58,7 @@
 
 ## Personhood: The Spirit Intercedes (Romans 8:26)
 
-<p style="font-family: 'Gabriola', serif;">“Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us […] according to the will of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:26 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us […] according to the will of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:26 (NKJV)</em></p>
 
 * Intercession implies mind, intention, and agency
 * **JWs:** God facilitates our prayer via His power (spirit)
@@ -68,7 +68,7 @@
 
 ## Personhood: The Spirit Intercedes (Romans 8:27)
 
-<p style="font-family: 'Gabriola', serif;">“Now He who searches the hearts knows what **the mind of the Spirit** is, because He makes intercession for the saints according to the will of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:27 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Now He who searches the hearts knows what **the mind of the Spirit** is, because He makes intercession for the saints according to the will of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:27 (NKJV)</em></p>
 
 * “The mind of the Spirit” (Romans 8:27) → personal subject
 * **JWs:** "The mind of the Spirit": This is God's mind or will being expressed through the Spirit, not the Spirit having its own mind or thoughts.
@@ -78,9 +78,9 @@
 
 ## Distinctness: Not the Father or the Son
 
-<p style="font-family: 'Gabriola', serif;">“Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Matthew 28:19 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Matthew 28:19 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>2 Corinthians 13:14 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>2 Corinthians 13:14 (NKJV)</em></p>
 
 * The Spirit is not merely the Father/Son “in a different role”
 * Triadic formulas name three distinct persons together

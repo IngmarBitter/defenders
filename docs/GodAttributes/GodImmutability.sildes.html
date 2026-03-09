@@ -30,7 +30,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/AngelOfGodStatue.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Of old You laid the foundation of the earth, And the heavens are the work of Your hands. They will perish, but You will endure; Yes, they will all grow old like a garment; Like a cloak You will change them, And they will be changed. But You are the same, And Your years will have no end.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Psalm 102:25-27 (NKJV)</em></p>
 
@@ -43,7 +43,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodFaithful.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For I am the LORD, I do not change; Therefore you are not consumed, O sons of Jacob.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Malachi 3:6 (NKJV)</em></p>
 
@@ -56,7 +56,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodGenerous.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom there is no variation or shadow of turning.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>James 1:17 (NKJV)</em></p>
 
@@ -69,7 +69,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodPromise.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Thus God, determining to show more abundantly to the heirs of promise the immutability of His counsel, confirmed it by an oath, that by two immutable things, in which it is impossible for God to lie, we might have strong consolation, who have fled for refuge to lay hold of the hope set before us.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Hebrews 6:17-18 (NKJV)</em></p>
 
@@ -82,7 +82,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodFaithfulWord.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Forever, O LORD, Your word is settled in heaven. Your faithfulness endures to all generations; You established the earth, and it abides.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Psalm 119:89-90 (NKJV)</em></p>
 
@@ -95,7 +95,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodPurpose.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     The counsel of the LORD stands forever, The plans of His heart to all generations.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Psalm 33:11 (NKJV)</em></p>
 
@@ -108,7 +108,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodTruthful.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And also the Strength of Israel will not lie nor **relent**. For He is not a man, that He should **relent**.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>1 Samuel 15:29 (NKJV)</em></p>
 
@@ -123,7 +123,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodRelents.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then God saw their works, that they turned from their evil way; and God **relented** from the disaster that He had said He would bring upon them, and He did not do it.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Jonah 3:10 (NKJV)</em></p>
 
@@ -140,7 +140,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodPrayer.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then Moses pleaded with the LORD his God, and said: “LORD, why does Your wrath burn hot against Your people whom You have brought out of the land of Egypt with great power and with a mighty hand? [...] Turn from Your fierce wrath, and relent from this harm to Your people.”  
     So the LORD relented from the harm which He said He would do to His people.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Exodus 32:11-14 (NKJV)</em></p>
@@ -154,7 +154,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/BabyJesus.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>John 1:14 (NKJV)</em></p>
 
@@ -273,7 +273,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodEternal.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Jesus Christ is the same yesterday, today, and forever.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Hebrews 13:8 (NKJV)</em></p>
 

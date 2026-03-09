@@ -28,7 +28,7 @@ Ingmar Bitter, PhD
 
 ![](foundationPics/JesusInWaves.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     13 until we all come into the unity of the faith and of the knowledge of the Son of God, into a complete man, to the measure of the stature of the fullness of Christ, 14 so we may no longer be children, tossed here and there by waves and carried about with every wind of doctrine by the trickery of men, by craftiness with deceitful scheming. 15 But, speaking the truth in love, we may grow up in all things into Him, who is the head, Christ Himself,
 </p>
 <p style="text-align: right; margin-top: -1em;"><em>Ephesians 4:13-15</em></p>
@@ -42,7 +42,7 @@ Ingmar Bitter, PhD
 
 ![](foundationPics/ToJesusInWaves.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     6 I marvel that you are turning away so soon from Him who called you in the grace of Christ to a different gospel, 7 which is not a gospel. But there are some who trouble you and would pervert the gospel of Christ. 8 Although if we or an angel from heaven preach any other gospel to you than the one we have preached to you, let him be accursed. 9 As we said before, so I say now again: If anyone preaches any other gospel to you than the one you have received, let him be accursed.
 </p><p style="text-align: right; margin-top: -2em;"><em>Galatians 1:6-9</em></p>
 
@@ -80,7 +80,7 @@ Ingmar Bitter, PhD
 
 ![](foundationPics/bibleStudyCoffee.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     37 Jesus said to him, “ ‘You shall love the Lord your God with all your heart, and with all your soul, and **with all your mind**.’[a] 38 This is the first and greatest commandment.
 </p>
 <p style="text-align: right; margin-top: -1em;"><em>Matthew 22:37-38</em></p>
@@ -95,7 +95,7 @@ Ingmar Bitter, PhD
 
 ![](foundationPics/ChristImage.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     9 Anyone who does not remain in Christ’s teaching but goes beyond it, does not have God. The one who remains in that teaching, this one has both the Father and the Son. 10 If anyone comes to you and does not bring this teaching, do not receive him into your home, and don’t say, “Welcome,” to him;
 </p>
 <p style="text-align: right; margin-top: -1em;"><em>2 John 9-10</em></p>

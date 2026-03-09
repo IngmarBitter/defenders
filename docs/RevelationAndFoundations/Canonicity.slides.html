@@ -76,7 +76,7 @@ Ingmar Bitter, PhD
 
 ![](CanonicityPics/JesusReadingScrolls.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then He said to them, "These are the words which I spoke to you while I was still with you, that all things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms concerning Me."
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Luke 24:44 (NKJV)</em></p>
 
@@ -158,7 +158,7 @@ Ingmar Bitter, PhD
 
 ![](CanonicityPics/JesusDove.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all things that I said to you.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>John 14:26 (NKJV)</em></p>
 
@@ -174,7 +174,7 @@ Ingmar Bitter, PhD
 
 ![](CanonicityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     9 For you remember, brethren, our labor and toil; for laboring night and day, that we might not be a burden to any of you, we preached to you the gospel of God. 10 You are witnesses, and God also, how devoutly and justly and blamelessly we behaved ourselves among you who believe; 11 as you know how we exhorted, and comforted, and charged every one of you, as a father does his own children, 12 that you would walk worthy of God who calls you into His own kingdom and glory. 13 For this reason we also thank God without ceasing, because when **you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God**, which also effectively works in you who believe.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>1 Thessalonians 2:9-13 (NKJV, emphasis added)</em></p>
 
@@ -187,7 +187,7 @@ Ingmar Bitter, PhD
 
 ![](CanonicityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     11 But I make known to you, brethren, that the gospel which was preached by me is not according to man. 12 For I neither received it from man, nor was I taught it, but it came through the revelation of Jesus Christ.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Galatians 1:11-12 (NKJV)</em></p>
 
@@ -201,7 +201,7 @@ Ingmar Bitter, PhD
 
 ![](CanonicityPics/GlowWriting.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     36 Or did the word of God come originally from you? Or was it you only that it reached? 37 If anyone thinks himself to be a prophet or spiritual, let him acknowledge that the things which I write to you are the commandments of the Lord.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>1 Corinthians 14:36-37 (NKJV)</em></p>
 
@@ -230,7 +230,7 @@ Ingmar Bitter, PhD
 
 ![](CanonicityPics/BibleDemonstrated.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     15 and consider that the longsuffering of our Lord is salvation—as also our beloved brother Paul, according to the wisdom given to him, has written to you, 16 as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which untaught and unstable people twist to their own destruction, as they do **also the rest of the Scriptures**.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>2 Peter 3:15-16 (NKJV, emphasis added)</em></p>
 

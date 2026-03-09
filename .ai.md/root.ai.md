@@ -75,7 +75,7 @@ Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Sp
 ### Scripture Quote Format (Slides)
 
 ```markdown
-<p style="font-family: 'Gabriola', serif;">"[NKJV text verbatim]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>[Full Book Name] [Chapter]:[Verses] (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[NKJV text verbatim]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>[Full Book Name] [Chapter]:[Verses] (NKJV)</em></p>
 ```
 
 Use the template margins for new quotes. Some slides have hand-adjusted margin values — do not change those.

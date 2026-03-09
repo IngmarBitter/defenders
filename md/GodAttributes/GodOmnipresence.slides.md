@@ -40,7 +40,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Where can I go from Your Spirit?  
     Or where can I flee from Your presence?  
     If I ascend into heaven, You are there;  
@@ -68,7 +68,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Am I a God near at hand," says the Lord,<br>  
     "And not a God afar off?<br>  
     Can anyone hide himself in secret places,<br>  
@@ -87,7 +87,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "A man who has friends must himself be friendly,<br>  
     But there is a friend who sticks closer than a brother."  
 </p>
@@ -104,7 +104,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "But will God indeed dwell on the earth?<br>  
     Behold, heaven and the heaven of heavens cannot contain You.<br>  
     How much less this temple which I have built!"  
@@ -121,7 +121,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     24 "God, who made the world and everything in it,<br>  
     since He is Lord of heaven and earth,<br>  
     does not dwell in temples made with hands."<br><br>  
@@ -156,7 +156,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "The Lord is in His holy temple,<br>
     The Lord’s throne is in heaven;<br>
     His eyes behold,<br>
@@ -175,14 +175,14 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Behold My hands and My feet, that it is I Myself. Handle Me and see, for **a spirit does not have flesh and bones** as you see I have."  
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Luke 24:39 (NKJV), emphasis added</em></p>
 
 * Jesus defines spirit as without flesh and bones
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "**God is Spirit**, and those who worship Him must worship in spirit and truth."  
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>John 4:24 (NKJV), emphasis added</em></p>
@@ -196,12 +196,12 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Now to the King eternal, immortal, **invisible**, to God who alone is wise, be honor and glory forever and ever. Amen."  
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>1 Timothy 1:17 (NKJV), emphasis added</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "He is the image of the **invisible God**, the firstborn over all creation."  
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Colossians 1:15 (NKJV), emphasis added</em></p>
@@ -216,7 +216,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Take careful heed to yourselves, for **you saw no form when the Lord spoke** to you at Horeb out of the midst of the fire, lest you act corruptly and make for yourselves a carved image in the form of any figure: the likeness of male or female."  
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Deuteronomy 4:15-16 (NKJV)</em></p>
@@ -231,7 +231,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "In the beginning God created the heavens and the earth."  
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Genesis 1:1 (NKJV)</em></p>
@@ -417,7 +417,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/ComfortinGodsPresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Even though I walk through the valley of the shadow of death,<br>
     I fear no evil, for Thou art with me."
 </p>

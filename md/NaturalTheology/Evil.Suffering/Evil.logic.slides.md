@@ -338,7 +338,7 @@ Ingmar Bitter, PhD
 
 ![](EvilPics/GreedEnvyLust.jpg style="float: right; width: 4rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Therefore **God also gave them up** to uncleanness, in the lusts of their hearts, to dishonor their bodies among themselves,
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: 1em;"> <em>Romans 1:24 (NKJV)</em></p>
 

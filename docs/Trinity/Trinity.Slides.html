@@ -84,19 +84,19 @@ Ingmar Bitter, PhD
 
 ## Personhood: Personal Pronouns
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And God said, Let **us** make man in **our** image, after our likeness.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Genesis 1:26 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For God so loved the world that **He** gave **His** only begotten Son.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>John 3:16 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Jesus said to them, Most assuredly, **I** say to you, before Abraham was, **I AM**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>John 8:58 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But the Helper, the Holy Spirit, whom the Father will send in My name, **He** will teach you all things.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>John 14:26 (NKJV) – Spirit</em></p>
 
@@ -106,19 +106,19 @@ Ingmar Bitter, PhD
 
 ## Personhood: Action Verbs
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then God **said**, Let there be light: and there was light.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Genesis 1:3 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For God did not **send** His Son into the world to condemn the world, but that the world through Him might be saved.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>John 3:17 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then Jesus **came** to them and **spoke** to them, saying, All authority has been given to Me in heaven and on earth.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Matthew 28:18 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     As they ministered to the Lord and fasted, the Holy Spirit **said**, Now separate to Me Barnabas and Saul for the work to which I have called them.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Acts 13:2 (NKJV) – Spirit</em></p>
 
@@ -128,19 +128,19 @@ Ingmar Bitter, PhD
 
 ## Distinctness: Inter-Personal Relations
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Go therefore and make disciples of all the nations, baptizing them in the name of the **Father** and of the **Son** and of the **Holy Spirit**.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>Matthew 28:19 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Jesus answered and said to him, If anyone loves Me, he will keep My word; and **My Father** will love him, and We will come to him and make Our home with him.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>John 14:23 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     He went a little farther and fell on His face, and prayed, saying, **O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will**.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>Matthew 26:39 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But when the Helper comes, **whom I shall send** to you from the Father, the Spirit of truth **who proceeds from the Father**, He will testify of Me.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>John 15:26 (NKJV) – Spirit</em></p>
 
@@ -150,19 +150,19 @@ Ingmar Bitter, PhD
 
 ## Unity/Oneness
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Hear, O Israel: **The LORD our God, the LORD is one!**
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>Deuteronomy 6:4 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For us there is **one God, the Father**, of whom are all things, and we for Him; and one Lord Jesus Christ, through whom are all things, and through whom we live.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>1 Corinthians 8:6 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Jesus said to them, Most assuredly, I say to you, before Abraham was, **I AM**. And the Jews took up stones to throw at Him. Jesus said to them, Many good works I have shown you from My Father. For which of those works do you stone Me?
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>John 10:30 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But you are not in the flesh but in the Spirit, if indeed **the Spirit of God dwells in you**. Now if anyone does not have **the Spirit of Christ**, he is not His.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>Romans 8:9 (NKJV) – Spirit</em></p>
 
@@ -172,19 +172,19 @@ Ingmar Bitter, PhD
 
 ## Divinity: Called "God"
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Hear, O Israel: **The LORD our God**, the LORD is one!
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -0.5em;"> <em>Deuteronomy 6:4 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Him the **Father, God**, has sealed.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -0.5em;"> <em>John 6:27 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     In the beginning was the Word, and the Word was with God, and **the Word was God**.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -0.5em;"> <em>John 1:1 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Ananias, why has Satan filled your heart to lie to the **Holy Spirit**...You have not lied to men but **to God**.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Acts 5:3–4 (NKJV) – Spirit</em></p>
 
@@ -194,19 +194,19 @@ Ingmar Bitter, PhD
 
 ## Omnipotence: All-Powerful
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then Job answered the LORD and said: I know that **You can do everything**, And that no purpose of Yours can be withheld from You.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Job 42:2 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     My **Father**, who has given them to Me, **is greater than all**; and no one is able to snatch them out of My Father's hand.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>John 10:29 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And **Jesus** came and spoke to them, saying, **All authority has been given to Me** in heaven and on earth.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -0.5em;"> <em>Matthew 28:18 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Now to the one who by **the power working in us** is able to do far more abundantly than all that we ask or think.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Ephesians 3:20 (NKJV) – Spirit</em></p>
 
@@ -216,19 +216,19 @@ Ingmar Bitter, PhD
 
 ## Omniscience: All-Knowing
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Great is our **Lord**, and mighty in power; **His understanding is infinite**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Psalm 147:5 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And your **Father knows the things you have need of before you ask** Him.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Matthew 6:8 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But **Jesus, knowing their thoughts**, said, Why do you think evil in your hearts?
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Matthew 9:4 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But as it is written: Eye has not seen, nor ear heard, Nor have entered into the heart of man The things which God has prepared for those who love Him. But **God has revealed them to us through His Spirit**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: 0.51em;"> <em>1 Corinthians 2:9–10 (NKJV) – Spirit</em></p>
 
@@ -238,19 +238,19 @@ Ingmar Bitter, PhD
 
 ## Omnipresence: Everywhere Present
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     **Where can I go from Your Spirit? Or where can I flee from Your presence?**
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Psalm 139:7 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     One God and **Father** of all, **who is above all, and through you all, and in you all**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Ephesians 4:6 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Teaching them to observe all things that I have commanded you; and lo, **I am with you always, even to the end of the age**.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>Matthew 28:20 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Do you not know that **you are the temple of God and that the Spirit of God dwells in you**?
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>1 Corinthians 3:16 (NKJV) – Spirit</em></p>
 
@@ -260,19 +260,19 @@ Ingmar Bitter, PhD
 
 ## Eternity: Without Beginning or End
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     **Before the mountains were brought forth, Or ever You had formed the earth and the world, Even from everlasting to everlasting, You are God**.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>Psalm 90:2 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Now to the **King eternal, immortal, invisible**, to God who alone is wise, Be honor and glory forever and ever. Amen.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>1 Timothy 1:17 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     **In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God**.
 </p><p style="text-align: right; margin-top: -2.5em; margin-bottom: -0.5em;"> <em>John 1:1–2 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     How much more shall the blood of Christ, who through **the eternal Spirit** offered Himself without spot to God, cleanse your conscience from dead works to serve the living God?
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Hebrews 9:14 (NKJV) – Spirit</em></p>
 
@@ -282,19 +282,19 @@ Ingmar Bitter, PhD
 
 ## Immutability: Unchanging
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For I am the LORD, **I do not change**; Therefore you are not consumed, O sons of Jacob.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Malachi 3:6 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is **no variation or shadow of turning**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>James 1:17 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     **Jesus Christ is the same yesterday, today, and forever**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Hebrews 13:8 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And I will pray the Father, and He will give you another Helper, that **He may abide with you forever**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>John 14:16 (NKJV) – Spirit</em></p>
 
@@ -304,19 +304,19 @@ Ingmar Bitter, PhD
 
 ## Creator: Involvement in Creation
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     In the beginning, **God created the heavens and the earth**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Genesis 1:1 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     **God, the Father**, of whom are all things, and we for Him.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>1 Corinthians 8:6 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     **All things were made through Him**, and without Him nothing was made that was made.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>John 1:3 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     **The Spirit of God has made me**, And the breath of the Almighty gives me life.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>Job 33:4 (NKJV) – Spirit</em></p>
 
@@ -326,19 +326,19 @@ Ingmar Bitter, PhD
 
 ## Roles in Salvation
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     I, even I, am the **LORD, and there is no savior besides Me**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.75em;"> <em>Isaiah 43:11 (NKJV) – Trinity</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Just as **He chose us in Him before the foundation of the world**, that we should be holy and without blame before Him in love.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.75em;"> <em>Ephesians 1:4 (NKJV) – Father</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     In whom we have **redemption through His blood, the forgiveness of sins**, according to the riches of His grace.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.75em;"> <em>Ephesians 1:7 (NKJV) – Son</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     In Him you also trusted, after you heard the word of truth, the gospel of your salvation; in whom also, having believed, **you were sealed with the Holy Spirit of promise**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.75em;"> <em>Ephesians 1:13 (NKJV) – Spirit</em></p>
 
@@ -614,7 +614,7 @@ Ingmar Bitter, PhD
 
 ## Text Often Cited on Processions
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father, He will testify of Me.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>John 15:26 (NKJV)</em></p>
 
@@ -666,7 +666,7 @@ Ingmar Bitter, PhD
 
 ## Text: Romans 8:26–27
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us with groanings which cannot be uttered...
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 8:26–27 (NKJV, excerpt)</em></p>
 
@@ -677,7 +677,7 @@ Ingmar Bitter, PhD
 
 ## Baptismal Pattern
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Matthew 28:19 (NKJV)</em></p>
 

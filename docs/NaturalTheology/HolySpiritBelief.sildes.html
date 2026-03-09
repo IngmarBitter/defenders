@@ -39,11 +39,11 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     God has sent forth the Spirit of His Son into your hearts, crying out, "Abba, Father!"
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Galatians 4:6 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     The Spirit Himself bears witness with our spirit that we are children of God.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Romans 8:16 (NKJV)</em></p>
 
@@ -55,11 +55,11 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But you have an anointing from the Holy One, and you know all things... But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not a lie, and just as it has taught you, you will abide in Him.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>1 John 2:20, 27 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all things that I said to you.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -0.5em;"> <em>John 14:26 (NKJV)</em></p>
 
@@ -166,7 +166,7 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you. And when He has come, He will convict the world of sin, and of righteousness, and of judgment: of sin, because they do not believe in Me; of righteousness, because I go to My Father and you see Me no more; of judgment, because the ruler of this world is judged.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>John 16:7-11 (NKJV)</em></p>
 
@@ -185,11 +185,11 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     As it is written: "There is none righteous, no, not one; There is none who understands; There is none who seeks after God."
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 3:10-11 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Jesus answered them and said, "My doctrine is not Mine, but His who sent Me. If anyone wills to do His will, he shall know concerning the doctrine, whether it is from God or whether I speak on My own authority."
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>John 7:16-17 (NKJV)</em></p>
 
@@ -202,11 +202,11 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     No one can come to Me unless the Father who sent Me draws him; and I will raise him up at the last day.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>John 6:44 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     My doctrine is not Mine, but His who sent Me. If anyone wills to do His will, he shall know concerning the doctrine, whether it is from God or whether I speak on My own authority.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>John 7:16-17 (NKJV)</em></p>
 
@@ -258,7 +258,7 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;"> For since the creation of the world His invisible attributes are clearly seen, being understood by the things that are made, even His eternal power and Godhead, so that they are without excuse. </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 1:20 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;"> For since the creation of the world His invisible attributes are clearly seen, being understood by the things that are made, even His eternal power and Godhead, so that they are without excuse. </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Romans 1:20 (NKJV)</em></p>
 
 * God's Revelation in Nature:
   * Creation reveals God's eternal power and divine nature.
@@ -395,7 +395,7 @@ Ingmar Bitter, PhD
 
 ![](NatTheoPics/NatTheo.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Beloved, do not believe every spirit, but test the spirits to see whether they are from God.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>1 John 4:1 (NKJV)</em></p>
 

@@ -32,7 +32,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodAndWorldDetails.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     O LORD, You have searched me and known me. You know my sitting down and my rising up; You understand my thought afar off.<br>
     You comprehend my path and my lying down, <br> and are acquainted with all my ways.<br>
     For there is not a word on my tongue, <br> But behold, O LORD, You know it altogether.
@@ -52,17 +52,17 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodAndWorldDetails.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "For He looks to the ends of the earth,  
     And sees under the whole heavens."  
 </p>
 <p style="text-align: right; margin-top: -1em;">    <em>Job 28:24 (NKJV)</em></p>
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "The eyes of the LORD are in every place,  
     Keeping watch on the evil and the good."  
 </p>
 <p style="text-align: right; margin-top: -1em;">    <em>Proverbs 15:3 (NKJV)</em></p>
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "But the very hairs of your head are all numbered."  
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Matthew 10:30 (NKJV)</em></p>
@@ -76,12 +76,12 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodBooksAndHearts.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "The Lord searches all hearts and understands  
     all the intent of the thoughts."  
 </p>
 <p style="text-align: right; margin-top: -1em;">    <em>1 Chronicles 28:9 (NKJV)</em></p>
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "The heart is deceitful above all things,  
     And desperately wicked; Who can know it?  
     I, the Lord, search the heart,  
@@ -89,7 +89,7 @@ Ingmar Bitter, PhD
     according to his ways, According to the fruit of his doings."  
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Jeremiah 17:9-10 (NKJV)</em></p>
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     [...] all things are naked and open to the eyes  
     of Him to whom we must give account."  
 </p>
@@ -105,7 +105,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "For I am God, and there is no other;  
     I am God, and there is none like Me,  
     Declaring the end from the beginning,  
@@ -126,7 +126,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodBooksAndTime.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Let them bring forth and show us what will happen; ...<br>
     Declare to us the things to come<br>
     ... that we may know that you are gods."  
@@ -146,12 +146,12 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/EveReachingForFruit.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Even before a word is on my tongue,  
     Behold, O Lord, You know it altogether."  
 </p>
 <p style="text-align: right; margin-top: -2em;">    <em>Psalm 139:4 (NKJV)</em></p>
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Your eyes saw my substance, being yet unformed.  
     And in Your book they all were written,  
     The days fashioned for me,  
@@ -171,17 +171,17 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/JesusBooksTime.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Jesus said to him, 'Assuredly, I say to you that this night, before the rooster crows, you will deny Me three times.'"  
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Matthew 26:34 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Jesus answered, 'It is he to whom I shall give a piece of bread when I have dipped it.' And having dipped the bread, He gave it to Judas Iscariot, the son of Simon."  
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>John 13:26 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "From that time Jesus began to show to His disciples that He must go to Jerusalem, and suffer many things from the elders and chief priests and scribes, and be killed, and be raised the third day."  
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -2em;">    <em>Matthew 16:21 (NKJV)</em></p>
@@ -196,7 +196,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     David inquired of the Lord about saving Keilah from the Philistines, and God assured him of victory.  
     After defeating the Philistines, David learned that Saul planned to attack Keilah.  
     David asked God if Saul would come and if the people of Keilah would betray him.  
@@ -215,7 +215,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodForkIntentional.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     And He said to them, “Cast the net on the right side of the boat, and you will find some.” So they cast, and now they were not able to draw it in because of the multitude of fish.
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>John 21:6 (NKJV)</em></p>
@@ -230,12 +230,12 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/OwlBooksIdeas.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Oh, the depth of the riches both of the  
     wisdom and knowledge of God!"  
 </p>
 <p style="text-align: right; margin-top: -1em;">    <em>Romans 11:33 (NKJV)</em></p>
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "Great is our Lord... His understanding  
     is infinite."  
 </p>
@@ -290,7 +290,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/SelfKnowledge.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "I am the good shepherd; and I know My sheep, and am known by My own."  
 </p>
 <p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>John 10:14 (NKJV)</em></p>
@@ -499,7 +499,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/JosephAndBrothers.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "But as for you, you meant evil against me; but God meant it for good,  
     in order to bring it about as it is this day, to save many people alive."  
 </p>
@@ -585,7 +585,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/ScriptureAndBaptism.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     "And we know that all things work together for good to those who love God, to those who are the called according to His purpose."  
 </p>
 <p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Romans 8:28 (NKJV)</em></p>

@@ -69,7 +69,7 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/BurningBush.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then Moses said to God, “If I come to the people of Israel and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ what shall I say to them?” God said to Moses, “**I am who I am.**” And he said, “Say this to the people of Israel, ‘I am has sent me to you.’” ... ‘The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you’: **this is my name for ever**, and thus I am to be remembered throughout all generations.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Exodus 3:13-15 (NKJV), emphasis added</em></p>
 
@@ -83,7 +83,7 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/GodSittingOnEarth.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     All nations before Him are as nothing, And they are counted by Him less than nothing and worthless. To whom then will you liken God? Or what likeness will you compare to Him? ... It is He who sits above the circle of the earth, And its inhabitants are like grasshoppers, Who stretches out the heavens like a curtain, And spreads them out like a tent to dwell in. ... The **everlasting God**, the Lord, The **Creator of the ends of the earth**, Neither faints nor is weary. His understanding is unsearchable.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Isaiah 40:17-23, 28a (NKJV), emphasis added</em></p>
 
@@ -96,11 +96,11 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/JesusOnMobius.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through Him, and without Him nothing was made that was made.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>John 1:1-3 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     You are worthy, O Lord, To receive glory and honor and power; For You created all things, And by Your will they exist and were created.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Revelation 4:11 (NKJV)</em></p>
 
@@ -113,11 +113,11 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/GodWithEarthAndAngles.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     You alone are the Lord; You have made heaven, The heaven of heavens, with all their host, The earth and everything on it, The seas and all that is in them, And You preserve them all. The host of heaven worships You.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Nehemiah 9:6 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For of Him and through Him and to Him are all things, to whom be glory forever. Amen.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Romans 11:36 (NKJV)</em></p>
 
@@ -131,11 +131,11 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/JesusHoldingEarth.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     For even if there are so-called gods, whether in heaven or on earth (as there are many gods and many lords), yet for us there is one God, the Father, of whom are all things, and we for Him; and one Lord Jesus Christ, through whom are all things, and through whom we live.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>1 Corinthians 8:5-6 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     God, who at various times and in various ways spoke in time past to the fathers by the prophets, has in these last days spoken to us by His Son, whom He has appointed heir of all things, through whom also He made the worlds; who being the brightness of His glory and the express image of His person, and upholding all things by the word of His power, when He had by Himself purged our sins, sat down at the right hand of the Majesty on high.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Hebrews 1:1-3a (NKJV)</em></p>
 
@@ -250,7 +250,7 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then Moses said to God, “If I come to the people of Israel and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ what shall I say to them?” God said to Moses, “**I am who I am.**” And he said, “Say this to the people of Israel, ‘I am has sent me to you.’” ... ‘The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you’: **this is my name for ever**, and thus I am to be remembered throughout all generations.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -1em;">    <em>Exodus 3:13-15 (NKJV)</em></p>
 
@@ -356,7 +356,7 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Before the mountains were brought forth, Or ever You had formed the earth and the world, Even from everlasting to everlasting, You are God.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Psalm 90:2 (NKJV)</em></p>
 
@@ -369,7 +369,7 @@ Ingmar Bitter, PhD
 
 ![](InfinityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     “I am the Alpha and the Omega, the Beginning and the End,” says the Lord, “who is and who was and who is to come, the Almighty.”
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Revelation 1:8 (NKJV)</em></p>
 

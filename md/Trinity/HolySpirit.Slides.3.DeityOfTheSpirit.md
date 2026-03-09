@@ -18,7 +18,7 @@
 
 ## The Spirit Is God
 
-<p style="font-family: 'Gabriola', serif;">“Ananias, why has Satan filled your heart to lie to the Holy Spirit […]? […] You have not lied to men but to God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 5:3–4 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Ananias, why has Satan filled your heart to lie to the Holy Spirit […]? […] You have not lied to men but to God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 5:3–4 (NKJV)</em></p>
 
 * Peter equates lying to the Spirit with lying to God
 * “Lie to” is personal language: you don’t meaningfully lie to an impersonal force (e.g., gravity)
@@ -31,7 +31,7 @@
 
 ## Eternity
 
-<p style="font-family: 'Gabriola', serif;">“how much more shall the blood of Christ, who through the **eternal Spirit** offered Himself without spot to God […]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 9:14 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“how much more shall the blood of Christ, who through the **eternal Spirit** offered Himself without spot to God […]”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 9:14 (NKJV)</em></p>
 
 * “Eternal” is a divine attribute
 * The Spirit is not a late addition to God’s life
@@ -42,7 +42,7 @@
 
 ## Omnipresence
 
-<p style="font-family: 'Gabriola', serif;">“Where can I go from Your Spirit? Or where can I flee from Your presence?”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 139:7 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Where can I go from Your Spirit? Or where can I flee from Your presence?”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 139:7 (NKJV)</em></p>
 
 * The Spirit is not localized like a creature
 * The Spirit is present with God’s people everywhere
@@ -53,7 +53,7 @@
 
 ## Omniscience
 
-<p style="font-family: 'Gabriola', serif;">“For the Spirit searches all things, yes, the deep things of God. […] Even so no one knows the things of God except the Spirit of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 2:10–11 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“For the Spirit searches all things, yes, the deep things of God. […] Even so no one knows the things of God except the Spirit of God.”</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 2:10–11 (NKJV)</em></p>
 
 * The Spirit comprehends the thoughts of God
 * This is not creaturely knowledge
@@ -64,9 +64,9 @@
 
 ## Holiness and Love
 
-<p style="font-family: 'Gabriola', serif;">“and declared to be the Son of God with power according to the **Spirit of holiness**, by the resurrection from the dead.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Romans 1:4 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“and declared to be the Son of God with power according to the **Spirit of holiness**, by the resurrection from the dead.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Romans 1:4 (NKJV)</em></p>
 
-<p style="font-family: 'Gabriola', serif;">“Now hope does not disappoint, because the **love of God** has been poured out in our hearts **by the Holy Spirit** who was given to us.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Romans 5:5 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">“Now hope does not disappoint, because the **love of God** has been poured out in our hearts **by the Holy Spirit** who was given to us.”</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>Romans 5:5 (NKJV)</em></p>
 
 * Holiness and Love that does not disappoint are perfection
   * Thus they are divine attributes

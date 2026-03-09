@@ -1,0 +1,31 @@
+@font-face{
+    font-family: 'EB Garamond';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('TTF/EBGaramond-Regular.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'EB Garamond';
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('TTF/EBGaramond-Italic.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'EB Garamond';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('TTF/EBGaramond-Bold.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'EB Garamond';
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('TTF/EBGaramond-BoldItalic.ttf') format('truetype');
+}

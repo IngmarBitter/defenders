@@ -101,7 +101,7 @@ Ingmar Bitter, PhD
 
 ![](revelation101Pics/nature.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     15 Men, why are you doing this? We also are men, of like nature with you, preaching to you to turn from these vain things to the living God, who made the heaven and the earth, the sea, and all things that are in them. 16 In past generations He allowed all nations to walk in their own ways. 17 Yet He did not leave Himself without witness, for He did good and gave us rain from heaven and fruitful seasons, satisfying our hearts with food and gladness.
 </p>
 <p style="text-align: right; margin-top: -1em;">
@@ -117,14 +117,14 @@ Ingmar Bitter, PhD
 
 ![](revelation101Pics/nebula.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     1 The heavens declare the glory of God; the firmament shows His handiwork.
 </p>
 <p style="text-align: right; margin-top: -1em;">
     <em>Psalm 19:1 (MEV)</em>
 </p>
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     18 The wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who **suppress the truth** through unrighteousness. 19 For **what may be known about God is clear** to them since God has shown it to them. 20 **The invisible things about Him—His eternal power and deity—have been clearly seen since the creation of the world and are understood by the things that are made, so that they are without excuse**.
 </p>
 <p style="text-align: right; margin-top: -1em;">
@@ -137,7 +137,7 @@ Ingmar Bitter, PhD
 
 ![](revelation101Pics/greeks.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     14 When Gentiles, who do not have the law, do by nature the things contained in the law, these, although they do not have the law, are a law unto themselves, 15 who show the work of **the law written in their hearts**, their consciences also bearing witness, while **their conflicting thoughts accuse or excuse them**, 16 in the day when, according to my gospel, God will judge the secrets of men through Jesus Christ.
 </p>
 <p style="text-align: right; margin-top: -1em;">
@@ -182,14 +182,14 @@ Ingmar Bitter, PhD
    * When there is some law, there is accountability to what's known
    * Gentiles are condemned for not living up to general revelation, being in awe of God and acting morally
 
-<p style="font-family: 'Gabriola', serif; margin-top: -0.5em;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic; margin-top: -0.5em;">
     15 Because the law produces wrath; for where there is no law, there is no sin.
 </p>
 <p style="text-align: right; margin-top: -1.5em;">
     <em>Romans 4:15 (MEV)</em>
 </p>
 
-<p style="font-family: 'Gabriola', serif; margin-top: -1em;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic; margin-top: -1em;">
     15 ... the law written in their hearts ... their conflicting thoughts accuse or excuse them ...
 </p>
 <p style="text-align: right; margin-top: -1.5em;">
@@ -280,7 +280,7 @@ Ingmar Bitter, PhD
 
 ![](revelation101Pics/JesusBooks.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     1 In the beginning was the Word, and the Word was with God, and the Word was God.
     14 The Word became flesh and dwelt among us, and we saw His glory, the glory as the only Son of the Father, full of grace and truth.
     18 No one has seen God at any time. The only Son, who is at the Father’s side, has made Him known.
@@ -298,7 +298,7 @@ Ingmar Bitter, PhD
 
 ![](revelation101Pics/BibleCross.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'Gabriola', serif;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
     16 All Scripture is inspired by God and is profitable for teaching, for reproof, for correction, and for instruction in righteousness,
 </p>
 <p style="text-align: right; margin-top: -1em;">
@@ -320,7 +320,7 @@ Ingmar Bitter, PhD
 * Was useful before the NT was written
 * Is useful where there is no NT: Muslims coming to Christ through visions
 * Discernment is crucial (1 John 4:1)
-<p style="font-family: 'Gabriola', serif; margin-top: -1em;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic; margin-top: -1em;">
     1 Beloved, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.
 </p>
 <p style="text-align: right; margin-top: -1em;"><em>1 John 4:1 (MEV)</em></p>
