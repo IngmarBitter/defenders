@@ -232,6 +232,16 @@ a[href^="#citation-"] {
     background-color: lightgray;
 }
 
+/* scripture quotes (EB Garamond) */
+p[style*="EB Garamond"] {
+    margin-top: -0.5em;
+    margin-bottom: 0;
+}
+p[style*="EB Garamond"] + p[style*="text-align: right"] {
+    margin-top: 0;
+    margin-bottom: 0.3em;
+}
+
 /* endnotes and bibliography */
 .md .endnote,
 .md .bib {

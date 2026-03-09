@@ -95,13 +95,14 @@ For long presentations that span multiple weeks:
         totalSlideNumber: false,
         progressBar: true,
         breakOnHeadings: false,
-        slideChangeHook: (oldSlide, newSlide) => {},
+        slideChangeHook: (oldSlide, newSlide) => { if (window.adjustScriptureQuoteLabels) adjustScriptureQuoteLabels(); },
         modeChangeHook: (newMode) => {}
     };
 </script>
 <link rel="stylesheet" href="../markdeep-slides/lib/markdeep-relative-sizes/1.11/relativize.css">
 <link rel="stylesheet" href="../markdeep-slides/markdeep-slides.css">
 <script src="../markdeep-slides/markdeep-slides.js"></script>
+<script src="../markdeep-slides/scripture-quote-layout.js"></script>
 
 <script>
     markdeepOptions = {
