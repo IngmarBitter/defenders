@@ -58,6 +58,13 @@ Current slides:
 
 User said these need better examples. Compare against Craig.12 and Craig.23 which cover representation in detail (Turretin's two bases for union with Christ, incarnation + baptism, vicarious liability, explanatory circularity of mystical union).
 
+### Pending: Apply quote spacing changes to other slide decks
+
+CSS changes (dark.css) apply globally, but these per-file changes still need to be applied to other decks:
+- Strip inline `margin-top`/`margin-bottom` from reference `<p>` labels (sed pattern: `text-align: right; margin-top: -Xem; margin-bottom: -Xem;` → `text-align: right;`)
+- Add `scripture-quote-layout.js` script tag and `slideChangeHook` to each slide file's footer
+- Files: all `md/Christ/*.Slides.*.md`, all `md/Trinity/*.Slides.*.md`, and their `docs/` HTML copies
+
 ### Pending: Heresy variant images
 
 User needs to edit these copies of `Trinity.and.JesusTrueGodTrueMan.png`:

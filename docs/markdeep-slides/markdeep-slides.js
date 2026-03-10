@@ -52,6 +52,16 @@ function initSlides() {
 
     // break document into slides
     var md = document.querySelector("body > .md");
+
+    // Markdeep 1.18+ wraps content in <section> elements, which hides
+    // <hr> tags from the flat child list. Unwrap them.
+    md.querySelectorAll('section').forEach(function(section) {
+        while (section.firstChild) {
+            section.parentNode.insertBefore(section.firstChild, section);
+        }
+        section.parentNode.removeChild(section);
+    });
+
     var es = Array.from(md.childNodes);
 
     function isHeadingSlideBreak(e) {
