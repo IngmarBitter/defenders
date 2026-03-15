@@ -168,7 +168,7 @@
 
 ---
 
-## Atonement Terminology
+## Sacrifice — Terminology & Summary
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
@@ -275,6 +275,21 @@
 
 ---
 
+## "For Our Sins" — What Does "For" Mean?
+
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Christ died for our sins according to the Scriptures,"</p><p style="text-align: right;"> <em>1 Corinthians 15:3 (NKJV)</em></p>
+
+* "Died **for** our sins" is ambiguous in isolation — but read against Isaiah 53, it takes on substitutionary-punitive meaning
+* The New Testament uses three Greek prepositions to unpack "for":
+  * *hyper* ("on behalf of") — 1 Corinthians 15:3
+  * *dia* + accusative ("on account of") — Romans 4:25: "delivered up *on account of* our trespasses," echoing Isaiah 53:7–8
+  * *anti* ("instead of / in place of") — Mark 10:45: "to give His life as a ransom *instead of* many"
+* There is no other Old Testament passage that could be "the Scriptures" behind a dying-for-sins Messiah — only Isaiah 53
+
+---
+
 ## Once to Bear the Sins of Many
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
@@ -284,6 +299,18 @@
 * "Bear the sins of many" echoes Isaiah 53:12 — the author of Hebrews reads Christ's death through the Servant lens
 * "Offered once" — connects the Suffering Servant motif back to the sacrifice motif
 * The two motifs converge: Christ is both the sacrificial offering and the Servant who bears punishment
+
+---
+
+## Suffering Servant — Summary
+
+![](pics/SufferingServant.jpg style="float: right; width: 7rem")
+
+* Isaiah 53 is the most deeply embedded Old Testament passage in New Testament **soteriology** (doctrine of salvation)
+* The Servant suffers **substitutionary punishment** — the innocent bears the guilt of the many
+* "To bear sin" is a Hebrew idiom for being held culpable and enduring punishment
+* The key point is **function**, not identity: whoever the Servant is, he suffers in place of others to reconcile them to God
+* The New Testament authors identify Jesus as this Servant — and "died for our sins" (1 Corinthians 15:3) gains its full meaning only in light of Isaiah 53
 
 ---
 
@@ -309,8 +336,10 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the LORD is our Judge, The LORD is our Lawgiver, The LORD is our King; He will save us"</p><p style="text-align: right;"> <em>Isaiah 33:22 (NKJV)</em></p>
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Hear, you mountains, the LORD's complaint... for the LORD has a complaint against His people, and He will contend with Israel."</p><p style="text-align: right;"> <em>Micah 6:2 (NKJV)</em></p>
+
 * Three roles in one God: He defines the standard (**Lawgiver**), enforces it (**Judge**), and rules by it (**King**)
-* A fair judge cannot simply waive penalties — justice must be satisfied according to the law
+* Legal categories run deep in Hebrew thinking — God summons Israel to trial and calls the mountains as witnesses (Micah 6:1–2)
 * Yet "He will save us" — the same God who judges also provides the means of salvation
 
 ---
@@ -365,7 +394,8 @@
 
 * A double exchange: our sin is charged to Christ's account; His righteousness is credited to ours
 * This is **imputation** (a legal crediting), not infusion (a moral transformation)
-* God does not merely acquit — He positively credits righteousness to those who have faith
+* God does not merely acquit — He positively credits righteousness to believers
+* Every clause echoes Isaiah 53: "knew no sin" (53:9, 11), "made him to be sin" (53:6), "become the righteousness of God" (53:11)
 
 ---
 
@@ -399,16 +429,30 @@
 
 ---
 
+## The High Priest as Representative
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"There shall be no man in the tabernacle of meeting when he goes in to make atonement in the Holy Place, until he comes out, that he may make atonement for himself, for his household, and for all the assembly of Israel."</p><p style="text-align: right;"> <em>Leviticus 16:17 (NKJV)</em></p>
+
+* On Yom Kippur, only the high priest could enter God's presence — no one else was permitted
+* He acted as the people's **representative** before God: confessing their sins, offering their sacrifice
+* This Old Testament precedent sets the pattern for Christ, the ultimate high priest who represents all of humanity before God
+
+---
+
 ## Substitute and Representative
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
 * A **substitute** acts *in place of* another
-  * Like a pinch-hitter — he bats instead of you, but his performance is not yours
+  * Like a substitute footballer — he plays instead of you, but his goals are not yours
 * A **representative** acts *on behalf of* another
   * Like a proxy at a shareholders' meeting — his vote *is* your vote
-* Christ is both: He dies in our place *and* on our behalf
-  * In punishing Christ, God punishes us — in our representative
+* Some roles combine both
+  * An **ambassador** goes instead of the king *and* whatever he signs binds the nation
+  * An **MMO avatar** enters the world for you *and* its victories go on your record
+* Christ is both: He dies in our place *and* on our behalf — what He did, we did, in Him
 
 ---
 
@@ -416,13 +460,37 @@
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if **One died for all**, then all died;"</p><p style="text-align: right;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if One died for all, then all died;"</p><p style="text-align: right;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, as through one man's offense judgment came to all men, resulting in condemnation, even so through one Man's righteous act the free gift came to all men, resulting in justification of life."</p><p style="text-align: right;"> <em>Romans 5:18 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone."</p><p style="text-align: right;"> <em>Hebrews 2:9 (NKJV)</em></p>
 
-* "If One died for all, then all died" — His death counts as ours because He represents us
-* As Adam's disobedience brought condemnation to all, Christ's obedience brings justification to all
-* Already foreshadowed in the Old Testament: on Yom Kippur only the high priest could enter God's presence — acting as the people's representative
+* "If One died for all, then all died" — His death counts as ours because He **represents** us
+* Christ did not simply die *instead of* me — He was my representative, so what He did, I did
+* He "tasted death for everyone" — the representative bears what those He represents would have borne
+
+---
+
+## Crucified with Him
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"knowing this, that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves of sin. For he who has died has been freed from sin. Now if we died with Christ, we believe that we shall also live with Him,"</p><p style="text-align: right;"> <em>Romans 6:6–8 (NKJV)</em></p>
+
+* Because Christ is our representative, His crucifixion is representationally **our** crucifixion
+* "Our old man was crucified with Him" — in Christ, the dominion of sin over us is broken
+* His death and resurrection become *our* death to sin and *our* new life — not metaphor, but participatory reality
+
+---
+
+## Dead to Sin, Alive to God
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. Likewise you also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord."</p><p style="text-align: right;"> <em>Romans 6:10–11 (NKJV)</em></p>
+
+* Christ's death to sin was "once for all" — His representative act is final and unrepeatable
+* Paul's command: **reckon** yourselves dead to sin and alive to God — count it as done, because in your representative it *is* done
+* The practical force of representation: because Christ died and rose, believers live a new kind of life — not merely pardoned, but participating in His victory
 
 ---
 
@@ -433,8 +501,42 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death? Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."</p><p style="text-align: right;"> <em>Romans 6:3–4 (NKJV)</em></p>
 
 * Christ's death is universal in scope — but its benefits must be **appropriated** through faith
-* By faith we identify with Christ's death and resurrection — we are "crucified with Him" (Galatians 2:20)
-* Even the elect were "children of wrath" before conversion (Ephesians 2:3) — representation requires a response
+* By faith expressed in baptism, we identify with Christ's death and resurrection — we accept His representation of us
+* Even the elect were "children of wrath" before conversion (Ephesians 2:3) — representation requires a personal response
+* Those who reject Christ reject His representation and are not united with Him
+
+---
+
+## The Adam–Christ Contrast
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic; line-height: 1.5;">
+18 &ensp;Therefore just as through the <span style="color: #c05050;">trespass of one man</span><br>
+&emsp;&emsp;&ensp;came <span style="color: #c05050;">condemnation</span> <span style="color: #c05050;"><b>for all men</b></span>,<br>
+&emsp;&ensp;so through the <span style="color: #70b070;">righteous act of One</span><br>
+&emsp;&emsp;&ensp;came <span style="color: #70b070;">justification of life</span> <span style="color: #70b070;"><b>for all men</b></span>.<br>
+19 &ensp;For just as through <span style="color: #c05050;">one man's disobedience</span><br>
+&emsp;&emsp;&ensp;<span style="color: #c05050;"><b>the many were made sinners</b></span>,<br>
+&emsp;&ensp;so by the <span style="color: #70b070;">obedience of One</span><br>
+&emsp;&emsp;&ensp;<span style="color: #70b070;"><b>the many will be made righteous</b></span>.
+</p><p style="text-align: right;"> <em>Romans 5:18–19 (MEV)</em></p>
+
+* All/many **saved** is not universal salvation — but only **if they believe**
+* All/many **condemned** likewise is not universal — but only **if they sinned**
+* Christ's atoning work is **sufficient** for all — but must be received (Rom 5:17)
+
+---
+
+## Representation — Summary
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+* Christ is our **substitute** (acting in our place) AND our **representative** (acting on our behalf) — what He did, we did
+* His death is universal in scope: like Adam, He represents all humanity before God
+* But representation must be **appropriated** through faith — without a personal response, its benefits are not received
+* Through faith union with Christ, His death becomes our death to sin, and His resurrection our new life
+* Paul's parallel structure in Romans 5:18–19 shows that neither condemnation nor salvation is automatic — both require a personal response
 
 ---
 
@@ -442,17 +544,58 @@
 
 ---
 
-## Ransomed by Precious Blood
+## God the Redeemer
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."</p><p style="text-align: right;"> <em>Mark 10:45 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"I am the LORD; I will bring you out from under the burdens of the Egyptians, I will rescue you from their bondage, and I will **redeem** you with an outstretched arm and with great judgments."</p><p style="text-align: right;"> <em>Exodus 6:6 (NKJV)</em></p>
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"I have blotted out, like a thick cloud, your transgressions, And like a cloud, your sins. Return to Me, for I have **redeemed** you."</p><p style="text-align: right;"> <em>Isaiah 44:22 (NKJV)</em></p>
+
+* In the ancient world, **redemption** meant buying back prisoners of war or buying slaves out of slavery — the payment was called a **ransom**
+* God is Israel's Redeemer: His great redemptive act was the Exodus, signaled by the Passover sacrifice
+* In the Old Testament, a ransom payment could even substitute for an animal sacrifice — ransom and sacrifice are intertwined from the start
+
+---
+
+## Jesus' Ransom Mission
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For even the Son of Man did not come to be served, but to serve, and to give His life a **ransom** for many."</p><p style="text-align: right;"> <em>Mark 10:45 (NKJV)</em></p>
+
+* Jesus defines His entire mission in ransom terms — His life is the price that sets captives free
+* "The Son of Man" echoes Daniel 7:14, where all peoples serve Him — yet Jesus reverses it: He comes to **serve** and to **give**
+* "A ransom for many" echoes Isaiah 53:12 ("He bore the sin of many") — tying the redemption motif back to the Suffering Servant
+* This was no later rationalization: Jesus Himself understood His death as a redemptive ransom
+
+---
+
+## Bought with a Price
+
+![](pics/diamond.png style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot."</p><p style="text-align: right;"> <em>1 Peter 1:18–19 (NKJV)</em></p>
 
-* **Redemption** frames salvation as liberation — buying captives out of bondage
-* The ransom price is not silver or gold but Christ's own blood
-* Jesus Himself described His mission in ransom terms (Mark 10:45)
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace"</p><p style="text-align: right;"> <em>Ephesians 1:7 (NKJV)</em></p>
+
+* The New Testament authors insist that redemption was not costless — a real **price** was paid
+* Not silver or gold but "the precious blood of Christ" — connecting redemption back to sacrifice
+* Paul reminds the Corinthians: "you were bought at a price" (1 Corinthians 6:20) — we belong to God because He purchased us
+
+---
+
+## Eternal Redemption, New Covenant
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Not with the blood of goats and calves, but with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption."</p><p style="text-align: right;"> <em>Hebrews 9:12 (NKJV)</em></p>
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And for this reason He is the Mediator of the new covenant, by means of death, for the redemption of the transgressions under the first covenant, that those who are called may receive the promise of the eternal inheritance."</p><p style="text-align: right;"> <em>Hebrews 9:15 (NKJV)</em></p>
+
+* Christ's redemption is **eternal** — not the repeated, provisional atonement of the old system
+* His death inaugurates the **new covenant** prophesied by Jeremiah — claimed by Jesus at the Last Supper
+* What animal blood could never accomplish, Christ's blood achieves once for all
 
 ---
 
@@ -462,11 +605,34 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right;"> <em>Hebrews 2:14–15 (NKJV)</em></p>
 
+* Christ took on flesh and blood precisely so that **through death** He could destroy the one who held the power of death
+* The devil's weapon — the fear of death — held humanity in lifelong bondage
+* Redemption addresses not only legal guilt but existential captivity — bondage to sin, death, and the devil
+* Here all the motifs converge: sacrifice pays, justice is satisfied, the representative bears it, and the captives go free
+
+---
+
+## The Redeemed: A Kingdom and Priests
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they sang a new song, saying: 'You are worthy to take the scroll, and to open its seals; for You were slain, and have redeemed us to God by Your blood out of every tribe and tongue and people and nation, and have made us kings and priests to our God; and we shall reign on the earth.'"</p><p style="text-align: right;"> <em>Revelation 5:9–10 (NKJV)</em></p>
 
-* Christ's death is a victory: He destroys the devil's power and liberates those held in bondage
-* The redeemed become "kings and priests" — echoing Exodus 19:6, the new covenant fulfills God's original design
-* Redemption is cosmic in scope: "every tribe and tongue and people and nation"
+* The vision of Revelation: Christ as the slain Lamb whose blood ransoms people from every nation
+* The redeemed become "kings and priests" — fulfilling the frustrated intention of the old covenant (Exodus 19:6: "you shall be for me a priestly kingdom and a holy nation")
+* What Israel's apostasy shattered, Christ's redemption restores — on a cosmic, universal scale
+
+---
+
+## Redemption — Summary
+
+![](pics/diamond.png style="float: right; width: 7rem")
+
+* Redemption frames salvation as **liberation** — buying captives out of bondage
+* The Old Testament establishes the pattern: God is Israel's Redeemer, and the Exodus is His paradigmatic redemptive act
+* Jesus defined His mission in ransom terms (Mark 10:45) — His life is the price that sets captives free
+* The New Testament insists the ransom was not costless: "the precious blood of Christ" (1 Peter 1:18–19)
+* Christ's redemptive death inaugurates the **new covenant**, achieves **eternal redemption**, and defeats death and the devil
 
 ---
 
