@@ -10,20 +10,20 @@
 - **Slide 3 (Death: Sacrifice, Propitiation, and Redemption) — IN PROGRESS**
   - Sacrifice section: DONE (9 slides)
   - Suffering Servant section: DONE
-  - **Divine Justice section: DONE** — committed as `9863e03`
-    - 9 slides: #25 God as Righteous Judge, #26 Judge & Lawgiver, #27 Justifying the Ungodly, #28 Wrath as a Call to Repentance, #29 Righteousness: God's and Ours, #30 Imputation, #31 Not Merely Covenant Faithfulness, #32 Summary
-    - Reviewed against Craig.11, Craig.12, Craig.22, Craig.23 transcripts — all concerns addressed
-    - Key decisions:
-      - "forensic" → "judicial" (#25) and "legal" (summary) to avoid CSI connotation
-      - Guilt defined as "liability to punishment" (#25, #27) per Craig's philosophical framework
-      - "cannot waive standards" softened to "A fair judge cannot simply waive penalties" to avoid implying absolute necessity (Craig allows conditional necessity)
-      - "pardon" language avoided throughout — user flagged it implies waiving penalty
-      - "reckoned" → "charged/credited", "ascribes" → "credits" for consistent accounting metaphor
-      - New slide #28 (user's original criminal justice analogy): God's forbearance period as purposeful, justification conditional on repentance
-      - NPP rebuttal (#31) uses adikia etymology and Gentile/Job falsifying example
-      - DivineJustice.jpg added as section image
+  - Divine Justice section: DONE — committed as `9863e03`
   - **Representation section: NEEDS REVIEW** — 3 slides exist (#33-#35) but need better examples
   - Redemption section: needs review
+  - **Theories of Atonement section: DONE** — expanded from 10-slide draft to 26 slides
+    - Covers Craig.13-17 comprehensively (Ransom, Satisfaction, Moral Influence, Penal Substitution)
+    - Scripture quotes added to 17 of 26 slides for consistency with earlier sections
+    - RansomTheory.jpg added as section image for ransom slides
+    - Key editorial decisions:
+      - "watershed" replaced with plain explanation
+      - "surety" → "guarantor", "enmity" → "hostility", "myopically" → "narrowly"
+      - Removed 1 Corinthians 2:8 / Paul reference from Hook and Bait — contested interpretation
+      - Split "What Ransom Captures" into two slides (captures + misses) for readability
+      - Added bullet on why ransom theory was popular (everyday reality of ransoming in ancient world)
+      - Added bullet on deception question (outwitting a criminal ≠ immoral deception)
 
 ## Todo
 
@@ -47,7 +47,7 @@
 | Divine Justice | #25-#32 (8 slides) | DONE — reviewed against Craig, committed |
 | Representation | #33-#35 (3 slides) | EXISTS — needs review, better examples |
 | Redemption | #36+ | EXISTS — needs review |
-| Theories of Atonement | | TODO |
+| Theories of Atonement | 26 slides | DONE — reviewed and refined with user |
 
 ### Representation review notes
 
