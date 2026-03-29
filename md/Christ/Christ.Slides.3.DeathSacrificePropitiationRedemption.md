@@ -606,9 +606,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right;"> <em>Hebrews 2:14–15 (NKJV)</em></p>
 
 * Christ took on flesh and blood precisely so that **through death** He could destroy the one who held the power of death
-* The devil's weapon — the fear of death — held humanity in lifelong bondage
+* The devil's weapon, fear of death, held humanity in bondage
 * Redemption addresses not only legal guilt but existential captivity — bondage to sin, death, and the devil
-* Here all the motifs converge: sacrifice pays, justice is satisfied, the representative bears it, and the captives go free
+* Motifs: sacrifice pays, justice satisfied, the representative bears it, captives freed
 
 ---
 
@@ -619,7 +619,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they sang a new song, saying: 'You are worthy to take the scroll, and to open its seals; for You were slain, and have redeemed us to God by Your blood out of every tribe and tongue and people and nation, and have made us kings and priests to our God; and we shall reign on the earth.'"</p><p style="text-align: right;"> <em>Revelation 5:9–10 (NKJV)</em></p>
 
 * The vision of Revelation: Christ as the slain Lamb whose blood ransoms people from every nation
-* The redeemed become "kings and priests" — fulfilling the frustrated intention of the old covenant (Exodus 19:6: "you shall be for me a priestly kingdom and a holy nation")
+* The redeemed become "kings and priests"
+  * Other manuscripts: 'a kingdom and priests' matching Exodus 19:6 more directly
+  * Exodus 19:6: "you shall be for me a priestly kingdom and a holy nation"
 * What Israel's apostasy shattered, Christ's redemption restores — on a cosmic, universal scale
 
 ---
