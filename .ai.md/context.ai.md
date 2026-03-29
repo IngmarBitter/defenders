@@ -7,23 +7,12 @@
 - Slide 2 (Incarnation) is done
 - Updated `root.ai.md`: removed JW Rebuttal Standards, standardized on ASCII `"` quotes
 - Editorial standards now merged into `root.ai.md` (no separate EditorialStandards.md)
-- **Slide 3 (Death: Sacrifice, Propitiation, and Redemption) — IN PROGRESS**
-  - Sacrifice section: DONE (9 slides)
-  - Suffering Servant section: DONE
-  - Divine Justice section: DONE — committed as `9863e03`
-  - **Representation section: NEEDS REVIEW** — 3 slides exist (#33-#35) but need better examples
-  - Redemption section: needs review
-  - **Theories of Atonement section: DONE** — expanded from 10-slide draft to 26 slides
-    - Covers Craig.13-17 comprehensively (Ransom, Satisfaction, Moral Influence, Penal Substitution)
-    - Scripture quotes added to 17 of 26 slides for consistency with earlier sections
-    - RansomTheory.jpg added as section image for ransom slides
-    - Key editorial decisions:
-      - "watershed" replaced with plain explanation
-      - "surety" → "guarantor", "enmity" → "hostility", "myopically" → "narrowly"
-      - Removed 1 Corinthians 2:8 / Paul reference from Hook and Bait — contested interpretation
-      - Split "What Ransom Captures" into two slides (captures + misses) for readability
-      - Added bullet on why ransom theory was popular (everyday reality of ransoming in ancient world)
-      - Added bullet on deception question (outwitting a criminal ≠ immoral deception)
+- **Slide 3 (Death: Sacrifice, Propitiation, and Redemption) — DONE**
+  - All 5 motif sections complete with dedicated images
+  - Theories of Atonement: 4 section heading slides added (Ransom, Satisfaction, Moral Influence, Penal Substitution)
+  - "Not Wounded Ego" slide split in two for overflow; Euthyphro Dilemma expanded
+  - Images: Representation.jpg, Redemption.jpg, SatisfactionTheory.jpg added
+  - Editorial standard updated: markdown `**` preferred over `<b>` for scripture emphasis
 
 ## Todo
 
@@ -31,7 +20,7 @@
 |-------|-------|-------------|--------|
 | 1 | Overview: Who Is Christ? | Part 1 | DONE |
 | 2 | The Incarnation: Two Natures, One Person | Parts 2-7 | DONE |
-| 3 | Christ's Death: Sacrifice, Propitiation, and Redemption | Parts 8-17 | IN PROGRESS |
+| 3 | Christ's Death: Sacrifice, Propitiation, and Redemption | Parts 8-17 | DONE |
 | 4 | Christ's Death: Penal Substitution Defended | Parts 18-24 | TODO |
 | 5 | The Resurrection: Biblical Evidence | Parts 25-32 | TODO |
 | 6 | The Resurrection: Defeating the Alternatives | Parts 33-46 | TODO |
@@ -45,18 +34,9 @@
 | Sacrifice | ~9 slides | DONE |
 | Suffering Servant | ~6 slides | DONE |
 | Divine Justice | #25-#32 (8 slides) | DONE — reviewed against Craig, committed |
-| Representation | #33-#35 (3 slides) | EXISTS — needs review, better examples |
-| Redemption | #36+ | EXISTS — needs review |
+| Representation | ~7 slides + summary | DONE |
+| Redemption | ~7 slides + summary | DONE |
 | Theories of Atonement | 26 slides | DONE — reviewed and refined with user |
-
-### Representation review notes
-
-Current slides:
-- #33 Substitute and Representative (pinch-hitter vs proxy analogy — from Craig)
-- #34 One Died for All (2 Cor 5:14, Romans 5:18, Yom Kippur foreshadowing)
-- #35 In Christ: Appropriating the Benefits (Romans 6:3-4, faith required)
-
-User said these need better examples. Compare against Craig.12 and Craig.23 which cover representation in detail (Turretin's two bases for union with Christ, incarnation + baptism, vicarious liability, explanatory circularity of mystical union).
 
 ### Pending: Apply quote spacing changes to other slide decks
 

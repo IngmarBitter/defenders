@@ -431,7 +431,7 @@
 
 ## The High Priest as Representative
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"There shall be no man in the tabernacle of meeting when he goes in to make atonement in the Holy Place, until he comes out, that he may make atonement for himself, for his household, and for all the assembly of Israel."</p><p style="text-align: right;"> <em>Leviticus 16:17 (NKJV)</em></p>
 
@@ -443,7 +443,7 @@
 
 ## Substitute and Representative
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 * A **substitute** acts *in place of* another
   * Like a substitute footballer — he plays instead of you, but his goals are not yours
@@ -458,7 +458,7 @@
 
 ## One Died for All
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if One died for all, then all died;"</p><p style="text-align: right;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
 
@@ -472,7 +472,7 @@
 
 ## Crucified with Him
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"knowing this, that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves of sin. For he who has died has been freed from sin. Now if we died with Christ, we believe that we shall also live with Him,"</p><p style="text-align: right;"> <em>Romans 6:6–8 (NKJV)</em></p>
 
@@ -484,7 +484,7 @@
 
 ## Dead to Sin, Alive to God
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. Likewise you also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord."</p><p style="text-align: right;"> <em>Romans 6:10–11 (NKJV)</em></p>
 
@@ -496,7 +496,7 @@
 
 ## In Christ: Appropriating the Benefits
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death? Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."</p><p style="text-align: right;"> <em>Romans 6:3–4 (NKJV)</em></p>
 
@@ -509,7 +509,7 @@
 
 ## The Adam–Christ Contrast
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic; line-height: 1.5;">
 18 &ensp;Therefore just as through the <span style="color: #c05050;">trespass of one man</span><br>
@@ -530,7 +530,7 @@
 
 ## Representation — Summary
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Representation.jpg style="float: right; width: 7rem")
 
 * Christ is our **substitute** (acting in our place) AND our **representative** (acting on our behalf) — what He did, we did
 * His death is universal in scope: like Adam, He represents all humanity before God
@@ -546,7 +546,7 @@
 
 ## God the Redeemer
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Redemption.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"I am the LORD; I will bring you out from under the burdens of the Egyptians, I will rescue you from their bondage, and I will **redeem** you with an outstretched arm and with great judgments."</p><p style="text-align: right;"> <em>Exodus 6:6 (NKJV)</em></p>
 
@@ -560,7 +560,7 @@
 
 ## Jesus' Ransom Mission
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Redemption.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For even the Son of Man did not come to be served, but to serve, and to give His life a **ransom** for many."</p><p style="text-align: right;"> <em>Mark 10:45 (NKJV)</em></p>
 
@@ -573,7 +573,7 @@
 
 ## Bought with a Price
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Redemption.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot."</p><p style="text-align: right;"> <em>1 Peter 1:18–19 (NKJV)</em></p>
 
@@ -587,7 +587,7 @@
 
 ## Eternal Redemption, New Covenant
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Redemption.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Not with the blood of goats and calves, but with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption."</p><p style="text-align: right;"> <em>Hebrews 9:12 (NKJV)</em></p>
 
@@ -601,7 +601,7 @@
 
 ## Victory Over Death
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Redemption.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right;"> <em>Hebrews 2:14–15 (NKJV)</em></p>
 
@@ -614,7 +614,7 @@
 
 ## The Redeemed: A Kingdom and Priests
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Redemption.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they sang a new song, saying: 'You are worthy to take the scroll, and to open its seals; for You were slain, and have redeemed us to God by Your blood out of every tribe and tongue and people and nation, and have made us kings and priests to our God; and we shall reign on the earth.'"</p><p style="text-align: right;"> <em>Revelation 5:9–10 (NKJV)</em></p>
 
@@ -626,7 +626,7 @@
 
 ## Redemption — Summary
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/Redemption.jpg style="float: right; width: 7rem")
 
 * Redemption frames salvation as **liberation** — buying captives out of bondage
 * The Old Testament establishes the pattern: God is Israel's Redeemer, and the Exodus is His paradigmatic redemptive act
@@ -676,6 +676,10 @@
 * Chrysostom: "Men ought to have been punished, but God did not do so. They ought to have perished, but He gave His Son in their stead"
 * Origen — usually associated with the ransom theory — actually connects sacrifice with penal substitution via Isaiah 53
 * Joseph Mitros: "The sacrificial theory of salvation combined with the idea of penal substitution constituted the mainstream of thinking in the fourth century"
+
+---
+
+# Ransom Theory
 
 ---
 
@@ -756,9 +760,13 @@
 
 ---
 
+# Satisfaction Theory
+
+---
+
 ## Satisfaction Theory: Anselm's Watershed
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed, to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right;"> <em>Romans 3:25–26 (NKJV)</em></p>
 
@@ -774,7 +782,7 @@
 
 ## Not Wounded Ego — But Justice
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"keeping mercy for thousands, forgiving iniquity and transgression and sin, by no means clearing the guilty,"</p><p style="text-align: right;"> <em>Exodus 34:7 (NKJV)</em></p>
 
@@ -782,43 +790,63 @@
 * But a careful reading reveals his fundamental concern is **ethical** — it is about God's justice, not mere dignity
 * Sin = failure to render to God what is due: "Every wish of a rational creature should be subject to the will of God"
 * Why can't God simply forgive? Because "to remit sin in this manner is nothing else than not to punish" — and leaving sin unpunished would be **unjust**
-* Anselm anticipates the **Euthyphro Dilemma**: God is not under an external moral law — but His own **nature** is the standard of justice, and He cannot act contrary to it
+
+---
+
+## Not Wounded Ego — But Nature
+
+![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"keeping mercy for thousands, forgiving iniquity and transgression and sin, by no means clearing the guilty,"</p><p style="text-align: right;"> <em>Exodus 34:7 (NKJV)</em></p>
+
+* Anselm anticipates the **Euthyphro Dilemma** (Plato):
+  * Is something good because God wills it,
+    * Or does God will it because it is good?
+  * If good because God wills it → morality is arbitrary (God could command cruelty)
+  * If God wills it because it is good → God is subject to an external moral law above Himself
+* Anselm's answer: neither: God wills it because **He** is good. 
+  * → God's own **nature** is the standard of justice, and He cannot act contrary to it
 * "There is nothing more just than supreme justice, which is nothing else but God Himself"
 
 ---
 
 ## The Debt We Cannot Pay
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
-* Two ways to satisfy divine justice: **compensation** or **punishment**
-  * Anselm chose compensation; the Reformers later chose punishment
-* The difficulty: there is nothing we can give God that we don't already owe Him — we owe total obedience
+* Two ways to satisfy justice: **compensation** or **punishment**
+  * Anselm chose compensation; the Reformers chose punishment
+* The difficulty: nothing we can give God that we don't already owe — we owe total obedience
 * Moreover, we must give back **more** than we originally owed to compensate — compounding an already infinite debt
 * Anselm's beautiful syllogism:
   * No one but **God** could pay a debt of infinite magnitude
   * No one but **man** is obligated to pay it
   * Therefore God must **become man** — *cur deus homo*
-* Since Christ was sinless, He was under no obligation to die — His voluntary death is a gift of **infinite value** that He did not owe
+* Since Christ was sinless, He was under no obligation to die
+  * His voluntary death is a gift of **infinite value** that He did not owe
 
 ---
 
 ## How Satisfaction Works
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
-* Christ did not die **in our place** on Anselm's view — this is not yet substitutionary punishment
-* Rather, He gave His life to God as a **compensation** — a gift of infinite value
+* Christ did not die **in our place** on Anselm's view
+  * This is not yet substitutionary punishment
+* Rather, He gave His life to God as a **compensation**
+  * A gift of infinite value
 * Justice requires God the Father to **reward** the Son for so inestimable a gift
-* But Christ needs nothing — so He passes the reward to **us**: forgiveness of sins and eternal life
-* We appropriate these benefits through **faith in the Gospel** — even this medieval Catholic theologian recognized faith as the means
+* But Christ needs nothing
+  * So He passes the reward to **us**: forgiveness of sins and eternal life
+* We appropriate these benefits through **faith in the Gospel**
+  * Even this medieval Catholic theologian recognized faith as the means
 * Mark Murphy's intriguing suggestion: combine both horns — Christ's death satisfies God's **criminal** justice through punishment and His **civil** justice through compensation
 
 ---
 
 ## What Satisfaction Theory Captures
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For what the law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh,"</p><p style="text-align: right;"> <em>Romans 8:3 (NKJV)</em></p>
 
@@ -826,8 +854,12 @@
 * The incarnation is necessary: only the God-man can bridge the gap between infinite debt and human obligation
 * **What's incomplete alone:** Anselm chose **compensation** rather than punishment
   * But the Bible's language is consistently punitive — "chastisement," "bore the sin," "condemned sin in the flesh"
-  * Compensation makes satisfaction a gift; the biblical picture is more costly — it involves bearing a penalty
-* Yet Anselm and the Reformers stand on the same foundation: God cannot simply forgive sins without satisfying His essential justice
+  * Compensation makes satisfaction a gift; the biblical picture involves bearing a penalty
+* Yet Anselm and the Reformers agree: God cannot forgive sins without satisfying His justice
+
+---
+
+# Moral Influence Theory
 
 ---
 
@@ -873,6 +905,10 @@
   * It dispenses with God's **wrath** — on this view, God doesn't need to be reconciled to us; only we to Him
 * Taken to its extreme: "A God without wrath leads men without sin into a heaven without hell by means of a Christ without a cross" — the legacy of Schleiermacher and liberal theology
 * You don't even need Christ to be **God** on this theory — which is why it is so congenial to modern theologians who abandon traditional Christology
+
+---
+
+# Penal Substitution
 
 ---
 
