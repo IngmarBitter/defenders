@@ -63,8 +63,8 @@ Each tends to fail by being too narrow, too fragile, or too implausible to expla
 ## Navigation
 
 * [Return to Christ Overview](Christ.Slides.html)
-* Prev: [The Resurrection: Biblical Evidence](Christ.Slides.5.ResurrectionBiblicalEvidence.html)
-* Next: [Access: Who Can Be Saved Through Christ?](Christ.Slides.7.AccessWhoCanBeSavedThroughChrist.html)
+* Prev: [The Resurrection: Biblical Evidence](Christ.Slides.6.ResurrectionBiblicalEvidence.html)
+* Next: [Access: Who Can Be Saved Through Christ?](Christ.Slides.8.AccessWhoCanBeSavedThroughChrist.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

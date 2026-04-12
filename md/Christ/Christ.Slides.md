@@ -14,11 +14,12 @@ Ingmar Bitter, PhD
 1. [Overview: Who Is Christ?](Christ.Slides.1.OverviewWhoIsChrist.html)
 2. [The Incarnation: Two Natures, One Person](Christ.Slides.2.IncarnationTwoNaturesOnePerson.html)
 3. [Christ’s Death: Sacrifice, Propitiation, and Redemption](Christ.Slides.3.DeathSacrificePropitiationRedemption.html)
-4. [Christ’s Death: Penal Substitution Defended](Christ.Slides.4.DeathPenalSubstitutionDefended.html)
-5. [The Resurrection: Biblical Evidence](Christ.Slides.5.ResurrectionBiblicalEvidence.html)
-6. [The Resurrection: Defeating the Alternatives](Christ.Slides.6.ResurrectionDefeatingAlternatives.html)
-7. [Access: Who Can Be Saved Through Christ?](Christ.Slides.7.AccessWhoCanBeSavedThroughChrist.html)
-8. [Doctrine of Christ Summary and Practical Takeaways](Christ.Slides.8.SummaryPracticalTakeaways.html)
+4. [Theories of the Atonement](Christ.Slides.4.DeathTheoriesOfAtonement.html)
+5. [Christ’s Death: Penal Substitution Defended](Christ.Slides.5.DeathPenalSubstitutionDefended.html)
+6. [The Resurrection: Biblical Evidence](Christ.Slides.6.ResurrectionBiblicalEvidence.html)
+7. [The Resurrection: Defeating the Alternatives](Christ.Slides.7.ResurrectionDefeatingAlternatives.html)
+8. [Access: Who Can Be Saved Through Christ?](Christ.Slides.8.AccessWhoCanBeSavedThroughChrist.html)
+9. [Doctrine of Christ Summary and Practical Takeaways](Christ.Slides.9.SummaryPracticalTakeaways.html)
 
 <ul style="list-style-type: disc; margin: 0 0 0 1.25em; padding: 0;">
     <li style="margin: 0;"><a href="../CreeksideDefenders.html">Return to Creekside Defenders</a></li>

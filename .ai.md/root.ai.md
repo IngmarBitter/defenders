@@ -80,8 +80,8 @@ Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Sp
 
 Use the template margins for new quotes. Some slides have hand-adjusted margin values — do not change those.
 
-**Bold emphasis permitted:** You may use markdown `**` (preferred) or `<b>` tags inside scripture quotes to highlight the words most relevant to the slide's topic. The base text must still be NKJV verbatim.
 
+**Bold emphasis permitted:** You may use markdown `**` (preferred) or `<b>` tags inside scripture quotes to highlight the words most relevant to the slide's topic. The base text must still be NKJV verbatim.
 If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1.5em;` on intermediate reference lines and `margin-bottom: -0.75em;` on the final one.
 
 ### Ellipsis in Scripture Quotes

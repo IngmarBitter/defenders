@@ -69,8 +69,8 @@
 ## Navigation
 
 * [Return to Christ Overview](Christ.Slides.html)
-* Prev: [The Resurrection: Defeating the Alternatives](Christ.Slides.6.ResurrectionDefeatingAlternatives.html)
-* Next: [Doctrine of Christ Summary and Practical Takeaways](Christ.Slides.8.SummaryPracticalTakeaways.html)
+* Prev: [The Resurrection: Defeating the Alternatives](Christ.Slides.7.ResurrectionDefeatingAlternatives.html)
+* Next: [Doctrine of Christ Summary and Practical Takeaways](Christ.Slides.9.SummaryPracticalTakeaways.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

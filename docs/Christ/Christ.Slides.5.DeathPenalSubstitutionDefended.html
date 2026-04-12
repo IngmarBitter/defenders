@@ -1,12 +1,14 @@
 <meta charset="utf-8" lang="en">
 
-# Christ’s Death: Penal Substitution Defended
+# Christ's Death: Penal Substitution Defended
 
 ---
 
 ## Penal Substitution (Center of Gravity)
 
-* “Substitution” and “representation” belong together
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
+
+* "Substitution" and "representation" belong together
   * Christ acts **in our place** and **on our behalf**
 * Legal themes Craig stresses:
   * Guilt as liability
@@ -17,29 +19,35 @@
 
 ## Why the Objections Matter
 
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
+
 * Many reject penal substitution as:
   * Conceptually incoherent
   * Morally unjust
-  * Theologically “transactional”
-* Craig’s approach:
+  * Theologically "transactional"
+* Craig's approach:
   * Clarify what punishment is
   * Clarify what justice requires
   * Use careful legal analogies (without reducing atonement to civil law)
 
 ---
 
-## Objection 1: “Punishment Implies Condemnation”
+## Objection 1: "Punishment Implies Condemnation"
+
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * If punishment inherently condemns the person punished
   * Then Christ cannot be punished (he is sinless)
 * Replies often include:
   * Punishment as condemnation of the act, not the person
-  * Distinguishing “inflicting suffering” from “punishing” (depending on theory)
+  * Distinguishing "inflicting suffering" from "punishing" (depending on theory)
   * Imputation / legal liability without personal wickedness
 
 ---
 
-## Objection 2: “It’s Unjust to Punish the Innocent”
+## Objection 2: "It's Unjust to Punish the Innocent"
+
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * The challenge is fundamentally about a theory of justice
   * Especially retributive justice
@@ -52,8 +60,10 @@
 
 ## Satisfaction, Forgiveness, and Pardon
 
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
+
 * Atonement can be framed as satisfaction that makes pardon possible
-  * Not “God is forced”
+  * Not "God is forced"
   * Rather: God acts consistently with his justice and mercy
 * Forgiveness is not denial of guilt
   * It is a grounded pardon that can be conditional on repentance and faith
@@ -62,9 +72,11 @@
 
 ## Practical Takeaways
 
-* Christ’s death:
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
+
+* Christ's death:
   * Shows the seriousness of sin
-  * Shows God’s love in giving himself
+  * Shows God's love in giving himself
   * Grounds assurance (objective basis)
   * Calls for transformed living (sanctification)
 
@@ -73,8 +85,8 @@
 ## Navigation
 
 * [Return to Christ Overview](Christ.Slides.html)
-* Prev: [Christ’s Death: Sacrifice, Propitiation, and Redemption](Christ.Slides.3.DeathSacrificePropitiationRedemption.html)
-* Next: [The Resurrection: Biblical Evidence](Christ.Slides.5.ResurrectionBiblicalEvidence.html)
+* Prev: [Theories of the Atonement](Christ.Slides.4.DeathTheoriesOfAtonement.html)
+* Next: [The Resurrection: Biblical Evidence](Christ.Slides.6.ResurrectionBiblicalEvidence.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

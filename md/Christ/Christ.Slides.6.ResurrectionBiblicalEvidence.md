@@ -63,8 +63,8 @@
 ## Navigation
 
 * [Return to Christ Overview](Christ.Slides.html)
-* Prev: [Christ’s Death: Penal Substitution Defended](Christ.Slides.4.DeathPenalSubstitutionDefended.html)
-* Next: [The Resurrection: Defeating the Alternatives](Christ.Slides.6.ResurrectionDefeatingAlternatives.html)
+* Prev: [Christ’s Death: Penal Substitution Defended](Christ.Slides.5.DeathPenalSubstitutionDefended.html)
+* Next: [The Resurrection: Defeating the Alternatives](Christ.Slides.7.ResurrectionDefeatingAlternatives.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---
