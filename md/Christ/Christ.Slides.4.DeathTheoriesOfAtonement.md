@@ -206,7 +206,7 @@
 
 ---
 
-## What Satisfaction Theory Captures
+## What the Satisfaction Theory Captures
 
 ![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
@@ -217,7 +217,7 @@
 
 ---
 
-## What Satisfaction Theory Misses
+## What the Satisfaction Theory Misses
 
 ![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
@@ -260,7 +260,7 @@
 
 ---
 
-## What Moral Influence Captures
+## What the Moral Influence Theory Captures
 
 ![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
 
@@ -271,7 +271,7 @@
 
 ---
 
-## What Moral Influence Misses
+## What the Moral Influence Theory Misses
 
 ![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
 
@@ -322,7 +322,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For it is not possible that the blood of bulls and goats could take away sins."</p><p style="text-align: right;"> <em>Hebrews 10:4 (NKJV)</em></p>
 
 * **Francis Turretin** (17th century), *Institutes of Elenctic Theology*
-  * developed remarkably sophisticated penal substitution
+  * developed a remarkably sophisticated penal substitution theory
 * Written in response to **Faustus Socinus**, whose withering critique of penal substitution remains influential today
 * Turretin's foundation: **retributive justice is essential to God's nature** — not optional, not willed, but inherent
   * Scripture teaches God detests sin and is a just judge
@@ -411,7 +411,7 @@
 
 ---
 
-## What Penal Substitution Captures
+## What the Penal Substitution Theory Captures
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
@@ -423,7 +423,7 @@
 
 ---
 
-## What Penal Substitution Misses
+## What the Penal Substitution Theory Misses
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
