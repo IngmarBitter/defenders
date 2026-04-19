@@ -16,10 +16,6 @@
 
 ---
 
-# Theories of the Atonement
-
----
-
 ## The Historical Landscape
 
 ![](pics/diamond.png style="float: right; width: 7rem")
@@ -121,10 +117,10 @@
 
 ![](pics/RansomTheory.jpg style="float: right; width: 7rem")
 
-* "To whom is the ransom paid?" — Satan has no rights over us that God must respect
-* It directs the atonement toward **Satan** rather than toward God — standing things on their head
+* Ransom captures a real biblical truth, but cannot carry the full weight of the atonement alone
+* "To whom is the ransom paid?" admits no clear answer — Satan has no rights over us that God must respect
 * It does not explain how guilt is resolved or how God's justice is satisfied
-* After Anselm's critique (11th century), the ransom theory effectively disappeared from church teaching
+* After Anselm's critique (11th century), the ransom theory sadly disappeared from Western church teaching — a mistake, since this facet of the diamond is indispensable
 
 ---
 
@@ -139,11 +135,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed, to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right;"> <em>Romans 3:25–26 (NKJV)</em></p>
 
 * **Anselm of Canterbury**, *Cur Deus Homo* ("Why Did God Become Man?", c. 1098) — a work of unsurpassed importance in the history of the atonement
-* After Anselm, the ransom theory never returned — his work permanently changed the direction of atonement theology
 * Anselm's main complaint about the ransom theory:
   * An omnipotent God could free mankind from Satan directly — no incarnation needed
-  * Man owes nothing to the devil; Satan has no rights over humanity
-  * God owes the devil nothing but punishment
+  * Satan's hold is tyranny, not rightful claim; God owes the Devil only punishment
 * **Anselm's breakthrough:** the atonement is directed toward **God**, not Satan — the real issue is **divine justice**, not demonic ransom
 
 ---
@@ -167,7 +161,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"keeping mercy for thousands, forgiving iniquity and transgression and sin, by no means clearing the guilty,"</p><p style="text-align: right;"> <em>Exodus 34:7 (NKJV)</em></p>
 
-* Anselm anticipates the **Euthyphro Dilemma** (Plato):
+* Anselm addresses the **Euthyphro Dilemma** (Plato):
   * Is something good because God wills it,
     * Or does God will it because it is good?
   * If good because God wills it → morality is arbitrary (God could command cruelty)
@@ -220,9 +214,16 @@
 
 * Anselm rightly directed attention away from Satan and toward **God's justice** as the heart of the problem
 * The incarnation is necessary: only the God-man can bridge the gap between infinite debt and human obligation
-* **What's incomplete alone:** Anselm chose **compensation** rather than punishment
-  * But the Bible's language is consistently punitive — "chastisement," "bore the sin," "condemned sin in the flesh"
-  * Compensation makes satisfaction a gift; the biblical picture involves bearing a penalty
+
+---
+
+## What Satisfaction Theory Misses
+
+![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
+
+* Anselm chose **compensation** rather than punishment
+* But the Bible's language is consistently punitive — "chastisement," "bore the sin," "condemned sin in the flesh"
+* Compensation makes satisfaction a gift; the biblical picture involves bearing a penalty
 * Yet Anselm and the Reformers agree: God cannot forgive sins without satisfying His justice
 
 ---
@@ -238,7 +239,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if One died for all, then all died;"</p><p style="text-align: right;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
 
 * **Peter Abelard** (12th century) agrees with Anselm in rejecting the ransom theory — Satan has no rights over us
-* But he also finds Anselm's satisfaction theory troubling: "How very cruel and unjust it seems that someone should require the blood of an innocent person as a ransom"
+* But he also finds satisfaction theory troubling: "How very cruel and unjust [...] to require the blood of an innocent person as a ransom"
 * **Teaching:** Christ's death demonstrates God's love so powerfully that it transforms human hearts, kindling love and repentance
 * On this view, nothing actually happened between God and man that afternoon on Golgotha — no sins were punished, no debt was paid
 * The entire power of the cross lies in its serving as an **example** that produces a subjective response in us
@@ -250,7 +251,7 @@
 ![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
 
 * Scholars have called into question whether the moral influence passage represents Abelard's **full** atonement theory
-* Just one chapter later, commenting on Romans 4:25, Abelard writes:
+* Abelard comments just one chapter later on Romans 4:25:
   * "He died on account of our transgressions [...] we committed sin, the penalty of which **He bore**"
   * "He swept away the penalty for sins by the price of His death"
 * Here Abelard appears to endorse **penal substitution** — the very theory later developed by the Reformers
@@ -267,7 +268,14 @@
 
 * The cross truly does inspire love, gratitude, and moral transformation — this is real and biblical
 * Without a subjective response of faith and repentance, the objective work of Christ is not appropriated
-* **What's incomplete alone:** moral influence cannot stand as a total theory
+
+---
+
+## What Moral Influence Misses
+
+![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
+
+* Moral influence cannot stand as a total theory
   * It does not explain why the cross was *necessary* — if God only wanted to inspire us, there are less costly ways
   * As R.W. Dale argued: why would a man rush into a burning house unless there is a child to rescue?
   * It dispenses with God's **wrath** — on this view, God doesn't need to be reconciled to us; only we to Him
@@ -284,7 +292,7 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"the chastisement for our peace was upon Him, And by His stripes we are healed."</p><p style="text-align: right;"> <em>Isaiah 53:5 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] the chastisement for our peace was upon Him, And by His stripes we are healed."</p><p style="text-align: right;"> <em>Isaiah 53:5 (NKJV)</em></p>
 
 * The Protestant Reformers, while appreciative of Anselm, interpreted the satisfaction of God's justice not as **compensation** but as **punishment**
 * **Teaching:** God inflicts on Christ the suffering we deserved as the just penalty for our sin, freeing us from liability to punishment
@@ -313,10 +321,10 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For it is not possible that the blood of bulls and goats could take away sins."</p><p style="text-align: right;"> <em>Hebrews 10:4 (NKJV)</em></p>
 
-* **Francis Turretin** (17th century), *Institutes of Elenctic Theology* — developed penal substitution with remarkable sophistication
+* **Francis Turretin** (17th century), *Institutes of Elenctic Theology*
+  * developed remarkably sophisticated penal substitution
 * Written in response to **Faustus Socinus**, whose withering critique of penal substitution remains influential today
 * Turretin's foundation: **retributive justice is essential to God's nature** — not optional, not willed, but inherent
-* Four arguments:
   * Scripture teaches God detests sin and is a just judge
   * Conscience and universal human consent testify that evil deserves punishment
   * If God could remit sins by will alone, then the blood of bulls and goats **could** take away sin — contradicting Hebrews
@@ -337,7 +345,6 @@
 * Turretin says the "capital error" of Socinus was neglecting the **third role**
   * Socinus sees God only as creditor and offended party — no necessity for punishment
   * A creditor can cancel a debt; an offended party can forgive an insult — but a **judge** cannot simply overlook a crime
-* This same error is repeated almost universally today among theologians who use the creditor analogy alone
 
 ---
 
@@ -398,8 +405,8 @@
   * Appropriated by **faith** — "apprehended by faith"
 * **Sanctification** = the gradual transformation of our character — based on the infusion of Christ's righteousness by the Holy Spirit
   * A lifelong process: we become progressively more conformed to the image of Christ
-* Justification is **instantaneous** and **complete** — you are either justified or you are not
-* Sanctification is **progressive** and **ongoing** — the Spirit remakes our character over time
+* Justification is **instantaneous** and **complete** — you are either justified or not
+* Sanctification is **progressive** and **ongoing** — the Spirit remakes us over time
 * Christ achieved both: His death wins our justification; His Spirit works our sanctification
 
 ---
@@ -408,15 +415,22 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"the chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] the chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
 
 * Most fully integrates the biblical motifs: sacrifice, Suffering Servant, divine justice, representation, and imputation all converge here
 * Explains why Christ's death — specifically — was necessary: the penalty for sin is death, and only a divine person has the infinite worth to bear it for all
 * Turretin's three-dimensional analysis (debt, enmity, crime) does justice to the full range of biblical language
-* **What's incomplete alone:** if divorced from the other facets, it can seem merely transactional
-  * Must be paired with moral influence (the cross transforms, not just acquits)
-  * Must be paired with redemption (the cross liberates, not just balances a ledger)
-  * Must be paired with victory (the cross defeats evil, not just settles accounts)
+
+---
+
+## What Penal Substitution Misses
+
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
+
+* If divorced from the other facets, penal substitution can seem merely transactional
+* Must be paired with moral influence (the cross transforms, not just acquits)
+* Must be paired with redemption (the cross liberates, not just balances a ledger)
+* Must be paired with victory (the cross defeats evil, not just settles accounts)
 
 ---
 
@@ -450,6 +464,7 @@
   * Lost? You are found and transformed
 * Next: penal substitution faces unique philosophical objections — we will defend its coherence and justice
 
+---
 
 ## Credits
 
