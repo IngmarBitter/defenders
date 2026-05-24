@@ -4,6 +4,19 @@
 
 ---
 
+## Outline
+
+* [The Challenge](#slide2)
+* [Objection 1: Incoherence](#slide8)
+* [Objection 2: Injustice](#slide19)
+* [Satisfaction of Divine Justice](#slide35)
+* [Representation](#slide44)
+* [Forgiveness and Pardon](#slide50)
+* [The Four Motifs Integrated](#slide60)
+* [Practical Takeaways](#slide66)
+
+---
+
 # The Challenge
 
 ---
@@ -402,6 +415,23 @@
 * *Prem6: "If God cannot punish Christ, Penal Substitution is false"*
 * **Prem6** falls on the modest version
 * Craig: "All of the crucial premises are eminently challengeable — there is no compelling objection to the justice of Penal Substitution"
+
+---
+
+## Both Socinus Objections Refuted
+
+![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
+
+* **Incoherence Objection:** 3 premises, all defeated
+  * P1: imputation (Christ legally guilty via imputed sin)
+  * P2: strict liability + expressivism rightly understood
+  * P3: modest version of Penal Substitution
+* **Injustice Objection:** 6 premises, all key ones defeated
+  * P2: DCT, qualified negative retributivism, *prima* / *ultima facie*
+  * P4: imputation
+  * P6: modest version of Penal Substitution
+* 450 years on, Penal Substitution stands up to Socinus's strongest case and his modern imitators
+* Penal Substitution "defended" is not the same as "explained" — next we show how Christ's death actually *satisfies* divine justice
 
 ---
 
@@ -854,6 +884,12 @@
         detectMath: false,
         onLoad: function() {
             initSlides();
+            window.addEventListener("hashchange", function() {
+                var h = window.location.hash;
+                if (h && h.indexOf("#slide") === 0 && typeof showSlide === "function") {
+                    showSlide(parseInt(h.substring(6), 10));
+                }
+            });
         }
     };
 </script>
