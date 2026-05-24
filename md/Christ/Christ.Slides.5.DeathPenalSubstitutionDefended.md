@@ -13,7 +13,7 @@
 ![](pics/diamond.png style="float: right; width: 7rem")
 
 * Four theories surveyed: Ransom, Satisfaction, Moral Influence, Penal Substitution
-* Craig: **Penal Substitution is central** — the foundation that gives the other facets their weight
+* Craig: **Penal Substitution is central:** the foundation that gives the other facets their weight
 * Without it:
   * Ransom becomes mythological (paid to whom?)
   * Satisfaction collapses into mere compensation
@@ -138,9 +138,9 @@
   * Documented example after example from ancient literature of substitutionary punishment
   * Volunteers who stepped forward as substitutes were universally **admired as paradigms of nobility** — not condemned
   * Examples:
-    * **Roman decimation** — one in ten soldiers executed for a whole legion's cowardice
-    * **Sydney Carton** in Dickens' *A Tale of Two Cities* — dies at the guillotine in another's place
-    * **The Levitical scapegoat** (Leviticus 16) — foreshadowing Christ's substitutionary death
+    * **Roman decimation:** one in ten soldiers executed for a whole legion's cowardice
+    * **Sydney Carton** in Dickens' *A Tale of Two Cities:* dies at the guillotine in another's place
+    * **The Levitical scapegoat** (Leviticus 16): foreshadowing Christ's substitutionary death
 
 ---
 
@@ -236,13 +236,13 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* **Retributive justice** — punishment is justified because the guilty *deserve* it
+* **Retributive justice:** punishment is justified because the guilty *deserve* it
   * Retrospective: looks back at the crime
   * Punishment as what is deserved
-* **Consequentialist justice** — punishment is justified by its future benefits
+* **Consequentialist justice:** punishment is justified by its future benefits
   * Prospective: deterrence, isolation, reformation of the offender
   * Through mid-20th century, this view dominated — and was a disaster for prisons
-  * Women once received longer sentences than men, on the theory that they were "more reformable", extra time would result in reform success
+  * Women once received longer sentences than men, on the theory that they were "more reformable" — extra time would result in reform success
 * **A quick consequentialist escape:** if God's justice is consequentialist, the objection dissolves immediately — punishing Christ saves the human race, the supreme good consequence
 * But this escape is biblically untenable — see next slide
 
@@ -321,7 +321,7 @@
   * **Positive retributivism:** the guilty **should** be punished because they deserve it
   * **Negative retributivism:** the innocent **should not** be punished because they don't deserve it
 * The heart of retributive justice lies in **positive** retributivism
-* God is clearly a positive retributivist (Exodus 34:7 — "by no means clearing the guilty")
+* God is clearly a positive retributivist (Exodus 34:7: "by no means clearing the guilty")
 * But is God an **unqualified** negative retributivist? Not necessarily
 
 ---
@@ -371,7 +371,7 @@
 * Turretin's decisive move: Premise 4 is **false**
   * Our sins were imputed to Christ — so at the bar of God's justice, Christ was **legally guilty**
   * Christ remains personally virtuous — pure, selfless, compassionate
-  * But he was counted legally guilty on account of imputed sin
+  * But He was counted legally guilty on account of imputed sin
 * Therefore the demands of negative retributive justice are not violated at all — there is no innocent person being punished here
 
 ---
@@ -394,7 +394,7 @@
 
 * *Prem2: "If God is perfectly just, He cannot punish an innocent person"*
 * **Prem2** falls in three independent ways:
-  * Divine Command Theory — God determines justice
+  * Divine Command Theory: God determines justice
   * God is only qualifiedly a negative retributivist
   * *Prima facie* demands can be waived by overriding moral considerations
 * *Prem4: "Christ was an innocent person"*
@@ -453,8 +453,8 @@
 
 * What *is* guilt, that punishment can take it away?
 * Guilt in law is typically constituted by two elements:
-  * *Actus reus* — a wrongful act
-  * *Mens rea* — a blameworthy mental state
+  * *Actus reus*: a wrongful act
+  * *Mens rea*: a blameworthy mental state
 * But we do not treat guilt as permanent — a person who has served his sentence is no longer guilty
 * Craig: **Guilt is most simply and plausibly understood as liability to punishment**
 * When a court finds a person "guilty," it declares him liable to punishment
@@ -482,7 +482,7 @@
   * A friend can pay your fine for you by mutual agreement
   * Punitive damages paid by one party on behalf of another
 * Lewis: *"If the rest of us were to make so bold as to rebuke the Christians for their two-mindedness, they would have a good **tu quoque** against us"*
-  * "*Tu quoque*" — "same to you"; "pot calling the kettle black"
+  * "*Tu quoque*": "same to you"; "pot calling the kettle black"
 * If both sides accept penal substitution in civil law, "that is some evidence that somehow they might both be right"
 
 ---
@@ -509,9 +509,9 @@
 
 * American government separates three branches: legislative, judicial, executive
 * In God's government of the world, all three roles are united in one Person
-  * **Legislator** — determines what the law requires
-  * **Judge** — interprets the law and determines justice
-  * **Ruler / Executive** — administers the sentence
+  * **Legislator:** determines what the law requires
+  * **Judge:** interprets the law and determines justice
+  * **Ruler / Executive:** administers the sentence
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the LORD is our Judge, The LORD is our Lawgiver, The LORD is our King; He will save us"</p><p style="text-align: right;"> <em>Isaiah 33:22 (NKJV)</em></p>
 
@@ -528,10 +528,10 @@
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
 * These are similar — but not the same
-* **Substitute** — takes another's place but does not speak or act for him
+* **Substitute:** takes another's place but does not speak or act for him
   * A **substitute footballer** plays instead of another player
   * His goals are his own, not the player's
-* **Representative** — acts *on behalf of* another, as his agent or spokesman
+* **Representative:** acts *on behalf of* another, as his agent or spokesman
   * A player's **agent** negotiates the contract — but does not step in to play
   * The player is bound by what the agent does in his name
 * Some roles combine both:
@@ -572,8 +572,8 @@
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
 * Turretin proposed two bases for our union with Christ as our representative:
-  * **Incarnation** — Christ takes on human nature, uniting Himself with humanity
-  * **Mystical union** — believers are joined to Christ as members of His body
+  * **Incarnation:** Christ takes on human nature, uniting Himself with humanity
+  * **Mystical union:** believers are joined to Christ as members of His body
 * The mystical union is explanatorily **circular** — you must already be in Christ to receive imputation, but imputation is the basis of being in Christ
 * Craig prefers the first option: union through the Incarnation — and, he adds, through **Christ's baptism**, where He identified with fallen humanity
 
@@ -586,7 +586,7 @@
 * Christ, being sinless, did not need John's baptism of repentance
 * He submitted to it anyway — expressing **solidarity with fallen sinful mankind**
 * By Incarnation and baptism, the *Logos* is voluntarily appointed as our proxy
-* It is of little concern whether this has a parallel in human law — God can make such an arrangement for a divine person even if He forbids it among humans
+* Whether this has a parallel in human law is beside the point: God can make this arrangement for a divine person even if He forbids it among humans
 * The *Logos* has been freely appointed to represent us before the bar of divine justice
 
 ---
@@ -622,14 +622,14 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* **Forgiveness among humans** — relinquishing resentment, a change of attitude
-* **Legal pardon** — a formal act that cancels liability to punishment
+* **Forgiveness among humans:** relinquishing resentment, a change of attitude
+* **Legal pardon:** a formal act that cancels liability to punishment
 * Divine forgiveness is much more like a legal pardon than a personal change of heart
 * A pardon:
   * Annuls the consequences of the crime
   * Cancels liability to punishment
   * Restores civil rights (voting, jury service, attending shareholders' meetings)
-* In Christ, God's pardon restores **all the rights of His children** — adoption, inheritance, eternal life
+* In Christ, God's pardon restores **all the rights of His children:** adoption, inheritance, eternal life
 
 ---
 
@@ -649,7 +649,7 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * A presidential pardon can be offered **conditionally** — if the person refuses the conditions, the pardon is inefficacious
-* God's pardon in Christ is offered **conditionally** — upon repentance and faith
+* God's pardon in Christ is offered **conditionally:** upon repentance and faith
   * If we freely accept the pardon, it is efficacious
   * If we refuse, we remain liable for our sins — the pardon is granted but not received
 * This is why Christ's death does not imply universalism
@@ -660,7 +660,7 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* On December 1, 2024, **Joe Biden pardoned his son Hunter Biden** — an unusually broad 10-year retroactive sweep (Jan 1, 2014 — Dec 1, 2024)
+* On December 1, 2024, **Joe Biden pardoned his son Hunter Biden** with an unusually broad 10-year retroactive sweep (Jan 1, 2014 to Dec 1, 2024)
 * Yet even this sweeping pardon covered only crimes **already committed** — not future crimes
 * One of the few firm conditions of presidential pardon: you cannot be pardoned for something you have not yet done
 * Craig: "Turretin is exactly on all fours with the American justice system" on this point
@@ -718,7 +718,7 @@
 * Christ as divine person cannot be ruptured from fellowship with the Father in His **divine** nature
 * He suffers the punishment for sin in His **human** nature — as the Man Christ Jesus
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right;"> <em>Hebrews 2:14,15 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right;"> <em>Hebrews 2:14–15 (NKJV)</em></p>
 
 * The Incarnation is necessary so that a divine person, in His human nature, can bear our punishment
 
@@ -770,7 +770,7 @@
 * All four facets, held together:
   * **Penal Substitution:** Christ bears the punishment we deserved (Isaiah 53)
   * **Satisfaction:** His death satisfies divine retributive justice (Romans 3:25–26)
-  * **Redemption:** He liberates us from bondage to sin, death, and the devil (Hebrews 2:14,15)
+  * **Redemption:** He liberates us from bondage to sin, death, and the devil (Hebrews 2:14–15)
   * **Moral Influence:** His self-giving love draws our hearts (Romans 5:8)
 * Penal Substitution is at the center, giving all the others their weight
 * The Cross exalts God's holiness, justice, love, mercy, and wisdom all at once
