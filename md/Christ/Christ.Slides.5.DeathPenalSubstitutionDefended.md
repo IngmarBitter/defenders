@@ -44,7 +44,7 @@
   * **Strong version:** God actually *punished* Christ for our sins
   * **Modest version:** God afflicted Christ with the suffering that *would have been* our punishment, had it been inflicted on us
   * The modest version sidesteps some objections entirely
-  * Most penal substitution theorists hold the strong version — and so we must defend it
+  * Most Penal Substitution theorists hold the strong version — and so we must defend it
 
 ---
 
@@ -54,8 +54,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
 
-* **Biblical foundation:** there is no way to account for Isaiah 53 — or its use throughout the New Testament — without penal substitution
-* If penal substitution is true, it cannot be peripheral — it is **foundational** for every other motif
+* **Biblical foundation:** there is no way to account for Isaiah 53 — or its use throughout the New Testament — without Penal Substitution
+* If Penal Substitution is true, it cannot be peripheral — it is **foundational** for every other motif
 
 ---
 
@@ -522,7 +522,7 @@
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
 * Lewis thought criminal law rejected penal substitution — but he was wrong
-* **Vicarious liability** is penal substitution in criminal law:
+* **Vicarious liability** is Penal Substitution in criminal law:
   * The employee's crime is imputed to the employer
   * Either or both may be punished
   * If the superior bears the full punishment, the subordinate goes free
@@ -761,7 +761,7 @@
 * The church fathers asked: *"To whom is the ransom paid?"* and answered *"To Satan"* — awkwardly
 * Craig (following Anselm): the ransom price is paid **to God** to discharge our debt of punishment
 * Just as a criminal "pays his debt to society" by serving his sentence, so Christ has paid our debt to divine justice
-* **Ransom is a metaphor for penal substitution** — not a standalone theory
+* **Ransom is a metaphor for Penal Substitution** — not a standalone theory
 * Redemption is a facet of the diamond whose center is Penal Substitution
 
 ---
