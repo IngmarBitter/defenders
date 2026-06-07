@@ -828,7 +828,7 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * Four convergent lines of biblical evidence:
-  * **The early creed** (1 Cor 15:3-8) — pre-AD 36, mirrored in Acts and Mark
+  * **The early creed** (1 Cor 15:3-8): within 3 or 6 years of the cross, mirrored in Acts and Mark
   * **The empty tomb:** discovered by women, inspected by men, attested by Mark, Luke, and John
   * **The post-mortem appearances:** individual and corporate, friends and skeptics, in Jerusalem and Galilee
   * **The transformed disciples:** from denial and despair to bold proclamation
