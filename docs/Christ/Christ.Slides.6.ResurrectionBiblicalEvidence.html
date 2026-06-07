@@ -4,6 +4,21 @@
 
 ---
 
+## Outline
+
+* [Why the Resurrection Matters](#slide2)
+* [Paul's Early Tradition (1 Corinthians 15)](#slide5)
+* [The Witnesses](#slide14)
+* [The Nature of the Resurrection Body](#slide25)
+* [Transformation, Not Body-Swap](#slide32)
+* [The Burial](#slide38)
+* [The Empty Tomb](#slide42)
+* [The Post-Mortem Appearances](#slide50)
+* [A Plausible Chronology](#slide66)
+* [Practical Takeaways](#slide72)
+
+---
+
 # Why the Resurrection Matters
 
 ---
@@ -12,11 +27,11 @@
 
 ![](pics/ChristWork.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"who was delivered up because of our offenses, and was raised because of our justification."</p><p style="text-align: right;"> <em>Romans 4:25 (NKJV)</em></p>
+
 * The resurrection is not an optional appendix to the cross — it is its other side
 * **Consequence** of satisfaction of justice — the price has been paid; death cannot hold Him
 * **Ratification** of satisfaction of justice — the cross was God's redemptive act, not a tragic mistake
-
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"who was delivered up because of our offenses, and was raised because of our justification."</p><p style="text-align: right;"> <em>Romans 4:25 (NKJV)</em></p>
 
 ---
 
@@ -24,16 +39,16 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **1 Corinthians 15** — Paul's treatise on the resurrection
+* **1 Corinthians 15:** Paul's treatise on the resurrection
   * The earliest creed (verses 3-8)
   * The nature of the resurrection body (verses 35-58)
-* **The Gospel narratives** — burial, empty tomb, post-mortem appearances
-* Today: the **biblical data** — the historical apologetic argument is the next slide
+* **The Gospel narratives:** burial, empty tomb, post-mortem appearances
+* Today: the **biblical data** — the historical apologetic argument is the next deck
 * Aim: show that the New Testament's testimony is early, public, checkable, and physically grounded
 
 ---
 
-# Paul's Early Tradition (1 Corinthians 15)
+# Paul's Early Tradition<br>(1 Corinthians 15)
 
 ---
 
@@ -53,9 +68,11 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, whether it was I or they, so we preach and so you believed."</p><p style="text-align: right;"> <em>1 Corinthians 15:11 (NKJV)</em></p>
+
 * "I delivered to you what I also received" uses the technical rabbinical terms for handing on **sacred tradition**
 * Paul is not improvising — he is quoting a fixed, memorized formula
-* And he insists in verse 11: *"whether it was I or they, so we preach"* — this is not Paul's idiosyncratic gospel but the apostolic message in summary
+* Verse 11 insists: this is not Paul's idiosyncratic gospel but the apostolic message in summary
 
 ---
 
@@ -74,42 +91,48 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* The four-line **parallelism** is Hebraic, not Greek
+* The four-line **parallelism** of the creed (died / buried / raised / appeared) is Hebraic, not Greek
 * "On the third day" is awkward Greek — natural Aramaic
-* **Cephas** — Peter's Aramaic name, not his Greek name Petros
+* **Cephas:** Peter's Aramaic name, not his Greek name Petros
 * Together: this formula has its origin in the **earliest Aramaic-speaking Jerusalem church**
 
 ---
 
-## Dating: Within Five Years of the Cross
+## Dating: Within 3 or 6 Years of the Cross
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Paul preached this creed in Corinth in **AD 50** — but he received it earlier
-* Galatians 1:18-19 — three years after his conversion (c. AD 33), Paul spent **fifteen days** in Jerusalem with Peter and James
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then after three years I went up to Jerusalem to see Peter, and remained with him fifteen days. But I saw none of the other apostles except James, the Lord's brother."</p><p style="text-align: right;"> <em>Galatians 1:18-19 (NKJV)</em></p>
+
+* **AD 50:** Paul preached this creed in Corinth
+* **AD 36:** Paul went to Jerusalem (3 years after his conversion)
+  * **Fifteen days** with Peter and James
   * The *only* two named individuals in 1 Corinthians 15:5-7
-  * C. H. Dodd: "We can assume that they didn't spend all their time talking about the weather"
-* Paul likely received the creed there — pushing the tradition back to **before AD 36**
-* A creed within five years of the crucifixion — not decades of legendary development
+  * Paul almost certainly received the creed there
+* **AD 33:** Paul's conversion. If he persecuted Christians because they held this creed, then the creed even predates his conversion
+* Creed within **3 or 6 years** of crucifixion — not decades of legendary creep
 
 ---
 
-## "According to the Scriptures" — Which Scriptures?
+## "According to the Scriptures" — Which Ones?
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
-* Line 1 ("died for our sins") — almost certainly **Isaiah 53**, the only Old Testament passage clearly about Messiah's substitutionary death
-* Line 3 ("raised on the third day") — debated:
-  * **Isaiah 53:10-11** — *"He shall see His seed"* — the Servant is vindicated after death
-  * **Jonah** — the sign Jesus Himself cited (Matthew 12:40)
-  * Hosea 6:2 — possible but extremely obscure; never cited elsewhere as a resurrection text
-* Whichever passages were in mind, the creed claims: **the resurrection fulfills Scripture**
+* <span style="font-family: 'EB Garamond', serif; font-style: italic;">"He died for our sins, according to the Scriptures"</span>
+  * almost certainly **Isaiah 53** — the only Old Testament passage clearly about Messiah's substitutionary death
+* <span style="font-family: 'EB Garamond', serif; font-style: italic;">"raised on the third day, according to the Scriptures"</span> — debated:
+  * **Isaiah 53:10-11:** *"He shall see His seed"* — the Servant is vindicated after death
+  * **Matthew 12:40:** *"as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth"* — the sign of Jonah that Jesus Himself cited
+  * **Hosea 6:2:** *"After two days He will revive us; on the third day He will raise us up"* — possible but obscure; never cited elsewhere as a resurrection text
+* Whichever it is, the creed's claim holds: **the resurrection fulfills Scripture**
 
 ---
 
-## Mirrored in Apostolic Preaching and Mark's Passion
+## Mirrored in Acts and Mark's Passion
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] they asked Pilate that He should be put to death. [...] they took Him down from the tree and laid Him in a tomb. But God raised Him from the dead. He was seen for many days by those who came up with Him from Galilee to Jerusalem, who are His witnesses to the people."</p><p style="text-align: right;"> <em>Acts 13:28-31 (NKJV)</em></p>
 
 * **Acts 13:28-31** (Paul preaching in Pisidian Antioch) follows the four-line outline almost word for word — death, burial, resurrection, appearances
 * **Mark 15-16** narrates the same four events in the same order — crucifixion, burial, empty tomb, foreshadowed appearances
@@ -117,7 +140,20 @@
 
 ---
 
-# The Witnesses to the Risen Christ
+## The Creed Forecloses the Legend Hypothesis
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* The four-line creed shows the resurrection claim is not a late development:
+  * **Form:** rabbinical transmission, non-Pauline style, Semitic features — pre-dates Paul
+  * **Date:** within three or six years of the crucifixion (Slide 10)
+  * **Reach:** mirrored in Acts 13 and Mark 15-16 — the apostolic gospel everywhere
+* No room for legendary growth — legend would have taken generations
+* Whatever happened in Jerusalem, the apostles were proclaiming a bodily-risen Christ almost immediately
+
+---
+
+# The Witnesses
 
 ---
 
@@ -148,9 +184,11 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **Cephas (Peter)** — Jesus' chief disciple; appearance corroborated in Luke 24:34
-* **The Twelve** — the inner circle; Easter evening in the upper room (Luke 24:36-43; John 20:19-20)
-* **Five hundred at once** — unique to Paul; possibly the Galilean mountaintop appearance (Matthew 28:16-17)
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] He was seen by Cephas, then by the twelve. After that He was seen by over five hundred brethren at once, of whom the greater part remain to the present, but some have fallen asleep."</p><p style="text-align: right;"> <em>1 Corinthians 15:5-6 (NKJV)</em></p>
+
+* **Cephas (Peter):** Jesus' chief disciple; appearance corroborated in Luke 24:34
+* **The Twelve:** the inner circle; Easter evening in the upper room (Luke 24:36-43; John 20:19-20)
+* **Five hundred at once:** unique to Paul; possibly the Galilean mountaintop appearance (Matthew 28:16-17)
   * Paul says most are **still alive** — go ask them
 * The number alone makes mass hallucination implausible
 
@@ -160,11 +198,16 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Jesus' younger brother
-* During Jesus' ministry: **not a follower** (John 7:1-10 — his brothers tried to goad Him into a death trap; "neither did His brothers believe in Him")
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For even His brothers did not believe in Him."</p><p style="text-align: right;"> <em>John 7:5 (NKJV)</em></p>
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"After that He was seen by James, then by all the apostles."</p><p style="text-align: right;"> <em>1 Corinthians 15:7 (NKJV)</em></p>
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"and when James, Cephas, and John, who seemed to be pillars, perceived the grace that had been given to me, they gave me and Barnabas the right hand of fellowship [...]"</p><p style="text-align: right;"> <em>Galatians 2:9 (NKJV)</em></p>
+
+* James was Jesus' younger brother
+* James was not a follower of Jesus before the cross
 * After the resurrection: head of the Jerusalem church (Acts 15; Galatians 2:9), eventually martyred for the faith
-* What changed him? Paul names it: **"He was seen by James"**
-* This is no small fact — it is the conversion of an unbelieving sibling who saw his brother alive after the cross
+* Seeing the risen Jesus best explains why James embraced belief
 
 ---
 
@@ -172,8 +215,8 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **"All the apostles"** — a wider group than the Twelve, including missionaries like Barnabas (cf. Acts 1:21-22)
-* **"Last of all… He was seen by me also"** — Paul's own Damascus Road encounter (Acts 9)
+* **"All the apostles":** a wider group than the Twelve, including missionaries like Barnabas (cf. Acts 1:21-22)
+* **"Last of all… He was seen by me also":** Paul's own Damascus Road encounter (Acts 9)
 * Paul, the persecutor, is added as a hostile-witness convert
 * Together with James (the unbelieving brother) and Peter (the denier), the witnesses include **friends, family, and former enemies**
 
@@ -226,9 +269,24 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But now Christ is risen from the dead, and has become the firstfruits of those who have fallen asleep."</p><p style="text-align: right;"> <em>1 Corinthians 15:20 (NKJV)</em></p>
 
-* **Firstfruits** — a representative sample of the harvest still to come
+* **Firstfruits:** a representative sample of the harvest still to come
 * Christ's resurrection is not isolated — it is the **forerunner** of ours
 * In Christ, the eschatological resurrection has already occurred in advance, in one Person
+
+---
+
+## The Cumulative Force of the Witness List
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Paul's witness list is diverse, named, and checkable:
+  * **Peter:** the chief disciple, formerly a denier
+  * **The Twelve:** corroborated by Luke 24 and John 20
+  * **The Five Hundred:** most still alive; mass hallucination ruled out
+  * **James:** the unbelieving brother turned pillar
+  * **All the apostles + Paul:** including the converted persecutor
+* The list spans friends, family, and former enemies — the kind of testimony no fabricator would invent
+* By the standards of his own time, Paul has made a public, falsifiable historical case
 
 ---
 
@@ -240,7 +298,8 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Verse 35: *"How are the dead raised up? And with what body do they come?"*
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But someone will say, 'How are the dead raised up? And with what body do they come?'"</p><p style="text-align: right;"> <em>1 Corinthians 15:35 (NKJV)</em></p>
+
 * Some Corinthians were **revolted** at the idea of the material body raised — possibly proto-Gnostic dualism, possibly simple materialism
 * Paul does not retreat to immateriality — instead, he insists the resurrection body is **transformed**, not abandoned
 * The Corinthian objection lets Paul disclose what the resurrection body actually *is*
@@ -288,9 +347,9 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **1 Corinthians 2:14-15** — uses the same vocabulary of *people*: the natural man (*psychikos*) cannot grasp the Spirit's things; the spiritual man (*pneumatikos*) judges all things
+* **1 Corinthians 2:14-15:** uses the same vocabulary of *people* — the natural man (*psychikos*) cannot grasp the Spirit's things; the spiritual man (*pneumatikos*) judges all things
 * No one thinks Paul means immaterial people!
-* **1 Corinthians 10:3-4** — Israel ate "supernatural food" (*pneumatikos*) and drank from the "supernatural Rock"
+* **1 Corinthians 10:3-4:** Israel ate "supernatural food" (*pneumatikos*) and drank from the "supernatural Rock"
 * The manna and water were physical and tangible — but supernaturally provided
 * Jean Hering: better translate *pneumatikos* as **"supernatural"** — natural body vs. supernatural body
 
@@ -443,7 +502,7 @@
 
 * Some scholars: the women came to *complete* a hurried Friday burial
 * Craig: this is ungrounded — the burial narrative shows no signs of being rushed
-* Three hours (3 pm to sunset) was ample, as Acts 5:6-7 confirms (Ananias buried in three hours)
+  * Three hours (3 pm to sunset) was ample, as Acts 5:6-7 confirms (Ananias buried in three hours)
 * What the women were doing was the **typical Jewish grieving practice**: pouring aromatic oils over the corpse for three days as a final act of devotion
 * They came to honor a corpse — not to discover an empty tomb
 
@@ -456,8 +515,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But he said to them, 'Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He is risen! He is not here. See the place where they laid Him.'"</p><p style="text-align: right;"> <em>Mark 16:6 (NKJV)</em></p>
 
 * Mark calls the figure "a young man clothed in a long white robe" — clearly **angelic**
-* White robe is a tip-off; the proclamation of the resurrection is the giveaway
-* Matthew and Luke — the earliest interpreters of Mark — call him an angel
+  * White robe is a tip-off; the proclamation of the resurrection is the giveaway
+  * Matthew and Luke — the earliest interpreters of Mark — call him an angel
 * The *angelic herald* is the literary signature of divine action
 
 ---
@@ -468,9 +527,9 @@
 
 * Mark 16:8 — *"they said nothing to anyone, for they were afraid"*
 * Some scholars: this means the empty tomb stayed unknown for decades — preposterous
-* The tomb itself was public; permanent silence is implausible
+  * The tomb itself was public; permanent silence is implausible
 * Better reading: silence **en route** to the disciples, not enduring silence
-* Compare Mark 1:43-44 — Jesus tells the cleansed leper *"see that you say nothing to anyone, but go, show yourself to the priest"* — silence on the way, not afterwards
+  * Compare Mark 1:43-44 — Jesus tells the cleansed leper *"see that you say nothing to anyone, but go, show yourself to the priest"* — silence on the way, not afterwards
 * "Trembling and astonishment" is Mark's signature reaction to **divine encounter**
 
 ---
@@ -479,7 +538,9 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Even if Mark ends at 16:8, the angel says: *"He is going before you into Galilee; there you will see Him"*
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But go, tell His disciples—and Peter—that He is going before you into Galilee; there you will see Him, as He said to you."</p><p style="text-align: right;"> <em>Mark 16:7 (NKJV)</em></p>
+
+* Even if Mark ends at 16:8, the angel here points forward to Galilee
 * Mark *presupposes* a Galilean appearance, even if he does not narrate one
 * "Tell His disciples — and Peter" — singled out perhaps as future leader, perhaps recalling his denial
 * The lost-ending question is interesting but secondary: **Mark already proclaims a risen Christ**
@@ -490,8 +551,10 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And certain of those who were with us went to the tomb and found it just as the women had said; but Him they did not see."</p><p style="text-align: right;"> <em>Luke 24:24 (NKJV)</em></p>
+
 * John 20:2-10 — Peter and the beloved disciple **run to verify** the women's report and find the tomb empty
-* Luke 24:24 (Emmaus disciples speaking) — *"some of those who were with us went to the tomb and found it just so as the women had said, but Him they did not see"*
+* Luke 24:24 — Emmaus disciples confirm in their own words: the men did inspect, but did not see Him
 * This is **independent attestation** in two Gospels: men inspected the tomb after the women
 * The inspection is precisely what skeptics demand — and the New Testament records it
 
@@ -571,7 +634,8 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Luke 24:16 — *"their eyes were restrained, so that they did not know Him"*
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But their eyes were restrained, so that they did not know Him."</p><p style="text-align: right;"> <em>Luke 24:16 (NKJV)</em></p>
+
 * Mary (John 20), the Emmaus pair (Luke 24), the disciples at Tiberias (John 21) — three appearances with the same motif
 * Not natural causes (tears, distance, angle) — Luke calls it a divinely **imposed** inhibition, instantly removed at disclosure
 * Theological purpose: Jesus is now in a **new mode of existence**
@@ -607,8 +671,8 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * The wounds and the eating serve **two purposes**:
-  * **Materiality** — the resurrection body is physical, not ghostly; flesh and bones, not ether
-  * **Identity** — this is the **same Jesus** who was crucified and buried; not a replacement, not a different body
+  * **Materiality:** the resurrection body is physical, not ghostly; flesh and bones, not ether
+  * **Identity:** this is the **same Jesus** who was crucified and buried; not a replacement, not a different body
 * The wounds are the **signature** of the crucified one
 * No anti-Docetic invention later would think to *keep* the scars in the glorified body — but the Gospels do
 
@@ -656,7 +720,7 @@
 
 * John 21 — seven disciples fish all night and catch nothing
 * Common reading: they had given up and gone back to their old way of life
-* But the list (verses 1-2) includes **Nathanael of Cana** — a landlocked town, no fishing trade
+* But the list (verses 1-2) includes **Nathanael of Cana** (a landlocked town, no fishing trade)
 * Better reading: they are **waiting in Galilee** for the appointed mountaintop rendezvous
 * While they wait, Peter says "I'm going fishing" — and the others go with him to pass the time
 
@@ -759,6 +823,20 @@
 
 ---
 
+## What the Biblical Evidence Establishes
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Four convergent lines of biblical evidence:
+  * **The early creed** (1 Cor 15:3-8) — pre-AD 36, mirrored in Acts and Mark
+  * **The empty tomb:** discovered by women, inspected by men, attested by Mark, Luke, and John
+  * **The post-mortem appearances:** individual and corporate, friends and skeptics, in Jerusalem and Galilee
+  * **The transformed disciples:** from denial and despair to bold proclamation
+* Whatever theory explains the resurrection must explain all four lines
+* The historical apologetic case — what *best* explains the data — is the next deck
+
+---
+
 # Practical Takeaways
 
 ---
@@ -768,10 +846,10 @@
 ![](pics/diamond.png style="float: right; width: 7rem")
 
 * The resurrection establishes:
-  * **The vindication of Christ's identity** — He really is who He claimed to be
-  * **The ratification of the atonement** — divine justice has been satisfied
-  * **The defeat of death itself** — the last enemy is on notice
-  * **The firstfruits of our future resurrection** — what happened to Him will happen to us
+  * **The vindication of Christ's identity:** He really is who He claimed to be
+  * **The ratification of the atonement:** divine justice has been satisfied
+  * **The defeat of death itself:** the last enemy is on notice
+  * **The firstfruits of our future resurrection:** what happened to Him will happen to us
 * Without the resurrection, the cross is tragedy; with it, the cross is victory
 
 ---
@@ -780,11 +858,13 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord."</p><p style="text-align: right;"> <em>1 Corinthians 15:58 (NKJV)</em></p>
+
 * Paul ends his great chapter with a **practical exhortation**, not a doctrinal flourish
-* Be **steadfast** — do not give way under persecution or pressure
-* Be **immovable** — convictions anchored in a risen Lord
+* Be **steadfast:** do not give way under persecution or pressure
+* Be **immovable:** convictions anchored in a risen Lord
 * Always **abounding** in the work of the Lord
-* "Your labor is not in vain in the Lord" — every act of obedience is invested in eternity, because **Christ is risen**
+* Every act of obedience is invested in eternity, because **Christ is risen**
 
 ---
 
@@ -847,6 +927,12 @@
         detectMath: false,
         onLoad: function() {
             initSlides();
+            window.addEventListener("hashchange", function() {
+                var h = window.location.hash;
+                if (h && h.indexOf("#slide") === 0 && typeof showSlide === "function") {
+                    showSlide(parseInt(h.substring(6), 10));
+                }
+            });
         }
     };
 </script>
