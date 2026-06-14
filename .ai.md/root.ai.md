@@ -45,6 +45,25 @@
    - Verify punctuation, capitalization, and formatting match exactly
 3. **Never recite from memory** -- always verify against authoritative source
 
+## Slide Deck Structure (Argument Flow)
+
+Craig's lecture method (state the view → defend → re-state in synthesis) bakes in repetition: Scripture and the interpretations each get re-treated two or three times across a unit. Default to this **compact, evidence-first** structure instead, which cites each passage **once**:
+
+1. **State the interpretations** — present the candidate theological views up front, *defined but not yet argued*. Exposition only: what each view claims, no defense and no challenges. Keep it crisp, like a hypothesis list, so the audience can evaluate the evidence that follows.
+2. **Review the relevant Scripture** — walk the key passages once. For **each** passage, add bullets noting how it **supports** or **challenges** the interpretations from step 1. This is the only place Scripture is quoted; it does double duty as both the biblical data and the basis for the later objections.
+3. **Revisit the interpretations** — for each view, summarize the challenges (their biblical basis is already established in step 2 — refer back, do not re-quote), give the answers to those challenges, and state a conclusion on whether the view can be adopted today.
+4. **Application** — practical takeaways.
+
+**Two modes — signal which one the deck is in:**
+
+- **(a) Non-exclusive interpretations** (complementary facets, e.g. the motifs/"diamond" of Christ's death): step 3 is *integration*, not adjudication — all the views are adopted together. Be **assertive throughout**.
+- **(b) Exclusive interpretations** (genuine rivals, e.g. Calvinism vs. Arminianism, molinism): steelman each view fairly in step 1, keep step 2's support/challenge bullets honestly cutting **both ways**, and stay **balanced** until step 3, where the cons and their answers reveal which side is more compelling. Do not stack step 2 toward the favored side — that begs the question.
+
+**Cautions:**
+
+- Step 1 must make each view *intelligible* without arguing it — define the position, withhold the case for it.
+- For decks taught live, some deliberate restatement aids retention (e.g. a one-line recap of each view at the step-3 verdict) even when the argument no longer strictly requires it.
+
 ## Encoding Standards (Slide Files)
 
 Slide `.md` files render as HTML via Markdeep, so use proper Unicode:
