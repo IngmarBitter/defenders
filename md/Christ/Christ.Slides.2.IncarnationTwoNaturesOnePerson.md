@@ -384,7 +384,7 @@
 
 * [Return to Christ Overview](Christ.Slides.html)
 * Prev: [Overview: Who Is Christ?](Christ.Slides.1.OverviewWhoIsChrist.html)
-* Next: [Christ's Death: Sacrifice, Propitiation, and Redemption](Christ.Slides.3.DeathSacrificePropitiationRedemption.html)
+* Next: [Christ's Death: The Biblical Case for Penal Substitution](Christ.Slides.3.DeathPenalSubstitutionBiblicalCase.html)
 * [Return to Creekside Defenders](../CreeksideDefenders.html)
 
 ---

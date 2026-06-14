@@ -25,13 +25,13 @@
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-* Four theories surveyed: Ransom, Satisfaction, Moral Influence, Penal Substitution
-* Craig: **Penal Substitution is central:** the foundation that gives the other facets their weight
-* Without it:
-  * Ransom becomes mythological (paid to whom?)
+* Last session: the biblical case that Christ bore our penalty — sacrifice, the Suffering Servant, divine justice, and representation all converge on Penal Substitution
+* Craig: **Penal Substitution is the root facet** — the foundation that gives the other facets their weight
+* The facets still to come depend on it:
+  * Ransom becomes mythological without it (paid to whom?)
   * Satisfaction collapses into mere compensation
   * Moral Influence becomes unintelligible (see R. W. Dale)
-* Today: defend Penal Substitution against its strongest philosophical challenges
+* But first it must survive its strongest philosophical challenges — today we defend it
 
 ---
 
@@ -854,8 +854,8 @@
 ## Navigation
 
 * [Return to Christ Overview](Christ.Slides.html)
-* Prev: [Theories of the Atonement](Christ.Slides.4.DeathTheoriesOfAtonement.html)
-* Next: [The Resurrection: Biblical Evidence](Christ.Slides.7.ResurrectionBiblicalEvidence.html)
+* Prev: [Christ's Death: The Biblical Case for Penal Substitution](Christ.Slides.3.DeathPenalSubstitutionBiblicalCase.html)
+* Next: [Christ's Death: Redemption and Ransom](Christ.Slides.5.DeathRedemptionAndRansom.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

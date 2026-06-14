@@ -13,9 +13,10 @@ Ingmar Bitter, PhD
 
 1. [Overview: Who Is Christ?](Christ.Slides.1.OverviewWhoIsChrist.html)
 2. [The Incarnation: Two Natures, One Person](Christ.Slides.2.IncarnationTwoNaturesOnePerson.html)
-3. [Christ’s Death: Sacrifice, Propitiation, and Redemption](Christ.Slides.3.DeathSacrificePropitiationRedemption.html)
-4. [Theories of the Atonement](Christ.Slides.4.DeathTheoriesOfAtonement.html)
-5. [Christ’s Death: Penal Substitution Defended](Christ.Slides.5.DeathPenalSubstitutionDefended.html)
+3. [Christ's Death: The Biblical Case for Penal Substitution](Christ.Slides.3.DeathPenalSubstitutionBiblicalCase.html)
+4. [Christ's Death: Penal Substitution Defended](Christ.Slides.4.DeathPenalSubstitutionDefended.html)
+5. [Christ's Death: Redemption and Ransom](Christ.Slides.5.DeathRedemptionAndRansom.html)
+6. [Christ's Death: Moral Influence](Christ.Slides.6.DeathMoralInfluence.html)
 7. [The Resurrection: Biblical Evidence](Christ.Slides.7.ResurrectionBiblicalEvidence.html)
 8. [The Resurrection: Defeating the Alternatives](Christ.Slides.8.ResurrectionDefeatingAlternatives.html)
 9. [Access: Who Can Be Saved Through Christ?](Christ.Slides.9.AccessWhoCanBeSavedThroughChrist.html)
