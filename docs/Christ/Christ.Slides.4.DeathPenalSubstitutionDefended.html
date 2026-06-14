@@ -11,9 +11,8 @@
 * [Objection 2: Injustice](#slide19)
 * [Satisfaction of Divine Justice](#slide35)
 * [Representation](#slide44)
-* [Forgiveness and Pardon](#slide50)
-* [The Four Motifs Integrated](#slide60)
-* [Practical Takeaways](#slide66)
+* [Forgiveness and Pardon](#slide49)
+* [Practical Takeaways](#slide59)
 
 ---
 
@@ -553,26 +552,11 @@
 
 ---
 
-## Substitute vs. Representative
-
-![](pics/Representation.jpg style="float: right; width: 7rem")
-
-* These are similar — but not the same
-* **Substitute:** takes another's place but does not speak or act for him
-  * A **substitute footballer** plays instead of another player
-  * His goals are his own, not the player's
-* **Representative:** acts *on behalf of* another, as his agent or spokesman
-  * A player's **agent** negotiates the contract — but does not step in to play
-  * The player is bound by what the agent does in his name
-* Some roles combine both:
-  * An **MMO avatar** enters the world for you *and* its victories go on your record
-
----
-
 ## Turretin: Christ Is Both
 
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
+* Recall the distinction from the Biblical Case deck: a **substitute** acts *in place of* you; a **representative** acts *on your behalf*, so what he does binds you — and some roles (an ambassador, an MMO avatar) combine both
 * **Francis Turretin** (17th century): Christ is both our *substitute* and our *representative* before God
   * As substitute — He bore the suffering we deserved
   * As representative — His punishment is counted as ours
@@ -734,76 +718,6 @@
 * "Paid debt cannot be forgiven"
   * No; legal pardon typically follows the discharge of a sentence
 * None of these objections survives under careful scrutiny
-
----
-
-# The Four Motifs Integrated
-
----
-
-## Christ Suffers in His Human Nature
-
-![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
-
-* Christ as divine person cannot be ruptured from fellowship with the Father in His **divine** nature
-* He suffers the punishment for sin in His **human** nature — as the Man Christ Jesus
-
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, and release those who through fear of death were all their lifetime subject to bondage."</p><p style="text-align: right;"> <em>Hebrews 2:14–15 (NKJV)</em></p>
-
-* The Incarnation is necessary so that a divine person, in His human nature, can bear our punishment
-
----
-
-## Redemption: Ransom Paid to God
-
-![](pics/Redemption.jpg style="float: right; width: 7rem")
-
-* The church fathers asked: *"To whom is the ransom paid?"* and answered *"To Satan"* — awkwardly
-* Craig (following Anselm): the ransom price is paid **to God** to discharge our debt of punishment
-* Just as a criminal "pays his debt to society" by serving his sentence, so Christ has paid our debt to divine justice
-* **Ransom is a metaphor for Penal Substitution** — not a standalone theory
-* Redemption is a facet of the diamond whose center is Penal Substitution
-
----
-
-## Moral Influence Needs Penal Substitution
-
-![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
-
-* **R. W. Dale**, *The Atonement*, gives this illustration:
-  * "If my brother made his way into a burning house to save my child from the flames, and were himself to perish in his heroic venture, his fate would be a wonderful proof of his affection for me and mine"
-  * "But if there were no child in the house, and if I were told that he entered it and perished with no other object than to show his love for me, the explanation would be absolutely unintelligible"
-* Christ's death moves us because it actually **rescued** us — not merely demonstrated love
-* Without Penal Substitution, the Moral Influence collapses into incoherence
-
----
-
-## Justification and Sanctification
-
-![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
-
-* **Justification** is a **legal** act:
-  * Our sins are imputed to Christ; His righteousness is imputed to us
-  * We are declared legally righteous before God — instantaneously, completely
-* **Sanctification** is the **ongoing work** of the Holy Spirit:
-  * Regeneration, walking in the Spirit, bearing the fruit of the Spirit
-  * A life-long transformation until we go home to glory
-* Justification doesn't automatically make us virtuous — a pardoned criminal is not suddenly a saint
-* Christ's death secures our justification; His Spirit works our sanctification
-
----
-
-## The Diamond in Full
-
-![](pics/diamond.png style="float: right; width: 7rem")
-
-* All four facets, held together:
-  * **Penal Substitution:** Christ bears the punishment we deserved (Isaiah 53)
-  * **Satisfaction:** His death satisfies divine retributive justice (Romans 3:25–26)
-  * **Redemption:** He liberates us from bondage to sin, death, and the devil (Hebrews 2:14–15)
-  * **Moral Influence:** His self-giving love draws our hearts (Romans 5:8)
-* Penal Substitution is at the center, giving all the others their weight
-* The Cross exalts God's holiness, justice, love, mercy, and wisdom all at once
 
 ---
 
