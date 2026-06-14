@@ -27,21 +27,27 @@
   - **Outline TOC slide** (slide 1) with clickable anchor links to each section divider; hashchange listener calls showSlide for mid-presentation jumps
   - **Teaching-pass polish DONE:** verse-first formatting, premise repeats as leading bullets on Replies, "censure" → "rebuke", "just desert" → "what is deserved", "pinch hitter" → "substitute footballer", em-dash audit (label:def → colon), 8 nesting fixes, "Penal Substitution" capitalization normalized
   - **scripture-quote-layout.js wired up** (footer script + slideChangeHook)
-- Slide 6 (Resurrection: Biblical Evidence) — DONE (expanded from 100-line skeleton to ~855 lines / 63 slides)
+- Slide 6 (Resurrection: Biblical Evidence) — DONE + POLISHED + TAUGHT 2026-06-07 (~918 lines / ~78 slides)
   - Built from Craig Parts 25-32 (1 Cor 15 + Gospel resurrection narratives)
   - Sections:
-    1. Why It Matters — cross/resurrection two sides of one coin (Romans 4:25), roadmap
-    2. Paul's Early Tradition (1 Cor 15:3-5) — four-line creed, rabbinical transmission markers, non-Pauline style, Semitic features, dating to AD 36 (Galatians 1:18-19, Dodd), "according to the Scriptures" (Isaiah 53 / Jonah), echoed in Acts 13 and Mark 15-16
-    3. The Witnesses (1 Cor 15:5-8) — witnesses not appearances, why women omitted, Cephas/Twelve/500, James (skeptic to pillar), all apostles + Paul, Damascus Road as real post-ascension appearance, modus tollens, the stakes (1 Cor 15:14, 17, 20)
+    1. Why It Matters — cross/resurrection two sides of one coin (Romans 4:25), roadmap (next deck = historical apologetic)
+    2. Paul's Early Tradition (1 Cor 15:3-5) — four-line creed, rabbinical transmission markers, non-Pauline style, Semitic features, dating chronology AD 50/36/33 with "3 or 6 years" framing (Galatians 1:18-19, conditional persecutor argument), "according to the Scriptures" (Isaiah 53 / Jonah / Hosea 6:2 with inline NKJV quotes), echoed in Acts 13 and Mark 15-16, **synthesis slide:** "The Creed Forecloses the Legend Hypothesis"
+    3. The Witnesses (1 Cor 15:5-8) — witnesses not appearances, why women omitted, Cephas/Twelve/500, James (skeptic to pillar with John 7:5 + 1 Cor 15:7 + Galatians 2:9 chronology), all apostles + Paul, Damascus Road as real post-ascension appearance, modus tollens, the stakes (1 Cor 15:14, 17, 20), **synthesis slide:** "The Cumulative Force of the Witness List"
     4. Nature of the Resurrection Body (1 Cor 15:35-49) — Corinthian objection, three analogies (seed/flesh/glory), four contrasts (1 Cor 15:42-44), psychikos vs pneumatikos misreading corrected (1 Cor 2 and 10), Hering's "supernatural", First/Last Adam (1 Cor 15:45)
     5. Transformation Not Body-Swap (1 Cor 15:50-58) — flesh and blood as Jewish idiom, compatible with Luke 24:39 "flesh and bones", Ezekiel 37 (bones at heart of Jewish hope), continuity (1 Cor 15:51-52), final application (1 Cor 15:55, 58)
     6. The Burial — Joseph of Arimathea (Sanhedrist + sympathizer hints in Mark), Nicodemus + tomb type (arcosolium/bench, rolling stone, wealth), women's triple witness
-    7. The Empty Tomb — Roman guard set Saturday (timing argues against legend), Sunday devotional anointing not unfinished burial, angel proclamation (Mark 16:6), "said nothing to anyone" read rightly (Mark 1:43-44 parallel), Mark presupposes Galilee appearances, disciples' inspection (John 20 + Luke 24:24), folded face cloth (blepo/theoreo/horao)
+    7. The Empty Tomb — Roman guard set Saturday (timing argues against legend), Sunday devotional anointing not unfinished burial, angel proclamation (Mark 16:6), "said nothing to anyone" read rightly (Mark 1:43-44 parallel), Mark presupposes Galilee appearances (Mark 16:7), disciples' inspection (John 20 + Luke 24:24), folded face cloth (blepo/theoreo/horao)
     8. Post-Mortem Appearances — six gospel appearances + four named by Paul; women (Matthew 28 / John 20:11-18); "do not cling" in light of grasping ankles; Emmaus + non-recognition as supernatural inhibition; Peter; Twelve in Jerusalem (Luke 24:39, 42-43; rabbinical food test); materiality + identity; through closed doors (supernatural body); wounds as eternal trophy; Thomas (John 20:27-28); Sea of Tiberias (Galilean rendezvous wait, Nathanael landlocked, "nets did not tear"); Peter recommissioning (John 21:17, not rehabilitation); Galilean mountaintop (Matthew 28:16-19, "some doubted" possibly the 500)
     9. Chronology — feast pilgrimage ordering, resolving Matthew/John women-appearance tension (Matthew leapfrogs 1→3), Acts 1:3 forty days, glorified at resurrection not at ascension
-    10. Practical Takeaways — what resurrection establishes, "labor not in vain", hope of Christian future
-    11. Credits (Craig 25-32, Dodd, Hering, N. T. Wright), Navigation
-  - Verified NKJV quotes against blueletterbible.org: Romans 4:25; 1 Cor 15:3-8, 14, 17, 20, 42-44, 45, 50-52, 55, 58; Mark 16:6; Luke 24:39, 42-43; John 20:17, 27-28; John 21:17; Matthew 28:16-19; Acts 1:3; Ezekiel 37:5-6
+    10. **Synthesis slide:** "What the Biblical Evidence Establishes" — four convergent lines bridging defensive and constructive material (creed, empty tomb, appearances, transformed disciples); explicitly points to next deck for the apologetic case
+    11. Practical Takeaways — what resurrection establishes, "labor not in vain" (1 Cor 15:58 leading), hope of Christian future
+    12. Credits (Craig 25-32, Dodd, Hering, N. T. Wright), Navigation
+  - **Outline TOC slide** (slide 1) with clickable anchor links to all 10 section dividers; hashchange listener bridges to Markdeep's showSlide for mid-presentation jumps
+  - **Teaching-pass polish DONE:** verse-first formatting throughout, label:definition em-dashes → colons (~17 conversions), three nesting fixes (Sunday Morning, Angel Proclamation, Said Nothing), "The Witnesses to the Risen Christ" → "The Witnesses", pronoun capitalization fix on James slide ("His brothers"), section divider line-break on "Paul's Early Tradition<br>(1 Corinthians 15)", "four-line parallelism" clarified inline, Dodd quote dropped as fluff, "Mirrored in Apostolic Preaching..." → "Mirrored in Acts and Mark's Passion" (shortened title)
+  - **Leading EB Garamond NKJV quotes added** to 14 slides where there was space and a clear central scripture: Cross and Resurrection (Rom 4:25); Four-Line Creed (1 Cor 15:3-5); Marker 1 (1 Cor 15:11); Dating (Gal 1:18-19); Mirrored in Acts (Acts 13:28-31); Witnesses Not Appearances (1 Cor 15:6-8); Cephas/Twelve/500 (1 Cor 15:5-6); James — Skeptic to Pillar (John 7:5 + 1 Cor 15:7 + Gal 2:9, three quotes chronologically); Stakes (1 Cor 15:14, 17); But Now Christ Is Risen (1 Cor 15:20); Corinthian Objection (1 Cor 15:35); Four Contrasts (1 Cor 15:42-44); First/Last Adam (1 Cor 15:45); Flesh and Blood (1 Cor 15:50); Compatible with Luke 24 (Luke 24:39); Ezekiel 37 (Ez 37:5-6); Continuity (1 Cor 15:51-52); Final Application (1 Cor 15:55, 58); Angel Proclamation (Mark 16:6); Mark Knows Galilee (Mark 16:7); Disciples' Inspection (Luke 24:24); Do Not Cling (John 20:17); Non-Recognition (Luke 24:16); Twelve in Jerusalem (Luke 24:39, 42-43); Thomas (John 20:27-28); Peter Recommissioned (John 21:17); Galilean Mountaintop (Matt 28:16-19); Forty Days (Acts 1:3); Your Labor Is Not in Vain (1 Cor 15:58); plus inline NKJV quotes on Which Ones? (Isaiah 53:10-11, Matt 12:40 for Jonah, Hosea 6:2)
+  - **scripture-quote-layout.js wired up** (footer script + slideChangeHook)
+  - **Post-teaching fix (2026-06-07):** Slide 3 "Cross and Resurrection" reframed — old "Consequence/Ratification" framing replaced with: Christ's *death* saves us (penalty paid at the cross); resurrection's role is to **prove and assure** (apologetic value vindicates Jesus' claims + demonstration of God's power to raise us); Rom 4:25 glossed as resurrection publicly declaring the verdict the cross secured
+  - All NKJV quotes verified against blueletterbible.org
 - Updated `root.ai.md`: standardized on ASCII `"` quotes; editorial standards merged in
 - Slides renumbered previously: old 4-8 became 5-9, all nav links and TOC updated
 
@@ -66,13 +72,11 @@
 - Expand similarly to Slides 5 and 6: this is the *historical apologetic* half (the biblical evidence is in Slide 6)
 - Likely sections: Enlightenment skepticism (Reimarus, Strauss); existential vs evidential method; Ehrman objection; the three core facts (empty tomb, appearances, origin of belief) with detailed sub-arguments; McCullagh criteria for hypothesis evaluation; conspiracy/apparent-death/wrong-tomb/myth/hallucination critiqued; resurrection as best explanation; pastoral conclusion
 
-### Slide 6 teaching-pass review (possible future polish)
+### Slide 6 teaching-pass review
 
-- Like Slide 5, file is fresh; user has not taught from it yet
-- When user starts teaching, expect the same kind of polish pass as Slides 4 and 5:
-  - Overflow fixes on any bullet that runs to 3+ lines
-  - Tightening wording on dense slides (especially the appearances section, which has many sub-slides)
-  - Possibly splitting/combining adjacent slides if pacing feels off
+- Taught 2026-06-07; first batch of teaching feedback applied (Slide 3 reframed — uncommitted at session start, committed in 2026-06-14 review)
+- 2026-06-14 standards review: confirmed slide 6 is the most detailed deck (943 lines); fixed 3 "1 Cor" → "1 Corinthians" abbreviations (lines 246-247, 833), Unicode `[…]` → `[...]` on Galilean Mountaintop quote, spurious ellipsis on Damascus Road bullet → `[...]`; re-synced HTML
+- Remaining teaching sessions may surface more polish needs — apply per session
 
 ### Pending: Apply quote spacing changes to remaining slide decks
 
@@ -107,3 +111,6 @@ User needs to edit these copies of `Trinity.and.JesusTrueGodTrueMan.png`:
 - Section dividers in Slide 5: "The Challenge", "Objection 1: Incoherence", "Objection 2: Injustice", "Satisfaction of Divine Justice", "Representation", "Forgiveness and Pardon", "The Four Motifs Integrated", "Practical Takeaways"
 - Slide 5 Outline TOC is slide 1; type `1` + Enter to jump there during teaching; click any link to jump to that section
 - "Responding to Contemporary Objections" was moved out of Practical Takeaways to close the defensive arc right before "The Four Motifs Integrated"
+- Section dividers in Slide 6: "Why the Resurrection Matters", "Paul's Early Tradition (1 Corinthians 15)", "The Witnesses", "The Nature of the Resurrection Body", "Transformation, Not Body-Swap", "The Burial", "The Empty Tomb", "The Post-Mortem Appearances", "A Plausible Chronology", "Practical Takeaways"
+- Slide 6 Outline TOC is slide 1 (same wiring as Slide 5)
+- Slide 6 dating chronology: AD 50 (Paul preached in Corinth) → AD 36 (Jerusalem visit, 3 years after conversion) → AD 33 (conversion; creed predates this IF persecutor argument holds); slide title "Within 3 or 6 Years of the Cross" — 6 is bulletproof, 3 is the conditional stronger claim

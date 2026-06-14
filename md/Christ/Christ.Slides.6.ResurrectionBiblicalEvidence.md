@@ -29,9 +29,11 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"who was delivered up because of our offenses, and was raised because of our justification."</p><p style="text-align: right;"> <em>Romans 4:25 (NKJV)</em></p>
 
-* The resurrection is not an optional appendix to the cross — it is its other side
-* **Consequence** of satisfaction of justice — the price has been paid; death cannot hold Him
-* **Ratification** of satisfaction of justice — the cross was God's redemptive act, not a tragic mistake
+* Christ's **death** saves us — penalty paid in full at the cross
+* The resurrection's role is not to save, but to **prove and assure**:
+  * **Apologetic:** vindicates everything Jesus said and did
+  * **Demonstration:** what God did for Christ, He will do for us
+* Romans 4:25: the resurrection publicly declares the verdict the cross secured
 
 ---
 
@@ -216,7 +218,7 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * **"All the apostles":** a wider group than the Twelve, including missionaries like Barnabas (cf. Acts 1:21-22)
-* **"Last of all… He was seen by me also":** Paul's own Damascus Road encounter (Acts 9)
+* **"Last of all [...] He was seen by me also":** Paul's own Damascus Road encounter (Acts 9)
 * Paul, the persecutor, is added as a hostile-witness convert
 * Together with James (the unbelieving brother) and Peter (the denier), the witnesses include **friends, family, and former enemies**
 
@@ -241,8 +243,8 @@
 
 * The Corinthians say: *the dead are not raised*
 * Paul replies with simple logic:
-  * **P1.** If the dead are not raised, then Christ has not been raised (1 Cor 15:13)
-  * **P2.** But Christ has been raised (1 Cor 15:20)
+  * **P1.** If the dead are not raised, then Christ has not been raised (1 Corinthians 15:13)
+  * **P2.** But Christ has been raised (1 Corinthians 15:20)
   * **C.** Therefore the dead are raised
 * This is *modus tollens* — strict deductive logic
 * The witness list is the **evidence** for premise 2
@@ -756,7 +758,7 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then the eleven disciples went away into Galilee, to the mountain which Jesus had appointed for them. When they saw Him, they worshiped Him; but some doubted. And Jesus came and spoke to them, saying, 'All authority has been given to Me in heaven and on earth. Go therefore and make disciples of all the nations […]'"</p><p style="text-align: right;"> <em>Matthew 28:16-19 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then the eleven disciples went away into Galilee, to the mountain which Jesus had appointed for them. When they saw Him, they worshiped Him; but some doubted. And Jesus came and spoke to them, saying, 'All authority has been given to Me in heaven and on earth. Go therefore and make disciples of all the nations [...]'"</p><p style="text-align: right;"> <em>Matthew 28:16-19 (NKJV)</em></p>
 
 * The only **appointed** appearance — by prior arrangement
 * "**Some doubted**" — strange to say of the Eleven if only they were present
@@ -828,7 +830,7 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * Four convergent lines of biblical evidence:
-  * **The early creed** (1 Cor 15:3-8): within 3 or 6 years of the cross, mirrored in Acts and Mark
+  * **The early creed** (1 Corinthians 15:3-8): within 3 or 6 years of the cross, mirrored in Acts and Mark
   * **The empty tomb:** discovered by women, inspected by men, attested by Mark, Luke, and John
   * **The post-mortem appearances:** individual and corporate, friends and skeptics, in Jerusalem and Galilee
   * **The transformed disciples:** from denial and despair to bold proclamation
