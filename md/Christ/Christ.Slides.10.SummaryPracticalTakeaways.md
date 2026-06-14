@@ -49,7 +49,7 @@
 ## Navigation
 
 * [Return to Christ Overview](Christ.Slides.html)
-* Prev: [Access: Who Can Be Saved Through Christ?](Christ.Slides.8.AccessWhoCanBeSavedThroughChrist.html)
+* Prev: [Access: Who Can Be Saved Through Christ?](Christ.Slides.9.AccessWhoCanBeSavedThroughChrist.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

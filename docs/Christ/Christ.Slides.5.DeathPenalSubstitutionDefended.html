@@ -855,7 +855,7 @@
 
 * [Return to Christ Overview](Christ.Slides.html)
 * Prev: [Theories of the Atonement](Christ.Slides.4.DeathTheoriesOfAtonement.html)
-* Next: [The Resurrection: Biblical Evidence](Christ.Slides.6.ResurrectionBiblicalEvidence.html)
+* Next: [The Resurrection: Biblical Evidence](Christ.Slides.7.ResurrectionBiblicalEvidence.html)
 * [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
 
 ---

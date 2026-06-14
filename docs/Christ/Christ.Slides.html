@@ -16,10 +16,10 @@ Ingmar Bitter, PhD
 3. [Christ’s Death: Sacrifice, Propitiation, and Redemption](Christ.Slides.3.DeathSacrificePropitiationRedemption.html)
 4. [Theories of the Atonement](Christ.Slides.4.DeathTheoriesOfAtonement.html)
 5. [Christ’s Death: Penal Substitution Defended](Christ.Slides.5.DeathPenalSubstitutionDefended.html)
-6. [The Resurrection: Biblical Evidence](Christ.Slides.6.ResurrectionBiblicalEvidence.html)
-7. [The Resurrection: Defeating the Alternatives](Christ.Slides.7.ResurrectionDefeatingAlternatives.html)
-8. [Access: Who Can Be Saved Through Christ?](Christ.Slides.8.AccessWhoCanBeSavedThroughChrist.html)
-9. [Doctrine of Christ Summary and Practical Takeaways](Christ.Slides.9.SummaryPracticalTakeaways.html)
+7. [The Resurrection: Biblical Evidence](Christ.Slides.7.ResurrectionBiblicalEvidence.html)
+8. [The Resurrection: Defeating the Alternatives](Christ.Slides.8.ResurrectionDefeatingAlternatives.html)
+9. [Access: Who Can Be Saved Through Christ?](Christ.Slides.9.AccessWhoCanBeSavedThroughChrist.html)
+10. [Doctrine of Christ Summary and Practical Takeaways](Christ.Slides.10.SummaryPracticalTakeaways.html)
 
 <ul style="list-style-type: disc; margin: 0 0 0 1.25em; padding: 0;">
     <li style="margin: 0;"><a href="../CreeksideDefenders.html">Return to Creekside Defenders</a></li>
