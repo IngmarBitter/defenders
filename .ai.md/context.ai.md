@@ -53,17 +53,50 @@
 
 ## Todo
 
+**RENUMBERED 2026-06-14** — Death unit restructured from 3 decks into 4 (PSA frontloaded); downstream shifted +1. Commits: 33bd179 (standard), b77cc56 (renumber), 78dc76a (restructure).
+
 | Slide | Title | Craig Parts | Status |
 |-------|-------|-------------|--------|
 | 1 | Overview: Who Is Christ? | Part 1 | DONE |
 | 2 | The Incarnation: Two Natures, One Person | Parts 2-7 | DONE |
-| 3 | Christ's Death: Sacrifice, Propitiation, and Redemption | Parts 8-13 | DONE |
-| 4 | Theories of the Atonement | Parts 14-17 | DONE |
-| 5 | Christ's Death: Penal Substitution Defended | Parts 18-24 | DONE |
-| 6 | The Resurrection: Biblical Evidence | Parts 25-32 | DONE |
-| 7 | The Resurrection: Defeating the Alternatives | Parts 33-46 | TODO |
-| 8 | Access: Who Can Be Saved Through Christ? | Parts 47-51 | TODO |
-| 9 | Doctrine of Christ Summary and Practical Takeaways | Synthesis | TODO |
+| 3 | Christ's Death: The Biblical Case for Penal Substitution | Parts 8-17 | DONE (restructured) |
+| 4 | Christ's Death: Penal Substitution Defended | Parts 18-24 | DONE (was Slide 5) |
+| 5 | Christ's Death: Redemption and Ransom | Parts 13-14 | DONE (restructured) |
+| 6 | Christ's Death: Moral Influence | Part 16 | DONE (new) |
+| 7 | The Resurrection: Biblical Evidence | Parts 25-32 | DONE (was Slide 6) |
+| 8 | The Resurrection: Defeating the Alternatives | Parts 33-46 | TODO |
+| 9 | Access: Who Can Be Saved Through Christ? | Parts 47-51 | TODO |
+| 10 | Doctrine of Christ Summary and Practical Takeaways | Synthesis | TODO |
+
+**Old Slides 3 (Sacrifice/Propitiation/Redemption) and 4 (Theories of the Atonement) no longer exist** — their content was redistributed across new Decks 3-6. The compact evidence-first structure (root.ai.md) was applied: each scripture homed once, per-motif summary slides cut, a few slides merged.
+
+**Deck 4 (Defended) dedup — DONE 2026-06-14:** removed the duplicate "Substitute vs. Representative" slide (folded a refer-back into "Turretin: Christ Is Both") and removed the entire "The Four Motifs Integrated" section (its content now lives in Decks 3/5/6; proportionality point already in Deck 4's Satisfaction section). Outline anchors recomputed: Forgiveness #50→#49, Practical Takeaways #66→#59, Four Motifs entry dropped. Deck 4 now 812 lines (from 898).
+
+**Post-restructure polish — DONE 2026-06-14:** (1) standardized all Credits slides across Decks 2-7 on the bold-name "Format A" (Ingmar Bitter / William Lane Craig + reasonablefaith URL sub-bullet / per-deck scholars), image ChristWork.jpg, en-dash part ranges; (2) Deck 6 Moral Influence opener split into two quote-anchored slides — Romans 5:8 ("demonstrates His own love," verified vs blueletterbible) and 2 Corinthians 5:14 — Outline anchors recomputed (#slide7, #slide11); (3) trimmed Deck 5 slide-19 "Verdict" which overflowed by one row.
+
+### DONE 2026-06-14: Restructured the Death unit into 4 decks — compact, PSA-frontloaded
+
+Apply the new "Slide Deck Structure (Argument Flow)" standard (root.ai.md) to the Death material. This is scenario (a): non-exclusive "diamond" facets, so be assertive throughout — but with a thesis: **penal substitution is the ROOT facet the others depend on** (Craig builds up to PSA as finale; we frontload it). Each deck uses the 4-step compact flow (state interpretation → review its Scripture ONCE with support/challenge bullets → revisit with challenges+answers+verdict → application). Cite each major passage once; later decks refer back.
+
+**Deck count is flexible — decide by teaching length, not in advance:** if the whole unit teaches in ~3 weeks, keep 3 decks; if it runs longer, split into 4-5. Either separate decks or separate subsections within a deck — whichever is more cohesive/clear. Do NOT over-commit to a fixed count up front.
+
+Planned lineup (PSA first), pending final count decision:
+
+- **Deck 3 — Penal Substitution (root):** Slide 3 Motifs 1-4 (Sacrifice, Suffering Servant, Divine Justice, Representation) as step-2 evidence + Slide 4 Satisfaction section (Anselm — "satisfaction done right," folded in) + Slide 4 PSA section + all of Slide 5 (Socinus objections + replies) as step 3. Scripture homes here: Isaiah 53, Romans 3:24-26, 2 Cor 5:21, **2 Cor 5:14**, Romans 5:18-19, Romans 6, Exodus 34:7, sacrificial texts.
+- **Deck 4 — Redemption and Ransom:** Slide 3 Motif 5 (Redemption) + Slide 4 Ransom section. New scripture: Mark 10:45, Exodus 6:6, Isaiah 44:22, 1 Peter 1:18-19, Ephesians 1:7, Hebrews 9:12/15, Hebrews 2:14-15, Colossians 2:15, Revelation 5:9-10.
+- **Deck 5 — Moral Influence:** Slide 4 Moral Influence section + Slide 5 sanctification thread. New scripture: Romans 1:18.
+
+If Satisfaction stays standalone (4-deck option): order after PSA is Ransom → Satisfaction → Moral Influence. User's last answer folded Satisfaction into PSA (3 decks) — reconcile per final count decision.
+
+File handling: 3→3 decks needs no downstream renumber (decks 6-9 untouched); just re-theme renames (md + docs/.html) + nav/index updates. If 4-5 decks, renumber downstream 6-9 → 7+ per root.ai.md Renaming Rule. New decks standardize on external `scripture-quote-layout.js` + `slideChangeHook` footer (Slides 3/4 still use old inline setTimeout block).
+
+**CONTENT TODO — Deck 4 ransom/redemption argument (current deck was NOT clear enough on this):** Make explicit *why* the "ransom paid to Satan" view is wrong while still affirming the liberation. Craig affirms BOTH effects (freed from Satan AND reconciled to God) but denies Satan is a *recipient* of payment. Key points to land:
+
+- ONE atoning act (penalty borne / guilt discharged before God) with TWO effects (reconciliation to God + collapse of Satan's hold). Not two payments to two payees. Victory over Satan *flows from* guilt-discharge.
+- Why not pay Satan: (a) Satan has no rights God must honor — his grip is usurped tyranny, not lawful ownership; (b) the Exodus paradigm has no payee — God redeemed Israel "with an outstretched arm" (Exodus 6:6), didn't pay Pharaoh; "precious blood" (1 Peter 1:18-19) names the price/means, not a recipient; (c) making Satan a payee elevates him to quasi-divine rival and revives the "hook and bait" deception story Anselm demolished.
+- Satan's hold = the accusation of unpunished sin ("the accuser," Revelation 12:10; power through fear of death, Hebrews 2:14-15). Discharge the guilt → accusation has no ground → hold dissolves. So mechanism: guilt discharged → accuser silenced → captives freed.
+- Rooting ransom in PSA doesn't shrink the liberation, it EXPLAINS it (on its own "ransom to Satan" hits the unanswerable "paid to whom, by what right?").
+- C.S. Lewis/Narnia: the White Witch's claim rests on the Emperor's "Deep Magic" (= God's law/justice), so even "ransom to Satan" imagery reduces to satisfying God's justice (PSA root); "Deeper Magic"/resurrection overturns it.
 
 ### Next up: Slide 7 (Resurrection: Defeating the Alternatives)
 

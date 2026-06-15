@@ -887,7 +887,8 @@
 ![](pics/ChristWork.jpg style="float: right; width: 7rem")
 
 * **Ingmar Bitter**, slides content
-* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 25-32, primary theological source
+* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 25–32, primary theological source
+  * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
 * **C. H. Dodd**, on Paul's fact-finding visit to Peter and James
 * **Jean Hering**, on translating *pneumatikos* as "supernatural"
 * **N. T. Wright**, *The Resurrection of the Son of God*, on Jewish conceptions of resurrection

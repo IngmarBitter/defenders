@@ -755,6 +755,7 @@
 
 * **Ingmar Bitter**, slides content
 * **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 18–24, primary theological source
+  * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
 * **Joel Feinberg**, expressivist theory of punishment
 * **Hugo Grotius**, *A Defence of the Catholic Faith* (1617), ancient substitution
 * **Francis Turretin**, *Institutes of Elenctic Theology* (17th century), imputation, representation, divinity of Christ

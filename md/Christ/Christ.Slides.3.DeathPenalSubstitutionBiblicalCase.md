@@ -633,11 +633,15 @@
 
 ## Credits
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/ChristWork.jpg style="float: right; width: 7rem")
 
-* Theological content draws from Dr. William Lane Craig's Defenders podcast series on the Doctrine of Christ
-  * Full notes available at: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
-* Structure, presentation, and diagrams by Dr. Ingmar Bitter
+* **Ingmar Bitter**, slides content
+* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 8–17, primary theological source
+  * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
+* **Anselm of Canterbury**, *Cur Deus Homo* (c. 1098), satisfaction directed to God's justice
+* **Martin Luther**, the "great exchange" of imputation
+* **Francis Turretin**, *Institutes of Elenctic Theology* (17th century), the developed penal-substitution theory
+* **Joseph Mitros**, on penal substitution in the early church
 
 ---
 

@@ -206,10 +206,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it."</p><p style="text-align: right;"> <em>Colossians 2:15 (NKJV)</em></p>
 
-* The New Testament truly presents salvation as **victory and liberation** — Christ genuinely defeats sin, death, and the powers
-* C. S. Lewis catches it in Narnia: the White Witch's claim rests on the Emperor's "Deep Magic" — that is, **God's own law and justice**; Aslan satisfies it by substitution, and the "Deeper Magic" (resurrection) overturns her
-* Even the most vivid "ransom to Satan" image, unpacked, reduces to **satisfying God's justice** — the penal-substitution root
-* Rooted in Penal Substitution, ransom loses nothing and gains coherence: we really are set free, and we can say *how*
+* Salvation truly is **victory and liberation** — Christ genuinely defeats sin, death, and the powers
+* C. S. Lewis in Narnia: the White Witch's claim rests on the Emperor's "Deep Magic" — **God's own law and justice**; Aslan satisfies it by substitution
+* So even the vivid "ransom to Satan" image reduces to **satisfying God's justice** — and rooted there, ransom loses nothing: we are truly set free, and can say *how*
 
 ---
 
@@ -230,12 +229,14 @@
 
 ## Credits
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/ChristWork.jpg style="float: right; width: 7rem")
 
-* Theological content draws from Dr. William Lane Craig's Defenders podcast series on the Doctrine of Christ
-  * Full notes available at: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
-* C. S. Lewis, *The Lion, the Witch and the Wardrobe*, on ransom and substitution
-* Structure, presentation, and diagrams by Dr. Ingmar Bitter
+* **Ingmar Bitter**, slides content
+* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 13–14, primary theological source
+  * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
+* **Origen** and **Gregory of Nyssa**, the patristic ransom theory ("hook and bait")
+* **Anselm of Canterbury**, the critique that redirected the atonement from Satan to God
+* **C. S. Lewis**, *The Lion, the Witch and the Wardrobe*, on ransom and substitution
 
 ---
 

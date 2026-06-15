@@ -7,8 +7,8 @@
 ## Outline
 
 * [The Power of the Cross](#slide3)
-* [Rooted in Penal Substitution](#slide6)
-* [The Diamond Complete](#slide10)
+* [Rooted in Penal Substitution](#slide7)
+* [The Diamond Complete](#slide11)
 
 ---
 
@@ -26,13 +26,26 @@
 
 ---
 
-## Moral Influence: Abelard's Reading
+## The Cross Demonstrates God's Love
 
 ![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us."</p><p style="text-align: right;"> <em>Romans 5:8 (NKJV)</em></p>
+
+* **Teaching:** Christ's death demonstrates God's love so powerfully that it transforms the human heart, kindling love and repentance
+* The cross's power, on this view, lies in the **response** it produces in us — gratitude, love, contrition
+* The atonement is fundamentally **subjective** — something that happens *in us*, not a transaction between God and us
+
+---
+
+## Abelard's Reading
+
+![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if One died for all, then all died;"</p><p style="text-align: right;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
+
 * **Peter Abelard** (12th century) agreed with Anselm in rejecting the ransom theory — Satan has no rights over us
 * But he also found satisfaction troubling: "How very cruel and unjust [...] to require the blood of an innocent person as a ransom"
-* **Teaching:** Christ's death demonstrates God's love so powerfully that it transforms hearts, kindling love and repentance — recall "the love of Christ compels us" (2 Corinthians 5:14)
 * In its strong form: nothing actually happened between God and man at Golgotha — the cross is purely an **example** that produces a subjective response in us
 
 ---
@@ -126,12 +139,14 @@
 
 ## Credits
 
-![](pics/diamond.png style="float: right; width: 7rem")
+![](pics/ChristWork.jpg style="float: right; width: 7rem")
 
-* Theological content draws from Dr. William Lane Craig's Defenders podcast series on the Doctrine of Christ
-  * Full notes available at: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
-* R. W. Dale and the critique of moral influence; Friedrich Schleiermacher as its liberal terminus
-* Structure, presentation, and diagrams by Dr. Ingmar Bitter
+* **Ingmar Bitter**, slides content
+* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Part 16, primary theological source
+  * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
+* **Peter Abelard**, the moral-influence reading of the cross
+* **R. W. Dale**, *The Atonement*, the burning-house illustration
+* **Friedrich Schleiermacher**, the liberal terminus of moral influence
 
 ---
 

@@ -374,9 +374,14 @@
 
 ## Credits
 
-* Theological content draws from Dr. William Lane Craig's Defenders podcast series on the Doctrine of Christ
-  * Full notes available at: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
-* Structure, presentation, and diagrams by Dr. Ingmar Bitter
+![](pics/ChristWork.jpg style="float: right; width: 7rem")
+
+* **Ingmar Bitter**, slides content
+* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 2–7, primary theological source
+  * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
+* **The Council of Chalcedon** (451), one person in two natures "without confusion, without separation"
+* **Apollinarius** and the **Nestorian** / Antiochene schools, the rejected one-nature and two-person extremes
+* **Kenotic theology**, the divestiture reading of Philippians 2 that Craig critiques
 
 ---
 
