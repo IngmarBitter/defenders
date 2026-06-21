@@ -64,7 +64,7 @@
 | 5 | Christ's Death: Redemption and Ransom | Parts 13-14 | DONE (restructured) |
 | 6 | Christ's Death: Moral Influence | Part 16 | DONE (new) |
 | 7 | The Resurrection: Biblical Evidence | Parts 25-32 | DONE (was Slide 6) |
-| 8 | The Resurrection: Defeating the Alternatives | Parts 33-46 | TODO |
+| 8 | The Resurrection: Defeating the Alternatives | Parts 33-46 | DONE (built 2026-06-20, ~51 slides) |
 | 9 | Access: Who Can Be Saved Through Christ? | Parts 47-51 | TODO |
 | 10 | Doctrine of Christ Summary and Practical Takeaways | Synthesis | TODO |
 
