@@ -326,9 +326,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"All flesh is not the same flesh, but there is one kind of flesh of men, another flesh of animals, another of fish, and another of birds. There are also celestial bodies and terrestrial bodies; but the glory of the celestial is one, and the glory of the terrestrial is another. There is one glory of the sun, another glory of the moon, and another glory of the stars; for one star differs from another star in glory."</p><p style="text-align: right;"> <em>1 Corinthians 15:39–41 (NKJV)</em></p>
 
-* **Different kinds of flesh** (verse 39) — humans, animals, birds, fish; God can fashion bodies to fit different orders
-* **Different kinds of glory** (verses 40-41) — sun, moon, and stars differ in splendor; even *star differs from star*
-* All three analogies press one point: **continuity through dramatic transformation**
+* **Flesh** (verse 39) — men, animals, fish, birds each differ; God fashions bodies to fit different orders
+* **Glory** (verses 40-41) — sun, moon, and stars differ in splendor; *star differs from star* — continuity, yet dramatically transformed
 
 ---
 
