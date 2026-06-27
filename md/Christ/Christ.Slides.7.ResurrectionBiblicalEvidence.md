@@ -10,12 +10,12 @@
 * [Paul's Early Tradition (1 Corinthians 15)](#slide5)
 * [The Witnesses](#slide14)
 * [The Nature of the Resurrection Body](#slide25)
-* [Transformation, Not Body-Swap](#slide32)
-* [The Burial](#slide38)
-* [The Empty Tomb](#slide42)
-* [The Post-Mortem Appearances](#slide50)
-* [A Plausible Chronology](#slide66)
-* [Practical Takeaways](#slide72)
+* [Transformation, Not Body-Swap](#slide33)
+* [The Burial](#slide39)
+* [The Empty Tomb](#slide43)
+* [The Post-Mortem Appearances](#slide51)
+* [A Plausible Chronology](#slide67)
+* [Practical Takeaways](#slide73)
 
 ---
 
@@ -308,14 +308,27 @@
 
 ---
 
-## Three Analogies — Seed, Flesh, Glory
+## The Analogy of the Seed
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **Seed and plant** (verses 36-38) — the buried earthly body is like a seed; the resurrection body is like the plant that springs from it
-* **Different kinds of flesh** (verse 39) — humans, animals, birds, fish all have different "meat"; God can fashion bodies to fit different orders
-* **Different kinds of glory** (verses 40-41) — sun, moon, and stars differ in luminosity; even *star differs from star*
-* All three press the same point: **continuity through dramatic transformation**
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Foolish one, what you sow is not made alive unless it dies. And what you sow, you do not sow that body that shall be, but mere grain—perhaps wheat or some other grain. But God gives it a body as He pleases, and to each seed its own body."</p><p style="text-align: right;"> <em>1 Corinthians 15:36–38 (NKJV)</em></p>
+
+* The buried earthly body is like a **seed**; the resurrection body is the plant that springs from it
+* What is sown "is not made alive unless it dies" — death is the gateway, not the end
+* "God gives it a body as He pleases" — real continuity, but gloriously transformed
+
+---
+
+## Many Kinds of Flesh and Glory
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"All flesh is not the same flesh, but there is one kind of flesh of men, another flesh of animals, another of fish, and another of birds. There are also celestial bodies and terrestrial bodies; but the glory of the celestial is one, and the glory of the terrestrial is another. There is one glory of the sun, another glory of the moon, and another glory of the stars; for one star differs from another star in glory."</p><p style="text-align: right;"> <em>1 Corinthians 15:39–41 (NKJV)</em></p>
+
+* **Different kinds of flesh** (verse 39) — humans, animals, birds, fish; God can fashion bodies to fit different orders
+* **Different kinds of glory** (verses 40-41) — sun, moon, and stars differ in splendor; even *star differs from star*
+* All three analogies press one point: **continuity through dramatic transformation**
 
 ---
 
