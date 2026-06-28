@@ -341,6 +341,7 @@
 * **Dishonor → glory** (sin-marred → sin-free)
 * **Weakness → power** (frail → invincible)
 * **Natural → spiritual** — and this last one is widely misread
+  * detailed in next two slides
 
 ---
 
@@ -445,7 +446,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord."</p><p style="text-align: right;"> <em>1 Corinthians 15:58 (NKJV)</em></p>
 
-* Death is mocked, not minimized — its sting has been drawn by Christ
+* Paul taunts death as a beaten enemy — not denied, but defeated, its sting removed by Christ
 * Paul's "therefore": resurrection grounds **steadfastness** in the present life
 
 ---
@@ -458,11 +459,12 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Mark 15:42-46 — Joseph, "a prominent council member" of the Sanhedrin, takes courage to go to Pilate and ask for Jesus' body
-* Even in Mark — the earliest account — there are clues he is more than an official delegate:
-  * Singles out **Jesus alone** for special burial; ignores the two other crucified men
-  * Described as "**looking for the kingdom of God**" — Mark's term for the gospel Jesus preached
-  * **"Took courage"** to approach Pilate — costly for a non-relative
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Joseph of Arimathea, a prominent council member, who was himself waiting for the kingdom of God, coming and taking courage, went in to Pilate and asked for the body of Jesus."</p><p style="text-align: right;"> <em>Mark 15:43 (NKJV)</em></p>
+
+* Even in Mark — the earliest account — there are clues Joseph is more than an official delegate:
+  * Chooses **Jesus alone** for burial; ignores the two other crucified men
+  * "**Waiting for the kingdom of God**" — Mark's term for the gospel Jesus preached
+  * **"Taking courage"** to approach Pilate — costly for a non-relative
 * Later Gospels make explicit what Mark already implies: Joseph was a disciple
 
 ---
@@ -471,11 +473,12 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* John 19:39 — **Nicodemus** brings about a hundred pounds of myrrh and aloes; only mentioned at burial
-* The tomb is **not** the common *kokim* (pigeonhole) type — the women find a *young man sitting* inside, room for a person beside the body
-* Either an **arcosolium** (carved niche with shelf) or **bench** tomb — types reserved for the wealthy
-* A massive **disc-shaped rolling stone** sealed the entrance — only four such tombs survive from first-century Israel
-* Mark's modest portrait of Joseph fits exactly the kind of tomb a "rich man" would own
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And Nicodemus, who at first came to Jesus by night, also came, bringing a mixture of myrrh and aloes, about a hundred pounds. Then they took the body of Jesus, and bound it in strips of linen with the spices, as the custom of the Jews is to bury."</p><p style="text-align: right;"> <em>John 19:39–40 (NKJV)</em></p>
+
+* **Nicodemus** appears only here, lavishing a hundred pounds of spices on the burial — a wealthy, honorable interment
+* Not the common *kokim* (pigeonhole) tomb — the women later find a *young man sitting* inside, with room beside the body
+* An **arcosolium** or **bench** tomb sealed by a massive **disc-shaped rolling stone** — types reserved for the wealthy (only four such stones survive in Israel)
+* Mark's modest portrait of Joseph fits exactly the tomb a "rich man" would own
 
 ---
 
@@ -483,13 +486,14 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Mark records the women in **three** scenes:
-  * **At the cross** (Mark 15:40-41) — Mary Magdalene, Mary mother of James the Less and Joses, Salome
-  * **At the burial** (Mark 15:47) — they "see where He was laid"
-  * **At the empty tomb** (Mark 16:1) — Sunday morning
-* The same women see the burial **and** the empty tomb
-* They cannot have gone to the wrong tomb — Mark's narrative interlocks them
-* John 20 spotlights Mary Magdalene but preserves traces of the wider group — *"we do not know where they have laid Him"* (John 20:2)
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And Mary Magdalene and Mary the mother of Joses observed where He was laid."</p><p style="text-align: right;"> <em>Mark 15:47 (NKJV)</em></p>
+
+* Mark places the same women at **three** scenes:
+  * **The cross** (Mark 15:40-41) — Mary Magdalene, Mary mother of James and Joses, Salome
+  * **The burial** (Mark 15:47, above) — they observe where He was laid
+  * **The empty tomb** (Mark 16:1) — Sunday morning
+* Seeing both burial and empty tomb, they cannot have gone to the wrong tomb — Mark interlocks them
+* John 20 keeps traces of the wider group: *"we do not know where they have laid Him"* (John 20:2)
 
 ---
 
@@ -501,18 +505,20 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Matthew 27:62-66 — chief priests and Pharisees go to Pilate **the day after** the burial, asking for a guard
-* The vocabulary (*chiliarchos*, "captain") suggests **Roman**, not Jewish, soldiers — Pilate seconded them to the Jewish authorities
-* Critics call this a late apologetic legend — but the timing tells against that:
-  * If invented, why post the guard *only on Saturday*? The body might already have been stolen
-  * The 2nd-century *Gospel of Peter* "fixes" exactly this — guard on Friday, surrounded by a crowd
-  * Matthew's awkward timing is a sign of **historical roots**, not invention
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"On the next day, which followed the Day of Preparation, the chief priests and Pharisees gathered together to Pilate, saying, 'Sir, we remember, while He was still alive, how that deceiver said, "After three days I will rise." Therefore command that the tomb be made secure until the third day [...]'"</p><p style="text-align: right;"> <em>Matthew 27:62–64 (NKJV)</em></p>
+
+* The vocabulary (*chiliarchos*, "captain") points to **Roman**, not Jewish, soldiers — seconded to the Jewish authorities
+* Critics call the guard a late legend — but its **awkward timing** argues for historical roots:
+  * Why post the guard *only on Saturday*, when the body might already be gone?
+  * The 2nd-century *Gospel of Peter* "fixes" exactly this — guard set Friday, before a crowd
 
 ---
 
 ## Sunday Morning — Devotional Anointing
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Now when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, that they might come and anoint Him."</p><p style="text-align: right;"> <em>Mark 16:1 (NKJV)</em></p>
 
 * Some scholars: the women came to *complete* a hurried Friday burial
 * Craig: this is ungrounded — the burial narrative shows no signs of being rushed
@@ -539,7 +545,8 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Mark 16:8 — *"they said nothing to anyone, for they were afraid"*
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"So they went out quickly and fled from the tomb, for they trembled and were amazed. And they said nothing to anyone, for they were afraid."</p><p style="text-align: right;"> <em>Mark 16:8 (NKJV)</em></p>
+
 * Some scholars: this means the empty tomb stayed unknown for decades — preposterous
   * The tomb itself was public; permanent silence is implausible
 * Better reading: silence **en route** to the disciples, not enduring silence
@@ -578,14 +585,11 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* John uses three different verbs in 20:5-8 for "see":
-  * *blepo* (verse 5) — peeking in, simple sight
-  * *theoreo* (verse 6) — observing, considering
-  * *horao* (verse 8) — discerning, understanding — and "**he saw and believed**"
-* What did the beloved disciple see that made him believe?
-* The grave clothes lying as if the body had simply passed out of them — and the **face cloth folded by itself**
-* No grave robber leaves a body's wrappings neatly arranged
-* The disposition of the cloths spoke of something other than theft
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then Simon Peter came, following him, and went into the tomb; and he saw the linen cloths lying there, and the handkerchief that had been around His head, not lying with the linen cloths, but folded together in a place by itself."</p><p style="text-align: right;"> <em>John 20:6–7 (NKJV)</em></p>
+
+* John uses three verbs for "see" in 20:5-8: *blepo* (a glance, v5), *theoreo* (observing, v6), and *horao* (perceiving, v8) — "he saw and **believed**"
+* What made the beloved disciple believe? The grave clothes lying as if the body had passed through them, the **face cloth folded by itself**
+* No grave robber leaves the wrappings neatly arranged — this spoke of something other than theft
 
 ---
 
@@ -612,10 +616,11 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Matthew 28:8-10 — as the women rush from the tomb, Jesus meets them: *"Hail!"*
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And as they went to tell His disciples, behold, Jesus met them, saying, 'Rejoice!' So they came and held Him by the feet and worshiped Him."</p><p style="text-align: right;"> <em>Matthew 28:9 (NKJV)</em></p>
+
 * John 20:11-18 — Mary Magdalene, weeping at the tomb, hears Him say *"Mary!"* — *"Rabboni!"*
 * Likely the **same appearance** — John shines the spotlight on Mary for dramatic effect
-* The women **grasp His feet** and worship Him — not a ghost, not a vision
+* The women **hold Him by the feet** and worship Him — not a ghost, not a vision
 
 ---
 
@@ -636,11 +641,12 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Now it came to pass, as He sat at the table with them, that He took bread, blessed and broke it, and gave it to them. Then their eyes were opened and they knew Him; and He vanished from their sight."</p><p style="text-align: right;"> <em>Luke 24:30–31 (NKJV)</em></p>
+
 * Luke 24:13-35 — two disciples walking the seven miles to Emmaus
-* A stranger joins them, opens the Scriptures from Moses through the prophets
-* At table, He breaks bread — and they recognize Him
-* He vanishes from their sight
-* They run **back** to Jerusalem and find the disciples already saying: *"The Lord is risen indeed, and has appeared to Simon!"*
+* A stranger joins them, opening the Scriptures from Moses through the prophets
+* At the breaking of bread their eyes are opened — then He vanishes
+* They run **back** to Jerusalem, only to find the disciples already proclaiming that the Lord has risen and appeared to Simon
 
 ---
 
@@ -661,10 +667,12 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* No Gospel narrates this appearance — but Luke 24:34 and 1 Corinthians 15:5 both attest it
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The Lord is risen indeed, and has appeared to Simon!"</p><p style="text-align: right;"> <em>Luke 24:34 (NKJV)</em></p>
+
+* No Gospel narrates the appearance itself — but Luke 24:34 (above) and 1 Corinthians 15:5 both attest it
 * Possibly the most **personal and intimate** of all — perhaps why no narrative survives
 * Peter the denier is restored to faith and discipleship in private
-* By the time the Emmaus disciples return to Jerusalem on Easter evening, Peter has already seen the Lord
+* By the time the Emmaus disciples reach Jerusalem on Easter evening, Peter has already seen the Lord
 
 ---
 
@@ -696,11 +704,12 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* John 20:19 — "the doors being shut" — Jesus *appears* in the room
-* Not "He came through the wall" or "passed through the door" — He simply **appears**
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then, the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled, for fear of the Jews, Jesus came and stood in the midst, and said to them, 'Peace be with you.'"</p><p style="text-align: right;"> <em>John 20:19 (NKJV)</em></p>
+
+* "The doors were shut" — yet Jesus simply **appears** in the midst
+* Not "He came through the wall" or "passed through the door" — He is suddenly present
 * He vanishes from Emmaus and reappears in Jerusalem without traversing the distance
-* The risen body is material, but **not bound** by the four-dimensional spacetime continuum as our bodies are
-* It is the same body — now invested with **supernatural powers**
+* The risen body is material, yet **not bound** by the four-dimensional spacetime continuum as ours are — the same body, now invested with **supernatural powers**
 
 ---
 
@@ -732,11 +741,12 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* John 21 — seven disciples fish all night and catch nothing
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Simon Peter said to them, 'I am going fishing.' They said to him, 'We are going with you also.' They went out and immediately got into the boat, and that night they caught nothing."</p><p style="text-align: right;"> <em>John 21:3 (NKJV)</em></p>
+
 * Common reading: they had given up and gone back to their old way of life
-* But the list (verses 1-2) includes **Nathanael of Cana** (a landlocked town, no fishing trade)
+* But the list (verses 1-2) includes **Nathanael of Cana** — a landlocked town, no fishing trade
 * Better reading: they are **waiting in Galilee** for the appointed mountaintop rendezvous
-* While they wait, Peter says "I'm going fishing" — and the others go with him to pass the time
+* While they wait, Peter says "I'm going fishing," and the others go along to pass the time
 
 ---
 
@@ -744,11 +754,12 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Simon Peter went up and dragged the net to land, full of large fish, one hundred and fifty-three; and although there were so many, the net was not broken."</p><p style="text-align: right;"> <em>John 21:11 (NKJV)</em></p>
+
 * The miraculous catch echoes the **call of the disciples** in Luke 5:1-11
-* Then: nets tore, fish escaped — they were just learning to be fishers of men
-* Now: 153 large fish, and **"the net was not broken"**
-* The contrast is symbolic — the mission to which they are called will **succeed**
-* The nets will hold; the harvest will be brought in
+* Then the nets tore, fish escaped — they were just learning to be fishers of men
+* Now: 153 large fish, and **the net was not broken** — the contrast is symbolic
+* The mission to which they are called will **succeed**; the nets will hold, the harvest brought in
 
 ---
 
