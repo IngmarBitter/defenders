@@ -709,7 +709,7 @@
 * "The doors were shut" — yet Jesus simply **appears** in the midst
 * Not "He came through the wall" or "passed through the door" — He is suddenly present
 * He vanishes from Emmaus and reappears in Jerusalem without traversing the distance
-* The risen body is material, yet **not bound** by the four-dimensional spacetime continuum as ours are — the same body, now invested with **supernatural powers**
+* The risen body is material, yet **not bound** by the four-dimensional spacetime continuum as ours are — the same body, now with **supernatural powers**
 
 ---
 
