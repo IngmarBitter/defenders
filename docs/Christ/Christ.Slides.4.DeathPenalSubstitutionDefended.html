@@ -10,9 +10,9 @@
 * [Objection 1: Incoherence](#slide8)
 * [Objection 2: Injustice](#slide19)
 * [Satisfaction of Divine Justice](#slide35)
-* [Representation](#slide44)
-* [Forgiveness and Pardon](#slide49)
-* [Practical Takeaways](#slide59)
+* [Representation](#slide45)
+* [Forgiveness and Pardon](#slide50)
+* [Practical Takeaways](#slide60)
 
 ---
 
@@ -472,7 +472,22 @@
   * Truly human — so He can stand in our place
   * Truly divine — so His suffering has infinite worth
 * Christ's suffering, though finite in duration, is of **infinite value** because of the divinity of the Sufferer
+  * Objection: a one-time death and *temporary* forsakenness cannot equal *eternal* separation
+  * Answer: hell is eternal because a *finite* sinner can never finish paying — an *infinite* person discharges the same debt in finite time
 * This is why the Incarnation was necessary for our salvation
+
+---
+
+## The Forsakenness of the Cross
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And about the ninth hour Jesus cried out with a loud voice, saying, 'Eli, Eli, lama sabachthani?' that is, 'My God, My God, why have You forsaken Me?'"</p><p style="text-align: right;"> <em>Matthew 27:46 (NKJV)</em></p>
+
+* The spiritual side of the penalty — God-forsakenness — Christ bore in His **human nature** as the sin-bearer ("made to be sin," 2 Corinthians 5:21; "a curse for us," Galatians 3:13)
+* He endured the **withdrawal of the Father's favorable presence** and the wrath due our sin — real, but only for the duration He bore it
+* This is **not** an ontological tear in the Trinity: the divine essence is indivisible, and the Father never loved the Son more than here (John 10:17)
+* It is judicial and experiential — not a breaking of God's eternal communion
 
 ---
 

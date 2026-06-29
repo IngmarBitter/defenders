@@ -10,8 +10,8 @@
 * [Motif 1: Sacrifice](#slide8)
 * [Motif 2: The Suffering Servant](#slide17)
 * [Motif 3: Divine Justice](#slide26)
-* [Motif 4: Representation](#slide34)
-* [From Anselm to the Reformers](#slide42)
+* [Motif 4: Representation](#slide35)
+* [From Anselm to the Reformers](#slide43)
 
 ---
 
@@ -320,6 +320,21 @@
 * Three roles in one God: He defines the standard (**Lawgiver**), enforces it (**Judge**), and rules by it (**King**)
 * Legal categories run deep in Hebrew thinking — God summons Israel to trial and calls the mountains as witnesses (Micah 6:1–2)
 * Yet "He will save us" — the same God who judges also provides the means of salvation
+
+---
+
+## The Wages of Sin Is Death
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."</p><p style="text-align: right;"> <em>Romans 6:23 (NKJV)</em></p>
+
+* The penalty for sin is **death** — and Scripture means this **comprehensively**:
+  * **Physical** — mortality entered through Adam (Romans 5:12; Genesis 2:17)
+  * **Spiritual** — separation from God now ("dead in trespasses," Ephesians 2:1)
+  * **Eternal** — the "second death," final separation (Revelation 20:14)
+* The contrast, *eternal life*, is itself holistic (bodily resurrection life) — so its opposite, **death**, is the whole of it, not one slice
+* This is the sentence Christ must bear if He is to stand in our place
 
 ---
 
