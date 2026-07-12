@@ -64,9 +64,11 @@
 | 5 | Christ's Death: Redemption and Ransom | Parts 13-14 | DONE (restructured) |
 | 6 | Christ's Death: Moral Influence | Part 16 | DONE (new) |
 | 7 | The Resurrection: Biblical Evidence | Parts 25-32 | DONE (was Slide 6) |
-| 8 | The Resurrection: Defeating the Alternatives | Parts 33-46 | DONE (built 2026-06-20, ~51 slides) |
-| 9 | Access: Who Can Be Saved Through Christ? | Parts 47-51 | TODO |
-| 10 | Doctrine of Christ Summary and Practical Takeaways | Synthesis | TODO |
+| 8 | The Resurrection: Defeating the Alternatives | Parts 33-46 | DONE (built, then upgraded to ~58 slides) |
+| 9 | Access: Who Can Be Saved Through Christ? | Parts 47-51 | DONE (built ~43 slides) |
+| 10 | Doctrine of Christ Summary and Practical Takeaways | Synthesis | DONE (capstone, ~30 slides) |
+
+**ALL 10 DECKS COMPLETE (2026-06-28).** Whole Doctrine of Christ series built out at full depth. `md/Christ/DeathPenalty.md` is a captured Grok discussion (reference, md-only). Remaining optional polish: browser overflow eyeball on the newer/upgraded decks (8, 9, 10 and the dense Deck 7 slides).
 
 **Old Slides 3 (Sacrifice/Propitiation/Redemption) and 4 (Theories of the Atonement) no longer exist** — their content was redistributed across new Decks 3-6. The compact evidence-first structure (root.ai.md) was applied: each scripture homed once, per-motif summary slides cut, a few slides merged.
 
