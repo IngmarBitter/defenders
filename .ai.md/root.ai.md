@@ -58,6 +58,7 @@ Craig's lecture method (state the view → defend → re-state in synthesis) bak
 
 - **(a) Non-exclusive interpretations** (complementary facets, e.g. the motifs/"diamond" of Christ's death): step 3 is *integration*, not adjudication — all the views are adopted together. Be **assertive throughout**.
 - **(b) Exclusive interpretations** (genuine rivals, e.g. Calvinism vs. Arminianism, molinism): steelman each view fairly in step 1, keep step 2's support/challenge bullets honestly cutting **both ways**, and stay **balanced** until step 3, where the cons and their answers reveal which side is more compelling. Do not stack step 2 toward the favored side — that begs the question.
+- **(c) Hypothesis-trial decks** (apologetics with many rival explanations of agreed evidence, e.g. resurrection alternatives): with 5+ rivals, do NOT state all views up front and revisit later — the gap between statement and verdict overloads memory. Instead: establish the **facts** once (compressed; refer back to prior decks for their defense), state the **judging criteria** (e.g. McCullagh), then run each rival chronologically as an **adjacent pair**: statement slide (fair exposition, steelmanned) -> "Why X Fails" slide (multi-slide rebuttals: "Why X Fails (1) — ..."). Views whose refutation is self-contained may be single statement-plus-verdict slides. Close the parade with the weakest/terminal view as the bridge into the positive case, then argue the favored hypothesis against the same criteria. (Established in Christ Deck 8; see `md/Christ/Christ.Slides.8.Structure.md` for a worked example.)
 
 **Cautions:**
 
@@ -101,6 +102,8 @@ Use the template margins for new quotes. Some slides have hand-adjusted margin v
 
 
 **Bold emphasis permitted:** You may use markdown `**` (preferred) or `<b>` tags inside scripture quotes to highlight the words most relevant to the slide's topic. The base text must still be NKJV verbatim.
+
+**Non-biblical primary sources** (e.g. the Qur'an) may use the same quote styling when the slide engages that source directly; attribute clearly (e.g. `Qur'an, Surah 4:157`). The NKJV verification protocol applies only to Bible quotes.
 If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1.5em;` on intermediate reference lines and `margin-bottom: -0.75em;` on the final one.
 
 ### Ellipsis in Scripture Quotes
@@ -134,6 +137,10 @@ docs/<Topic>/<Deck>.Slides.<N>.<Subtitle>.html            -> Slide page (rendere
 
 - `docs/` is output-only: **do not place source `.md` files in `docs/`**.
 - Exception: third-party/library docs that already live under `docs/markdeep-slides/`.
+
+### Working Docs (md-only)
+
+- `md/<Topic>/<Deck>.Slides.<N>.Structure.md` — plain-markdown (not Markdeep) outline/planning doc for restructuring a deck; source-only, **never mirrored to `docs/`**.
 
 ### Slide Page Naming Rules
 
