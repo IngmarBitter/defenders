@@ -10,8 +10,8 @@
 * [A History of Skepticism](#slide11)
 * [Three Facts to Be Explained](#slide21)
 * [Weighing the Hypotheses](#slide33)
-* [The Best Explanation](#slide43)
-* [Practical Takeaways](#slide49)
+* [The Best Explanation](#slide45)
+* [Practical Takeaways](#slide51)
 
 ---
 
@@ -376,6 +376,30 @@
 * Strauss's decisive blow: a half-dead Jesus, desperately needing bandaging, would have evoked **pity, not Easter faith** — never the belief that He was the risen Lord and conqueror of death
 * **Accord with accepted beliefs:** disconfirmed by the medical realities of crucifixion (death by asphyxiation, the confirming spear-thrust)
 * Essentially no defenders today
+
+---
+
+## Islam: The Substitution Theory
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they did not kill him, nor did they crucify him; but another was made to resemble him to them."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Qur'an, Surah 4:157</em></p>
+
+* The oldest alternative still held by millions today: six centuries after the events, the **Qur'an** declares Jesus was never crucified at all
+* God substituted a **look-alike** on the cross and took Jesus up to heaven alive — later Islamic tradition (not the Qur'an itself) often names **Judas Iscariot** as the double
+* Note what this is *not*: not a swoon theory. It does not claim Jesus survived crucifixion — it denies the **crucifixion ever happened**
+* And for the empty tomb and appearances it must add that the Gospels were **corrupted** in transmission — folding into the myth-and-legend hypothesis weighed below
+
+---
+
+## Why the Substitution Theory Fails
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* **Plausibility:** it denies the best-attested fact about Jesus. Craig: "If there is one single historical fact about Jesus of Nazareth that is indisputable it is his crucifixion" — the "radar screen" verdict of the presuppositions slide was aimed at precisely this view
+* **Accord with accepted beliefs:** the crucifixion is unanimously attested in the earliest sources, Christian and non-Christian alike (Josephus, Tacitus); against that, a document six hundred years later and from another land carries no historical weight
+* ***Ad hoc*:** it makes **God the deceiver** — staging an illusion that produced the very belief (a crucified and risen Christ) that Islam condemns as Christianity's central error
+* **Scope:** it explains none of the three facts; it can only deny them — and offers no evidence for the denial
 
 ---
 

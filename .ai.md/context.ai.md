@@ -68,6 +68,8 @@
 | 9 | Access: Who Can Be Saved Through Christ? | Parts 47-51 | DONE (built ~43 slides) |
 | 10 | Doctrine of Christ Summary and Practical Takeaways | Synthesis | DONE (capstone, ~30 slides) |
 
+**Deck 8 addition (2026-08-02):** Two new slides after "Apparent Death Hypothesis" — "Islam: The Substitution Theory" (Qur'an 4:157 quote, Judas-double tradition, not-a-swoon distinction, gospel-corruption = legend fallback; from Craig Part 42 Q&A) and "Why the Substitution Theory Fails" (denies the indisputable crucifixion per Craig Part 35 "radar screen", six-centuries-late source vs Josephus/Tacitus, God-as-deceiver ad hocness, zero explanatory scope). Outline anchors shifted: Best Explanation #slide43→45, Practical Takeaways #slide49→51. HTML synced.
+
 **ALL 10 DECKS COMPLETE (2026-06-28).** Whole Doctrine of Christ series built out at full depth. `md/Christ/DeathPenalty.md` is a captured Grok discussion (reference, md-only). Remaining optional polish: browser overflow eyeball on the newer/upgraded decks (8, 9, 10 and the dense Deck 7 slides).
 
 **Old Slides 3 (Sacrifice/Propitiation/Redemption) and 4 (Theories of the Atonement) no longer exist** — their content was redistributed across new Decks 3-6. The compact evidence-first structure (root.ai.md) was applied: each scripture homed once, per-motif summary slides cut, a few slides merged.
