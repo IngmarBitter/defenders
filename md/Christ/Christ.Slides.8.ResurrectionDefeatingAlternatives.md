@@ -569,7 +569,7 @@
 * **C. B. McCullagh**, *Justifying Historical Descriptions*, the criteria for the best explanation
 * **N. T. Wright**, *The Resurrection of the Son of God*, on the origin of the disciples' belief
 * **Wolfhart Pannenberg**, on the resurrection as divine vindication
-* **Reimarus, Strauss, Lüdemann, and Dale Allison**, the skeptics engaged as foils
+* **Reimarus, Strauss, Lüdemann, and Dale Allison**, skeptics engaged as foils
 
 ---
 
