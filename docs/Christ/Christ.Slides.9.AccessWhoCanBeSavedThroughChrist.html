@@ -11,7 +11,7 @@
 * [The Real Problem: The Unevangelized](#slide15)
 * [A Soteriological Problem of Evil](#slide22)
 * [The Middle Knowledge Solution](#slide28)
-* [Practical Takeaways](#slide37)
+* [Practical Takeaways](#slide39)
 
 ---
 
@@ -196,6 +196,7 @@
 * God does **not** judge those who never heard on whether they believed in a Christ they could not have known — that would be manifestly unfair
 * He judges them on their response to the **light they do have**: His general revelation in nature and conscience
 * The benefits of Christ's death can be applied **without conscious knowledge of Christ** — like a beneficiary of an unknown uncle's will
+* "But John 3:18 — *condemned already*?" That describes sinners under sin's condemnation, and the **conscious rejecter** of Christ (Luke 12:8–9) — not those who never heard
 
 ---
 
@@ -207,7 +208,7 @@
 
 * Salvation through general revelation is **not works-based**: it is sensing one's guilt before the Creator and flinging oneself on His mercy
 * The "Holy Pagans" — **Job and Melchizedek** — were saved through Christ's death though they had no conscious knowledge of Him, nor membership in the covenant
-* There could be modern "Jobs" among the unevangelized
+* There could be modern "Jobs" — Craig points to **Socrates**, heeding the divine voice against the gods of Athens, and the Native American holy man **Black Elk**, whose Great Spirit testimony reads "just like Romans 1"
 
 ---
 
@@ -300,6 +301,18 @@
 
 ---
 
+## What the Solution Assumes
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Two working assumptions, each defended elsewhere in Defenders:
+  * **Libertarian freedom** — God's grace is **resistible**; He draws but never overpowers the will
+  * **Middle knowledge** — part of divine omniscience (see the Doctrine of God)
+* The **Calvinist** road differs: with *irresistible* grace God could save all — so he must say God **preferred** not to. Craig finds that far harder to square with an all-loving God; the problem presses hardest on Calvinism
+* Reject middle knowledge if you will — but then you owe the problem a solution of your own
+
+---
+
 ## Proposition C
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
@@ -341,6 +354,17 @@
 * God so orders history that **those who would respond to the Gospel are born where and when they will hear it**
 * Those who never hear it **would not have believed it anyway** — so no one is damned by geographical or historical accident
 * Paul's Areopagus speech is exactly this conclusion, reached by revelation
+
+---
+
+## And This Is the Worst Case
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* The argument deliberately assumes the **hardest scenario**: the unevangelized with nothing but nature and conscience to go on
+* But God is not limited to missionaries — Scripture shows Him reaching people through **dreams and visions**
+* Widely reported today: people in closed countries meeting **Jesus in visions** before any Christian arrives
+* Craig: state the objection at maximum strength, and answering it makes the answer "all the more powerful" — every such extra means of grace only makes the solution easier
 
 ---
 
@@ -388,7 +412,7 @@
 * Objection (Hasker): doesn't this make evangelism pointless? ("Should Peter go to the mission field?")
 * No — through missions God brings the Gospel to a people group such that He has placed there **people who will respond** when they hear it. Missions **maximizes** the saved
 * The motivation is not guilt ("if I don't go, they're lost and it's on me") but **joy**: God has foreknown your obedience and set **divine appointments** in your path
-* Anyone who wants — or even would want — to be saved, will be
+* Anyone who wants — or even would want — to be saved, will be. And missions can never **harm**: whoever responds to God's voice in nature and conscience will respond to it in the Gospel
 
 ---
 

@@ -75,6 +75,8 @@
 - NEW lottery pair before The Verdict: "Believing the Improbable: The Lottery" + "The Resurrection Is Not 'Too Improbable'" (Craig's illustration, Reasonable Faith / 2006 Ehrman debate — outside Defenders transcripts; credited on Credits slide)
 - 60 → 55 slides; Outline = 5 sections, anchors #slide3/11/19/38/46. HTML synced.
 
+**Deck 9 review additions — DONE 2026-08-02** (reviewed vs Craig Parts 47-51 + updated root.ai.md; structure confirmed good, mode (b) funnel, no restructure): added 5 discussion-sourced items — John 3:18 objection bullet (Judged by the Light; Luke 12:8-9 conscious-rejecter reply), Socrates/Black Elk on Holy Pagans slide, missions-can-never-harm merged into Missions takeaway, NEW slide "What the Solution Assumes" (libertarian freedom + middle knowledge; Calvinist contrast; reject-MK-then-owe-your-own), NEW slide "And This Is the Worst Case" (dreams and visions, maximum-strength framing). 43→45 slides; Takeaways anchor #slide37→39. NOT applied (flagged in review): "not yet the real problem" funnel markers on the hell/eternal-punishment slides.
+
 **ALL 10 DECKS COMPLETE (2026-06-28).** Whole Doctrine of Christ series built out at full depth. `md/Christ/DeathPenalty.md` is a captured Grok discussion (reference, md-only). Remaining optional polish: browser overflow eyeball on the newer/upgraded decks (8, 9, 10 and the dense Deck 7 slides).
 
 **Old Slides 3 (Sacrifice/Propitiation/Redemption) and 4 (Theories of the Atonement) no longer exist** — their content was redistributed across new Decks 3-6. The compact evidence-first structure (root.ai.md) was applied: each scripture homed once, per-motif summary slides cut, a few slides merged.
