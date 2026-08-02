@@ -68,7 +68,12 @@
 | 9 | Access: Who Can Be Saved Through Christ? | Parts 47-51 | DONE (built ~43 slides) |
 | 10 | Doctrine of Christ Summary and Practical Takeaways | Synthesis | DONE (capstone, ~30 slides) |
 
-**Deck 8 addition (2026-08-02):** Two new slides after "Apparent Death Hypothesis" — "Islam: The Substitution Theory" (Qur'an 4:157 quote, Judas-double tradition, not-a-swoon distinction, gospel-corruption = legend fallback; from Craig Part 42 Q&A) and "Why the Substitution Theory Fails" (denies the indisputable crucifixion per Craig Part 35 "radar screen", six-centuries-late source vs Josephus/Tacitus, God-as-deceiver ad hocness, zero explanatory scope). Outline anchors shifted: Best Explanation #slide43→45, Practical Takeaways #slide49→51. HTML synced.
+**Deck 8 restructure — DONE 2026-08-02** (plan + rationale in `md/Christ/Christ.Slides.8.Structure.md`, kept as working doc; checkpoint commit abf3a7c before execution):
+- Added Islam substitution theory pair (Qur'an 4:157; Craig Part 42 Q&A + Part 35 "radar screen"); Scope bullet framed as "illusion targets only Jesus' enemies — tomb/appearances/faith denied as corruption, not explained"; ad hoc bullet carries the God-the-deceiver self-refutation (produced belief in Christ, disbelief in Muhammad)
+- Reordered: method → Three Facts (trimmed: tomb 5→2 slides, appearances 2→1, origin-of-belief kept full) → "The Alternatives on Trial" (merged History of Skepticism + Weighing into chronological statement→"Why X Fails" pairs, McCullagh first, Islam oldest-first, Marxsen/Spong moved last as skepticism's terminal shrug) → Best Explanation → Takeaways
+- Dropped as standalones: Quest for Historical Jesus (folded into Paulus), Why Study the Skeptics (internet-skeptics line → conspiracy rebuttal), Simplicity of Narrative (Gospel of Peter → myth rebuttal), Appearances Were Physical (folded into Fact 2)
+- NEW lottery pair before The Verdict: "Believing the Improbable: The Lottery" + "The Resurrection Is Not 'Too Improbable'" (Craig's illustration, Reasonable Faith / 2006 Ehrman debate — outside Defenders transcripts; credited on Credits slide)
+- 60 → 55 slides; Outline = 5 sections, anchors #slide3/11/19/38/46. HTML synced.
 
 **ALL 10 DECKS COMPLETE (2026-06-28).** Whole Doctrine of Christ series built out at full depth. `md/Christ/DeathPenalty.md` is a captured Grok discussion (reference, md-only). Remaining optional polish: browser overflow eyeball on the newer/upgraded decks (8, 9, 10 and the dense Deck 7 slides).
 

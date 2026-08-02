@@ -7,11 +7,10 @@
 ## Outline
 
 * [Two Ways to Know](#slide3)
-* [A History of Skepticism](#slide11)
-* [Three Facts to Be Explained](#slide21)
-* [Weighing the Hypotheses](#slide33)
-* [The Best Explanation](#slide45)
-* [Practical Takeaways](#slide51)
+* [Three Facts to Be Explained](#slide11)
+* [The Alternatives on Trial](#slide19)
+* [The Best Explanation](#slide38)
+* [Practical Takeaways](#slide46)
 
 ---
 
@@ -107,109 +106,7 @@
 
 * Many defenders are content to rest the case on **Step 1 alone** — lay out the facts and leave the verdict between the reader and God
 * N. T. Wright's 800-page *The Resurrection of the Son of God* spends almost the entire book establishing the empty tomb and appearances — then hands the "best explanation" question to Gary Habermas
-* Establishing the facts is itself a major accomplishment. But there is no good reason to stop there — so this deck presses on to Step 2
-
----
-
-# A History of Skepticism
-
----
-
-## The Enlightenment and Deism
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* For over 1,500 years the church read the resurrection as a literal event
-* The **Enlightenment** (17th–18th c.) threw off the *Ancien Régime* — monarchy **and** church — in the name of human reason and autonomy (in revolutionary Paris, an actress was enthroned in Notre Dame as "Lady Reason")
-* Most theorists were not atheists but **deists**: a Creator and moral lawgiver, but no miracles, no special revelation, no inspired Scripture
-* Against that backdrop, modern skepticism about the resurrection arose — and it comes in a few recognizable families
-
----
-
-## Reimarus: The Conspiracy Theory
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Hermann Samuel Reimarus (d. 1768), a Hamburg professor, left a 4,000-page critique of the Bible, published posthumously by Lessing as the "Wolfenbüttel Fragments" (1774–77)
-* His theory: the disciples **stole the body** and faked the resurrection to continue the comfortable life of preaching
-* To hold it, he had to demolish three things — the **guard** (found only in Matthew, "full of contradictions," invented), the **apostles' testimony** (contradictory, and suspiciously private), and the **prophecies** (too ambiguous, and question-begging)
-* His verdict: Christianity is a fraud. It was the very first counter-explanation — already answered in Matthew 28:11–15 — revived by the Enlightenment
-
----
-
-## The Quest for the Historical Jesus
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Post-Enlightenment theology launched a "quest for the historical Jesus" — to excavate the real man behind the supernatural Gospels
-* One "Life of Jesus" after another appeared, each author (as later scholars quipped) "looking down the long well of history and seeing his own face at the bottom"
-* The **natural explanation** school (Heinrich Paulus, 1828) explained miracles away while keeping the narratives: the feeding of the 5,000 was a hidden cache of bread; walking on water was a platform just beneath the surface
-* This school set up the next theory — the swoon
-
----
-
-## Paulus: The Apparent Death Theory
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Heinrich Paulus: Jesus never truly died — He **swooned**, revived in the cool tomb, and escaped to convince the disciples He had risen
-* An advance on conspiracy: it grants the disciples' obvious **sincerity** (they weren't lying; they were mistaken)
-* Even Friedrich Schleiermacher, the "father of modern theology," held it — a sobering fact
-* But it was already doomed: a revived, half-dead Jesus could not have produced Easter faith (as Strauss would show)
-
----
-
-## Strauss: Myth and the A Priori Against Miracles
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* David Friedrich Strauss (1835) **buried both** conspiracy and swoon as implausible, and sought a third way: **myth**
-* The Gospel accounts are legendary accretion — "what for a long time was valid as an **external fact** ... is hereby reduced completely to the state of mind and made into an **inner event**"
-* Decisively, Strauss ruled the resurrection out **a priori**: a miracle is *by definition* unhistorical — mythological the moment it steps outside the chain of natural causes
-* Rudolf Bultmann in the 20th century is essentially the same: "demythologize" to find the spiritual kernel
-
----
-
-## Lüdemann: Subjective Visions
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Gerd Lüdemann: the appearances were **hallucinations** (subjective visions); the empty tomb and burial are late legends he must deny
-* His distinctive move is a **psychoanalysis**: Peter's guilt over his denial, and Paul's guilt under the law (reading Romans 7), projected visions of Jesus — Jungian "depth psychology"
-* The whole theory takes **Paul's Damascus Road** experience as the template for every appearance
-* The obvious problem — group appearances — he must treat as many simultaneous *private* illusions, since (as Licona notes) there are no genuine *group* hallucinations
-
----
-
-## Grass and Pannenberg: Objective Visions
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Hans Grass (1956): the appearances were not mere projections but **objective visions** — God-given, like Stephen's vision of the Son of Man
-* Wolfhart Pannenberg (Craig's own doctoral supervisor) agrees — *and* affirms the empty tomb, since the resurrection could not have been preached in Jerusalem beside an occupied grave
-* So why stop short of a **bodily** resurrection? Because modern theology, "as children of the Enlightenment," will allow *psychological* miracles but not **nature** miracles
-
----
-
-## Marxsen and Spong: The Interpretation Theory
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Willi Marxsen and Bishop John Shelby Spong: *something* powerful transformed the disciples — but we cannot say what
-* "Resurrection" was merely the **interpretive category** they reached for, and shouldn't be taken literally
-* Spong himself lists the radical changes that "cry out for an adequate explanation" — Sunday worship, the Trinity, Jesus becoming the *subject* of the gospel, Jerusalem as the center, enemies like Paul converted — and then declines to give one
-* His own self-description: "I'm just a mystic"
-
----
-
-## Why Study the Skeptics?
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Because it tells us **which battle is live today**
-* Conspiracy and swoon are dead — no serious scholar defends them. "Who moved the stone?" apologetics is 200 years out of date, as are the internet skeptics still recycling them
-* Since Strauss, the real question is the one this deck must answer: **are the Gospel narratives of Jesus' fate historically credible, or unhistorical legend?**
-* So we turn to the facts, and to the best explanation of them
+* Establishing the facts is itself a major accomplishment. But there is no good reason to stop there — this deck takes both steps: first the facts, then the verdict
 
 ---
 
@@ -222,52 +119,20 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * If Joseph of Arimathea's **burial** is historical (see the previous deck), the tomb's location was publicly known to Jew and Christian alike
-* The proclamation "He is risen" could never have survived in Jerusalem — of all places — with an occupied tomb a short walk away
-* This is why even the mundane burial account is a linchpin, and why skeptics from Strauss on have had to deny it on no good grounds
-* Five lines of evidence establish the empty tomb — the next slides
+* **The Jerusalem factor:** the movement began in the very city where the tomb lay — the proclamation "He is risen" could never have survived with an occupied tomb a short walk away, there for the authorities to produce
+* This is why even the mundane burial account is a linchpin, and why skeptics have had to deny it on no good grounds
 
 ---
 
-## The Jerusalem Factor and Multiple Sources
+## Why Even Critics Grant the Tomb
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **The Jerusalem factor:** the movement began in the very city where the tomb lay — impossible if the body were still there for the authorities to produce
 * **Multiple, early, independent attestation:** the pre-Markan passion source, the implicit "buried... raised" of the pre-Pauline creed (1 Corinthians 15:4), plus independent strands in Matthew, Luke, John, and the Acts sermons
-* The empty tomb is not a single late tradition but a fact woven through the earliest layers
-
----
-
-## The Simplicity of the Narrative
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Mark's empty-tomb account is strikingly **plain** — no Scripture-proofs, no theological reflection, no description of Jesus rising in glory
-* Contrast the 2nd-century *Gospel of Peter*, where Jesus strides from the tomb taller than the sky, a talking cross behind Him — *that* is what legend looks like
-* The restraint of the canonical account is a mark of early, sober report, not embellishment
-
----
-
-## The Testimony of Women
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* In first-century Judaism, women's testimony carried little legal weight — a fact the Gospels themselves reflect
-* Yet **women** are the discoverers of the empty tomb in every Gospel
-* No one fabricating a story to convince a skeptical public would cast women as the key witnesses — this is the **criterion of embarrassment** at work
-* The most natural explanation: that is simply how it happened
-
----
-
-## The Jewish Polemic
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"saying, 'Tell them, "His disciples came at night and stole Him away while we slept."'"</p><p style="text-align: right;"> <em>Matthew 28:13 (NKJV)</em></p>
-
-* The earliest Jewish response was not "the tomb is still occupied" but "**the disciples stole the body**"
-* That is **hostile testimony** — the opponents' own explanation **presupposes an empty tomb**
-* Both sides agreed the tomb was empty; they only disputed *why* — exactly what we'd expect if it truly was
+* **Simplicity:** Mark's account is strikingly plain — no Scripture-proofs, no theology, no risen-in-glory scene — the mark of early, sober report
+* **The testimony of women:** in every Gospel the discoverers are witnesses no one would invent — the criterion of embarrassment
+* **The Jewish polemic:** "His disciples came at night and stole Him away" (Matthew 28:13) — hostile testimony that **presupposes an empty tomb**
+* The result: roughly **75%** of scholars writing on the subject grant the empty tomb
 
 ---
 
@@ -275,21 +140,10 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Paul's list (1 Corinthians 15:3–8) **guarantees the experiences occurred**: it is early, from a known author, naming witnesses and inviting readers to check the living ones
-* To Peter, the Twelve, the five hundred, **James** (the skeptic brother), all the apostles, and Paul himself
-* The Gospels independently attest a wide range of appearances — too broad to be a late invention
-* Even the most skeptical critics (Lüdemann included) concede it is *historically certain* that the disciples had experiences they took to be the risen Jesus
-
----
-
-## The Appearances Were Physical
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Paul's resurrection body is **physical** — transformed, not immaterial (see the previous deck)
-* The Gospels unanimously portray **bodily** appearances: eating, being touched, showing wounds
-* The New Testament even distinguishes a *vision* of the exalted Christ (Stephen, Paul's later visions) from a *resurrection appearance* — they are not the same category
-* An "anti-Docetic invention" is unpersuasive: the diversity and physicality resist a vision-only origin
+* Paul's list (1 Corinthians 15:3–8) **guarantees the experiences occurred**: early, from a known author, naming witnesses — Peter, the Twelve, the five hundred, **James** the skeptic brother, all the apostles, Paul himself
+* The Gospels independently attest a wide range of appearances — and portray them as **bodily**: eating, being touched, showing wounds (see the previous deck)
+* The New Testament even distinguishes a *vision* of the exalted Christ (Stephen, Paul's later visions) from a *resurrection appearance* — not the same category
+* Even the most skeptical critics (Lüdemann included) concede it is *historically certain* the disciples had such experiences — the consensus here runs ~**98%**
 
 ---
 
@@ -338,7 +192,7 @@
 
 ---
 
-# Weighing the Hypotheses
+# The Alternatives on Trial
 
 ---
 
@@ -354,28 +208,6 @@
   * **Accord with accepted beliefs**
   * **Exceeds its rivals** on the conditions above
 * Now run each theory — then the resurrection — through this grid
-
----
-
-## Conspiracy Hypothesis
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* **Scope:** adequate — it "explains" all three facts (they stole the body, lied about appearances)
-* **Power:** fails — no fabricator would invent women witnesses, or so plain a tomb story, or omit appearances to the authorities
-* **Plausibility:** fatal — it is anachronistic. First-century Jews had no category for faking a single man's resurrection ahead of the end
-* Worst of all, it **denies** rather than explains the disciples' sincere belief — the one fact nearly all scholars grant. This alone sank it two centuries ago
-
----
-
-## Apparent Death Hypothesis
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* **Power:** fails — a man sealed in a tomb, scourged and speared, could not roll back the stone and escape
-* Strauss's decisive blow: a half-dead Jesus, desperately needing bandaging, would have evoked **pity, not Easter faith** — never the belief that He was the risen Lord and conqueror of death
-* **Accord with accepted beliefs:** disconfirmed by the medical realities of crucifixion (death by asphyxiation, the confirming spear-thrust)
-* Essentially no defenders today
 
 ---
 
@@ -399,7 +231,84 @@
 * **Plausibility:** Craig: "If there is one single historical fact about Jesus of Nazareth that is indisputable it is his crucifixion" — the "radar screen" verdict of the presuppositions slide was aimed at precisely this view
 * **Accord with accepted beliefs:** the crucifixion is unanimously attested in the earliest sources, Christian and non-Christian (Josephus, Tacitus); a document six centuries later, from another land, cannot outweigh them
 * ***Ad hoc*:** it makes **God the deceiver** — His own illusion produced belief in a crucified, risen Christ, and thereby disbelief in Muhammad's later message; a theory on which God authors the very error Islam condemns is **self-refuting**
-* **Scope:** it only denies the three facts, without explanation or evidence
+* **Scope:** the Qur'an's illusion targets only Jesus' enemies — the tomb, the appearances, and the Easter faith must be denied as corruption, not explained
+
+---
+
+## The Enlightenment and Deism
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* For over 1,500 years the church read the resurrection as a literal event
+* The **Enlightenment** (17th–18th c.) threw off the *Ancien Régime* — monarchy **and** church — in the name of human reason and autonomy (in revolutionary Paris, an actress was enthroned in Notre Dame as "Lady Reason")
+* Most theorists were not atheists but **deists**: a Creator and moral lawgiver, but no miracles, no special revelation, no inspired Scripture
+* Every remaining theory on our list was born from this backdrop — beginning with Reimarus
+
+---
+
+## Reimarus: The Conspiracy Theory
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Hermann Samuel Reimarus (d. 1768), a Hamburg professor, left a 4,000-page critique of the Bible, published posthumously by Lessing as the "Wolfenbüttel Fragments" (1774–77)
+* His theory: the disciples **stole the body** and faked the resurrection to continue the comfortable life of preaching
+* To hold it, he had to demolish three things — the **guard** (found only in Matthew, "full of contradictions," invented), the **apostles' testimony** (contradictory, and suspiciously private), and the **prophecies** (too ambiguous, and question-begging)
+* His verdict: Christianity is a fraud. It was the very first counter-explanation — already answered in Matthew 28:11–15 — revived by the Enlightenment
+
+---
+
+## Why the Conspiracy Theory Fails
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* **Scope:** adequate — it "explains" all three facts (they stole the body, lied about appearances)
+* **Power:** fails — no fabricator would invent women witnesses, or so plain a tomb story, or omit appearances to the authorities
+* **Plausibility:** fatal — it is anachronistic. First-century Jews had no category for faking a single man's resurrection ahead of the end
+* Worst of all, it **denies** rather than explains the disciples' sincere belief — the one fact nearly all scholars grant. This sank it two centuries ago; only internet skeptics still recycle it
+
+---
+
+## Paulus: The Apparent Death Theory
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* The post-Enlightenment quest for the historical Jesus bred a **natural explanation** school (Heinrich Paulus, 1828): keep the narratives, explain the miracles away — the feeding of the 5,000 a hidden cache of bread, the walking on water a platform beneath the surface
+* Applied to Easter: Jesus never truly died — He **swooned**, revived in the cool tomb, and escaped to convince the disciples He had risen
+* An advance on conspiracy: it grants the disciples' obvious **sincerity** (they weren't lying; they were mistaken)
+* Even Friedrich Schleiermacher, the "father of modern theology," held it — a sobering fact
+
+---
+
+## Why the Apparent Death Theory Fails
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* **Power:** fails — a man sealed in a tomb, scourged and speared, could not roll back the stone and escape
+* Strauss's decisive blow: a half-dead Jesus, desperately needing bandaging, would have evoked **pity, not Easter faith** — never the belief that He was the risen Lord and conqueror of death
+* **Accord with accepted beliefs:** disconfirmed by the medical realities of crucifixion (death by asphyxiation, the confirming spear-thrust)
+* Essentially no defenders today
+
+---
+
+## Strauss: Myth and the A Priori Against Miracles
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* David Friedrich Strauss (1835) **buried both** conspiracy and swoon as implausible, and sought a third way: **myth**
+* The Gospel accounts are legendary accretion — "what for a long time was valid as an **external fact** ... is hereby reduced completely to the state of mind and made into an **inner event**"
+* Decisively, Strauss ruled the resurrection out **a priori**: a miracle is *by definition* unhistorical — mythological the moment it steps outside the chain of natural causes
+* Rudolf Bultmann in the 20th century is essentially the same: "demythologize" to find the spiritual kernel
+
+---
+
+## Why the Myth Theory Fails
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Real legend looks different: in the 2nd-century *Gospel of Peter*, Jesus strides from the tomb taller than the sky, a talking cross behind Him — the canonical accounts' plain **restraint** marks early, sober report
+* And the resurrection belief is **primitive, not late** — the creed dates within about five years of the cross (previous deck), leaving no time for legendary growth
+* Nor, as we saw, can the belief be sourced to Christian, pagan, or Jewish influence
+* The "eclipse of mythology" in modern historical-Jesus study has undercut this hypothesis at its root
 
 ---
 
@@ -414,18 +323,28 @@
 
 ---
 
-## Myth and Legend
+## Grass and Pannenberg: Objective Visions
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Strauss and Bultmann: the empty tomb and appearances are legend, the belief a later mythical development
-* But the resurrection belief is **primitive, not late** — the creed dates within about five years of the cross (previous deck), leaving no time for legendary growth
-* And, as we saw, it cannot be sourced to Christian, pagan, or Jewish influence
-* The "eclipse of mythology" in modern historical-Jesus study has undercut this hypothesis at its root
+* Hans Grass (1956): the appearances were not mere projections but **objective visions** — God-given, like Stephen's vision of the Son of Man
+* Wolfhart Pannenberg (Craig's own doctoral supervisor) agrees — *and* affirms the empty tomb, since the resurrection could not have been preached in Jerusalem beside an occupied grave
+* So why stop short of a **bodily** resurrection? Because modern theology, "as children of the Enlightenment," will allow *psychological* miracles but not **nature** miracles
 
 ---
 
-## Hallucination — Narrow Scope
+## Lüdemann: Subjective Visions
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Gerd Lüdemann: the appearances were **hallucinations** (subjective visions); the empty tomb and burial are late legends he must deny
+* His distinctive move is a **psychoanalysis**: Peter's guilt over his denial, and Paul's guilt under the law (reading Romans 7), projected visions of Jesus — Jungian "depth psychology"
+* The whole theory takes **Paul's Damascus Road** experience as the template for every appearance
+* The obvious problem — group appearances — he must treat as many simultaneous *private* illusions, since (as Licona notes) there are no genuine *group* hallucinations
+
+---
+
+## Why Hallucinations Fail (1) — Narrow Scope
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
@@ -435,7 +354,7 @@
 
 ---
 
-## Hallucination — Implausible Psychoanalysis
+## Why Hallucinations Fail (2) — Implausible Psychoanalysis
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
@@ -445,7 +364,7 @@
 
 ---
 
-## Hallucination — Bereavement Visions
+## Allison: Bereavement Visions
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
@@ -464,6 +383,17 @@
 * Hallucinations contain only what is already in the mind — so first-century Jewish minds would have seen Jesus **translated to heaven**, glorified (as in the non-canonical *Testament of Job*, or Enoch and Elijah)
 * Translation is a different category from **resurrection**: the raising up of the dead man in the space-time world
 * So even on the skeptic's best case, the origin of the *resurrection* belief stays **unexplained**
+
+---
+
+## Marxsen and Spong: The Interpretation Theory
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Willi Marxsen and Bishop John Shelby Spong: *something* powerful transformed the disciples — but we cannot say what
+* "Resurrection" was merely the **interpretive category** they reached for, and shouldn't be taken literally
+* Spong himself lists the radical changes that "cry out for an adequate explanation" — Sunday worship, the Trinity, Jesus becoming the *subject* of the gospel, Jerusalem as the center, enemies like Paul converted — and then declines to give one
+* His own self-description: "I'm just a mystic" — skepticism's terminal state: a shrug. But an adequate explanation **is** available
 
 ---
 
@@ -509,6 +439,27 @@
 * A miracle *without* a context is ambiguous — it might be a mere anomaly or freak of nature
 * But this miracle is the **climax of Jesus' own life, ministry, and personal claims** — it fits "like a hand in the glove"
 * The truly contrived explanations are the rivals': that normal men became martyred liars, or that a dying man survived Roman crucifixion and exposure — those are the artificial "miracles"
+
+---
+
+## Believing the Improbable: The Lottery
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* One objection remains: "a resurrection is simply **too improbable** to believe on any evidence"
+* But we rationally believe wildly improbable events all the time. Your winning the lottery is millions-to-one against — yet when you see **your numbers drawn on the televised broadcast**, you believe, and so does everyone else
+* Why? Because the alternative — that the official drawing show was **faked** — is far *more* improbable than a win
+* It works even on **testimony alone**: a friend cheerfully tells you they won, and you believe them — a lie here would be more improbable than the win itself
+
+---
+
+## The Resurrection Is Not "Too Improbable"
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* The question is never bare improbability — it is always: which is **more** improbable, the event, or the **evidence arising without it**?
+* So weigh it: that God raised Jesus — or that the empty tomb, the appearances, and the Easter faith all arose with no adequate cause, on the word of witnesses who **died** for the claim?
+* Once God's existence is part of the background (the presuppositions slide), the "too improbable" objection collapses — no probability theory required
 
 ---
 
@@ -601,6 +552,7 @@
 * **Ingmar Bitter**, slides content
 * **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 33–46, primary theological source
   * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
+  * Also *Reasonable Faith* and the 2006 Craig–Ehrman debate, the lottery illustration on believing the improbable
 * **C. B. McCullagh**, *Justifying Historical Descriptions*, the criteria for the best explanation
 * **N. T. Wright**, *The Resurrection of the Son of God*, on the origin of the disciples' belief
 * **Wolfhart Pannenberg**, on the resurrection as divine vindication

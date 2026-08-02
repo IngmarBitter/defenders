@@ -16,14 +16,18 @@ Working document for the restructure. Old slide numbers in parentheses for trace
    - Gospel of Peter contrast (old 24) moves into the Myth rebuttal
    - "Translation, Not Resurrection" stays last as capstone against the whole vision family
 
-Net: 60 slides (0–59) → 53 slides (0–52). Outline drops to five sections.
+4. **Add two slides to The Best Explanation, before The Verdict:** the lottery illustration for rationally believing improbable events (Craig's own example from the Ehrman debate / Reasonable Faith — new material, not in the Defenders transcripts), then its application to the resurrection — answering "a miracle is the least probable explanation" without probability math.
+5. **Review findings (applied):** McCullagh opens the trial section, then Islam (oldest challenger), then the Enlightenment slide introducing all remaining post-Enlightenment theories — strict chronology, no thousand-year jump-back. Marxsen & Spong moved to close the section as skepticism's terminal retreat ("something happened, we can't say what"), setting up Section 4 and The Verdict's "no explanation at all" callback; Grass and Lüdemann now adjacent (objective → subjective visions). Credits slide gains a line for the lottery material's source (*Reasonable Faith* / Ehrman debate).
+6. **Reviewed and left alone:** "Plausible in Context" vs "A Miracle With a Context" — sounds repetitive but serves different criteria (plausibility vs the contrivedness sense of ad hoc); fix in drafting is sharpening each to its criterion, not merging. Ehrman block stays at 3 slides — both rebuttals carry distinct analogies, and "Why the Objection Fails (1)/(2)" now rhymes with "Why Hallucinations Fail (1)/(2)".
+
+Net: 60 slides (0–59) → 55 slides (0–54). Outline drops to five sections.
 
 ## Proposed new outline
 
 ### Front Matter (slides 0–2) — unchanged
 
 - **0. Title** — The Resurrection: Defeating the Alternatives
-- **1. Outline** — five entries; anchors: #slide3, #slide11, #slide19, #slide38, #slide44
+- **1. Outline** — five entries; anchors: #slide3, #slide11, #slide19, #slide38, #slide46
 - **2. Where We Are: From Evidence to Explanation** — 1 Corinthians 15:17; last deck = biblical evidence, this deck = historical apologetic
 
 ### Section 1: Two Ways to Know (slides 3–10) — unchanged
@@ -51,45 +55,47 @@ Net: 60 slides (0–59) → 53 slides (0–52). Outline drops to five sections.
 ### Section 3: The Alternatives on Trial (slides 19–37) — merges old History (11–20) + Weighing (33–44); chronological statement → rebuttal pairs
 
 - **19. Section divider**
-- **20. The Enlightenment and Deism** (was 12) — backdrop: where modern skepticism came from; light bridge rewrite (theories now follow interleaved with verdicts)
-- **21. McCullagh's Criteria** (was 34) — the grid, announced before the first verdict
-- **22. Islam: The Substitution Theory** (was 37) — the oldest alternative, pre-dating the Enlightenment
-- **23. Why the Substitution Theory Fails** (was 38)
+- **20. McCullagh's Criteria** (was 34) — the grid first; its closing line already launches the trial ("Now run each theory... through this grid")
+- **21. Islam: The Substitution Theory** (was 37) — the oldest challenger, pre-dating the Enlightenment; strict chronology from here on
+- **22. Why the Substitution Theory Fails** (was 38) — REFINE the Scope bullet: the Qur'an's illusion targets only Jesus' enemies ("it appeared so to them," answering "we killed the Messiah"); for the tomb, the appearances, and the Easter faith, Islam must deny the record as corrupted, not explain it. Extending the show to stage those facts is no longer Islam (Qur'an 3:52 makes the disciples faithful Muslims), buys scope the way the evil demon does (a deceiving God "explains" anything — maximally ad hoc), and totalizes the self-refutation already on the ad hoc bullet
+- **23. The Enlightenment and Deism** (was 12) — now introduces all the remaining (post-Enlightenment) theories and segues directly into Reimarus; light bridge rewrite
 - **24. Reimarus: The Conspiracy Theory** (was 13)
-- **25. Conspiracy Weighed** (was 35) — women, plain story, anachronism, denies the sincere belief; ADD "internet skeptics recycling 200-year-old theories" line (from old 20)
+- **25. Why the Conspiracy Theory Fails** (was 35) — women, plain story, anachronism, denies the sincere belief; ADD "internet skeptics recycling 200-year-old theories" line (from old 20)
 - **26. Paulus: The Apparent Death Theory** (was 15, absorbing the natural-explanation-school context from old 14)
-- **27. Apparent Death Weighed** (was 36) — impossible escape; Strauss's pity-not-faith blow; medical disconfirmation
+- **27. Why the Apparent Death Theory Fails** (was 36) — impossible escape; Strauss's pity-not-faith blow; medical disconfirmation
 - **28. Strauss: Myth and the A Priori Against Miracles** (was 16)
-- **29. Myth and Legend Weighed** (was 40) — creed too early for legend; belief unsourceable; ADD Gospel of Peter contrast (from old 24): "that is what legend looks like"
+- **29. Why the Myth Theory Fails** (was 40) — creed too early for legend; belief unsourceable; ADD Gospel of Peter contrast (from old 24): "that is what legend looks like"
 - **30. Wrong Tomb and Displaced Body** (was 39) — Lake 1907, Klausner 1922; statement + rebuttal already in one slide
-- **31. Grass and Pannenberg: Objective Visions** (was 18) — statement + built-in verdict ("why stop short of bodily resurrection?")
-- **32. Marxsen and Spong: The Interpretation Theory** (was 19) — statement + built-in verdict (Spong lists the changes, then declines to explain)
-- **33. Lüdemann: Subjective Visions** (was 17) — statement; sits right after *objective* visions
-- **34. Hallucination — Narrow Scope** (was 41)
-- **35. Hallucination — Implausible Psychoanalysis** (was 42)
-- **36. Allison: Bereavement Visions** (was 43) — statement + rebuttal in one
-- **37. Even Granting Visions: Translation, Not Resurrection** (was 44) — capstone against the whole vision family
+- **31. Grass and Pannenberg: Objective Visions** (was 18) — statement + built-in verdict ("why stop short of bodily resurrection?"); now directly adjacent to its subjective counterpart
+- **32. Lüdemann: Subjective Visions** (was 17) — statement
+- **33. Why Hallucinations Fail (1) — Narrow Scope** (was 41)
+- **34. Why Hallucinations Fail (2) — Implausible Psychoanalysis** (was 42)
+- **35. Allison: Bereavement Visions** (was 43) — statement + rebuttal in one
+- **36. Even Granting Visions: Translation, Not Resurrection** (was 44) — capstone against the whole vision family
+- **37. Marxsen and Spong: The Interpretation Theory** (was 19) — MOVED to close the section as skepticism's terminal retreat: every specific theory has failed, and the last refuge is "something happened, but we cannot say what" — Spong lists the changes that cry out for explanation, then declines to give one; light bridge touch to hand into Section 4 ("but there is an explanation")
 
-### Section 4: The Best Explanation (slides 38–43) — unchanged
+### Section 4: The Best Explanation (slides 38–45) — two new slides on believing the improbable
 
 - **38. Section divider**
 - **39. Scope and Power** (was 46)
 - **40. Plausible in Context** (was 47)
 - **41. Is It Ad Hoc?** (was 48)
 - **42. A Miracle With a Context** (was 49)
-- **43. The Verdict** (was 50)
+- **43. Believing the Improbable: The Lottery** (NEW) — winning is millions-to-one against, yet seeing your numbers on the televised drawing rationally convinces you (and everyone else) that you won — a faked official broadcast is far MORE improbable than a win. It even works on testimony alone: a friend cheerfully tells you they won, and you believe them, because them lying to you is more improbable than the win. Concrete example carries the Bayesian point with no math (source: Craig's lottery illustration, Ehrman debate / Reasonable Faith — outside the Defenders transcripts)
+- **44. The Resurrection Is Not "Too Improbable"** (NEW) — apply the lottery lesson: the question is never bare improbability but which is more improbable — that God raised Jesus, or that the empty tomb, the appearances, and the origin of the disciples' belief all arose with no adequate cause, on the word of witnesses who died for it. Answers Ehrman's "least probable explanation" objection without probability theory
+- **45. The Verdict** (was 50) — still closes the section, now with the "too improbable" worry already dissolved
 
-### Section 5: Practical Takeaways (slides 44–52) — unchanged
+### Section 5: Practical Takeaways (slides 46–54) — unchanged
 
-- **44. Section divider**
-- **45. 1. Vindicates Christ's Person and Work** (was 52)
-- **46. 2. Relationship with the Living Lord** (was 53)
-- **47. 3. Hope in the Face of Death** (was 54)
-- **48. 4. Physical and Psychological Healing** (was 55)
-- **49. 5. Guarantee of His Return** (was 56)
-- **50. How to Share It** (was 57) — percentages now echo slides 13/14 instead of introducing them
-- **51. Credits** (was 58)
-- **52. Navigation** (was 59)
+- **46. Section divider**
+- **47. 1. Vindicates Christ's Person and Work** (was 52)
+- **48. 2. Relationship with the Living Lord** (was 53)
+- **49. 3. Hope in the Face of Death** (was 54)
+- **50. 4. Physical and Psychological Healing** (was 55)
+- **51. 5. Guarantee of His Return** (was 56)
+- **52. How to Share It** (was 57) — percentages now echo slides 13/14 instead of introducing them
+- **53. Credits** (was 58) — ADD source line for the lottery/probability material: Craig, *Reasonable Faith* / the 2006 Ehrman debate
+- **54. Navigation** (was 59)
 
 ## Content dropped entirely
 
