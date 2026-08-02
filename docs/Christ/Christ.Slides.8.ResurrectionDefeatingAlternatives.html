@@ -10,7 +10,7 @@
 * [Three Facts to Be Explained](#slide11)
 * [The Alternatives on Trial](#slide19)
 * [The Best Explanation](#slide38)
-* [Practical Takeaways](#slide46)
+* [Practical Takeaways](#slide47)
 
 ---
 
@@ -59,7 +59,7 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * Every historical argument for the resurrection has two stages:
-  * **Step 1 — Establish the facts** that need explaining: the burial, the empty tomb, the appearances, the origin of the disciples' belief
+  * **Step 1 — Establish the facts** that need explaining: the empty tomb, the appearances, the origin of the disciples' belief
   * **Step 2 — Infer the best explanation** of those facts
 * Keep them distinct. The crucial point: **the facts of Step 1 are not themselves miraculous** — only the explanation in Step 2 is
 * An empty grave and reports of seeing Jesus are ordinary historical claims; "God raised Him" is the inference
@@ -93,10 +93,10 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * The historian doesn't need **direct access** to the entities his hypothesis postulates:
-  * Physicists posit quarks, strings, even parallel universes as the best explanation of evidence they *can* access
+  * Physicists posit quarks, strings, even parallel universes to explain evidence they *can* access
   * Historians postulate **dinosaurs** as the best explanation of the fossils — no direct access required
-* In fact the historian has no direct access to **any** object of study — the past is gone; it is always inferred from present evidence
-* And even if the professional guild adopts methodological naturalism, why should *we* — as reasoning people — be barred from following the evidence to a miracle? "Wouldn't it be a tragedy to be prevented from knowing the truth by a mere methodological rule?"
+* In fact the historian has no direct access to **any** object of study — the past is always inferred from present evidence
+* Even if the professional guild adopts methodological naturalism, why should *we* be barred from following the evidence? "Wouldn't it be a tragedy to be prevented from knowing the truth by a mere methodological rule?"
 
 ---
 
@@ -188,7 +188,7 @@
 * The belief cannot be sourced to Christian, pagan, or Jewish influence — so something else produced it
 * R. H. Fuller: even the most skeptical critic must posit "**some mysterious X**" to get the movement going
 * C. F. D. Moule: the birth of the church "rips a great hole in history, a hole of the size and shape of the Resurrection — what does the secular historian propose to stop it up with?"
-* That X is the fact any adequate hypothesis must now explain
+* Every hypothesis we now put on trial is a candidate for that X — the question is which one actually fills the hole
 
 ---
 
@@ -418,6 +418,19 @@
 * Plausibility rises sharply in context — the arguments of **natural theology** (a good Creator God) plus Jesus' **unparalleled life and claims to divinity**
 * This is not a random resurrection of a random man; it is the vindication of the one who put Himself in God's place
 * Once the philosophical prejudice against miracles is set aside, it is not at all implausible that God would raise *this* man
+
+---
+
+## God's Verdict at the Tomb
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Jesus lay in the tomb **condemned** — executed for claiming what only God may claim
+* God had two options, and no third:
+  * **Let Him rot** — agreeing with the court that the claim was blasphemy and the sentence just
+  * **Raise Him** — overturning the verdict and endorsing the claim as true
+* Even divine *silence* would have been a verdict — a rotting "messiah" settles the question forever
+* The resurrection is therefore God's ruling: He **sided with Christ** — exactly the act we would expect if the claims were true
 
 ---
 

@@ -20,14 +20,16 @@ Working document for the restructure. Old slide numbers in parentheses for trace
 5. **Review findings (applied):** McCullagh opens the trial section, then Islam (oldest challenger), then the Enlightenment slide introducing all remaining post-Enlightenment theories — strict chronology, no thousand-year jump-back. Marxsen & Spong moved to close the section as skepticism's terminal retreat ("something happened, we can't say what"), setting up Section 4 and The Verdict's "no explanation at all" callback; Grass and Lüdemann now adjacent (objective → subjective visions). Credits slide gains a line for the lottery material's source (*Reasonable Faith* / Ehrman debate).
 6. **Reviewed and left alone:** "Plausible in Context" vs "A Miracle With a Context" — sounds repetitive but serves different criteria (plausibility vs the contrivedness sense of ad hoc); fix in drafting is sharpening each to its criterion, not merging. Ehrman block stays at 3 slides — both rebuttals carry distinct analogies, and "Why the Objection Fails (1)/(2)" now rhymes with "Why Hallucinations Fail (1)/(2)".
 
-Net: 60 slides (0–59) → 55 slides (0–54). Outline drops to five sections.
+7. **Post-restructure review additions (2026-08-02):** Two-Step Method lists exactly three facts (burial demoted to Fact 1 support); slide 9 trimmed to fit; Mysterious X closer rewritten as section hand-off ("every hypothesis on trial is a candidate for that X"); NEW "God's Verdict at the Tomb" slide after Plausible in Context (the motive argument).
+
+Net: 60 slides (0–59) → 56 slides (0–55). Outline = five sections; anchors #slide3, #slide11, #slide19, #slide38, #slide47.
 
 ## Proposed new outline
 
 ### Front Matter (slides 0–2) — unchanged
 
 - **0. Title** — The Resurrection: Defeating the Alternatives
-- **1. Outline** — five entries; anchors: #slide3, #slide11, #slide19, #slide38, #slide46
+- **1. Outline** — five entries; anchors: #slide3, #slide11, #slide19, #slide38, #slide47
 - **2. Where We Are: From Evidence to Explanation** — 1 Corinthians 15:17; last deck = biblical evidence, this deck = historical apologetic
 
 ### Section 1: Two Ways to Know (slides 3–10) — unchanged
@@ -74,28 +76,29 @@ Net: 60 slides (0–59) → 55 slides (0–54). Outline drops to five sections.
 - **36. Even Granting Visions: Translation, Not Resurrection** (was 44) — capstone against the whole vision family
 - **37. Marxsen and Spong: The Interpretation Theory** (was 19) — MOVED to close the section as skepticism's terminal retreat: every specific theory has failed, and the last refuge is "something happened, but we cannot say what" — Spong lists the changes that cry out for explanation, then declines to give one; light bridge touch to hand into Section 4 ("but there is an explanation")
 
-### Section 4: The Best Explanation (slides 38–45) — two new slides on believing the improbable
+### Section 4: The Best Explanation (slides 38–46) — three new slides
 
 - **38. Section divider**
 - **39. Scope and Power** (was 46)
 - **40. Plausible in Context** (was 47)
-- **41. Is It Ad Hoc?** (was 48)
-- **42. A Miracle With a Context** (was 49)
-- **43. Believing the Improbable: The Lottery** (NEW) — winning is millions-to-one against, yet seeing your numbers on the televised drawing rationally convinces you (and everyone else) that you won — a faked official broadcast is far MORE improbable than a win. It even works on testimony alone: a friend cheerfully tells you they won, and you believe them, because them lying to you is more improbable than the win. Concrete example carries the Bayesian point with no math (source: Craig's lottery illustration, Ehrman debate / Reasonable Faith — outside the Defenders transcripts)
-- **44. The Resurrection Is Not "Too Improbable"** (NEW) — apply the lottery lesson: the question is never bare improbability but which is more improbable — that God raised Jesus, or that the empty tomb, the appearances, and the origin of the disciples' belief all arose with no adequate cause, on the word of witnesses who died for it. Answers Ehrman's "least probable explanation" objection without probability theory
-- **45. The Verdict** (was 50) — still closes the section, now with the "too improbable" worry already dissolved
+- **41. God's Verdict at the Tomb** (NEW, added post-restructure) — the motive argument: Jesus in the tomb condemned for claiming what only God may claim; God's options were exactly two — let Him rot (agreeing with the court) or raise Him (overturning the verdict); even silence would have been a verdict; the resurrection means God sided with Christ. Supplies what no rival hypothesis has: the agent's motive. Applied pastorally at Takeaway 1 (Pannenberg vindication)
+- **42. Is It Ad Hoc?** (was 48)
+- **43. A Miracle With a Context** (was 49)
+- **44. Believing the Improbable: The Lottery** (NEW) — winning is millions-to-one against, yet seeing your numbers on the televised drawing rationally convinces you (and everyone else) that you won — a faked official broadcast is far MORE improbable than a win. It even works on testimony alone: a friend cheerfully tells you they won, and you believe them, because them lying to you is more improbable than the win. Concrete example carries the Bayesian point with no math (source: Craig's lottery illustration, Ehrman debate / Reasonable Faith — outside the Defenders transcripts)
+- **45. The Resurrection Is Not "Too Improbable"** (NEW) — apply the lottery lesson: the question is never bare improbability but which is more improbable — that God raised Jesus, or that the empty tomb, the appearances, and the origin of the disciples' belief all arose with no adequate cause, on the word of witnesses who died for it. Answers Ehrman's "least probable explanation" objection without probability theory
+- **46. The Verdict** (was 50) — still closes the section, now with the "too improbable" worry already dissolved
 
-### Section 5: Practical Takeaways (slides 46–54) — unchanged
+### Section 5: Practical Takeaways (slides 47–55) — unchanged
 
-- **46. Section divider**
-- **47. 1. Vindicates Christ's Person and Work** (was 52)
-- **48. 2. Relationship with the Living Lord** (was 53)
-- **49. 3. Hope in the Face of Death** (was 54)
-- **50. 4. Physical and Psychological Healing** (was 55)
-- **51. 5. Guarantee of His Return** (was 56)
-- **52. How to Share It** (was 57) — percentages now echo slides 13/14 instead of introducing them
-- **53. Credits** (was 58) — ADD source line for the lottery/probability material: Craig, *Reasonable Faith* / the 2006 Ehrman debate
-- **54. Navigation** (was 59)
+- **47. Section divider**
+- **48. 1. Vindicates Christ's Person and Work** (was 52)
+- **49. 2. Relationship with the Living Lord** (was 53)
+- **50. 3. Hope in the Face of Death** (was 54)
+- **51. 4. Physical and Psychological Healing** (was 55)
+- **52. 5. Guarantee of His Return** (was 56)
+- **53. How to Share It** (was 57) — percentages now echo slides 13/14 instead of introducing them
+- **54. Credits** (was 58) — ADD source line for the lottery/probability material: Craig, *Reasonable Faith* / the 2006 Ehrman debate
+- **55. Navigation** (was 59)
 
 ## Content dropped entirely
 
