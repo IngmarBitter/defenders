@@ -92,6 +92,8 @@ Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Sp
 
 **NEVER use abbreviations.** Always spell out: Exodus (NOT Ex), Numbers (NOT Num), Judges (NOT Judg), Chronicles (NOT Chr), Ezekiel (NOT Ezek), Corinthians (NOT Cor), etc.
 
+- Exception (user-approved): when the full name would make a slide row overflow, an abbreviated inline reference (e.g. `1 Cor 9:18`) is permitted. Do not "fix" an existing abbreviation back to the full name without checking the row length.
+
 ### Scripture Quote Format (Slides)
 
 ```markdown
