@@ -25,7 +25,9 @@ Working document for the restructure. Old slide numbers in parentheses for trace
 
 9. **Post-teaching fixes (2026-08-09):** Substitution rebuttal rewritten for the nuance that a supernatural swap CONCEDES the crucifixion record (attestation cannot touch it) — the rebuttal is now evidence-proof-therefore-evidence-free + the ad hoc/self-refutation bullets; statement slide says "denies Jesus was ever on it" (a crucifixion did happen). "Easter faith" term removed deck-wide (→ resurrection belief / disciples' belief / faith). Trial order corrected to strict chronology: Conspiracy first as THE oldest alternative (guards' stolen-body story, Matthew 28:11–15, Reimarus as reviver) → Wallace pair → Islam ("six centuries later") → Enlightenment (introduces Paulus onward) → rest unchanged. Slide count and anchors unchanged.
 
-Net: 60 slides (0–59) → 58 slides (0–57). Outline = five sections; anchors #slide3, #slide11, #slide19, #slide40, #slide49.
+10. **Islam unit expanded to four slides + sources slide (2026-08-09):** statement (AD ~630 dating, corruption/tahrif fallback stated, swoon bullet dropped) → "Why the Substitution Theory Fails" (strength/fatal-flaw reversal; ad hoc = 600 years without a line of written record from the "Muslims who knew better", or God erasing Islam for six centuries) → NEW "God the Deceiver?" (Surah 3:54; truthful-God / deceiver-God dilemma, both horns self-refuting) → NEW "Why the Corrupted Gospels Fail" (Surah 10:94 quote; Bible uncorrupted at AD 630 by the Qur'an's own witness; unbroken manuscript chain; no room before nor after). Also: NEW "Jesus in the Non-Biblical Sources" slide after Two Presuppositions (Tacitus, Josephus, Talmud, Pliny, Mara bar Serapion, Suetonius, Lucian); Eclipse of Mythology bullet rewritten to carry its own meaning; Wrong Tomb gains the daylight-check rebuttal.
+
+Net: 60 slides (0–59) → 61 slides (0–60). Outline = five sections; anchors #slide3, #slide12, #slide20, #slide43, #slide52.
 
 ## Proposed new outline
 
