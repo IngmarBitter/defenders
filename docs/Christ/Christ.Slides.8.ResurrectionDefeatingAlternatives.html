@@ -9,8 +9,8 @@
 * [Two Ways to Know](#slide3)
 * [Three Facts to Be Explained](#slide11)
 * [The Alternatives on Trial](#slide19)
-* [The Best Explanation](#slide38)
-* [Practical Takeaways](#slide47)
+* [The Best Explanation](#slide40)
+* [Practical Takeaways](#slide49)
 
 ---
 
@@ -265,6 +265,31 @@
 * **Power:** fails — no fabricator would invent women witnesses, or so plain a tomb story, or omit appearances to the authorities
 * **Plausibility:** fatal — it is anachronistic. First-century Jews had no category for faking a single man's resurrection ahead of the end
 * Worst of all, it **denies** rather than explains the disciples' sincere belief — the one fact nearly all scholars grant. This sank it two centuries ago; only internet skeptics still recycle it
+
+---
+
+## Wallace: The Missing Motive
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Cold-case homicide detective **J. Warner Wallace**: every crime has one of three root motives — **financial greed**, **sexual lust**, or the **pursuit of power** — plus a fourth candidate, **revenge**
+* **Money?** The apostles lived poor — Paul refused support on principle, preaching "without charge" as a tentmaker (1 Corinthians 9:18)
+* **Lust?** They were known for sexual **restraint** — an ethic stricter than their culture, not looser
+* **Power?** "There's a big difference between seeking fame and enduring infamy" — they earned contempt and execution, and death was the accepted **cost** of testifying, not its goal
+* **Revenge?** Against whom? Their testimony bought them persecution, not satisfaction
+
+---
+
+## Wallace: Five Conditions of a Successful Conspiracy
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* From a career breaking real conspiracies, Wallace lists what a shared lie needs to survive — the apostles' "conspiracy" violates **all five**:
+  * **Few conspirators** — instead: the Twelve, plus hundreds of witnesses
+  * **Immediate, thorough communication** — instead: scattered across the empire, no way to align stories
+  * **A short time span** — instead: maintained for decades
+  * **Deep relational loyalty** — instead: outsiders like Paul the enemy and James the skeptic
+  * **Little or no pressure** — instead: torture and execution — and not one recanted
 
 ---
 
@@ -567,6 +592,7 @@
   * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
   * Also *Reasonable Faith* and the 2006 Craig–Ehrman debate, the lottery illustration on believing the improbable
 * **C. B. McCullagh**, *Justifying Historical Descriptions*, the criteria for the best explanation
+* **J. Warner Wallace**, *Cold-Case Christianity*, the conspiracy conditions and motive analysis
 * **N. T. Wright**, *The Resurrection of the Son of God*, on the origin of the disciples' belief
 * **Wolfhart Pannenberg**, on the resurrection as divine vindication
 * **Reimarus, Strauss, Lüdemann, and Dale Allison**, skeptics engaged as foils

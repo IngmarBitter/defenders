@@ -21,8 +21,9 @@ Working document for the restructure. Old slide numbers in parentheses for trace
 6. **Reviewed and left alone:** "Plausible in Context" vs "A Miracle With a Context" — sounds repetitive but serves different criteria (plausibility vs the contrivedness sense of ad hoc); fix in drafting is sharpening each to its criterion, not merging. Ehrman block stays at 3 slides — both rebuttals carry distinct analogies, and "Why the Objection Fails (1)/(2)" now rhymes with "Why Hallucinations Fail (1)/(2)".
 
 7. **Post-restructure review additions (2026-08-02):** Two-Step Method lists exactly three facts (burial demoted to Fact 1 support); slide 9 trimmed to fit; Mysterious X closer rewritten as section hand-off ("every hypothesis on trial is a candidate for that X"); NEW "God's Verdict at the Tomb" slide after Plausible in Context (the motive argument).
+8. **Wallace conspiracy pair (2026-08-09):** two NEW slides after "Why the Conspiracy Theory Fails" — "Wallace: The Missing Motive" (financial greed / sexual lust / pursuit of power + revenge, each inapplicable; Paul "without charge", 1 Corinthians 9:18) and "Wallace: Five Conditions of a Successful Conspiracy" (few conspirators, immediate communication, short time span, relational loyalty, no pressure — apostles violate all five). Source: J. Warner Wallace, *Cold-Case Christianity* (credited on Credits slide). Later listings in this doc predate these two slides.
 
-Net: 60 slides (0–59) → 56 slides (0–55). Outline = five sections; anchors #slide3, #slide11, #slide19, #slide38, #slide47.
+Net: 60 slides (0–59) → 58 slides (0–57). Outline = five sections; anchors #slide3, #slide11, #slide19, #slide40, #slide49.
 
 ## Proposed new outline
 
