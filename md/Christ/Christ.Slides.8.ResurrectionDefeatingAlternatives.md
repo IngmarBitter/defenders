@@ -272,8 +272,8 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* Cold-case homicide detective **J. Warner Wallace**: every crime has one of three root motives — **financial greed**, **sexual lust**, or the **pursuit of power** — plus a fourth candidate, **revenge**
-* **Money?** The apostles lived poor — Paul refused support on principle, preaching "without charge" as a tentmaker (1 Corinthians 9:18)
+* Cold-case homicide detective **J. Warner Wallace**: every crime has one of three root motives — **financial greed**, **sexual lust**, or the **pursuit of power** — Ingmar: +**revenge**
+* **Money?** The apostles lived poor — Paul refused support, preaching "without charge" as a tentmaker (1 Cor 9:18)
 * **Lust?** They were known for sexual **restraint** — an ethic stricter than their culture, not looser
 * **Power?** "There's a big difference between seeking fame and enduring infamy" — they earned contempt and execution, and death was the accepted **cost** of testifying, not its goal
 * **Revenge?** Against whom? Their testimony bought them persecution, not satisfaction
