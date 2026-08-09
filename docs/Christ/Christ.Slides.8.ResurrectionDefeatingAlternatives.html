@@ -7,10 +7,10 @@
 ## Outline
 
 * [Two Ways to Know](#slide3)
-* [Three Facts to Be Explained](#slide11)
-* [The Alternatives on Trial](#slide19)
-* [The Best Explanation](#slide40)
-* [Practical Takeaways](#slide49)
+* [Three Facts to Be Explained](#slide12)
+* [The Alternatives on Trial](#slide20)
+* [The Best Explanation](#slide43)
+* [Practical Takeaways](#slide52)
 
 ---
 
@@ -51,6 +51,18 @@
   * **A core historical Jesus** — His life, His radical personal claims, and His death by crucifixion
 * The second is mainstream New Testament scholarship, not a conservative assumption — a Jesus who was *not* crucified "does not even appear on the radar screen" of historical-Jesus study
 * Whether you grant these dramatically shapes how you weigh everything that follows
+
+---
+
+## Jesus in the Non-Biblical Sources
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* **Tacitus**, Roman historian (~AD 115): Christus "suffered the extreme penalty" under Tiberius "at the hands of... Pontius Pilatus"
+* **Josephus**, Jewish historian (~AD 93): Jesus crucified under Pilate; his brother **James** executed
+* **Babylonian Talmud** (Sanhedrin 43a): Yeshu "hanged on the eve of Passover" — hostile confirmation
+* **Pliny the Younger** (~AD 112): Christians sing to Christ "as to a god"; **Mara bar Serapion**, **Suetonius**, and **Lucian** add the executed "wise king," the "Chrestus" riots, and "the crucified one"
+* Friend and foe alike attest the same core: Jesus lived, was crucified under Pilate, and was worshiped soon after
 
 ---
 
@@ -211,49 +223,14 @@
 
 ---
 
-## Islam: The Substitution Theory
+## The Oldest Alternative: The Conspiracy Theory
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they did not kill him, nor did they crucify him; but another was made to resemble him to them."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Qur'an, Surah 4:157</em></p>
-
-* The oldest alternative still held by millions: six centuries later, the **Qur'an** declares Jesus was never crucified at all
-* God substituted a **look-alike** on the cross and took Jesus up to heaven alive — later Islamic tradition (not the Qur'an itself) often names **Judas Iscariot** as the double
-* Not a swoon theory: it does not claim Jesus survived the cross — it denies the **crucifixion ever happened**
-* For the empty tomb and appearances it must claim the Gospels were **corrupted** — folding into the myth-and-legend hypothesis below
-
----
-
-## Why the Substitution Theory Fails
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* **Plausibility:** Craig: "If there is one single historical fact about Jesus of Nazareth that is indisputable it is his crucifixion" — the "radar screen" verdict of the presuppositions slide was aimed at precisely this view
-* **Accord with accepted beliefs:** the crucifixion is unanimously attested in the earliest sources, Christian and non-Christian (Josephus, Tacitus); a document six centuries later, from another land, cannot outweigh them
-* ***Ad hoc*:** it makes **God the deceiver** — His own illusion produced belief in a crucified, risen Christ, and thereby disbelief in Muhammad's later message; a theory on which God authors the very error Islam condemns is **self-refuting**
-* **Scope:** the Qur'an's illusion targets only Jesus' enemies — the tomb, the appearances, and the Easter faith must be denied as corruption, not explained
-
----
-
-## The Enlightenment and Deism
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* For over 1,500 years the church read the resurrection as a literal event
-* The **Enlightenment** (17th–18th c.) threw off the *Ancien Régime* — monarchy **and** church — in the name of human reason and autonomy (in revolutionary Paris, an actress was enthroned in Notre Dame as "Lady Reason")
-* Most theorists were not atheists but **deists**: a Creator and moral lawgiver, but no miracles, no special revelation, no inspired Scripture
-* Every remaining theory on our list was born from this backdrop — beginning with Reimarus
-
----
-
-## Reimarus: The Conspiracy Theory
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Hermann Samuel Reimarus (d. 1768), a Hamburg professor, left a 4,000-page critique of the Bible, published posthumously by Lessing as the "Wolfenbüttel Fragments" (1774–77)
-* His theory: the disciples **stole the body** and faked the resurrection to continue the comfortable life of preaching
+* As old as the empty tomb itself: "His disciples came at night and stole Him away while we slept" — the story the guards were paid to spread (Matthew 28:11–15)
+* Revived by **Hermann Samuel Reimarus** (d. 1768): the disciples **stole the body** and faked the resurrection to continue the comfortable life of preaching (the posthumous "Wolfenbüttel Fragments," 1774–77)
 * To hold it, he had to demolish three things — the **guard** (found only in Matthew, "full of contradictions," invented), the **apostles' testimony** (contradictory, and suspiciously private), and the **prophecies** (too ambiguous, and question-begging)
-* His verdict: Christianity is a fraud. It was the very first counter-explanation — already answered in Matthew 28:11–15 — revived by the Enlightenment
+* His verdict: Christianity is a fraud
 
 ---
 
@@ -293,6 +270,65 @@
 
 ---
 
+## Islam: The Substitution Theory
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they did not kill him, nor did they crucify him; but another was made to resemble him to them."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Qur'an, Surah 4:157</em></p>
+
+* **~AD 630:** the **Qur'an** declares Jesus was never crucified at all — believed by **>1 billion** people today
+* God substituted a **look-alike** on the cross and took Jesus up to heaven alive — later Islamic tradition (not the Qur'an itself) often names **Judas Iscariot** as the double
+* For everything after the cross Islam answers with one word — **corruption** (*tahrif*): the Gospels were altered in transmission
+* On this view the true disciples were faithful **Muslims** preaching pure monotheism — the empty tomb, the appearances, and the resurrection belief are **later fabrications** woven into the record
+
+---
+
+## Why the Substitution Theory Fails
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* **Its strength:** a *supernatural* swap concedes the whole record — the crucifixion unfolded exactly as every witness and historian reports, so attestation (Josephus, Tacitus) cannot touch it
+* **And that is the fatal flaw:** an illusion perfect enough to fool everyone leaves **no possible evidence** either way — nothing can count against the theory, but nothing can count for it either; it rests solely on a text six centuries later
+* ***Ad hoc*:** for **600 years** every record — Christian, Jewish, and pagan — knows only followers of a crucified Jesus; the "faithful Muslims who knew better" (one tradition even has a disciple **volunteer** for the swap) left not a single line of written record until ~AD 630
+* The fallback is no better: a deception so total it fooled the faithful too means God **erased Islam for six centuries**, then restarted it through Muhammad — either way, **force-fitting** theory to data
+
+---
+
+## God the Deceiver?
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* Deeper than history: the theory makes **God the author** of the illusion that produced the very belief Islam condemns — and billions of "deceived" Christian souls
+* The Qur'an itself grants the title: "Allah is the best of **schemers**" (*khayru al-makirin*, Surah 3:54)
+* A dilemma, and both horns fail:
+  * If God is **truthful and just** (one claim of Islam), staging the crucifixion and then condemning belief in it is **self-refuting**
+  * If God is the **supreme deceiver** (another claim of Islam), then no divine revelation can be trusted — **including the Qur'an**. Also **self-refuting**
+
+---
+
+## Why the Corrupted Gospels Fail
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"So if you are in doubt about that which We have revealed to you, then ask those who have been reading the Scripture before you."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Qur'an, Surah 10:94</em></p>
+
+* The Qur'an points doubters to the Scriptures of the People of the Book — so by the Qur'an's own witness, the Bible as it existed in **AD 630 was not corrupted**
+* The corruption must then have come **later** — but the manuscript chain is **unbroken**: hundreds of early fragments, complete 4th-century New Testaments (Sinaiticus, Vaticanus), and 5th–6th century codices all match the text we read today
+* There is no room for corruption before AD 630 nor after — so there simply was **no corruption**, defeating the **plausibility** of this explanation
+
+---
+
+## The Enlightenment and Deism
+
+![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+
+* For over 1,500 years the church read the resurrection as a literal event
+* The **Enlightenment** (17th–18th c.) threw off the *Ancien Régime* — monarchy **and** church — in the name of human reason and autonomy (in revolutionary Paris, an actress was enthroned in Notre Dame as "Lady Reason")
+* Most theorists were not atheists but **deists**: a Creator and moral lawgiver, but no miracles, no special revelation, no inspired Scripture
+* Reimarus's revival was its first fruit — and every remaining theory on our list was born from the same backdrop
+
+---
+
 ## Paulus: The Apparent Death Theory
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
@@ -309,7 +345,7 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * **Power:** fails — a man sealed in a tomb, scourged and speared, could not roll back the stone and escape
-* Strauss's decisive blow: a half-dead Jesus, desperately needing bandaging, would have evoked **pity, not Easter faith** — never the belief that He was the risen Lord and conqueror of death
+* Strauss's decisive blow: a half-dead Jesus, desperately needing bandaging, would have evoked **pity, not faith** — never the belief that He was the risen Lord and conqueror of death
 * **Accord with accepted beliefs:** disconfirmed by the medical realities of crucifixion (death by asphyxiation, the confirming spear-thrust)
 * Essentially no defenders today
 
@@ -333,7 +369,7 @@
 * Real legend looks different: in the 2nd-century *Gospel of Peter*, Jesus strides from the tomb taller than the sky, a talking cross behind Him — the canonical accounts' plain **restraint** marks early, sober report
 * And the resurrection belief is **primitive, not late** — the creed dates within about five years of the cross (previous deck), leaving no time for legendary growth
 * Nor, as we saw, can the belief be sourced to Christian, pagan, or Jewish influence
-* The "eclipse of mythology" in modern historical-Jesus study has undercut this hypothesis at its root
+* The scholarly hunt for pagan-myth parallels **collapsed** a century ago: the parallels proved spurious, and Jesus and His disciples must be read as first-century **Jews** — the "Eclipse of Mythology" (Craig Evans)
 
 ---
 
@@ -341,7 +377,7 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **Wrong tomb** (Kirsopp Lake, 1907): the women erred in the dark — but the site was known, it explains none of the appearances, and it arbitrarily keeps "He is not here" while dropping "He is risen"
+* **Wrong tomb** (Kirsopp Lake, 1907): the women erred in the pre-dawn dark — but they told the disciples, who ran to the **known site in daylight**; and it arbitrarily keeps "He is not here" while dropping "He is risen"
 * **Displaced body** (Klausner, 1922): Joseph reburied the corpse — but he and his servants could simply have said so; Jewish law and practice argue against any such move
 * Both have **narrow scope** (silent on the appearances) and **collapse** once the burial site is public knowledge
 * Neither has any following among scholars
@@ -496,7 +532,7 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * The question is never bare improbability — it is always: which is **more** improbable, the event, or the **evidence arising without it**?
-* So weigh it: that God raised Jesus — or that the empty tomb, the appearances, and the Easter faith all arose with no adequate cause, on the word of witnesses who **died** for the claim?
+* So weigh it: that God raised Jesus — or that the empty tomb, the appearances, and the disciples' belief all arose with no adequate cause, on the word of witnesses who **died** for the claim?
 * Once God's existence is part of the background (the presuppositions slide), the "too improbable" objection collapses — no probability theory required
 
 ---
