@@ -172,6 +172,7 @@
 * God **wills the salvation of every person** He creates (also 1 Timothy 2:4; Ezekiel 33:11: "I have no pleasure in the death of the wicked")
 * In one sense God sends no one to hell — the lost **freely and irrevocably reject** His grace and every effort to save them
 * Our eternal destiny lies in our own hands. The lost are self-condemned, and God grieves their loss
+* A serious objection with a solid answer — but the objections get harder now
 
 ---
 
@@ -184,6 +185,7 @@
   * **Every** sin may deserve finite punishment, yet the lost go on sinning in hell — hating and rejecting God forever — so the sinning, and the punishment, never end. Hell is **self-perpetuating**
   * To reject Christ is to **reject God Himself** — the infinite source of goodness. That is a sin of infinite gravity
 * So hell is not chiefly the tally of finite earthly sins, but the just desert of the infinite sin of repudiating God
+* Answered as well — but the final problem, still ahead, is harder to resolve compellingly
 
 ---
 
@@ -206,8 +208,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For since the creation of the world His invisible attributes are clearly seen, being understood by the things that are made, even His eternal power and Godhead, so that they are without excuse,"</p><p style="text-align: right;"> <em>Romans 1:20 (NKJV)</em></p>
 
-* Salvation through general revelation is **not works-based**: it is sensing one's guilt before the Creator and flinging oneself on His mercy
-* The "Holy Pagans" — **Job and Melchizedek** — were saved through Christ's death though they had no conscious knowledge of Him, nor membership in the covenant
+* Salvation through general revelation is **not works-based**: sensing one's guilt before the Creator and flinging oneself on His mercy
+* The "Holy Pagans" — **Job and Melchizedek** — were saved through Christ's death without conscious knowledge of Him or covenant membership
 * There could be modern "Jobs" — Craig points to **Socrates**, heeding the divine voice against the gods of Athens, and the Native American holy man **Black Elk**, whose Great Spirit testimony reads "just like Romans 1"
 
 ---
