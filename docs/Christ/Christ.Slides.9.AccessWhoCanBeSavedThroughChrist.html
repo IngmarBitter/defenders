@@ -58,6 +58,8 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For by grace you have been saved **through faith**, and that not of yourselves; it is **the gift of God**, not of works, lest anyone should boast."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Ephesians 2:8–9 (NKJV)</em></p>
+
 * Into that hopeless condition God provides the one means of escape: **Christ's atoning death**, satisfying divine justice (Romans 3:21–26)
 * Salvation is a **gift, received by faith** — not earned, not achieved by religious effort
 * This is why the offer is genuinely universal in *scope* even while it is particular in *means*: one Savior, offered to all
