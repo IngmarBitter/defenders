@@ -9,9 +9,9 @@
 * [The Scandal of Particularism](#slide3)
 * [Answering the Pluralist](#slide9)
 * [The Real Problem: The Unevangelized](#slide15)
-* [A Soteriological Problem of Evil](#slide22)
-* [The Middle Knowledge Solution](#slide28)
-* [Practical Takeaways](#slide39)
+* [A Soteriological Problem of Evil](#slide23)
+* [The Middle Knowledge Solution](#slide29)
+* [Practical Takeaways](#slide40)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## The New Testament Claim
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/NoOtherName.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved."</p><p style="text-align: right;"> <em>Acts 4:12 (NKJV)</em></p>
 
@@ -44,7 +44,7 @@
 
 ## The Human Condition
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/HumanCondition.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"There is none righteous, no, not one; There is none who understands; There is none who seeks after God. They have all turned aside; They have together become unprofitable; There is none who does good, no, not one."</p><p style="text-align: right;"> <em>Romans 3:10–12 (NKJV)</em></p>
 
@@ -56,7 +56,7 @@
 
 ## Salvation as a Gift Through Christ
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/GiftOfFaith.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For by grace you have been saved **through faith**, and that not of yourselves; it is **the gift of God**, not of works, lest anyone should boast."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Ephesians 2:8–9 (NKJV)</em></p>
 
@@ -69,7 +69,7 @@
 
 ## The Expansion of Europe
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/ExpansionOfEurope.jpg style="float: right; width: 7rem")
 
 * The "Expansion of Europe" (~1450–1750) — Marco Polo, Columbus, Magellan — revealed whole civilizations that had never heard of Christ
 * Two effects on religious thinking:
@@ -81,7 +81,7 @@
 
 ## Pluralism: The New Conventional Wisdom
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/PluralismDefault.jpg style="float: right; width: 7rem")
 
 * **Religious pluralism** — the view that there are many equally valid roads to God — has become the default wisdom, just as in the early Roman Empire
 * It is now "politically incorrect" to hold that God has decisively revealed Himself in Jesus Christ
@@ -94,43 +94,44 @@
 
 ---
 
-## Two Forms of Pluralism
+## Unsophisticated Pluralism
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/AllRoadsToGod.jpg style="float: right; width: 7rem")
 
-* **Unsophisticated pluralism:** "all religions are equally **true**" — the college-sophomore view
-* **Sophisticated pluralism:** all religions are equally **false**, but equally **effective** at transforming self-centered people into people centered on "The Real" (John Hick's term)
-  * On Hick's view nothing can be known about ultimate reality; the religions are useful myths, none literally true
-  * As a student noted, this view "trembles on the brink of incoherence" — it keeps making truth-claims about The Real it says are unknowable
+* "All religions are equally **true**" — the college-sophomore view
+* Refuted by the **law of contradiction**: the religions make mutually exclusive claims
+* Islam vs. Buddhism, for instance:
+  * Islam: a personal Creator; humans have souls God will judge; sin, forgiveness, eternal life
+  * Buddhism: no Creator God; no enduring soul; no sin or salvation as such; no life after death of that kind
+* "Equally true" is a **failed view**: a logical contradiction, and one that does not correspond to reality
 
 ---
 
-## All Religions Cannot Be True
+## Sophisticated Pluralism
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/TheReal.jpg style="float: right; width: 7rem")
 
-* The unsophisticated view is refuted by the **law of contradiction**: the religions make mutually exclusive claims
-* Islam vs. Buddhism, for instance:
-  * Islam: a personal Creator; humans have souls God will judge; sin, forgiveness, eternal life
-  * Buddhism: agnostic about a Creator; no enduring soul; no sin or salvation as such; no life after death of that kind
-* They cannot all be true. Anyone who knows the world's religions must move to the sophisticated view — that they are all **false**
+* All religions are equally **false**, but equally **effective** at transforming self-centered people into people centered on "The Real" (John Hick's term)
+* On Hick's view nothing can be known about ultimate reality; the religions are useful myths, none literally true
+* The view is **self-refuting** — it keeps making truth-claims about The Real it says are unknowable
+* So "equally false" is a **failed view** too: a logical contradiction, and one that does not correspond to reality
 
 ---
 
 ## The Ad Hominem Fallacy
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/ArrogantScientist.jpg style="float: right; width: 7rem")
 
 * Common charge: particularism is **arrogant and immoral**, since it deems all who disagree wrong
 * This is a textbook *ad hominem* — a view's **truth is independent of the character** of those who hold it
-* Analogy: a conceited scientist discovers an AIDS vaccine. Is the vaccine ineffective because he is arrogant? Would you refuse it?
+* Analogy: an arrogant scientist discovers a cure for cancer. Is the cure ineffective because he is arrogant? Would you refuse it?
 * And it is **double-edged**: the pluralist, too, holds that the vast majority of humanity (all the particularists) are wrong — so by this logic *he* is the arrogant one
 
 ---
 
 ## The Genetic Fallacy
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/BornElsewhere.jpg style="float: right; width: 7rem")
 
 * Common charge: "if you'd been born in Pakistan you'd be a Muslim" — so your Christianity is false or unjustified
 * This is the **genetic fallacy** — invalidating a belief by *how* one came to hold it
@@ -141,12 +142,12 @@
 
 ## Pluralism Is Still a Serious Threat
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/FateOfOthers.jpg style="float: right; width: 7rem")
 
 * These arguments are weak — but that does **not** mean pluralism is a trivial challenge
 * Clearing away the fallacies lets us reach the **real** issue underneath
 * That issue is not logic but the heart: the **fate of those outside the Christian tradition**
-* Particularism consigns them to hell, and pluralists find that unconscionable. That is the objection worth taking seriously
+* Particularism consigns them to hell, and pluralists find that morally repugnant. That is the objection worth taking seriously
 
 ---
 
@@ -156,7 +157,7 @@
 
 ## John Hick's Journey
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/HickJourney.jpg style="float: right; width: 7rem")
 
 * Craig's own doctoral mentor, **John Hick**, began as a conservative theologian (*Christianity at the Centre*)
 * Meeting saintly followers of other faiths, he found it inconceivable that such good people were bound for hell
@@ -167,7 +168,7 @@
 
 ## Would a Loving God Send Anyone to Hell?
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/GodOutstretchedArms.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"The Lord is not slack concerning His promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance."</p><p style="text-align: right;"> <em>2 Peter 3:9 (NKJV)</em></p>
 
@@ -180,35 +181,43 @@
 
 ## Is Eternal Punishment Unjust?
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/LadyJustice.jpg style="float: right; width: 8rem")
 
 * Objection: even the worst sins deserve only **finite** punishment, so eternal hell over-punishes
 * Two replies:
-  * **Every** sin may deserve finite punishment, yet the lost go on sinning in hell — hating and rejecting God forever — so the sinning, and the punishment, never end. Hell is **self-perpetuating**
-  * To reject Christ is to **reject God Himself** — the infinite source of goodness. That is a sin of infinite gravity
-* So hell is not chiefly the tally of finite earthly sins, but the just desert of the infinite sin of repudiating God
-* Answered as well — but the final problem, still ahead, is harder to resolve compellingly
+  * To reject Christ is to **reject God Himself** – the infinite source of goodness. That is a **sin of infinite gravity**
+  * **Every** sin may deserve finite punishment, yet the lost go on sinning in hell – hating and rejecting God forever – so the sinning, and the punishment, never end. Hell is **self-perpetuating**
+* So hell is not the tally of finite earthly sins, but the just desert of an infinite sin – and of sinning that never ends
+* Answered as well – but the final problem, still ahead, is harder to resolve compellingly
 
 ---
 
 ## Judged by the Light They Have
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/GodJudge.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For there is **no partiality** with God. For as many as have sinned without law will also perish without law, and as many as have sinned in the law will be **judged by the law**"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 2:11–12 (NKJV)</em></p>
+
+* God does **not** judge those who never heard on whether they believed in a Christ they could not have known — that would be manifestly unfair
+* Each is judged by the law he actually had — for the unevangelized, the **light they do have**: God's general revelation in nature and in the conscience (Romans 2:14–15)
+
+---
+
+## A Genuine Offer of Salvation
+
+![](pics/UnknownUncleWill.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;"</p><p style="text-align: right;"> <em>Romans 2:7 (NKJV)</em></p>
 
-* God does **not** judge those who never heard on whether they believed in a Christ they could not have known — that would be manifestly unfair
-* He judges them on their response to the **light they do have**: His general revelation in nature and conscience
-* The benefits of Christ's death can be applied **without conscious knowledge of Christ** — like a beneficiary of an unknown uncle's will
-* "But John 3:18 — *condemned already*?" That describes sinners under sin's condemnation, and the **conscious rejecter** of Christ (Luke 12:8–9) — not those who never heard
+* A **real offer** of salvation to the uninformed — not an unreachable standard
+* The precedent: the **OT saints** — Abraham "believed God, and it was accounted to him for righteousness" (Romans 4:3); God "passed over" their sins in forbearance (Romans 3:25) until the cross redeemed them (Hebrews 9:15). The atonement reaches **backward** in time
+* So the benefits of Christ's death can be applied **without conscious knowledge of Christ** — like a beneficiary of an unknown uncle's will
 
 ---
 
 ## General Revelation and the Holy Pagans
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For since the creation of the world His invisible attributes are clearly seen, being understood by the things that are made, even His eternal power and Godhead, so that they are without excuse,"</p><p style="text-align: right;"> <em>Romans 1:20 (NKJV)</em></p>
+![](pics/HolyPagan.jpg style="float: right; width: 7rem")
 
 * Salvation through general revelation is **not works-based**: sensing one's guilt before the Creator and flinging oneself on His mercy
 * The "Holy Pagans" — **Job and Melchizedek** — were saved through Christ's death without conscious knowledge of Him or covenant membership
@@ -218,12 +227,14 @@
 
 ## But Few Respond
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/SuppressTruth.jpg style="float: right; width: 7rem")
 
 * The sobering New Testament testimony: people generally do **not** measure up even to the light of general revelation
-* Romans 1 describes humanity suppressing the truth and turning to idolatry and sin
+* Creation makes God plain, "so that they are **without excuse**" (Romans 1:20) — yet men suppress the truth and turn to idols (Romans 1:18–23)
+* The verdict is universal: "**all have sinned** and fall short of the glory of God" (Romans 3:23)
 * So there is little ground for optimism that **many** — if any — are actually saved through general revelation alone
-* Salvation is universally **accessible** this way, but rarely **accessed**. So the problem is not that God condemns the uninformed — it lies deeper
+* Salvation is universally **accessible** this way, but rarely **accessed**
+* So the problem is not that God condemns the uninformed — it lies deeper
 
 ---
 
@@ -233,9 +244,9 @@
 
 ## Three Agonizing Questions
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/WalkingBear.jpg style="float: right; width: 7rem")
 
-* Picture **Walking Bear**, a medieval Plains Indian who rejects the Great Spirit he senses in nature and conscience — justly condemned. But what if he *would* have believed the Gospel, had missionaries come?
+* Picture **Walking Bear**, a medieval Plains Indian who rejects the Great Spirit he senses in nature and conscience — justly condemned. But what if he *would* have believed the Gospel, *if* missionaries had come?
 * Three questions press in:
   1. Why didn't God bring the Gospel to those He knew would accept it?
   2. Why create the world at all, knowing many would be lost?
@@ -246,9 +257,9 @@
 
 ## The Alleged Contradiction
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/AllegedContradiction.jpg style="float: right; width: 7rem")
 
-* This is a **soteriological problem of evil** — parallel to the logical problem of evil
+* This is a **soteriological problem of evil** (soteriology: the doctrine of salvation) — parallel to the logical problem of evil
 * The pluralist claims two Christian beliefs are logically incompatible:
   * **A.** God is all-powerful and all-loving
   * **B.** Some people never hear the Gospel and are lost
@@ -258,7 +269,7 @@
 
 ## The Hidden Assumptions
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/HiddenPremises.jpg style="float: right; width: 7rem")
 
 * To derive a contradiction, the pluralist must be assuming two hidden premises:
   1. If God is **all-powerful**, He can create a world in which everyone hears the Gospel and is freely saved
@@ -270,23 +281,26 @@
 
 ## Assumption 1 Fails
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/FreelyOffered.jpg style="float: right; width: 7rem")
 
 * God could certainly create a world where everyone **hears** the Gospel — that is easy
 * But it is **logically impossible to make someone freely do something** — as impossible as a round square or a married bachelor. Omnipotence does not extend to the logically impossible
-* So for all we know, **every** world of free creatures God could create includes some who freely reject Him (Plantinga: perhaps "transworld depravity" holds in every feasible world)
-* A world of universal salvation may simply be **infeasible** — so assumption 1 is not necessarily true
+* So for all we know, **every** world of free creatures God could create includes some who freely reject Him
+  * Plantinga: perhaps "transworld depravity" holds in every feasible world
+* A world of universal salvation may simply be **infeasible**
+  * → assumption 1 is not necessarily true
 
 ---
 
 ## Assumption 2 Fails
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/PopulousWorld.jpg style="float: right; width: 7rem")
 
-* Suppose feasible worlds of universal salvation *do* exist. Must an all-loving God prefer one?
+* Suppose feasible worlds of universal salvation *could* exist. Must an all-loving God prefer one?
 * Not necessarily — such worlds might carry **overriding deficiencies**
-* Imagine the only universal-salvation worlds are tiny — three or four people — because creating any more means at least one freely rejects God
-* God is no less loving for preferring a **populous** world where multitudes are freely saved, even though some are freely lost — so long as He extends sufficient grace to all. Assumption 2 is not necessarily true either
+* Imagine the only universal-salvation worlds are **tiny**: Adam alone might have worked — with just two people we already had sin. Create any more, and at least one freely rejects God
+* God is no less loving for preferring a **populous** world where multitudes are freely saved, even though some are freely lost — so long as He extends sufficient grace to all
+  * → assumption 2 is not necessarily true either
 
 ---
 
@@ -296,7 +310,7 @@
 
 ## What Is Middle Knowledge?
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/EyeOverFork.jpg style="float: right; width: 10rem")
 
 * Developed by the Jesuit theologian **Luis Molina** (hence "Molinism")
 * **Middle knowledge** is God's knowledge of what *every possible person* would **freely** do in *any* circumstance He might place him in
@@ -305,9 +319,20 @@
 
 ---
 
+## The Solution: Proposition C
+
+![](pics/ScaleImbalance.jpg style="float: right; width: 7rem")
+
+* Craig proposes a third statement, consistent with A and entailing B:
+  * **C.** God has created a world with an **optimal feasible balance** between saved and lost, and those who never hear the Gospel and are lost **would not have believed it even if they had heard it**
+* Is C true? God knows — if He has middle knowledge
+* As long as C is even **possibly** true, it shows A and B are not contradictory after all
+
+---
+
 ## What the Solution Assumes
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/ResistibleGrace.jpg style="float: right; width: 7rem")
 
 * Two working assumptions, each defended elsewhere in Defenders:
   * **Libertarian freedom** — God's grace is **resistible**; He draws but never overpowers the will
@@ -317,31 +342,21 @@
 
 ---
 
-## Proposition C
-
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
-
-* Craig proposes a third statement, consistent with A and entailing B:
-  * **C.** God has created a world with an **optimal feasible balance** between saved and lost, and those who never hear the Gospel and are lost **would not have believed it even if they had heard it**
-* Is C true? God knows — if He has middle knowledge
-* As long as C is even **possibly** true, it shows A and B are not contradictory after all
-
----
-
 ## The Heaven Objection
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/HeavenCity.jpg style="float: right; width: 7rem")
 
 * Objection: "There *is* a feasible world of all-freely-good creatures — **heaven**! God could just create that."
-* First, it is not obvious there is freedom to sin in heaven
-* More fundamentally, it commits a **possible-worlds fallacy**: you cannot pluck a segment out of one world and assume the same counterfactuals of freedom hold in a new, isolated world
-* Create that "heaven" on its own and it is a *different* world, with a possibly different set of free choices
+* It commits a **possible-worlds fallacy**: you cannot pluck a segment out of one world and assume the same counterfactuals of freedom hold in a new, isolated world
+* Why not? Earthly life is where we **discover God's love**, freely **respond** to it, and **build character** — only then can God confirm that character, removing the ability to sin without changing who we are
+* Heaven is the *product* of that earthly stage: create it on its own and its freely-good citizens do not exist — the feasibility **collapses**
+* The same likely holds for any feasible world of earthly life followed by heaven
 
 ---
 
 ## Answering the Three Questions
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/GodCreation.jpg style="float: right; width: 8rem")
 
 * **Why not a world of universal salvation?** It may not be feasible — free creatures may reject God in any world God could make
 * **Why create at all?** So the blessedness of those who *would* freely embrace God's love is not vetoed by those who would freely spurn Him
@@ -351,7 +366,7 @@
 
 ## No One Lost by Accident
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/HandsEarth.jpg style="float: right; width: 10rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And He has made from one blood every nation of men to dwell on all the face of the earth, and has determined their preappointed times and the boundaries of their dwellings, so that they should seek the Lord, in the hope that they might grope for Him and find Him, though He is not far from each one of us;"</p><p style="text-align: right;"> <em>Acts 17:26–27 (NKJV)</em></p>
 
@@ -363,7 +378,7 @@
 
 ## And This Is the Worst Case
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/DreamVision.jpg style="float: right; width: 7rem")
 
 * The argument deliberately assumes the **hardest scenario**: the unevangelized with nothing but nature and conscience to go on
 * But God is not limited to missionaries — Scripture shows Him reaching people through **dreams and visions**
@@ -374,7 +389,7 @@
 
 ## The Improbability Objection
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/DivineChess.jpg style="float: right; width: 7rem")
 
 * Objection: even if *possible*, it is wildly **improbable** that all the unevangelized would have rejected the Gospel
 * Reply: improbable only if people were distributed by **chance** — but the hypothesis is that a **sovereign, omniscient God** providentially arranged it
@@ -385,7 +400,7 @@
 
 ## This Is Not Fatalism
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/NotFatalism.jpg style="float: right; width: 7rem")
 
 * It can *sound* like "some people are created for damnation" — but that misunderstands the view
 * The counterfactuals of freedom are **contingent**, not part of anyone's nature: "if I were rich, I'd buy a Mercedes" might be true, but in another world I'd buy a BMW
@@ -396,10 +411,10 @@
 
 ## What About Those Who Die as Infants?
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/ChildrenComeToMe.jpg style="float: right; width: 7rem")
 
 * Craig does **not** apply the middle-knowledge solution to infants — you cannot be held responsible for what you never actually do
-* Better ground: Jesus' welcome — *"Let the little children come to Me [...] for of such is the kingdom of heaven"* (Matthew 19:14) — God's grace extends to those who die before they can grasp any revelation
+* Better ground: infants have **no law, hence no transgression** to be condemned for (Romans 4:15; 5:13) — and Jesus' welcome: *"Let the little children come to Me [...] for of such is the kingdom of heaven"* (Matthew 19:14)
 * This is distinct from the unevangelized **adult**, who does have general revelation and suppresses it (Romans 1)
 * Extending "all infants are saved" to all the unevangelized would make the Gospel *bad* news — bringing damnation where there had been safety
 
@@ -411,7 +426,7 @@
 
 ## A Positive Motivation for Missions
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/DivineAppointments.jpg style="float: right; width: 7rem")
 
 * Objection (Hasker): doesn't this make evangelism pointless? ("Should Peter go to the mission field?")
 * No — through missions God brings the Gospel to a people group such that He has placed there **people who will respond** when they hear it. Missions **maximizes** the saved
@@ -422,7 +437,7 @@
 
 ## Particularism, Not Exclusivism
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/GodsHandAndPeolpe.jpg style="float: right; width: 7rem")
 
 * Craig prefers **"particularism"** over "exclusivism" — the latter sounds like an elite group shutting people out
 * That is the opposite of the truth: God **loves all**, desires all to be saved, and extends His grace to everyone
@@ -433,7 +448,7 @@
 
 ## Compassion in a Pluralistic World
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/CompassionGospel.jpg style="float: right; width: 7rem")
 
 * Religious diversity does **not** undermine salvation through Christ alone — the doctrine is logically coherent, biblically grounded, and even plausible
 * True compassion for those in other faiths is **not** pretending they are safe apart from Christ

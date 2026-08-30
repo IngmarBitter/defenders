@@ -140,6 +140,13 @@ docs/<Topic>/<Deck>.Slides.<N>.<Subtitle>.html            -> Slide page (rendere
 - `docs/` is output-only: **do not place source `.md` files in `docs/`**.
 - Exception: third-party/library docs that already live under `docs/markdeep-slides/`.
 
+### Slide Images
+
+- Each content slide carries one right-floated image: `![](pics/<Name>.jpg style="float: right; width: <W>rem")`. Prefer a slide-specific image over the deck's generic icon; reuse existing repo assets before creating new ones (inventory: `find docs -iname "*.jpg" -o -iname "*.png"`).
+- Copy reused assets into the deck's own `docs/<Topic>/pics/` (keep the filename) so decks stay self-contained; verify every referenced path exists before committing.
+- Width by aspect ratio (validated on Christ Deck 9): portrait 7rem, square 8rem, landscape 10–11rem. Generic icons stay at 7rem.
+- Skip images whose embedded text or scene names a different topic (e.g. a poster titled for another argument) — the caption competes with the slide.
+
 ### Working Docs (md-only)
 
 - `md/<Topic>/<Deck>.Slides.<N>.Structure.md` — plain-markdown (not Markdeep) outline/planning doc for restructuring a deck; source-only, **never mirrored to `docs/`**.

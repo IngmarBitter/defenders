@@ -1,5 +1,6 @@
 ## Summary
 
+- Deck 9 images DONE 2026-08-30: 16 Grok-generated slide-specific images (painterly, golden light, single concept, no text; all 3:4 portrait at 7rem) replaced the remaining generic icons; clipart `Faith.jpg` replaced by `GiftOfFaith.jpg`. Only "Where We Are" and Credits keep the generic deck icons. Prompts were written per slide by Claude, rendered in Grok.
 - Fetched and wrote all 51 Craig Doctrine of Christ transcripts (Parts 1-51) as markdown files in `md/Christ/`
 - Created 4 summary files: `Craig.Summary1.Incarnation.md`, `Craig.Summary2.Death.md`, `Craig.Summary3.Resurrection.md`, `Craig.Summary4.Access.md`
 - Created high-level `Christ.Slides.md` (Markdeep TOC) with 9 sub-slide links
@@ -52,6 +53,14 @@
 - Slides renumbered previously: old 4-8 became 5-9, all nav links and TOC updated
 
 ## Todo
+
+**Deck 9 custom images:** complete for content slides. Slide 1 Outline stays imageless; slide 2 and Credits keep series icons (`ChristOverview.jpg`, `ChristWork.jpg`). User confirmed keep-as-is.
+
+**NEXT (after Deck 9 revision is done): series-wide dash switch.** Ingmar prefers spaced en dashes (" – ") over spaced em dashes (" — "). Trialed on Deck 9 slide 18 only (commit 0b93244). Separate effort: replace " — " with " – " across all `md/*/*.Slides*.md` and mirrored `docs/*/*.Slides*.html` (~850 occurrences, 23 files; heaviest Christ 7/8/3/4), SKIP lines starting `<p style` (NKJV quote blocks are verbatim, 10 em dashes there), review the 8 unspaced em dashes by hand, then update root.ai.md Encoding Standards (em dash rule + `--` fix-up rule). Byte-safe approach: perl in-place replacing E2 80 94 -> E2 80 93 on spaced occurrences.
+
+**Church Center group description update (2026-08-10):** Fetched current "Bitter Faith Forge Community Group" description via Church Center API (group id 1342769). Proposed updated draft delivered in conversation — main change: add the current Defenders-based apologetics study (Trinity, Doctrine of Christ) as the featured study; grammar/flow polish. Awaiting user confirmation on facts (kids' ages, study framing). User must paste final text at <https://groups.planningcenteronline.com/groups/1342769/settings> (anonymous API token cannot edit). User corrections so far: snacks dropped (unhealthy), prayer moved to end of meeting, opening is now connect/fellowship time, ladies/men split dropped (may return), kids-ages sentence dropped, monthly social night replaced by occasional afternoon socials (potluck lunch Sat early afternoon or Sun after church, in addition to Fridays, not replacing), studies are group-chosen NOT Defenders-based. Group also wants a new name ("Bitter" surname reads badly) — suggested "Faith Forge Community Group" et al.
+
+**Creekside Defenders group description (2026-08-10):** Also drafted a fuller description for the "Creekside Defenders/Apologetics" Church Center group (old one was slide-length-limited), built from `md/CreeksideDefenders.md` (purposes, content, audience, topics) + link to <https://tinyurl.com/CreeksideDefenders> (verified: redirects to ingmarbitter.github.io/defenders/CreeksideDefenders.html; the `.html` variant 404s — note: md line 119 display text says "...CreeksideDefenders.html" which is not typeable). Draft delivered in conversation; user pastes at Planning Center group settings.
 
 **RENUMBERED 2026-06-14** — Death unit restructured from 3 decks into 4 (PSA frontloaded); downstream shifted +1. Commits: 33bd179 (standard), b77cc56 (renumber), 78dc76a (restructure).
 

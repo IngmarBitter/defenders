@@ -116,7 +116,7 @@ Resources
 
 ![](pics/CreeksideDefendersQRcode.jpg style="float: right; width: 9rem")
 
-[tinyUrl.com/CreeksideDefenders.html](https://ingmarbitter.github.io/defenders/CreeksideDefenders.html)
+[tinyUrl.com/CreeksideDefenders](https://ingmarbitter.github.io/defenders/CreeksideDefenders.html)
 
 [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 
