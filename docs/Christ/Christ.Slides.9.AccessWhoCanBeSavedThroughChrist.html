@@ -100,8 +100,8 @@
 
 * **Unsophisticated pluralism:** "all religions are equally **true**" — the college-sophomore view
 * **Sophisticated pluralism:** all religions are equally **false**, but equally **effective** at transforming self-centered people into people centered on "The Real" (John Hick's term)
-* On Hick's view nothing can be known about ultimate reality; the religions are useful myths, none literally true
-* As a student noted, this view "trembles on the brink of incoherence" — it keeps making truth-claims about The Real it says are unknowable
+  * On Hick's view nothing can be known about ultimate reality; the religions are useful myths, none literally true
+  * As a student noted, this view "trembles on the brink of incoherence" — it keeps making truth-claims about The Real it says are unknowable
 
 ---
 
