@@ -397,7 +397,7 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * Craig does **not** apply the middle-knowledge solution to infants — you cannot be held responsible for what you never actually do
-* Better ground: Jesus' welcome — *"Let the little children come to Me, for of such is the kingdom of heaven"* — God's grace extends to those who die before they can grasp any revelation
+* Better ground: Jesus' welcome — *"Let the little children come to Me [...] for of such is the kingdom of heaven"* (Matthew 19:14) — God's grace extends to those who die before they can grasp any revelation
 * This is distinct from the unevangelized **adult**, who does have general revelation and suppresses it (Romans 1)
 * Extending "all infants are saved" to all the unevangelized would make the Gospel *bad* news — bringing damnation where there had been safety
 
