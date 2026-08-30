@@ -9,9 +9,9 @@
 * [The Scandal of Particularism](#slide3)
 * [Answering the Pluralist](#slide9)
 * [The Real Problem: The Unevangelized](#slide15)
-* [A Soteriological Problem of Evil](#slide23)
-* [The Middle Knowledge Solution](#slide29)
-* [Practical Takeaways](#slide40)
+* [A Soteriological Problem of Evil](#slide24)
+* [The Middle Knowledge Solution](#slide30)
+* [Practical Takeaways](#slide41)
 
 ---
 
@@ -22,7 +22,7 @@
 * We have studied Christ's **person** (deity and humanity), His **death**, and His **resurrection**
 * One question remains: **who can access** the benefits of His atoning work?
 * Is Christ the **only** way of salvation – and if so, what of the billions who never hear the Gospel?
-* This is the sharpest pastoral and apologetic pressure point in all of Christology
+* The sharpest pressure point in all of Christology: not that Christianity is *different*, but that it says other worldviews are **wrong**
 
 ---
 
@@ -48,7 +48,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"There is none righteous, no, not one; There is none who understands; There is none who seeks after God. They have all turned aside; They have together become unprofitable; There is none who does good, no, not one."</p><p style="text-align: right;"> <em>Romans 3:10–12 (NKJV)</em></p>
 
-* Paul's burden in Romans 1–3: all people, Jew and Greek, are "under the power of sin"
+* Paul's burden in Romans 1–3: all people, Jew and Greek, apart from Christ, are "under the power of sin"
 * No one can be justified before God by works of the law (Romans 3:19–20)
 * The whole race stands "having no hope and without God in the world" (Ephesians 2:12)
 
@@ -62,7 +62,7 @@
 
 * Into that hopeless condition God provides the one means of escape: **Christ's atoning death**, satisfying divine justice (Romans 3:21–26)
 * Salvation is a **gift, received by faith** – not earned, not achieved by religious effort (Ephesians 2:8–9)
-* This is why the offer is genuinely universal in *scope* even while it is particular in *means*: one Savior, offered to all
+* This is why the offer is genuinely universal in *scope* even while it is particular in *means*: needed by all, offered to all, not accepted by all
 * For medieval Christendom the scandal receded – the church's catholicity (universality) made its truth seem self-evident. That confidence would not last
 
 ---
@@ -84,7 +84,8 @@
 ![](pics/PluralismDefault.jpg style="float: right; width: 7rem")
 
 * **Religious pluralism** – the view that there are many equally valid roads to God – has become the default wisdom, just as in the early Roman Empire
-* It is now "politically incorrect" to hold that God has decisively revealed Himself in Jesus Christ
+* It is now "politically incorrect" to hold that God has decisively revealed Himself in Jesus Christ – Jesus is welcome as a *teacher*, not as God's decisive self-revelation
+* The religions themselves are not pluralist – Islam claims uniqueness; Shinto and Hinduism absorb rivals. Pluralism is a *Western* conventional wisdom
 * The challenge is laid squarely at the **particularist's** door: religious diversity is said to make Christ-alone untenable
 * But *why*, exactly? We need to examine the actual arguments
 
@@ -113,8 +114,9 @@
 
 * All religions are equally **false**, but equally **effective** at transforming self-centered people into people centered on "The Real" (John Hick's term)
 * On Hick's view nothing can be known about ultimate reality; the religions are useful myths, none literally true
-* The view is **self-refuting** – it keeps making truth-claims about The Real it says are unknowable
+* The view is **self-refuting** – "Are you sure you can't be sure?" – it keeps making truth-claims about The Real it says are unknowable
 * So "equally false" is a **failed view** too: a logical contradiction, and one that does not correspond to reality
+* The only coherent retreat is plain agnosticism – "I don't know" – which is no longer an objection to particularism
 
 ---
 
@@ -124,6 +126,7 @@
 
 * Common charge: particularism is **arrogant and immoral**, since it deems all who disagree wrong
 * This is a textbook *ad hominem* – a view's **truth is independent of the character** of those who hold it
+* Telling someone they are wrong is not arrogance – a parent warning a child, a doctor correcting a quack – if the claim is true and offered in love
 * Analogy: an arrogant scientist discovers a cure for cancer. Is the cure ineffective because he is arrogant? Would you refuse it?
 * And it is **double-edged**: the pluralist, too, holds that the vast majority of humanity (all the particularists) are wrong – so by this logic *he* is the arrogant one
 
@@ -137,6 +140,23 @@
 * This is the **genetic fallacy** – invalidating a belief by *how* one came to hold it
 * Born in ancient Greece, you'd have believed the sun orbits the earth. Does that make heliocentrism false?
 * Again **self-defeating**: had the pluralist been born in Pakistan he'd be a particularist – so by his own reasoning, pluralism is just the accident of his time and place. He cuts off the branch he sits on
+* The remedy: compare **reasons**, not birthplaces
+
+---
+
+## Answering the Pluralist: Summary
+
+![](pics/PluralismDefault.jpg style="float: right; width: 7rem")
+
+* The offense of particularism: not that Christianity is *different*, but that it says other worldviews are **wrong**
+* "All equally true" – a logical contradiction; the religions make mutually exclusive claims
+* "All equally false but equally useful" (Hick) – **self-refuting**: it claims to know that the Real is unknowable
+* "Arrogant" and "you'd be a Muslim in Pakistan" – the *ad hominem* and genetic fallacies, and both cut the pluralist too
+* The arguments for pluralism fail – compare **reasons**, not messengers or birthplaces
+
+---
+
+# The Real Problem: The Unevangelized
 
 ---
 
@@ -148,10 +168,6 @@
 * Clearing away the fallacies lets us reach the **real** issue underneath
 * That issue is not logic but the heart: the **fate of those outside the Christian tradition**
 * Particularism consigns them to hell, and pluralists find that morally repugnant. That is the objection worth taking seriously
-
----
-
-# The Real Problem: The Unevangelized
 
 ---
 
@@ -184,10 +200,10 @@
 ![](pics/LadyJustice.jpg style="float: right; width: 8rem")
 
 * Objection: even the worst sins deserve only **finite** punishment, so eternal hell over-punishes
-* Two replies:
-  * To reject Christ is to **reject God Himself** – the infinite source of goodness. That is a **sin of infinite gravity**
-  * **Every** sin may deserve finite punishment, yet the lost go on sinning in hell – hating and rejecting God forever – so the sinning, and the punishment, never end. Hell is **self-perpetuating**
-* So hell is not the tally of finite earthly sins, but the just desert of an infinite sin – and of sinning that never ends
+* Two replies that do different work:
+  * **Infinite gravity:** to reject Christ is to **reject God Himself** – not a tally of finite acts, but a sin against an infinite Person
+  * **Self-perpetuating rejection:** the lost do not turn neutral at death – fixed in rejection of God, they go on rejecting Him, and that continued rejection is continued sin; the punishment lasts as long as the refusal
+* So hell is not "finite crimes, infinite sentence" – no more than heaven is "finite faith, infinite reward" – it is the just desert of rejecting God, and of a refusal that never ends
 * Answered as well – but the final problem, still ahead, is harder to resolve compellingly
 
 ---
@@ -453,6 +469,7 @@
 * Religious diversity does **not** undermine salvation through Christ alone – the doctrine is logically coherent, biblically grounded, and even plausible
 * True compassion for those in other faiths is **not** pretending they are safe apart from Christ
 * It is supporting, and making every personal effort in, sharing the life-giving Gospel
+* "Don't impose your beliefs" is itself an imposed belief – we offer, never coerce
 * We go out confident that God has gone ahead of us – and prepared hearts to receive Him
 
 ---
