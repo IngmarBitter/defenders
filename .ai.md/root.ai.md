@@ -71,7 +71,7 @@ Slide `.md` files render as HTML via Markdeep, so use proper Unicode:
 
 - **Quotes:** Use ASCII straight quotes `"` (avoids encoding issues with the Edit tool)
 - **Apostrophes:** Use ASCII apostrophe `'`
-- **Em Dashes:** Use em dash, NOT hyphens or double hyphens
+- **Dashes:** Use a spaced en dash ( – ) for parenthetical dashes, NOT em dashes, hyphens, or double hyphens. Em dashes remain only inside verbatim NKJV quote blocks
 - **Ellipsis:** Use horizontal ellipsis, NOT three periods
 - **Arrows:** Use rightwards arrow, NOT -> or question marks
 
@@ -79,7 +79,7 @@ When fixing encoding issues, systematically replace:
 
 - Mojibake characters -> appropriate Unicode character based on context
 - Curly quotes -> ASCII straight quotes
-- `--` -> em dash
+- `--` or spaced em dash -> spaced en dash ( – )
 - `...` -> `[...]` (for scripture ellipsis) or ellipsis (for general)
 
 ## Scripture Formatting

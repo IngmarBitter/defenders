@@ -23,7 +23,7 @@
   * Spirit descends upon the Son
   * Public inauguration and empowering for ministry
 * **JWs:** The Spirit is God's active force that descends visibly as a dove
-  * **Illogical:** The Spirit "descended … like a dove"—a visible manifestation in a Father/Son/Spirit scene; that’s not how Scripture describes an impersonal force.
+  * **Illogical:** The Spirit "descended … like a dove" – a visible manifestation in a Father/Son/Spirit scene; that’s not how Scripture describes an impersonal force.
 
 ---
 
@@ -47,7 +47,7 @@
 * Jesus ministers “in the power of the Spirit” (Luke 4:14)
 * This shows the Spirit's ongoing empowerment of Christ's mission
 * **JWs:** Jesus is empowered by God's spirit (force), not a person.
-  * **Illogical:** Scripture can speak of the "power of the Spirit"—distinguishing the Spirit from the power by which Jesus ministers.
+  * **Illogical:** Scripture can speak of the "power of the Spirit" – distinguishing the Spirit from the power by which Jesus ministers.
 
 ---
 
@@ -70,7 +70,7 @@
 * Jesus promises to send the Spirit as His personal representative
 * The Spirit's coming is contingent on Jesus' departure, showing distinct roles
 * **JWs:** The Spirit is God's force sent after Jesus.
-  * **Illogical:** Jesus speaks of "the Helper" whom He will send, and whose coming is contingent on Jesus’ departure—distinct roles, not merely “God’s force.”
+  * **Illogical:** Jesus speaks of "the Helper" whom He will send, and whose coming is contingent on Jesus’ departure – distinct roles, not merely “God’s force.”
 
 ---
 

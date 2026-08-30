@@ -84,7 +84,7 @@
 
 * The Spirit is not merely the Father/Son “in a different role”
 * Triadic formulas name three distinct persons together
-* **JWs:** Holy Spirit refers to God's active force, not a person. 
+* **JWs:** Holy Spirit refers to God's active force, not a person.
   * **Illogical:** The parallel structure ("in the name of A and of B and of C") treats all three equally as persons with names/authorities; denying personhood to the Holy Spirit violates the grammar
 
 ---

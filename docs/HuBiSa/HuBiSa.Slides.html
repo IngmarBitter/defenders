@@ -1,6 +1,6 @@
 <meta charset="utf-8" lang="en">
 
-# HuBiSa — Blue Alternatives Feedback
+# HuBiSa – Blue Alternatives Feedback
 
 ---
 
@@ -10,9 +10,9 @@
 
 * I'm building a color system called **HuBiSa**
 * It organizes colors by three things you can easily understand:
-  * **Hue** — which color (red, blue, green, …)
-  * **Brightness** — how light or dark
-  * **Saturation** — how vivid or washed-out
+  * **Hue** – which color (red, blue, green, …)
+  * **Brightness** – how light or dark
+  * **Saturation** – how vivid or washed-out
 * Today I need your help with **one specific problem: blue**
 
 ---
@@ -34,7 +34,7 @@
 ![](ColorHuBiSaCircleSwatchWithNames.png style="float: right; width: 12rem")
 
 * A color grid is **perception uniform** when:
-  * **Brightness:** each step from dark to bright looks like the same size step — like a staircase with equal height stairs
+  * **Brightness:** each step from dark to bright looks like the same size step – like a staircase with equal height stairs
   * **Hue:** going around the color circle, each color step looks the same distance apart, and all hues appear equally bright and equally saturated
   * **Saturation:** each step from gray to vivid looks like the same size step
 
@@ -45,8 +45,8 @@
 ![](ColorHuBiSaCircleSwatchWithNames.png style="float: right; width: 12rem")
 
 * Most colors behave well when you go from dark → bright
-* **Blue is the exception** — when you darken blue toward black, it wants to drift toward **purple**
-* There is no single "correct" fix — it requires choosing a path that **looks** the most blue at every brightness level
+* **Blue is the exception** – when you darken blue toward black, it wants to drift toward **purple**
+* There is no single "correct" fix – it requires choosing a path that **looks** the most blue at every brightness level
 * That's where I need your eyes
 
 ---
@@ -57,7 +57,7 @@
 
 * Five slides, each with a slightly different blue
 * The hue number in the title tells them apart (215–229)
-* Focus on the **blue column** — does it stay blue from dark to bright?
+* Focus on the **blue column** – does it stay blue from dark to bright?
 * Some will look more purple-ish, some more cyan-ish
 * I want to know which one looks the most like normal **blue**
 * This looks different on different displays. On your phone go to tinyurl.com/CreeksideDefenders and then click on HuBiSa

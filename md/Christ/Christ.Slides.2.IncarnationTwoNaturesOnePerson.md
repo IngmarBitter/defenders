@@ -54,7 +54,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Let no one say when he is tempted, 'I am tempted by God'; for God cannot be tempted by evil, nor does He Himself tempt anyone."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>James 1:13 (NKJV)</em></p>
 
-* Christ was genuinely tempted (Hebrews 4:15) — yet God cannot be tempted (James 1:13)
+* Christ was genuinely tempted (Hebrews 4:15) – yet God cannot be tempted (James 1:13)
 * This tension requires a model that preserves both truths
 * Any adequate Christology must explain how temptation is real without implying the possibility of sin
 
@@ -147,7 +147,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"In the beginning was the Word, and the Word was with God, and the Word was God."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 1:1 (NKJV)</em></p>
 
 * Christ's deity so exalted, real flesh seemed impossible
-* **Teaching:** Christ only *appeared* to have a body — no real flesh, suffering, or death
+* **Teaching:** Christ only *appeared* to have a body – no real flesh, suffering, or death
 * **Proponents:** Gnostic groups (2nd century) who deprecated the material world
 * **The distortion:** eliminates true humanity entirely
 
@@ -173,7 +173,7 @@
 * **Teaching:** The Logos replaces the human rational soul; Christ has a body but no human mind
 * **Proponent:** Apollinarius, Bishop of Laodicea (died ~390)
 * **Advantage:** preserves unity and explains sinlessness
-* **The distortion:** Christ's humanity is truncated — body without mind
+* **The distortion:** Christ's humanity is truncated – body without mind
 
 ---
 
@@ -199,7 +199,7 @@
 * **Proponent:** Nestorius, Patriarch of Constantinople (428)
   * Refused to call Mary *Theotokos* ("God-bearer")
   * Insisted Mary bore only the man Jesus, not the divine Logos
-* **The distortion:** two persons — Christ's unity dissolved
+* **The distortion:** two persons – Christ's unity dissolved
 
 ---
 
@@ -207,7 +207,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But why is this granted to me, that the mother of my Lord should come to me?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 1:43 (NKJV)</em></p>
 
-* Elizabeth calls Mary "the mother of my Lord" — not "the mother of a man indwelt by the Lord"
+* Elizabeth calls Mary "the mother of my Lord" – not "the mother of a man indwelt by the Lord"
 * If you cannot say "Mary bore God incarnate," you have split Christ into two persons
 * The Council of Ephesus (431) affirmed *Theotokos* to safeguard the unity of Christ's person
 
@@ -222,7 +222,7 @@
 * If the Word "became" flesh, perhaps the two natures fused into one
 * **Teaching:** After the incarnation the two natures merge into one divine-human nature
 * **Proponent:** Eutyches, monk in Constantinople (~448); Alexandrian school tendency
-* **The distortion:** neither truly God nor truly man — a confused other
+* **The distortion:** neither truly God nor truly man – a confused other
 
 ---
 
@@ -232,7 +232,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>John 1:14 (NKJV)</em></p>
 
-* Full deity preserved (Colossians 2:9) and real flesh assumed (John 1:14) — not a blend
+* Full deity preserved (Colossians 2:9) and real flesh assumed (John 1:14) – not a blend
 * The Council of Chalcedon (451): "without confusion, without change"
 
 ---
@@ -246,7 +246,7 @@
 * If Christ "emptied Himself," perhaps He literally gave up divine attributes
 * **Teaching:** In becoming human, the Logos literally divests Himself of divine attributes (omnipotence, omniscience, omnipresence)
 * **Proponents:** 19th-century kenotic theologians
-* **The distortion:** incarnation as subtraction — God gives up being God
+* **The distortion:** incarnation as subtraction – God gives up being God
 
 ---
 
@@ -254,9 +254,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For in Him dwells all the fullness of the Godhead bodily;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 2:9 (NKJV)</em></p>
 
-* Craig: Colossians 2:9 "shipwrecks Kenoticism" — *all* the fullness of deity dwells in Christ bodily
+* Craig: Colossians 2:9 "shipwrecks Kenoticism" – *all* the fullness of deity dwells in Christ bodily
 * If the Logos gives up attributes essential to deity, He ceases to be God
-* Philippians 2 describes a change of *status* — humiliation to exaltation — not loss of *essence*
+* Philippians 2 describes a change of *status* – humiliation to exaltation – not loss of *essence*
 
 ---
 
@@ -280,8 +280,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For there is one God and one Mediator between God and men, the Man Christ Jesus,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Timothy 2:5 (NKJV)</em></p>
 
-* "This same Jesus" — continuity of person and nature through the ascension
-* "The Man Christ Jesus" — present tense, post-ascension; Christ retains His human nature forever
+* "This same Jesus" – continuity of person and nature through the ascension
+* "The Man Christ Jesus" – present tense, post-ascension; Christ retains His human nature forever
 * The incarnation is permanent: God has forever dignified human nature by assuming it
 
 ---
@@ -299,7 +299,7 @@
 ## Craig's Proposed Model (Three Planks)
 
 * (1) One person with two complete natures
-* (2) The Logos Himself is the mind of Christ's human nature — one person, not two
+* (2) The Logos Himself is the mind of Christ's human nature – one person, not two
 * (3) During His earthly life, divine knowledge is beneath a genuinely human consciousness
 
 ---
@@ -308,10 +308,10 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"though He was a Son, yet He learned obedience by the things which He suffered."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Hebrews 5:8 (NKJV)</em></p>
 
-* **Nature 1 — Humanity:** the kind essence that makes someone human
-* **Nature 2 — Deity:** the kind essence that makes someone divine
+* **Nature 1 – Humanity:** the kind essence that makes someone human
+* **Nature 2 – Deity:** the kind essence that makes someone divine
 * The Logos possesses **deity essentially** and **humanity contingently**
-* The incarnation is **addition, not subtraction** — the Logos does not cease to be God
+* The incarnation is **addition, not subtraction** – the Logos does not cease to be God
 * We resolve apparent contradictions by specifying *which nature* we mean
   * Christ **learned obedience** *with respect to* His human nature
   * Christ is **omnipresent** *with respect to* His divine nature
@@ -334,8 +334,8 @@
 * Psychologist William James: consciousness has subconscious depths beneath waking awareness
   * Your conscious and subconscious mind don't make you two persons
 * Craig's application: during the state of humiliation, the Logos' divine knowledge and power are largely **subconscious**
-  * Like an iceberg — the bulk of divine cognition is submerged beneath Jesus' waking human consciousness
-* Jesus' human mind develops genuinely — learning and growing
+  * Like an iceberg – the bulk of divine cognition is submerged beneath Jesus' waking human consciousness
+* Jesus' human mind develops genuinely – learning and growing
 * Occasionally the divine subconscious surfaces (e.g., knowing Nathanael under the fig tree, John 1:48)
 
 ---
@@ -345,7 +345,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"'Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.' Then an angel appeared to Him from heaven, strengthening Him. And being in agony, He prayed more earnestly. Then His sweat became like great drops of blood falling down to the ground."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Luke 22:42–44 (NKJV)</em></p>
 
 * The subconscious model preserves the authenticity of Gethsemane
-  * Real anguish in prayer — not a performance
+  * Real anguish in prayer – not a performance
   * Genuine moral struggle and submission to the Father's will
 * Christ's dependence on the Father is moment-by-moment, not theatrical
 * The incarnation means God knows suffering from the inside
@@ -356,7 +356,7 @@
 
 <img src="pics/Trinity.and.JesusTrueGodTrueMan.png" style="display: block; margin: -1.4em auto 0; max-height: 90%; max-width: 100%;">
 
-* *Incarnation: divine knowledge is subconscious — present but beneath awareness*
+* *Incarnation: divine knowledge is subconscious – present but beneath awareness*
 
 ---
 
@@ -366,7 +366,7 @@
   * God's nearness and sympathy in suffering
   * The meaningfulness of Christ's death (real death)
   * The hope of resurrection (transformed humanity)
-* True God and true man — a valid substitute, guaranteeing our atonement and future in heaven
+* True God and true man – a valid substitute, guaranteeing our atonement and future in heaven
 * Christology is not abstract
   * It structures worship, prayer, and obedience
 

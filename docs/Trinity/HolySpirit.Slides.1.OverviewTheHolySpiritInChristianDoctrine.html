@@ -10,7 +10,7 @@
   * Attributes of God
   * Natural theology and objections
   * Doctrine of the Trinity
-* Next: **Pneumatology** — the doctrine of the Holy Spirit
+* Next: **Pneumatology** – the doctrine of the Holy Spirit
 * The Holy Spirit is often called “the forgotten person of the Trinity”
 
 ---

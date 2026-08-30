@@ -7,8 +7,8 @@
 ## What Is Spirit Baptism?
 
 * Spirit baptism is the **initiatory** act by which the Holy Spirit comes to indwell every believer
-* It occurs at **conversion** — not as a later "upgrade"
-* It is **universal** among believers — not limited to an elite class
+* It occurs at **conversion** – not as a later "upgrade"
+* It is **universal** among believers – not limited to an elite class
 * Key text: Romans 8:9
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:9 (NKJV)</em></p>
@@ -19,9 +19,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:9 (NKJV)</em></p>
 
-* "The Spirit of God **dwells in you**" — indwelling is the mark of believers
+* "The Spirit of God **dwells in you**" – indwelling is the mark of believers
 * "If **anyone** does not have the Spirit… he is **not His**"
-* No middle category — Spirit indwelling defines belonging to Christ
+* No middle category – Spirit indwelling defines belonging to Christ
 * No two-stage experience: you either have the Spirit or you don't belong to Christ
 * No two-class system: **anyone** without the Spirit is not His
 
@@ -31,10 +31,10 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For by one Spirit we were all baptized into one body—whether Jews or Greeks, whether slaves or free—and have all been made to drink into one Spirit."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 12:13 (NKJV)</em></p>
 
-* "We were **all** baptized" — universal among believers
-* "By **one** Spirit" — same Spirit for everyone
+* "We were **all** baptized" – universal among believers
+* "By **one** Spirit" – same Spirit for everyone
 * Eliminates ethnic (Jew/Greek) and social (slave/free) distinctions
-* "Made to drink into one Spirit" — all share in Spirit indwelling
+* "Made to drink into one Spirit" – all share in Spirit indwelling
 
 ---
 
@@ -62,7 +62,7 @@
 
 </div>
 
-* The misreading is identical — they differ only in **scope**
+* The misreading is identical – they differ only in **scope**
 
 ---
 
@@ -71,18 +71,18 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And being assembled together with them, He commanded them not to depart from Jerusalem, but to wait for the Promise of the Father, 'which,' He said, 'you have heard from Me; for John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 1:4–5 (NKJV)</em></p>
 
 * Jesus commands waiting for "the Promise of the Father"
-* The disciples had **not yet** received this — Pentecost was coming
+* The disciples had **not yet** received this – Pentecost was coming
 * This sets up the **unique, once-for-all** inauguration of the church age
 
 ---
 
-## Acts 2: Pentecost — The Event
+## Acts 2: Pentecost – The Event
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit gave them utterance."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 2:4 (NKJV)</em></p>
 
 * At Pentecost, the disciples received the promised Spirit baptism
-* This was the **initial** bestowal on the church — a unique historical event
-* Not a "second blessing" — they couldn't have received the Spirit before Pentecost!
+* This was the **initial** bestowal on the church – a unique historical event
+* Not a "second blessing" – they couldn't have received the Spirit before Pentecost!
 
 ---
 
@@ -90,9 +90,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then Peter said to them, 'Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit. For the promise is to you and to your children, and to all who are afar off, as many as the Lord our God will call.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 2:38–39 (NKJV)</em></p>
 
-* "To **you** and to **your children**" — present and future generations
-* "To **all who are afar off**" — Gentiles included
-* "As many as the Lord our God will **call**" — all the called receive the Spirit
+* "To **you** and to **your children**" – present and future generations
+* "To **all who are afar off**" – Gentiles included
+* "As many as the Lord our God will **call**" – all the called receive the Spirit
 * **Universal**, not limited to an elite group
 
 ---
@@ -115,8 +115,8 @@
 * Samaritans believed and were baptized, but hadn't received the Spirit
 * **Why the delay?** Apostolic verification to prevent a separate Samaritan church
 * Like Acts 10–11: apostles witnessed inclusion => **one unified church**
-* This was **initial** reception — not a "second blessing"
-* Delay was **transitional** — not a template for two-stage Christianity
+* This was **initial** reception – not a "second blessing"
+* Delay was **transitional** – not a template for two-stage Christianity
 
 ---
 
@@ -124,7 +124,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"he said to them, 'Did you receive the Holy Spirit when you believed?' So they said to him, 'We have not so much as heard whether there is a Holy Spirit.' And he said to them, 'Into what then were you baptized?' So they said, 'Into John's baptism.' […] When they heard this, they were baptized in the name of the Lord Jesus. And when Paul had laid hands on them, the Holy Spirit came upon them, and they spoke with tongues and prophesied."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 19:2–6 (NKJV)</em></p>
 
-* Only knew John's baptism — "not so much as heard" of the Spirit
+* Only knew John's baptism – "not so much as heard" of the Spirit
 * Obviously **initial** reception, not a second experience
 * Paul assumes believers normally receive the Spirit when they believe
 * Incomplete faith; once properly instructed, they received the Spirit
@@ -137,8 +137,8 @@
 
 | Passage | Group | Why Delay? | Type of Reception |
 |---------|-------|------------|-------------------|
-| Acts 2 | Jerusalem Jews | None — fully prepared, promised HS | Initial |
-| Acts 10–11 | Gentiles | None — "same gift" as Pentecost | Initial |
+| Acts 2 | Jerusalem Jews | None – fully prepared, promised HS | Initial |
+| Acts 10–11 | Gentiles | None – "same gift" as Pentecost | Initial |
 | Acts 8 | Samaritans | Apostolic verification | Initial |
 | Acts 19 | John's disciples | Incomplete knowledge | Initial |
 
@@ -154,9 +154,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. Now if anyone does not have the Spirit of Christ, he is not His."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:9 (NKJV)</em></p>
 
 * After examining every Acts passage, the conclusion is clear:
-  * Each case was **initial** reception — not a later "second blessing"
+  * Each case was **initial** reception – not a later "second blessing"
   * Romans 8:9 remains the diagnostic: "if anyone does not have the Spirit, he is not His"
-  * No middle category — Spirit indwelling marks **all** true Christians
+  * No middle category – Spirit indwelling marks **all** true Christians
   * Refutes both Pentecostal two-stage and JW two-class errors
 
 ---
@@ -171,7 +171,7 @@
   * JWs: later blessing only for 144,000
 * **Unified rebuttal:** Acts shows initial reception in every case
   * Transitional history, not a two-stage template
-  * Romans 8:9 — no Spirit means not belonging to Christ
+  * Romans 8:9 – no Spirit means not belonging to Christ
 
 ---
 

@@ -17,8 +17,8 @@
 ![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
 
 * We have seen **Penal Substitution** (the root), defended it, and rooted **Redemption** in it
-* One facet remains — **Moral Influence**: the cross as the power that transforms the human heart
-* It is the facet **most** dependent on the others — and it completes the diamond
+* One facet remains – **Moral Influence**: the cross as the power that transforms the human heart
+* It is the facet **most** dependent on the others – and it completes the diamond
 
 ---
 
@@ -33,8 +33,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us."</p><p style="text-align: right;"> <em>Romans 5:8 (NKJV)</em></p>
 
 * **Teaching:** Christ's death demonstrates God's love so powerfully that it transforms the human heart, kindling love and repentance
-* The cross's power, on this view, lies in the **response** it produces in us — gratitude, love, contrition
-* The atonement is fundamentally **subjective** — something that happens *in us*, not a transaction between God and us
+* The cross's power, on this view, lies in the **response** it produces in us – gratitude, love, contrition
+* The atonement is fundamentally **subjective** – something that happens *in us*, not a transaction between God and us
 
 ---
 
@@ -44,9 +44,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if One died for all, then all died;"</p><p style="text-align: right;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
 
-* **Peter Abelard** (12th century) agreed with Anselm in rejecting the ransom theory — Satan has no rights over us
+* **Peter Abelard** (12th century) agreed with Anselm in rejecting the ransom theory – Satan has no rights over us
 * But he also found satisfaction troubling: "How very cruel and unjust [...] to require the blood of an innocent person as a ransom"
-* In its strong form: nothing actually happened between God and man at Golgotha — the cross is purely an **example** that produces a subjective response in us
+* In its strong form: nothing actually happened between God and man at Golgotha – the cross is purely an **example** that produces a subjective response in us
 
 ---
 
@@ -56,8 +56,8 @@
 
 * This captures something **genuinely biblical**: the cross really does inspire love, gratitude, and moral transformation
 * Without a subjective response of faith and repentance, the objective work of Christ is not **appropriated**
-* It connects to **sanctification** — the Spirit progressively conforms us to the image of Christ (recall Romans 8:30)
-* So far, so good — the trouble comes only when moral influence is made the **whole** story
+* It connects to **sanctification** – the Spirit progressively conforms us to the image of Christ (recall Romans 8:30)
+* So far, so good – the trouble comes only when moral influence is made the **whole** story
 
 ---
 
@@ -73,7 +73,7 @@
 * Just one chapter later, commenting on Romans 4:25, Abelard writes:
   * "He died on account of our transgressions [...] we committed sin, the penalty of which **He bore**"
   * "He swept away the penalty for sins by the price of His death"
-* Here Abelard appears to endorse **penal substitution** — the very theory the Reformers later developed
+* Here Abelard appears to endorse **penal substitution** – the very theory the Reformers later developed
 * Like Anselm, he may have seen moral influence as just **one facet** of a richer, multifaceted doctrine
 
 ---
@@ -83,11 +83,11 @@
 ![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
 
 * As a **total** theory it cannot stand:
-  * It does not explain why the cross was **necessary** — if God only wanted to inspire us, there are far less costly ways
+  * It does not explain why the cross was **necessary** – if God only wanted to inspire us, there are far less costly ways
   * R. W. Dale: why would a man rush into a burning house unless there is a child to rescue?
-  * It dispenses with God's **wrath** — on this view God needs no reconciling, only we do (recall Romans 1:18)
-* Its endpoint: "A God without wrath [...] a Christ without a cross" — the legacy of Schleiermacher and liberal theology
-* You need not even hold that Christ is **God** on this theory — which is why it is so congenial to those who abandon orthodox Christology
+  * It dispenses with God's **wrath** – on this view God needs no reconciling, only we do (recall Romans 1:18)
+* Its endpoint: "A God without wrath [...] a Christ without a cross" – the legacy of Schleiermacher and liberal theology
+* You need not even hold that Christ is **God** on this theory – which is why it is so congenial to those who abandon orthodox Christology
 
 ---
 
@@ -96,9 +96,9 @@
 ![](pics/MoralInfluence.jpg style="float: right; width: 7rem")
 
 * The cross moves us **because** it first accomplished something real
-* Strip away the objective penalty borne, and the demonstration is empty — a death for no reason inspires nothing
+* Strip away the objective penalty borne, and the demonstration is empty – a death for no reason inspires nothing
 * Dale's child in the burning house: the rescue stirs us only if there truly was someone to save
-* So moral influence is the **fruit** of penal substitution, not a rival to it — real, but **rooted**
+* So moral influence is the **fruit** of penal substitution, not a rival to it – real, but **rooted**
 
 ---
 
@@ -112,7 +112,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For it pleased the Father that in Him all the fullness should dwell, and by Him to reconcile all things to Himself, by Him, whether things on earth or things in heaven, having made peace through the blood of His cross."</p><p style="text-align: right;"> <em>Colossians 1:19–20 (NKJV)</em></p>
 
-* The meaning of Christ's death is not captured by a single theory but is a **diamond with many facets** — Penal Substitution at the center:
+* The meaning of Christ's death is not captured by a single theory but is a **diamond with many facets** – Penal Substitution at the center:
   * **Penal Substitution** → the penalty is truly borne
   * **Satisfaction** → God's justice is truly honored
   * **Ransom** → we are truly set free
@@ -126,14 +126,14 @@
 ![](pics/diamond.png style="float: right; width: 7rem")
 
 * Christ's death is:
-  * **Objective** — a real penalty borne, a real debt paid, a real enemy defeated
-  * **Personal** — it calls for faith and repentance; the benefits must be appropriated
-  * **Transformative** — it produces new life, holiness, and freedom from bondage
+  * **Objective** – a real penalty borne, a real debt paid, a real enemy defeated
+  * **Personal** – it calls for faith and repentance; the benefits must be appropriated
+  * **Transformative** – it produces new life, holiness, and freedom from bondage
 * The multifaceted atonement means the gospel speaks to every human need:
   * Guilty? Justice is satisfied
   * Enslaved? You are ransomed
   * Cold of heart? You are loved and transformed
-* Next: the **resurrection** — without which, Paul says, "your faith is futile" — the Father's public vindication of all the cross secured
+* Next: the **resurrection** – without which, Paul says, "your faith is futile" – the Father's public vindication of all the cross secured
 
 ---
 

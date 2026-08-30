@@ -23,7 +23,7 @@
 * Christ's work: birth, teaching, miracles, example, death, resurrection
 * Here we focus on His death; the resurrection follows in later sessions
 * The Bible describes Christ's death with many complementary images, not one proof-text
-* The church has read those images through four main interpretations — and we begin with the one that anchors the rest
+* The church has read those images through four main interpretations – and we begin with the one that anchors the rest
 
 ---
 
@@ -33,9 +33,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, and that He was buried, and that He rose again the third day according to the Scriptures,"</p><p style="text-align: right"> <em>1 Corinthians 15:3–4 (NKJV)</em></p>
 
-* This creed dates to within five years of the crucifixion — the earliest Christian creed
-* "According to the Scriptures" — His death fulfills Old Testament prophecy
-* "Christ died **for our sins**" — His death is purposeful, not accidental
+* This creed dates to within five years of the crucifixion – the earliest Christian creed
+* "According to the Scriptures" – His death fulfills Old Testament prophecy
+* "Christ died **for our sins**" – His death is purposeful, not accidental
 * But how exactly does His death deal with our sins?
 
 ---
@@ -49,12 +49,12 @@
 ![](pics/diamond.png style="float: right; width: 7rem")
 
 * The church has read the cross through four main interpretations:
-  * **Penal Substitution** — Christ bears the penalty our sins deserved
-  * **Ransom / Redemption** — Christ's death buys captives out of bondage
-  * **Satisfaction** — Christ's death honors the demands of God's justice
-  * **Moral Influence** — Christ's death moves us to love and repentance
+  * **Penal Substitution** – Christ bears the penalty our sins deserved
+  * **Ransom / Redemption** – Christ's death buys captives out of bondage
+  * **Satisfaction** – Christ's death honors the demands of God's justice
+  * **Moral Influence** – Christ's death moves us to love and repentance
 * These are not rivals but **facets of one diamond**
-* Our thesis: **Penal Substitution is the root facet** — the one that gives the others their weight
+* Our thesis: **Penal Substitution is the root facet** – the one that gives the others their weight
 
 ---
 
@@ -65,7 +65,7 @@
 * Unlike the Trinity (Nicaea) or Christ's two natures (Chalcedon), **no ecumenical council ever defined the atonement**
 * That left theologians free to develop competing models across the centuries:
   * **Ransom** (Church Fathers) → **Satisfaction** (Anselm, 11th c.) → **Moral Influence** (Abelard, 12th c.) → **Penal Substitution** (Reformers, 16th c.)
-* The Fathers were richer than we often think — Eusebius, Chrysostom, and Origen already tie Christ's death to penal, substitutionary suffering for sin
+* The Fathers were richer than we often think – Eusebius, Chrysostom, and Origen already tie Christ's death to penal, substitutionary suffering for sin
 * Joseph Mitros: penal substitution combined with sacrifice "constituted the mainstream of thinking in the fourth century"
 
 ---
@@ -76,7 +76,7 @@
 
 * Craig builds *up* to Penal Substitution as the climax; we will **start** with it
 * Why? Because the other three facets make fullest sense only when rooted in it
-* This session: the **biblical case** — the four motifs that converge on Penal Substitution, and how the Reformers refined it
+* This session: the **biblical case** – the four motifs that converge on Penal Substitution, and how the Reformers refined it
 * Then we defend it (next session), before turning to Redemption and Moral Influence as facets that depend on it
 
 ---
@@ -91,9 +91,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Now the blood shall be a sign for you on the houses where you are. And when I see the blood, I will pass over you; and the plague shall not be on you to destroy you when I strike the land of Egypt."</p><p style="text-align: right;"> <em>Exodus 12:13 (NKJV)</em></p>
 
-* The blood on the doorframes was a **sign** — marking Israel as God's people, distinct from Egypt
-* The lamb dies so the firstborn does not — **substitutionary** death (one life given in place of another)
-* Jesus deliberately chose Passover as the setting for the climax of His ministry — no accident
+* The blood on the doorframes was a **sign** – marking Israel as God's people, distinct from Egypt
+* The lamb dies so the firstborn does not – **substitutionary** death (one life given in place of another)
+* Jesus deliberately chose Passover as the setting for the climax of His ministry – no accident
 
 ---
 
@@ -106,8 +106,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then he shall put his hand on the head of the burnt offering, and it will be accepted on his behalf to make atonement for him."</p><p style="text-align: right;"> <em>Leviticus 1:4 (NKJV)</em></p>
 
 * **Atonement** = being at-one-made with God by clearing the sin-guilt that separated us from God
-* Blood represents life poured out — the animal dies so that the worshiper may live
-* Before slaying it, the worshiper pressed his hand on its head, identifying himself with the victim — more than ownership, this **symbolizes substitution**: the animal suffers the death that was the worshiper's due
+* Blood represents life poured out – the animal dies so that the worshiper may live
+* Before slaying it, the worshiper pressed his hand on its head, identifying himself with the victim – more than ownership, this **symbolizes substitution**: the animal suffers the death that was the worshiper's due
 
 ---
 
@@ -117,8 +117,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For on that day the priest shall make atonement for you, to cleanse you, that you may be clean from all your sins before the LORD."</p><p style="text-align: right;"> <em>Leviticus 16:30 (NKJV)</em></p>
 
-* Yom Kippur — the supreme **expiatory** (sin-guilt clearing) ritual, offered annually for the whole nation
-* "To cleanse you, that you may be clean from all your sins" — covering the full range, including serious sins the daily sacrifices could not address
+* Yom Kippur – the supreme **expiatory** (sin-guilt clearing) ritual, offered annually for the whole nation
+* "To cleanse you, that you may be clean from all your sins" – covering the full range, including serious sins the daily sacrifices could not address
 * One ritual, two goats (Leviticus 16:15–22): the slain goat's blood atones; the scapegoat driven into the desert symbolizes sin's removal
 
 ---
@@ -132,8 +132,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"The next day John saw Jesus coming toward him, and said, 'Behold! The Lamb of God who takes away the sin of the world!'"</p><p style="text-align: right;"> <em>John 1:29 (NKJV)</em></p>
 
 * The New Testament's main motif for the atonement is **sacrifice**
-* Christ is both priest and offering — He gives Himself as a "sweet-smelling aroma" to God
-* John the Baptist identifies Jesus as the Lamb of God — echoing Passover and the temple system
+* Christ is both priest and offering – He gives Himself as a "sweet-smelling aroma" to God
+* John the Baptist identifies Jesus as the Lamb of God – echoing Passover and the temple system
 
 ---
 
@@ -143,9 +143,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, 'Take, eat; this is My body.' Then He took the cup, and gave thanks, and gave it to them, saying, 'Drink from it, all of you. For this is My blood of the new covenant, which is shed for many for the remission of sins.'"</p><p style="text-align: right;"> <em>Matthew 26:26–28 (NKJV)</em></p>
 
-* Jesus deliberately chose Passover as the setting — His death fulfills what the Passover lamb foreshadowed
+* Jesus deliberately chose Passover as the setting – His death fulfills what the Passover lamb foreshadowed
 * "My blood of the new covenant" echoes Moses (Exodus 24:8) and inaugurates Jeremiah's promised new covenant (Jeremiah 31:31–34)
-* This was no later rationalization — Jesus Himself saw His death as a redemptive sacrifice
+* This was no later rationalization – Jesus Himself saw His death as a redemptive sacrifice
 
 ---
 
@@ -156,7 +156,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For what the law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh,"</p><p style="text-align: right;"> <em>Romans 8:3 (NKJV)</em></p>
 
 * "On account of sin" (*peri hamartias*) is the Septuagint's phrase for the **sin offering** (same phrase in Hebrews 10:6, 8)
-* The Old Testament sacrifices were temporary — what they could never accomplish, Christ accomplished as the permanent sin offering
+* The Old Testament sacrifices were temporary – what they could never accomplish, Christ accomplished as the permanent sin offering
 
 ---
 
@@ -169,8 +169,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"By that will we have been sanctified through the offering of the body of Jesus Christ once for all."</p><p style="text-align: right;"> <em>Hebrews 10:10 (NKJV)</em></p>
 
 * **Expiation** = clearing sin-guilt through lifeblood sacrifice
-* The object of expiation is **sin itself** — specifically **sin-guilt** (not sin-nature or sin-action, but the guilt before God that results)
-* Christ's sacrifice is "once for all" — unlike the repeated animal sacrifices that could never finally take away sin (Hebrews 10:4)
+* The object of expiation is **sin itself** – specifically **sin-guilt** (not sin-nature or sin-action, but the guilt before God that results)
+* Christ's sacrifice is "once for all" – unlike the repeated animal sacrifices that could never finally take away sin (Hebrews 10:4)
 
 ---
 
@@ -182,9 +182,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Much more then, having now been justified by His blood, we shall be saved from wrath through Him."</p><p style="text-align: right;"> <em>Romans 5:9 (NKJV)</em></p>
 
-* **Propitiation** = extinguishing God's righteous wrath over sin-guilt by executing the just punishment for it — its object is **God Himself**
+* **Propitiation** = extinguishing God's righteous wrath over sin-guilt by executing the just punishment for it – its object is **God Himself**
 * God "set forth" Christ as a propitiation: He provides the very sacrifice that satisfies His own justice
-* Two results of the one sacrifice: "justified by His blood" (expiation) and "saved from wrath" (propitiation) — inseparable, never one without the other
+* Two results of the one sacrifice: "justified by His blood" (expiation) and "saved from wrath" (propitiation) – inseparable, never one without the other
 
 ---
 
@@ -199,8 +199,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
 
 * Isaiah 53 is the most deeply embedded Old Testament passage in New Testament **soteriology** (the doctrine of salvation)
-* The language is explicitly **substitutionary**: *our* transgressions, *our* iniquities — laid on *Him*
-* The suffering is **punitive**: "the chastisement for our peace" — His punishment purchases our reconciliation
+* The language is explicitly **substitutionary**: *our* transgressions, *our* iniquities – laid on *Him*
+* The suffering is **punitive**: "the chastisement for our peace" – His punishment purchases our reconciliation
 
 ---
 
@@ -210,8 +210,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"He shall see the labor of His soul, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities. Therefore I will divide Him a portion with the great, And He shall divide the spoil with the strong, Because He poured out His soul unto death, And He was numbered with the transgressors, And He bore the sin of many, And made intercession for the transgressors."</p><p style="text-align: right;"> <em>Isaiah 53:11–12 (NKJV)</em></p>
 
-* "Bear their iniquities" — a Hebrew idiom meaning to be held culpable, to endure punishment for guilt
-* The Servant is **righteous** yet bears the sins of **many** — innocence suffering in place of the guilty
+* "Bear their iniquities" – a Hebrew idiom meaning to be held culpable, to endure punishment for guilt
+* The Servant is **righteous** yet bears the sins of **many** – innocence suffering in place of the guilty
 * His reward: vindication, exaltation, and the justification of those He represents
 
 ---
@@ -222,9 +222,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Aaron shall lay both his hands on the head of the live goat, confess over it all the iniquities of the children of Israel[...] putting them on the head of the goat, and shall send it away into the wilderness[...] The goat shall bear on itself all their iniquities to an uninhabited land."</p><p style="text-align: right;"> <em>Leviticus 16:21–22 (NKJV)</em></p>
 
-* The scapegoat was merely a symbolic vehicle for sin's removal — sins laid on it, driven away, but not punished
-* The Suffering Servant actually **bears punishment** for others — "wounded for," "bruised for," "chastisement," "laid on Him"
-* If sin could be removed by laying it on a goat, the sacrificial system would be pointless — a **death** is necessary
+* The scapegoat was merely a symbolic vehicle for sin's removal – sins laid on it, driven away, but not punished
+* The Suffering Servant actually **bears punishment** for others – "wounded for," "bruised for," "chastisement," "laid on Him"
+* If sin could be removed by laying it on a goat, the sacrificial system would be pointless – a **death** is necessary
 
 ---
 
@@ -234,10 +234,10 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"So Moses returned to the LORD and said, 'Oh, these people have committed a great sin... Yet now, if You will forgive their sin — but if not, I pray, blot me out of Your book which You have written.'"</p><p style="text-align: right;"> <em>Exodus 32:31–32 (NKJV)</em></p>
 
-* Moses offers to die in Israel's place — God declines
-* Abraham is commanded to sacrifice Isaac — God stops it (Genesis 22)
-* In Isaiah 53, God does what He refused before — He inflicts on His righteous Servant what He spared Moses and Isaac
-* Substitutionary death is a recurring principle in God's moral economy — a concept deeply familiar to any first-century Jew
+* Moses offers to die in Israel's place – God declines
+* Abraham is commanded to sacrifice Isaac – God stops it (Genesis 22)
+* In Isaiah 53, God does what He refused before – He inflicts on His righteous Servant what He spared Moses and Isaac
+* Substitutionary death is a recurring principle in God's moral economy – a concept deeply familiar to any first-century Jew
 
 ---
 
@@ -249,7 +249,7 @@
 
 * The key point of Isaiah 53 is not *who* the Servant is, but *what he does*
   * Whoever the Servant is, his function is clear: substitutionary punishment to bring reconciliation
-* The suffering is **penal** — the innocent Servant endures the punishment that the guilty deserved
+* The suffering is **penal** – the innocent Servant endures the punishment that the guilty deserved
 * The New Testament authors, reading Isaiah 53 in light of Christ, identify Jesus as this Servant
 
 ---
@@ -261,23 +261,23 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness — by whose stripes you were healed."</p><p style="text-align: right;"> <em>1 Peter 2:24 (NKJV)</em></p>
 
 * Peter applies the Suffering Servant to the crucifixion; Jesus echoes it at the Last Supper: "My blood... shed for many" (Matthew 26:28; cf. Isaiah 53:12)
-* 10 of 12 verses of Isaiah 53 appear in the New Testament — more densely quoted than any other Old Testament passage
-* When the Ethiopian official asks, "of whom does the prophet say this?" Philip, "beginning at this Scripture, preached Jesus to him" (Acts 8:34–35) — the earliest recorded reading of Isaiah 53 as Christ
+* 10 of 12 verses of Isaiah 53 appear in the New Testament – more densely quoted than any other Old Testament passage
+* When the Ethiopian official asks, "of whom does the prophet say this?" Philip, "beginning at this Scripture, preached Jesus to him" (Acts 8:34–35) – the earliest recorded reading of Isaiah 53 as Christ
 
 ---
 
-## "For Our Sins" — What Does "For" Mean?
+## "For Our Sins" – What Does "For" Mean?
 
 ![](pics/SufferingServant.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Christ died for our sins according to the Scriptures,"</p><p style="text-align: right;"> <em>1 Corinthians 15:3 (NKJV)</em></p>
 
-* "Died **for** our sins" is ambiguous in isolation — but read against Isaiah 53, it takes on substitutionary-punitive meaning
+* "Died **for** our sins" is ambiguous in isolation – but read against Isaiah 53, it takes on substitutionary-punitive meaning
 * The New Testament uses three Greek prepositions to unpack "for":
-  * *hyper* ("on behalf of") — 1 Corinthians 15:3
-  * *dia* + accusative ("on account of") — Romans 4:25: "delivered up *on account of* our trespasses," echoing Isaiah 53:7–8
-  * *anti* ("instead of / in place of") — Mark 10:45: "to give His life as a ransom *instead of* many"
-* There is no other Old Testament passage that could be "the Scriptures" behind a dying-for-sins Messiah — only Isaiah 53
+  * *hyper* ("on behalf of") – 1 Corinthians 15:3
+  * *dia* + accusative ("on account of") – Romans 4:25: "delivered up *on account of* our trespasses," echoing Isaiah 53:7–8
+  * *anti* ("instead of / in place of") – Mark 10:45: "to give His life as a ransom *instead of* many"
+* There is no other Old Testament passage that could be "the Scriptures" behind a dying-for-sins Messiah – only Isaiah 53
 
 ---
 
@@ -287,8 +287,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"so Christ was offered once to bear the sins of many. To those who eagerly wait for Him He will appear a second time, apart from sin, for salvation."</p><p style="text-align: right;"> <em>Hebrews 9:28 (NKJV)</em></p>
 
-* "Bear the sins of many" echoes Isaiah 53:12 — the author of Hebrews reads Christ's death through the Servant lens
-* "Offered once" — connects the Suffering Servant motif back to the sacrifice motif
+* "Bear the sins of many" echoes Isaiah 53:12 – the author of Hebrews reads Christ's death through the Servant lens
+* "Offered once" – connects the Suffering Servant motif back to the sacrifice motif
 * The two motifs converge: Christ is both the sacrificial offering and the Servant who bears punishment
 
 ---
@@ -303,7 +303,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right;"> <em>Romans 3:26 (NKJV)</em></p>
 
-* The atonement has a **judicial** dimension — guilt (liability to punishment), condemnation, and acquittal
+* The atonement has a **judicial** dimension – guilt (liability to punishment), condemnation, and acquittal
 * God's problem: how can a righteous Judge forgive the guilty without compromising His justice?
 * Christ's death solves this: God is simultaneously **just** (sin is punished) and **the justifier** (sin-guilt is cleared)
 
@@ -318,8 +318,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Hear, you mountains, the LORD's complaint... for the LORD has a complaint against His people, and He will contend with Israel."</p><p style="text-align: right;"> <em>Micah 6:2 (NKJV)</em></p>
 
 * Three roles in one God: He defines the standard (**Lawgiver**), enforces it (**Judge**), and rules by it (**King**)
-* Legal categories run deep in Hebrew thinking — God summons Israel to trial and calls the mountains as witnesses (Micah 6:1–2)
-* Yet "He will save us" — the same God who judges also provides the means of salvation
+* Legal categories run deep in Hebrew thinking – God summons Israel to trial and calls the mountains as witnesses (Micah 6:1–2)
+* Yet "He will save us" – the same God who judges also provides the means of salvation
 
 ---
 
@@ -329,11 +329,11 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."</p><p style="text-align: right;"> <em>Romans 6:23 (NKJV)</em></p>
 
-* The penalty for sin is **death** — and Scripture means this **comprehensively**:
-  * **Physical** — mortality entered through Adam (Romans 5:12; Genesis 2:17)
-  * **Spiritual** — separation from God now ("dead in trespasses," Ephesians 2:1)
-  * **Eternal** — the "second death," final separation (Revelation 20:14)
-* The contrast, *eternal life*, is itself holistic (bodily resurrection life) — so its opposite, **death**, is the whole of it, not one slice
+* The penalty for sin is **death** – and Scripture means this **comprehensively**:
+  * **Physical** – mortality entered through Adam (Romans 5:12; Genesis 2:17)
+  * **Spiritual** – separation from God now ("dead in trespasses," Ephesians 2:1)
+  * **Eternal** – the "second death," final separation (Revelation 20:14)
+* The contrast, *eternal life*, is itself holistic (bodily resurrection life) – so its opposite, **death**, is the whole of it, not one slice
 * This is the sentence Christ must bear if He is to stand in our place
 
 ---
@@ -346,9 +346,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness,"</p><p style="text-align: right;"> <em>Romans 4:5 (NKJV)</em></p>
 
-* God forgives — yet **by no means clears the guilty**. How can both be true?
-* Yet Paul says God "justifies the ungodly" — the very thing a corrupt judge would do
-* How? Through Christ's atoning death, the liability to punishment is executed, not waived — and God can clear sin-guilt without compromising His justice
+* God forgives – yet **by no means clears the guilty**. How can both be true?
+* Yet Paul says God "justifies the ungodly" – the very thing a corrupt judge would do
+* How? Through Christ's atoning death, the liability to punishment is executed, not waived – and God can clear sin-guilt without compromising His justice
 
 ---
 
@@ -358,7 +358,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?"</p><p style="text-align: right;"> <em>Romans 2:4 (NKJV)</em></p>
 
-* In criminal justice, a sentence serves a purpose — time to reflect and resolve to change
+* In criminal justice, a sentence serves a purpose – time to reflect and resolve to change
 * God's pending wrath functions similarly: not instant destruction, but a summons to repentance
 * When a person turns from sin and to God in faith, *then* Christ's death is applied to their sin-guilt account and God decrees them justified
 * Profoundly moral: the unrepentant face justice, the repentant receive mercy, and all are given the chance to turn
@@ -372,9 +372,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith;"</p><p style="text-align: right;"> <em>Philippians 3:9 (NKJV)</em></p>
 
 * "The righteousness of God" (*dikaiosyne theou*) is **multivalent** (has more than one meaning)
-  * A property of God Himself — He *is* righteous
-  * A gift to believers — righteousness *from* God through faith
-* Paul had blameless righteousness under the law — yet counted it as rubbish compared to the righteousness from God in Christ (Philippians 3:6–8)
+  * A property of God Himself – He *is* righteous
+  * A gift to believers – righteousness *from* God through faith
+* Paul had blameless righteousness under the law – yet counted it as rubbish compared to the righteousness from God in Christ (Philippians 3:6–8)
 
 ---
 
@@ -388,7 +388,7 @@
 
 * A double exchange: our sin is charged to Christ's account; His righteousness is credited to ours
 * This is **imputation** (a legal crediting), not infusion (a moral transformation)
-* God does not merely acquit — He positively credits righteousness to believers
+* God does not merely acquit – He positively credits righteousness to believers
 * Every clause echoes Isaiah 53: "knew no sin" (53:9, 11), "made him to be sin" (53:6), "become the righteousness of God" (53:11)
 
 ---
@@ -402,7 +402,7 @@
 * The "New Perspective on Paul" reduces God's righteousness to **covenant faithfulness**
 * If true, justice and justification are not applicable
 * "Unrighteousness" (*adikia*) means not-righteous (a moral concept), not unfaithful (contract language)
-* If true, righteousness applies only to Israel — yet Job (a Gentile) is called righteous and other Gentiles are called unrighteous
+* If true, righteousness applies only to Israel – yet Job (a Gentile) is called righteous and other Gentiles are called unrighteous
 * Righteousness includes faithfulness, but is far richer
 
 ---
@@ -417,7 +417,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"There shall be no man in the tabernacle of meeting when he goes in to make atonement in the Holy Place, until he comes out, that he may make atonement for himself, for his household, and for all the assembly of Israel."</p><p style="text-align: right;"> <em>Leviticus 16:17 (NKJV)</em></p>
 
-* On Yom Kippur, only the high priest could enter God's presence — no one else was permitted
+* On Yom Kippur, only the high priest could enter God's presence – no one else was permitted
 * He acted as the people's **representative** before God: confessing their sins, offering their sacrifice
 * This Old Testament precedent sets the pattern for Christ, the ultimate high priest who represents all of humanity before God
 
@@ -428,13 +428,13 @@
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
 * A **substitute** acts *in place of* another
-  * Like a substitute footballer — he plays instead of you, but his goals are not yours
+  * Like a substitute footballer – he plays instead of you, but his goals are not yours
 * A **representative** acts *on behalf of* another
-  * Like a proxy at a shareholders' meeting — his vote *is* your vote
+  * Like a proxy at a shareholders' meeting – his vote *is* your vote
 * Some roles combine both
   * An **ambassador** goes instead of the king *and* whatever he signs binds the nation
   * An **MMO avatar** enters the world for you *and* its victories go on your record
-* Christ is both: He dies in our place *and* on our behalf — what He did, we did, in Him
+* Christ is both: He dies in our place *and* on our behalf – what He did, we did, in Him
 
 ---
 
@@ -446,9 +446,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone."</p><p style="text-align: right;"> <em>Hebrews 2:9 (NKJV)</em></p>
 
-* "If One died for all, then all died" — His death counts as ours because He **represents** us
-* Christ did not simply die *instead of* me — He was my representative, so what He did, I did
-* He "tasted death for everyone" — the representative bears what those He represents would have borne
+* "If One died for all, then all died" – His death counts as ours because He **represents** us
+* Christ did not simply die *instead of* me – He was my representative, so what He did, I did
+* He "tasted death for everyone" – the representative bears what those He represents would have borne
 
 ---
 
@@ -459,8 +459,8 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"knowing this, that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves of sin. For he who has died has been freed from sin. Now if we died with Christ, we believe that we shall also live with Him,"</p><p style="text-align: right;"> <em>Romans 6:6–8 (NKJV)</em></p>
 
 * Because Christ is our representative, His crucifixion is representationally **our** crucifixion
-* "Our old man was crucified with Him" — in Christ, the dominion of sin over us is broken
-* His death and resurrection become *our* death to sin and *our* new life — not metaphor, but participatory reality
+* "Our old man was crucified with Him" – in Christ, the dominion of sin over us is broken
+* His death and resurrection become *our* death to sin and *our* new life – not metaphor, but participatory reality
 
 ---
 
@@ -470,9 +470,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. Likewise you also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord."</p><p style="text-align: right;"> <em>Romans 6:10–11 (NKJV)</em></p>
 
-* Christ's death to sin was "once for all" — His representative act is final and unrepeatable
-* Paul's command: **reckon** yourselves dead to sin and alive to God — count it as done, because in your representative it *is* done
-* The practical force of representation: because Christ died and rose, believers live a new kind of life — not merely pardoned, but participating in His victory
+* Christ's death to sin was "once for all" – His representative act is final and unrepeatable
+* Paul's command: **reckon** yourselves dead to sin and alive to God – count it as done, because in your representative it *is* done
+* The practical force of representation: because Christ died and rose, believers live a new kind of life – not merely pardoned, but participating in His victory
 
 ---
 
@@ -482,9 +482,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death? Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."</p><p style="text-align: right;"> <em>Romans 6:3–4 (NKJV)</em></p>
 
-* Christ's death is universal in scope — but its benefits must be **appropriated** through faith
-* By faith expressed in baptism, we identify with Christ's death and resurrection — we accept His representation of us
-* Even the elect were "children of wrath" before conversion (Ephesians 2:3) — representation requires a personal response
+* Christ's death is universal in scope – but its benefits must be **appropriated** through faith
+* By faith expressed in baptism, we identify with Christ's death and resurrection – we accept His representation of us
+* Even the elect were "children of wrath" before conversion (Ephesians 2:3) – representation requires a personal response
 * Those who reject Christ reject His representation and are not united with Him
 
 ---
@@ -504,9 +504,9 @@
 &emsp;&emsp;&ensp;<span style="color: #70b070;"><b>the many will be made righteous</b></span>.
 </p><p style="text-align: right;"> <em>Romans 5:18–19 (MEV)</em></p>
 
-* All/many **saved** is not universal salvation — but only **if they believe**
-* All/many **condemned** likewise is not universal — but only **if they sinned**
-* Christ's atoning work is **sufficient** for all — but must be received (Romans 5:17)
+* All/many **saved** is not universal salvation – but only **if they believe**
+* All/many **condemned** likewise is not universal – but only **if they sinned**
+* Christ's atoning work is **sufficient** for all – but must be received (Romans 5:17)
 
 ---
 
@@ -520,11 +520,11 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness [...] that He might be just and the justifier of the one who has faith in Jesus."</p><p style="text-align: right;"> <em>Romans 3:25–26 (NKJV)</em></p>
 
-* **Anselm of Canterbury**, *Cur Deus Homo* ("Why Did God Become Man?", c. 1098) — a watershed in the history of the atonement
+* **Anselm of Canterbury**, *Cur Deus Homo* ("Why Did God Become Man?", c. 1098) – a watershed in the history of the atonement
 * His complaint about the older ransom theory:
-  * An omnipotent God could free mankind from Satan directly — no incarnation needed
+  * An omnipotent God could free mankind from Satan directly – no incarnation needed
   * Satan's hold is tyranny, not rightful claim; God owes the Devil only punishment
-* **Anselm's breakthrough:** the atonement is directed toward **God**, not Satan — the real issue is **divine justice**
+* **Anselm's breakthrough:** the atonement is directed toward **God**, not Satan – the real issue is **divine justice**
 
 ---
 
@@ -532,10 +532,10 @@
 
 ![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
-* Anselm is often misrepresented as portraying God as a **feudal lord** with a wounded ego — but his concern is **ethical**: God's justice, not His dignity
-* Why can't God simply forgive? "To remit sin in this manner is nothing else than not to punish" — and leaving sin unpunished would be **unjust**
+* Anselm is often misrepresented as portraying God as a **feudal lord** with a wounded ego – but his concern is **ethical**: God's justice, not His dignity
+* Why can't God simply forgive? "To remit sin in this manner is nothing else than not to punish" – and leaving sin unpunished would be **unjust**
 * The **Euthyphro dilemma**: is something good because God wills it, or does God will it because it is good?
-  * Anselm's answer: neither — God wills it because **He** is good; His own **nature** is the standard of justice
+  * Anselm's answer: neither – God wills it because **He** is good; His own **nature** is the standard of justice
 * "There is nothing more just than supreme justice, which is nothing else but God Himself"
 
 ---
@@ -544,10 +544,10 @@
 
 ![](pics/SatisfactionTheory.jpg style="float: right; width: 7rem")
 
-* Two ways to satisfy justice: **compensation** or **punishment** — Anselm chose compensation; the Reformers chose punishment
-* Anselm's syllogism: no one but **God** could pay a debt of infinite magnitude; no one but **man** is obligated to pay it; therefore God must **become man** — *cur deus homo*
+* Two ways to satisfy justice: **compensation** or **punishment** – Anselm chose compensation; the Reformers chose punishment
+* Anselm's syllogism: no one but **God** could pay a debt of infinite magnitude; no one but **man** is obligated to pay it; therefore God must **become man** – *cur deus homo*
 * Since Christ was sinless, His voluntary death is a gift of **infinite value** that He did not owe
-* But the Bible's language is consistently **punitive** — "chastisement," "bore the sin," "condemned sin in the flesh"
+* But the Bible's language is consistently **punitive** – "chastisement," "bore the sin," "condemned sin in the flesh"
 * **The verdict:** Anselm got the *target* right (God, not Satan); the Reformers got the *mode* right (punishment, not compensation)
 
 ---
@@ -558,9 +558,9 @@
 
 * The Reformers, while appreciative of Anselm, read the satisfaction of God's justice not as **compensation** but as **punishment**
 * **Teaching:** God inflicts on Christ the suffering we deserved as the just penalty for our sin, freeing us from liability to punishment
-* Our sins are **imputed** to Christ — so our sin is expiated
-* Christ's righteousness is **imputed** to us — so we are justified
-* God's wrath is propitiated because the demands of His justice have been met — exactly the logic of Isaiah 53 ("the chastisement for our peace was upon Him")
+* Our sins are **imputed** to Christ – so our sin is expiated
+* Christ's righteousness is **imputed** to us – so we are justified
+* God's wrath is propitiated because the demands of His justice have been met – exactly the logic of Isaiah 53 ("the chastisement for our peace was upon Him")
 
 ---
 
@@ -573,7 +573,7 @@
   * God said to His Son: "You are now Peter, the liar; Paul, the persecutor; David, the adulterer [...] You, My Son, must pay the world's iniquity"
   * "The Law growls: 'If Your Son is taking the sin of the world... He shall die on the Cross.' And the Law kills Christ. But we go free"
 * And the mirror image: "His righteousness will become your righteousness, and your sins become His sins"
-* Imputation is purely **legal** — Christ remained morally pure; we do not instantly become perfect
+* Imputation is purely **legal** – Christ remained morally pure; we do not instantly become perfect
 
 ---
 
@@ -583,10 +583,10 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For it is not possible that the blood of bulls and goats could take away sins."</p><p style="text-align: right;"> <em>Hebrews 10:4 (NKJV)</em></p>
 
-* **Francis Turretin** (17th century), *Institutes of Elenctic Theology* — a remarkably sophisticated penal substitution theory, written against **Faustus Socinus**
-* His foundation: **retributive justice is essential to God's nature** — not optional, not merely willed, but inherent
+* **Francis Turretin** (17th century), *Institutes of Elenctic Theology* – a remarkably sophisticated penal substitution theory, written against **Faustus Socinus**
+* His foundation: **retributive justice is essential to God's nature** – not optional, not merely willed, but inherent
   * Scripture teaches God detests sin and is a just judge; conscience and universal human consent testify that evil deserves punishment
-  * If God could remit sins by will alone, then the blood of bulls and goats **could** take away sin — contradicting Hebrews
+  * If God could remit sins by will alone, then the blood of bulls and goats **could** take away sin – contradicting Hebrews
 
 ---
 
@@ -600,7 +600,7 @@
   * As **debt** → God is **creditor** → Christ is our **guarantor**
   * As **hostility** → God is **offended party** → Christ is our **mediator**
   * As **crime** → God is **judge** → Christ is **priest and victim**
-* The "capital error" of Socinus was neglecting the **third role**: a creditor can cancel a debt and an offended party can forgive an insult — but a **judge** cannot simply overlook a crime
+* The "capital error" of Socinus was neglecting the **third role**: a creditor can cancel a debt and an offended party can forgive an insult – but a **judge** cannot simply overlook a crime
 
 ---
 
@@ -609,12 +609,12 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * Normally, punishing an innocent in place of the criminal would be unjust. Turretin identifies **five conditions** that make substitution lawful:
-  1. **Common nature** — the substitute must share human nature with those he represents
-  2. **Free consent** — he must volunteer freely
-  3. **Power over his own life** — he is not under obligation to die
-  4. **Power to bear all the punishment** — he must absorb the full penalty (requiring a God-man)
-  5. **Sinlessness** — he must owe nothing for himself, so his sacrifice benefits others
-* Taken together these are **jointly sufficient** — "no injury is done to anyone": not to Christ, not to God, not to the sinner, not to the law
+  1. **Common nature** – the substitute must share human nature with those he represents
+  2. **Free consent** – he must volunteer freely
+  3. **Power over his own life** – he is not under obligation to die
+  4. **Power to bear all the punishment** – he must absorb the full penalty (requiring a God-man)
+  5. **Sinlessness** – he must owe nothing for himself, so his sacrifice benefits others
+* Taken together these are **jointly sufficient** – "no injury is done to anyone": not to Christ, not to God, not to the sinner, not to the law
 
 ---
 
@@ -625,7 +625,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Moreover whom He predestined, these He also called; whom He called, these He also justified; and whom He justified, these He also glorified."</p><p style="text-align: right;"> <em>Romans 8:30 (NKJV)</em></p>
 
 * A mirror-image transaction (recall 2 Corinthians 5:21): our **sins** are imputed to Christ → He bears the penalty; Christ's **righteousness** is imputed to us → we are declared righteous
-* Imputation is purely **forensic** (a legal crediting) — our sins do not make Christ wicked; His righteousness does not instantly make us perfect
+* Imputation is purely **forensic** (a legal crediting) – our sins do not make Christ wicked; His righteousness does not instantly make us perfect
 * **Justification** = instantaneous legal declaration, apprehended by faith
 * **Sanctification** = the Spirit's progressive transformation of character over a lifetime
 * Christ achieved both: His death wins our justification; His Spirit works our sanctification
@@ -637,12 +637,12 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * Of all the models, Penal Substitution most fully integrates the biblical motifs:
-  * **Sacrifice** — expiation and propitiation by lifeblood
-  * **Suffering Servant** — substitutionary, punitive suffering (Isaiah 53)
-  * **Divine Justice** — God just *and* justifier, through imputation
-  * **Representation** — His death counts as ours
+  * **Sacrifice** – expiation and propitiation by lifeblood
+  * **Suffering Servant** – substitutionary, punitive suffering (Isaiah 53)
+  * **Divine Justice** – God just *and* justifier, through imputation
+  * **Representation** – His death counts as ours
 * It explains why Christ's death **specifically** was necessary: the penalty for sin is death, and only a divine person has the worth to bear it for all
-* This is the **root facet**. Next session: we defend it against the strongest objections ever raised — those of Faustus Socinus
+* This is the **root facet**. Next session: we defend it against the strongest objections ever raised – those of Faustus Socinus
 
 ---
 

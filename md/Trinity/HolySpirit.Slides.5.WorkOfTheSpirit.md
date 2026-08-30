@@ -136,8 +136,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"After these things I saw four angels standing at the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, on the sea, or on any tree. Then I saw another angel ascending from the east, having the seal of the living God. And he cried with a loud voice to the four angels to whom it was granted to harm the earth and the sea, saying, 'Do not harm the earth, the sea, or the trees till we have sealed the servants of our God on their foreheads.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 7:1–3 (NKJV)</em></p>
 
-* Angels at "four corners of the **earth**" — scene is on earth
-* Sealing happens "on their **foreheads**" — servants are on earth
+* Angels at "four corners of the **earth**" – scene is on earth
+* Sealing happens "on their **foreheads**" – servants are on earth
 * Context: earthly protection before judgment
 
 ---
@@ -146,8 +146,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And I heard the number of those who were sealed. One hundred and forty-four thousand of all the tribes of the children of Israel were sealed: of the tribe of{ Judah | Reuben | Gad | Asher | Naphtali | Manasseh | Simeon | Levi | Issachar | Zebulun | Joseph | Benjamin } twelve thousand were sealed.<br>After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Revelation 7:4–9 (NKJV)</em></p>
 
-* 144,000 from **twelve tribes of Israel** — sealed on earth (v.1–3)
-* Great multitude — standing **before the throne** in heaven
+* 144,000 from **twelve tribes of Israel** – sealed on earth (v.1–3)
+* Great multitude – standing **before the throne** in heaven
 * Apocalyptic literature full of symbolic numbers: 7 seals 4 horsemen …
 
 ---
@@ -167,17 +167,17 @@
 
 ---
 
-## "Before the Throne" — Even in the NWT
+## "Before the Throne" – Even in the NWT
 
-* JWs say "before the throne" is figurative — great crowd on earth, not heaven
-* But NWT Rev 7:15 says they serve God "**in his temple**" — JWs teach the temple is in heaven!
+* JWs say "before the throne" is figurative – great crowd on earth, not heaven
+* But NWT Rev 7:15 says they serve God "**in his temple**" – JWs teach the temple is in heaven!
 * Same Greek word "enopion" (before) used for:
-  * 24 elders — in heaven
-  * 144,000 — in heaven
-  * Angels — in heaven
-  * Great crowd — on earth??
+  * 24 elders – in heaven
+  * 144,000 – in heaven
+  * Angels – in heaven
+  * Great crowd – on earth??
 * **Special pleading:** same word, different meaning to fit doctrine
-* JWs taught great crowd was in heaven until 1935 — then changed
+* JWs taught great crowd was in heaven until 1935 – then changed
 
 ---
 

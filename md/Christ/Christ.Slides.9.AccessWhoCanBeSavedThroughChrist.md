@@ -21,7 +21,7 @@
 
 * We have studied Christ's **person** (deity and humanity), His **death**, and His **resurrection**
 * One question remains: **who can access** the benefits of His atoning work?
-* Is Christ the **only** way of salvation — and if so, what of the billions who never hear the Gospel?
+* Is Christ the **only** way of salvation – and if so, what of the billions who never hear the Gospel?
 * This is the sharpest pastoral and apologetic pressure point in all of Christology
 
 ---
@@ -36,9 +36,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved."</p><p style="text-align: right;"> <em>Acts 4:12 (NKJV)</em></p>
 
-* **Christian particularism:** salvation is through Christ alone — not "many independent roads to God"
+* **Christian particularism:** salvation is through Christ alone – not "many independent roads to God"
 * The logic of the New Testament: given the **universality of sin** and the **uniqueness of Christ's atoning death**, there is no salvation apart from Him
-* This was as scandalous in the polytheistic Roman Empire — costing the early church torture and death — as it is in the modern West
+* This was as scandalous in the polytheistic Roman Empire – costing the early church torture and death – as it is in the modern West
 
 ---
 
@@ -61,9 +61,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For by grace you have been saved **through faith**, and that not of yourselves; it is **the gift of God**, not of works, lest anyone should boast."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Ephesians 2:8–9 (NKJV)</em></p>
 
 * Into that hopeless condition God provides the one means of escape: **Christ's atoning death**, satisfying divine justice (Romans 3:21–26)
-* Salvation is a **gift, received by faith** — not earned, not achieved by religious effort (Ephesians 2:8–9)
+* Salvation is a **gift, received by faith** – not earned, not achieved by religious effort (Ephesians 2:8–9)
 * This is why the offer is genuinely universal in *scope* even while it is particular in *means*: one Savior, offered to all
-* For medieval Christendom the scandal receded — the church's catholicity (universality) made its truth seem self-evident. That confidence would not last
+* For medieval Christendom the scandal receded – the church's catholicity (universality) made its truth seem self-evident. That confidence would not last
 
 ---
 
@@ -71,10 +71,10 @@
 
 ![](pics/ExpansionOfEurope.jpg style="float: right; width: 7rem")
 
-* The "Expansion of Europe" (~1450–1750) — Marco Polo, Columbus, Magellan — revealed whole civilizations that had never heard of Christ
+* The "Expansion of Europe" (~1450–1750) – Marco Polo, Columbus, Magellan – revealed whole civilizations that had never heard of Christ
 * Two effects on religious thinking:
-  * It **relativized** Christianity — apparently just one corner of the globe's faith, not the universal religion of mankind
-  * It made exclusivity seem **cruel** — Voltaire taunted Christians with millions of Chinese damned for never hearing a name they could not have known
+  * It **relativized** Christianity – apparently just one corner of the globe's faith, not the universal religion of mankind
+  * It made exclusivity seem **cruel** – Voltaire taunted Christians with millions of Chinese damned for never hearing a name they could not have known
 * Telecommunications and immigration have only heightened this awareness in our own day
 
 ---
@@ -83,7 +83,7 @@
 
 ![](pics/PluralismDefault.jpg style="float: right; width: 7rem")
 
-* **Religious pluralism** — the view that there are many equally valid roads to God — has become the default wisdom, just as in the early Roman Empire
+* **Religious pluralism** – the view that there are many equally valid roads to God – has become the default wisdom, just as in the early Roman Empire
 * It is now "politically incorrect" to hold that God has decisively revealed Himself in Jesus Christ
 * The challenge is laid squarely at the **particularist's** door: religious diversity is said to make Christ-alone untenable
 * But *why*, exactly? We need to examine the actual arguments
@@ -98,7 +98,7 @@
 
 ![](pics/AllRoadsToGod.jpg style="float: right; width: 7rem")
 
-* "All religions are equally **true**" — the college-sophomore view
+* "All religions are equally **true**" – the college-sophomore view
 * Refuted by the **law of contradiction**: the religions make mutually exclusive claims
 * Islam vs. Buddhism, for instance:
   * Islam: a personal Creator; humans have souls God will judge; sin, forgiveness, eternal life
@@ -113,7 +113,7 @@
 
 * All religions are equally **false**, but equally **effective** at transforming self-centered people into people centered on "The Real" (John Hick's term)
 * On Hick's view nothing can be known about ultimate reality; the religions are useful myths, none literally true
-* The view is **self-refuting** — it keeps making truth-claims about The Real it says are unknowable
+* The view is **self-refuting** – it keeps making truth-claims about The Real it says are unknowable
 * So "equally false" is a **failed view** too: a logical contradiction, and one that does not correspond to reality
 
 ---
@@ -123,9 +123,9 @@
 ![](pics/ArrogantScientist.jpg style="float: right; width: 7rem")
 
 * Common charge: particularism is **arrogant and immoral**, since it deems all who disagree wrong
-* This is a textbook *ad hominem* — a view's **truth is independent of the character** of those who hold it
+* This is a textbook *ad hominem* – a view's **truth is independent of the character** of those who hold it
 * Analogy: an arrogant scientist discovers a cure for cancer. Is the cure ineffective because he is arrogant? Would you refuse it?
-* And it is **double-edged**: the pluralist, too, holds that the vast majority of humanity (all the particularists) are wrong — so by this logic *he* is the arrogant one
+* And it is **double-edged**: the pluralist, too, holds that the vast majority of humanity (all the particularists) are wrong – so by this logic *he* is the arrogant one
 
 ---
 
@@ -133,10 +133,10 @@
 
 ![](pics/BornElsewhere.jpg style="float: right; width: 7rem")
 
-* Common charge: "if you'd been born in Pakistan you'd be a Muslim" — so your Christianity is false or unjustified
-* This is the **genetic fallacy** — invalidating a belief by *how* one came to hold it
+* Common charge: "if you'd been born in Pakistan you'd be a Muslim" – so your Christianity is false or unjustified
+* This is the **genetic fallacy** – invalidating a belief by *how* one came to hold it
 * Born in ancient Greece, you'd have believed the sun orbits the earth. Does that make heliocentrism false?
-* Again **self-defeating**: had the pluralist been born in Pakistan he'd be a particularist — so by his own reasoning, pluralism is just the accident of his time and place. He cuts off the branch he sits on
+* Again **self-defeating**: had the pluralist been born in Pakistan he'd be a particularist – so by his own reasoning, pluralism is just the accident of his time and place. He cuts off the branch he sits on
 
 ---
 
@@ -144,7 +144,7 @@
 
 ![](pics/FateOfOthers.jpg style="float: right; width: 7rem")
 
-* These arguments are weak — but that does **not** mean pluralism is a trivial challenge
+* These arguments are weak – but that does **not** mean pluralism is a trivial challenge
 * Clearing away the fallacies lets us reach the **real** issue underneath
 * That issue is not logic but the heart: the **fate of those outside the Christian tradition**
 * Particularism consigns them to hell, and pluralists find that morally repugnant. That is the objection worth taking seriously
@@ -161,8 +161,8 @@
 
 * Craig's own doctoral mentor, **John Hick**, began as a conservative theologian (*Christianity at the Centre*)
 * Meeting saintly followers of other faiths, he found it inconceivable that such good people were bound for hell
-* To move Christ out of the center he had to deny the incarnation and atonement — hence *The Myth of God Incarnate*
-* His question: *"Is it credible that the loving God and Father of all men has decreed that only those born within one particular thread of human history shall be saved?"* — his answer was **no**
+* To move Christ out of the center he had to deny the incarnation and atonement – hence *The Myth of God Incarnate*
+* His question: *"Is it credible that the loving God and Father of all men has decreed that only those born within one particular thread of human history shall be saved?"* – his answer was **no**
 
 ---
 
@@ -173,9 +173,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"The Lord is not slack concerning His promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance."</p><p style="text-align: right;"> <em>2 Peter 3:9 (NKJV)</em></p>
 
 * God **wills the salvation of every person** He creates (also 1 Timothy 2:4; Ezekiel 33:11: "I have no pleasure in the death of the wicked")
-* In one sense God sends no one to hell — the lost **freely and irrevocably reject** His grace and every effort to save them
+* In one sense God sends no one to hell – the lost **freely and irrevocably reject** His grace and every effort to save them
 * Our eternal destiny lies in our own hands. The lost are self-condemned, and God grieves their loss
-* A serious objection with a solid answer — but the objections get harder now
+* A serious objection with a solid answer – but the objections get harder now
 
 ---
 
@@ -198,8 +198,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For there is **no partiality** with God. For as many as have sinned without law will also perish without law, and as many as have sinned in the law will be **judged by the law**"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 2:11–12 (NKJV)</em></p>
 
-* God does **not** judge those who never heard on whether they believed in a Christ they could not have known — that would be manifestly unfair
-* Each is judged by the law he actually had — for the unevangelized, the **light they do have**: God's general revelation in nature and in the conscience (Romans 2:14–15)
+* God does **not** judge those who never heard on whether they believed in a Christ they could not have known – that would be manifestly unfair
+* Each is judged by the law he actually had – for the unevangelized, the **light they do have**: God's general revelation in nature and in the conscience (Romans 2:14–15)
 
 ---
 
@@ -209,9 +209,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;"</p><p style="text-align: right;"> <em>Romans 2:7 (NKJV)</em></p>
 
-* A **real offer** of salvation to the uninformed — not an unreachable standard
-* The precedent: the **OT saints** — Abraham "believed God, and it was accounted to him for righteousness" (Romans 4:3); God "passed over" their sins in forbearance (Romans 3:25) until the cross redeemed them (Hebrews 9:15). The atonement reaches **backward** in time
-* So the benefits of Christ's death can be applied **without conscious knowledge of Christ** — like a beneficiary of an unknown uncle's will
+* A **real offer** of salvation to the uninformed – not an unreachable standard
+* The precedent: the **OT saints** – Abraham "believed God, and it was accounted to him for righteousness" (Romans 4:3); God "passed over" their sins in forbearance (Romans 3:25) until the cross redeemed them (Hebrews 9:15). The atonement reaches **backward** in time
+* So the benefits of Christ's death can be applied **without conscious knowledge of Christ** – like a beneficiary of an unknown uncle's will
 
 ---
 
@@ -220,8 +220,8 @@
 ![](pics/HolyPagan.jpg style="float: right; width: 7rem")
 
 * Salvation through general revelation is **not works-based**: sensing one's guilt before the Creator and flinging oneself on His mercy
-* The "Holy Pagans" — **Job and Melchizedek** — were saved through Christ's death without conscious knowledge of Him or covenant membership
-* There could be modern "Jobs" — Craig points to **Socrates**, heeding the divine voice against the gods of Athens, and the Native American holy man **Black Elk**, whose Great Spirit testimony reads "just like Romans 1"
+* The "Holy Pagans" – **Job and Melchizedek** – were saved through Christ's death without conscious knowledge of Him or covenant membership
+* There could be modern "Jobs" – Craig points to **Socrates**, heeding the divine voice against the gods of Athens, and the Native American holy man **Black Elk**, whose Great Spirit testimony reads "just like Romans 1"
 
 ---
 
@@ -230,11 +230,11 @@
 ![](pics/SuppressTruth.jpg style="float: right; width: 7rem")
 
 * The sobering New Testament testimony: people generally do **not** measure up even to the light of general revelation
-* Creation makes God plain, "so that they are **without excuse**" (Romans 1:20) — yet men suppress the truth and turn to idols (Romans 1:18–23)
+* Creation makes God plain, "so that they are **without excuse**" (Romans 1:20) – yet men suppress the truth and turn to idols (Romans 1:18–23)
 * The verdict is universal: "**all have sinned** and fall short of the glory of God" (Romans 3:23)
-* So there is little ground for optimism that **many** — if any — are actually saved through general revelation alone
+* So there is little ground for optimism that **many** – if any – are actually saved through general revelation alone
 * Salvation is universally **accessible** this way, but rarely **accessed**
-* So the problem is not that God condemns the uninformed — it lies deeper
+* So the problem is not that God condemns the uninformed – it lies deeper
 
 ---
 
@@ -246,7 +246,7 @@
 
 ![](pics/WalkingBear.jpg style="float: right; width: 7rem")
 
-* Picture **Walking Bear**, a medieval Plains Indian who rejects the Great Spirit he senses in nature and conscience — justly condemned. But what if he *would* have believed the Gospel, *if* missionaries had come?
+* Picture **Walking Bear**, a medieval Plains Indian who rejects the Great Spirit he senses in nature and conscience – justly condemned. But what if he *would* have believed the Gospel, *if* missionaries had come?
 * Three questions press in:
   1. Why didn't God bring the Gospel to those He knew would accept it?
   2. Why create the world at all, knowing many would be lost?
@@ -259,11 +259,11 @@
 
 ![](pics/AllegedContradiction.jpg style="float: right; width: 7rem")
 
-* This is a **soteriological problem of evil** (soteriology: the doctrine of salvation) — parallel to the logical problem of evil
+* This is a **soteriological problem of evil** (soteriology: the doctrine of salvation) – parallel to the logical problem of evil
 * The pluralist claims two Christian beliefs are logically incompatible:
   * **A.** God is all-powerful and all-loving
   * **B.** Some people never hear the Gospel and are lost
-* But there is no *explicit* contradiction between A and B — one is not the negation of the other
+* But there is no *explicit* contradiction between A and B – one is not the negation of the other
 
 ---
 
@@ -283,8 +283,8 @@
 
 ![](pics/FreelyOffered.jpg style="float: right; width: 7rem")
 
-* God could certainly create a world where everyone **hears** the Gospel — that is easy
-* But it is **logically impossible to make someone freely do something** — as impossible as a round square or a married bachelor. Omnipotence does not extend to the logically impossible
+* God could certainly create a world where everyone **hears** the Gospel – that is easy
+* But it is **logically impossible to make someone freely do something** – as impossible as a round square or a married bachelor. Omnipotence does not extend to the logically impossible
 * So for all we know, **every** world of free creatures God could create includes some who freely reject Him
   * Plantinga: perhaps "transworld depravity" holds in every feasible world
 * A world of universal salvation may simply be **infeasible**
@@ -297,9 +297,9 @@
 ![](pics/PopulousWorld.jpg style="float: right; width: 7rem")
 
 * Suppose feasible worlds of universal salvation *could* exist. Must an all-loving God prefer one?
-* Not necessarily — such worlds might carry **overriding deficiencies**
-* Imagine the only universal-salvation worlds are **tiny**: Adam alone might have worked — with just two people we already had sin. Create any more, and at least one freely rejects God
-* God is no less loving for preferring a **populous** world where multitudes are freely saved, even though some are freely lost — so long as He extends sufficient grace to all
+* Not necessarily – such worlds might carry **overriding deficiencies**
+* Imagine the only universal-salvation worlds are **tiny**: Adam alone might have worked – with just two people we already had sin. Create any more, and at least one freely rejects God
+* God is no less loving for preferring a **populous** world where multitudes are freely saved, even though some are freely lost – so long as He extends sufficient grace to all
   * → assumption 2 is not necessarily true either
 
 ---
@@ -315,7 +315,7 @@
 * Developed by the Jesuit theologian **Luis Molina** (hence "Molinism")
 * **Middle knowledge** is God's knowledge of what *every possible person* would **freely** do in *any* circumstance He might place him in
 * It is not mere foreknowledge of the future; it is knowledge of all the true "counterfactuals of freedom"
-* With it, a sovereign God can providentially order history without ever overriding a free will — and it unlocks the solution
+* With it, a sovereign God can providentially order history without ever overriding a free will – and it unlocks the solution
 
 ---
 
@@ -325,7 +325,7 @@
 
 * Craig proposes a third statement, consistent with A and entailing B:
   * **C.** God has created a world with an **optimal feasible balance** between saved and lost, and those who never hear the Gospel and are lost **would not have believed it even if they had heard it**
-* Is C true? God knows — if He has middle knowledge
+* Is C true? God knows – if He has middle knowledge
 * As long as C is even **possibly** true, it shows A and B are not contradictory after all
 
 ---
@@ -335,10 +335,10 @@
 ![](pics/ResistibleGrace.jpg style="float: right; width: 7rem")
 
 * Two working assumptions, each defended elsewhere in Defenders:
-  * **Libertarian freedom** — God's grace is **resistible**; He draws but never overpowers the will
-  * **Middle knowledge** — part of divine omniscience (see the Doctrine of God)
-* The **Calvinist** road differs: with *irresistible* grace God could save all — so he must say God **preferred** not to. Craig finds that far harder to square with an all-loving God; the problem presses hardest on Calvinism
-* Reject middle knowledge if you will — but then you owe the problem a solution of your own
+  * **Libertarian freedom** – God's grace is **resistible**; He draws but never overpowers the will
+  * **Middle knowledge** – part of divine omniscience (see the Doctrine of God)
+* The **Calvinist** road differs: with *irresistible* grace God could save all – so he must say God **preferred** not to. Craig finds that far harder to square with an all-loving God; the problem presses hardest on Calvinism
+* Reject middle knowledge if you will – but then you owe the problem a solution of your own
 
 ---
 
@@ -346,10 +346,10 @@
 
 ![](pics/HeavenCity.jpg style="float: right; width: 7rem")
 
-* Objection: "There *is* a feasible world of all-freely-good creatures — **heaven**! God could just create that."
+* Objection: "There *is* a feasible world of all-freely-good creatures – **heaven**! God could just create that."
 * It commits a **possible-worlds fallacy**: you cannot pluck a segment out of one world and assume the same counterfactuals of freedom hold in a new, isolated world
-* Why not? Earthly life is where we **discover God's love**, freely **respond** to it, and **build character** — only then can God confirm that character, removing the ability to sin without changing who we are
-* Heaven is the *product* of that earthly stage: create it on its own and its freely-good citizens do not exist — the feasibility **collapses**
+* Why not? Earthly life is where we **discover God's love**, freely **respond** to it, and **build character** – only then can God confirm that character, removing the ability to sin without changing who we are
+* Heaven is the *product* of that earthly stage: create it on its own and its freely-good citizens do not exist – the feasibility **collapses**
 * The same likely holds for any feasible world of earthly life followed by heaven
 
 ---
@@ -358,9 +358,9 @@
 
 ![](pics/GodCreation.jpg style="float: right; width: 8rem")
 
-* **Why not a world of universal salvation?** It may not be feasible — free creatures may reject God in any world God could make
+* **Why not a world of universal salvation?** It may not be feasible – free creatures may reject God in any world God could make
 * **Why create at all?** So the blessedness of those who *would* freely embrace God's love is not vetoed by those who would freely spurn Him
-* **Why not evangelize those who'd believe?** — the deepest answer, next
+* **Why not evangelize those who'd believe?** – the deepest answer, next
 
 ---
 
@@ -371,7 +371,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And He has made from one blood every nation of men to dwell on all the face of the earth, and has determined their preappointed times and the boundaries of their dwellings, so that they should seek the Lord, in the hope that they might grope for Him and find Him, though He is not far from each one of us;"</p><p style="text-align: right;"> <em>Acts 17:26–27 (NKJV)</em></p>
 
 * God so orders history that **those who would respond to the Gospel are born where and when they will hear it**
-* Those who never hear it **would not have believed it anyway** — so no one is damned by geographical or historical accident
+* Those who never hear it **would not have believed it anyway** – so no one is damned by geographical or historical accident
 * Paul's Areopagus speech is exactly this conclusion, reached by revelation
 
 ---
@@ -381,9 +381,9 @@
 ![](pics/DreamVision.jpg style="float: right; width: 7rem")
 
 * The argument deliberately assumes the **hardest scenario**: the unevangelized with nothing but nature and conscience to go on
-* But God is not limited to missionaries — Scripture shows Him reaching people through **dreams and visions**
+* But God is not limited to missionaries – Scripture shows Him reaching people through **dreams and visions**
 * Widely reported today: people in closed countries meeting **Jesus in visions** before any Christian arrives
-* Craig: state the objection at maximum strength, and answering it makes the answer "all the more powerful" — every such extra means of grace only makes the solution easier
+* Craig: state the objection at maximum strength, and answering it makes the answer "all the more powerful" – every such extra means of grace only makes the solution easier
 
 ---
 
@@ -392,9 +392,9 @@
 ![](pics/DivineChess.jpg style="float: right; width: 7rem")
 
 * Objection: even if *possible*, it is wildly **improbable** that all the unevangelized would have rejected the Gospel
-* Reply: improbable only if people were distributed by **chance** — but the hypothesis is that a **sovereign, omniscient God** providentially arranged it
+* Reply: improbable only if people were distributed by **chance** – but the hypothesis is that a **sovereign, omniscient God** providentially arranged it
 * There are **no** sociological or psychological traits that predict who becomes a Christian
-* So a providentially ordered world would look **outwardly identical** to a random one — the objection cannot get off the ground without first disproving middle knowledge
+* So a providentially ordered world would look **outwardly identical** to a random one – the objection cannot get off the ground without first disproving middle knowledge
 
 ---
 
@@ -402,7 +402,7 @@
 
 ![](pics/NotFatalism.jpg style="float: right; width: 7rem")
 
-* It can *sound* like "some people are created for damnation" — but that misunderstands the view
+* It can *sound* like "some people are created for damnation" – but that misunderstands the view
 * The counterfactuals of freedom are **contingent**, not part of anyone's nature: "if I were rich, I'd buy a Mercedes" might be true, but in another world I'd buy a BMW
 * A person who would reject Christ in one set of circumstances might freely receive Him in another
 * No one is fated. The lost are lost by their **own free choice**, and God extends sufficient grace to all
@@ -413,10 +413,10 @@
 
 ![](pics/ChildrenComeToMe.jpg style="float: right; width: 7rem")
 
-* Craig does **not** apply the middle-knowledge solution to infants — you cannot be held responsible for what you never actually do
-* Better ground: infants have **no law, hence no transgression** to be condemned for (Romans 4:15; 5:13) — and Jesus' welcome: *"Let the little children come to Me [...] for of such is the kingdom of heaven"* (Matthew 19:14)
+* Craig does **not** apply the middle-knowledge solution to infants – you cannot be held responsible for what you never actually do
+* Better ground: infants have **no law, hence no transgression** to be condemned for (Romans 4:15; 5:13) – and Jesus' welcome: *"Let the little children come to Me [...] for of such is the kingdom of heaven"* (Matthew 19:14)
 * This is distinct from the unevangelized **adult**, who does have general revelation and suppresses it (Romans 1)
-* Extending "all infants are saved" to all the unevangelized would make the Gospel *bad* news — bringing damnation where there had been safety
+* Extending "all infants are saved" to all the unevangelized would make the Gospel *bad* news – bringing damnation where there had been safety
 
 ---
 
@@ -429,9 +429,9 @@
 ![](pics/DivineAppointments.jpg style="float: right; width: 7rem")
 
 * Objection (Hasker): doesn't this make evangelism pointless? ("Should Peter go to the mission field?")
-* No — through missions God brings the Gospel to a people group such that He has placed there **people who will respond** when they hear it. Missions **maximizes** the saved
+* No – through missions God brings the Gospel to a people group such that He has placed there **people who will respond** when they hear it. Missions **maximizes** the saved
 * The motivation is not guilt ("if I don't go, they're lost and it's on me") but **joy**: God has foreknown your obedience and set **divine appointments** in your path
-* Anyone who wants — or even would want — to be saved, will be. And missions can never **harm**: whoever responds to God's voice in nature and conscience will respond to it in the Gospel
+* Anyone who wants – or even would want – to be saved, will be. And missions can never **harm**: whoever responds to God's voice in nature and conscience will respond to it in the Gospel
 
 ---
 
@@ -439,10 +439,10 @@
 
 ![](pics/GodsHandAndPeolpe.jpg style="float: right; width: 7rem")
 
-* Craig prefers **"particularism"** over "exclusivism" — the latter sounds like an elite group shutting people out
+* Craig prefers **"particularism"** over "exclusivism" – the latter sounds like an elite group shutting people out
 * That is the opposite of the truth: God **loves all**, desires all to be saved, and extends His grace to everyone
-* The offer is **open-ended**, not restrictive — the term simply marks the view opposite **universalism** (that all will be saved)
-* Some are saved, not all — but not one is turned away who comes
+* The offer is **open-ended**, not restrictive – the term simply marks the view opposite **universalism** (that all will be saved)
+* Some are saved, not all – but not one is turned away who comes
 
 ---
 
@@ -450,10 +450,10 @@
 
 ![](pics/CompassionGospel.jpg style="float: right; width: 7rem")
 
-* Religious diversity does **not** undermine salvation through Christ alone — the doctrine is logically coherent, biblically grounded, and even plausible
+* Religious diversity does **not** undermine salvation through Christ alone – the doctrine is logically coherent, biblically grounded, and even plausible
 * True compassion for those in other faiths is **not** pretending they are safe apart from Christ
 * It is supporting, and making every personal effort in, sharing the life-giving Gospel
-* We go out confident that God has gone ahead of us — and prepared hearts to receive Him
+* We go out confident that God has gone ahead of us – and prepared hearts to receive Him
 
 ---
 

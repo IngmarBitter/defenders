@@ -6,13 +6,13 @@
 
 ## Series Overview
 
-* **Part 1:** Introduction to Pneumatology — the "forgotten person" of the Trinity
-* **Part 2:** Personhood — the Spirit speaks, teaches, guides, intercedes
-* **Part 3:** Deity — eternal, omnipresent, omniscient, holy, loving
-* **Part 4:** Relation to Christ — conception, baptism, miracles, ministry
-* **Part 5:** Work of the Holy Spirit — 11 ministries from creation to evangelism
-* **Part 6:** Baptism of the Spirit — initiatory, universal, at conversion
-* **Part 7:** Fullness of the Spirit — commanded, evidenced by fruit, daily walk
+* **Part 1:** Introduction to Pneumatology – the "forgotten person" of the Trinity
+* **Part 2:** Personhood – the Spirit speaks, teaches, guides, intercedes
+* **Part 3:** Deity – eternal, omnipresent, omniscient, holy, loving
+* **Part 4:** Relation to Christ – conception, baptism, miracles, ministry
+* **Part 5:** Work of the Holy Spirit – 11 ministries from creation to evangelism
+* **Part 6:** Baptism of the Spirit – initiatory, universal, at conversion
+* **Part 7:** Fullness of the Spirit – commanded, evidenced by fruit, daily walk
 
 ---
 
@@ -34,7 +34,7 @@
 * Lying to the Holy Spirit = lying to God → the Spirit is God
 * Possesses divine attributes: eternal, omnipresent, omniscient, holy
 * Distinct from Father and Son, yet fully divine
-* Third person of the Trinity — co-equal, not subordinate
+* Third person of the Trinity – co-equal, not subordinate
 
 ---
 

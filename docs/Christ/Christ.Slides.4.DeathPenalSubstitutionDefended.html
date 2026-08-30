@@ -24,13 +24,13 @@
 
 ![](pics/diamond.png style="float: right; width: 7rem")
 
-* Last session: the biblical case that Christ bore our penalty — sacrifice, the Suffering Servant, divine justice, and representation all converge on Penal Substitution
-* Craig: **Penal Substitution is the root facet** — the foundation that gives the other facets their weight
+* Last session: the biblical case that Christ bore our penalty – sacrifice, the Suffering Servant, divine justice, and representation all converge on Penal Substitution
+* Craig: **Penal Substitution is the root facet** – the foundation that gives the other facets their weight
 * The facets still to come depend on it:
   * Ransom becomes mythological without it (paid to whom?)
   * Satisfaction collapses into mere compensation
   * Moral Influence becomes unintelligible (see R. W. Dale)
-* But first it must survive its strongest philosophical challenges — today we defend it
+* But first it must survive its strongest philosophical challenges – today we defend it
 
 ---
 
@@ -39,11 +39,11 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * **Craig's definition:** God inflicted upon Christ the suffering which we deserved as the punishment for our sins, as a result of which we no longer deserve punishment
-* Two versions — and the difference matters:
+* Two versions – and the difference matters:
   * **Strong version:** God actually *punished* Christ for our sins
   * **Modest version:** God afflicted Christ with the suffering that *would have been* our punishment, had it been inflicted on us
   * The modest version sidesteps some objections entirely
-  * Most Penal Substitution theorists hold the strong version — and so we must defend it
+  * Most Penal Substitution theorists hold the strong version – and so we must defend it
 
 ---
 
@@ -53,8 +53,8 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all."</p><p style="text-align: right;"> <em>Isaiah 53:5–6 (NKJV)</em></p>
 
-* **Biblical foundation:** there is no way to account for Isaiah 53 — or its use throughout the New Testament — without Penal Substitution
-* If Penal Substitution is true, it cannot be peripheral — it is **foundational** for every other motif
+* **Biblical foundation:** there is no way to account for Isaiah 53 – or its use throughout the New Testament – without Penal Substitution
+* If Penal Substitution is true, it cannot be peripheral – it is **foundational** for every other motif
 
 ---
 
@@ -63,7 +63,7 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * In **1578**, the Italian unitarian **Faustus Socinus** published *De Jesu Christo Servatore* ("Of Jesus Christ the Savior")
-* A brilliant, withering attack on Penal Substitution — by all accounts the most powerful case ever made against it
+* A brilliant, withering attack on Penal Substitution – by all accounts the most powerful case ever made against it
 * Orthodox theologians have been answering Socinus for 450 years
 * Two main objections Craig addresses:
   * **Incoherence:** it is conceptually impossible for God to punish an innocent person
@@ -75,12 +75,12 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* Critics today usually dismiss Penal Substitution in a sentence: *"It is unjust to punish the innocent — end of discussion"*
-* We must go much deeper — into the philosophy of law
+* Critics today usually dismiss Penal Substitution in a sentence: *"It is unjust to punish the innocent – end of discussion"*
+* We must go much deeper – into the philosophy of law
 * Two elements of any theory of punishment:
-  * A **definition** of punishment — what counts as punishment?
-  * A **justification** of punishment — when is it morally permissible?
-* Caution: human legal analogies can illuminate divine justice, but are never tightly parallel — e.g., God is not limited by prison space or budget
+  * A **definition** of punishment – what counts as punishment?
+  * A **justification** of punishment – when is it morally permissible?
+* Caution: human legal analogies can illuminate divine justice, but are never tightly parallel – e.g., God is not limited by prison space or budget
 
 ---
 
@@ -96,7 +96,7 @@
 * **Premise 2:** If God could not have condemned Christ, God could not have *punished* Christ
 * **Premise 3:** If God could not have punished Christ, Penal Substitution is false
 * **Conclusion:** If Christ was sinless (as orthodoxy holds), Penal Substitution is false
-* Every premise is vulnerable — and we will attack all three
+* Every premise is vulnerable – and we will attack all three
 
 ---
 
@@ -110,16 +110,16 @@
   * Imposed intentionally (not accidentally)
   * Imposed in response to a wrongful act or omission
   * **Imposed as a message of condemnation or rebuke** for what was done
-* Critics argue: since Christ was sinless, God could not condemn Him — therefore any suffering He bore would not *count* as punishment
+* Critics argue: since Christ was sinless, God could not condemn Him – therefore any suffering He bore would not *count* as punishment
 
 ---
 
-## Reply 1 — Just Deny Premise 3
+## Reply 1 – Just Deny Premise 3
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * The **modest version** of Penal Substitution denies that God actually punished Christ
-* God afflicted Christ with the suffering that would have been our punishment — without technically punishing Him
+* God afflicted Christ with the suffering that would have been our punishment – without technically punishing Him
 * On this view, Premise 3 is simply false:
   * Penal Substitution does not stand or fall with whether God punished Christ
   * Christ still suffers in our place; we are still released from punishment
@@ -127,28 +127,28 @@
 
 ---
 
-## Reply 2 — Strict Liability Crimes
+## Reply 2 – Strict Liability Crimes
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* Expressivism is popular — but not well-supported
-* Our legal system has **thousands of strict liability crimes** — punishment without any condemnation of the person:
+* Expressivism is popular – but not well-supported
+* Our legal system has **thousands of strict liability crimes** – punishment without any condemnation of the person:
   * Possessing an unlicensed firearm (even one slipped into your purse)
   * Selling mislabeled food or prescription drugs without a valid prescription
   * Pharmacist who accepts a forged prescription in good faith
-* These people are blameless — no rebuke is directed at them — yet they are punished
+* These people are blameless – no rebuke is directed at them – yet they are punished
 * This shows punishment does **not** inherently express condemnation of the person punished
-* **Craig's alternative definition:** punishment is *harsh treatment imposed by a recognized authority for an infraction of a law or command* — no rebuke required
+* **Craig's alternative definition:** punishment is *harsh treatment imposed by a recognized authority for an infraction of a law or command* – no rebuke required
 
 ---
 
-## Reply 3 — Grotius and Ancient Substitution
+## Reply 3 – Grotius and Ancient Substitution
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * **Hugo Grotius**, *A Defence of the Catholic Faith* (1617)
   * Documented example after example from ancient literature of substitutionary punishment
-  * Volunteers who stepped forward as substitutes were universally **admired as paradigms of nobility** — not condemned
+  * Volunteers who stepped forward as substitutes were universally **admired as paradigms of nobility** – not condemned
   * Examples:
     * **Roman decimation:** one in ten soldiers executed for a whole legion's cowardice
     * **Sydney Carton** in Dickens' *A Tale of Two Cities:* dies at the guillotine in another's place
@@ -156,20 +156,20 @@
 
 ---
 
-## Reply 4 — Expressivism Rightly Understood
+## Reply 4 – Expressivism Rightly Understood
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For what the law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He <b>condemned sin in the flesh</b>,"</p><p style="text-align: right;"> <em>Romans 8:3 (NKJV)</em></p>
 
 * Critics have misread Feinberg
-* The fourth condition says the hardship sends a message of condemnation "for what is believed to be a wrongful act or omission" — **not** for the person punished
+* The fourth condition says the hardship sends a message of condemnation "for what is believed to be a wrongful act or omission" – **not** for the person punished
 * Feinberg himself: punishment "expresses the community's strong disapproval of what the criminal did"
 * The rebuke is directed at **the act**, not the actor
 
 ---
 
-## Reply 5 — The Imputation of Sin
+## Reply 5 – The Imputation of Sin
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
@@ -177,9 +177,9 @@
 
 * Even if we granted Premises 2 and 3, Premise 1 is still false
 * **Turretin and the Reformers** held that our sins were **imputed** (legally reckoned) to Christ
-* Christ remains personally sinless — a paragon of virtue
+* Christ remains personally sinless – a paragon of virtue
 * But He is counted **legally guilty** before God because our sins are charged to His account
-* Therefore God *can* condemn Christ — legally, in virtue of imputed sin
+* Therefore God *can* condemn Christ – legally, in virtue of imputed sin
 
 ---
 
@@ -187,7 +187,7 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* Critics object that imputation is unheard-of in real justice — Otfried Hofius calls it "absurd"
+* Critics object that imputation is unheard-of in real justice – Otfried Hofius calls it "absurd"
 * But imputation is **everywhere** in our law, under the principle **respondeat superior** ("let the master answer")
 * **Civil law:** an employer is vicariously liable for the acts of his employee
   * The chief surgeon is liable when the subordinate botches the surgery
@@ -202,10 +202,10 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* The employer has done nothing wrong — no negligence, no failure to supervise
+* The employer has done nothing wrong – no negligence, no failure to supervise
 * Yet the liability of the subordinate is **replicated** in the superior
 * Both can be punished; if the superior pays, the subordinate goes free
-* Craig: "This looks for all the world like penal substitution to me — it is actually part of our justice system"
+* Craig: "This looks for all the world like penal substitution to me – it is actually part of our justice system"
 * So the doctrine of imputation is not at all foreign to human legal reasoning
 
 ---
@@ -221,7 +221,7 @@
     * *"If God could not have condemned Christ, God could not have punished Christ"*
   * **Premise 3** fails on the modest version of Penal Substitution
     * *"If God could not have punished Christ, Penal Substitution is false"*
-* Craig: "This argument is really quite weak — it can be put to rest"
+* Craig: "This argument is really quite weak – it can be put to rest"
 * But the harder objection is still ahead: **is Penal Substitution just?**
 
 ---
@@ -240,7 +240,7 @@
 * **Premise 4:** Christ was an innocent person
 * **Premise 5:** Therefore, God cannot punish Christ
 * **Premise 6:** If God cannot punish Christ, Penal Substitution is false
-* Craig: **"This is the biggie"** — the fundamental objection to Penal Substitution
+* Craig: **"This is the biggie"** – the fundamental objection to Penal Substitution
 
 ---
 
@@ -253,10 +253,10 @@
   * Punishment as what is deserved
 * **Consequentialist justice:** punishment is justified by its future benefits
   * Prospective: deterrence, isolation, reformation of the offender
-  * Through mid-20th century, this view dominated — and was a disaster for prisons
-  * Women once received longer sentences than men, on the theory that they were "more reformable" — extra time would result in reform success
-* **A quick consequentialist escape:** if God's justice is consequentialist, the objection dissolves immediately — punishing Christ saves the human race, the supreme good consequence
-* But this escape is biblically untenable — see next slide
+  * Through mid-20th century, this view dominated – and was a disaster for prisons
+  * Women once received longer sentences than men, on the theory that they were "more reformable" – extra time would result in reform success
+* **A quick consequentialist escape:** if God's justice is consequentialist, the objection dissolves immediately – punishing Christ saves the human race, the supreme good consequence
+* But this escape is biblically untenable – see next slide
 
 ---
 
@@ -266,11 +266,11 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"keeping mercy for thousands, forgiving iniquity and transgression and sin, by no means clearing the guilty,"</p><p style="text-align: right;"> <em>Exodus 34:7 (NKJV)</em></p>
 
-* Scripture repeatedly treats sin as deserving punishment — God "will by no means clear the guilty"
-* God's judgment is **eschatological** — at the end of history
-  * Parable of wheat and tares — wait until the harvest
-  * Hell cannot deter, reform, or isolate — only retribute
-* Since the 1970s, legal theory has swung back to retributivism — aligned with biblical thinking
+* Scripture repeatedly treats sin as deserving punishment – God "will by no means clear the guilty"
+* God's judgment is **eschatological** – at the end of history
+  * Parable of wheat and tares – wait until the harvest
+  * Hell cannot deter, reform, or isolate – only retribute
+* Since the 1970s, legal theory has swung back to retributivism – aligned with biblical thinking
 * But retributivism is precisely what makes the injustice objection bite
 
 ---
@@ -283,32 +283,32 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Of how much <b>worse punishment</b>, do you suppose, will he be thought worthy who has trampled the Son of God underfoot, counted the blood of the covenant by which he was sanctified a common thing, and insulted the Spirit of grace?"</p><p style="text-align: right;"> <em>Hebrews 10:29 (NKJV)</em></p>
 
-* The New Testament repeatedly speaks of sin as **deserving** punishment — the very heart of retributive justice
-* Note: the writers do not say sin merely *causes* harm — they say the sinner *deserves* punishment
+* The New Testament repeatedly speaks of sin as **deserving** punishment – the very heart of retributive justice
+* Note: the writers do not say sin merely *causes* harm – they say the sinner *deserves* punishment
 
 ---
 
-## Reply 1 — Deny Premise 6
+## Reply 1 – Deny Premise 6
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * *Premise 6: "If God cannot punish Christ, Penal Substitution is false"*
 * The **modest version** of Penal Substitution again sidesteps this objection
   * If God did not punish Christ but only afflicted Him with the suffering that would have been our punishment, the objection never gets off the ground
-* Most theorists want the stronger version — so we press on
+* Most theorists want the stronger version – so we press on
 
 ---
 
-## Reply 2 — Divine Command Theory
+## Reply 2 – Divine Command Theory
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * *Premise 2: "If God is perfectly just, He cannot punish an innocent person"*
 * **Who determines what is just?** God Himself is the source of moral duties
-  * God has no moral duties — He acts in accord with His nature, not external law
+  * God has no moral duties – He acts in accord with His nature, not external law
 * Examples of God's unique prerogatives:
-  * Abraham commanded to sacrifice Isaac (Genesis 22) — duty overrides prohibition on murder
-  * Moses' offer to die for Israel refused (Exodus 32) — God reserves substitution
+  * Abraham commanded to sacrifice Isaac (Genesis 22) – duty overrides prohibition on murder
+  * Moses' offer to die for Israel refused (Exodus 32) – God reserves substitution
 * **Grotius:** God may forbid human substitution yet exercise it Himself
 
 ---
@@ -320,12 +320,12 @@
 * *Premise 2: "If God is perfectly just, He cannot punish an innocent person"*
 * The critic may grant Divine Command Theory but still press the case
   * Even on Divine Command Theory, God cannot act **contrary to His own nature**
-  * The critic then claims: retributive justice is essential to God's nature — so God cannot punish the innocent
-* This objection rests on an insufficiently nuanced view of retributive justice — the next two slides unpack the response
+  * The critic then claims: retributive justice is essential to God's nature – so God cannot punish the innocent
+* This objection rests on an insufficiently nuanced view of retributive justice – the next two slides unpack the response
 
 ---
 
-## Reply 3 — Positive vs. Negative Retributivism
+## Reply 3 – Positive vs. Negative Retributivism
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
@@ -345,13 +345,13 @@
 * *Premise 2: "If God is perfectly just, He cannot punish an innocent person"*
 * God may forbid humans from punishing the innocent
 * God may decline to punish any innocent *human* person
-* Yet He may **reserve to Himself** the prerogative to punish an innocent *divine* person — namely, Christ, voluntarily
+* Yet He may **reserve to Himself** the prerogative to punish an innocent *divine* person – namely, Christ, voluntarily
 * This is not a defect in divine justice but a **result of divine goodness**
-* Therefore Premise 2 is false — God's perfect justice does not rule out substitutionary punishment of a willing divine person
+* Therefore Premise 2 is false – God's perfect justice does not rule out substitutionary punishment of a willing divine person
 
 ---
 
-## Reply 4 — Prima Facie vs. Ultima Facie
+## Reply 4 – Prima Facie vs. Ultima Facie
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
@@ -369,22 +369,22 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * **D. A. Carson** on Isaiah 53:
-  * "Forgiveness, restoration, salvation, reconciliation — all are possible, not because sins have somehow been canceled as if they never were, but because another bore them *unjustly*"
+  * "Forgiveness, restoration, salvation, reconciliation – all are possible, not because sins have somehow been canceled as if they never were, but because another bore them *unjustly*"
 * Even if God is an unqualified negative retributivist, in Christ's case overriding moral considerations (saving humanity) justified waiving the *prima facie* demand
 * God is fully justified in allowing Christ to be unjustly treated for the sake of the world's salvation
 
 ---
 
-## Reply 5 — Christ Was Not Innocent (Legally)
+## Reply 5 – Christ Was Not Innocent (Legally)
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * *Premise 4: "Christ was an innocent person"*
 * Turretin's decisive move: Premise 4 is **false**
-  * Our sins were imputed to Christ — so at the bar of God's justice, Christ was **legally guilty**
-  * Christ remains personally virtuous — pure, selfless, compassionate
+  * Our sins were imputed to Christ – so at the bar of God's justice, Christ was **legally guilty**
+  * Christ remains personally virtuous – pure, selfless, compassionate
   * But He was counted legally guilty on account of imputed sin
-* Therefore the demands of negative retributive justice are not violated at all — there is no innocent person being punished here
+* Therefore the demands of negative retributive justice are not violated at all – there is no innocent person being punished here
 
 ---
 
@@ -392,9 +392,9 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* Critics say imputation itself is unjust — to pin a guilty person's wrongdoing on an innocent one is wrong
+* Critics say imputation itself is unjust – to pin a guilty person's wrongdoing on an innocent one is wrong
 * Reply: imputation is unjust only when **involuntary**
-* A voluntary substitute is not wronged — just as an employer who freely takes his employee's liability is not wronged
+* A voluntary substitute is not wronged – just as an employer who freely takes his employee's liability is not wronged
 * Paul to Philemon regarding Onesimus: *"If he has wronged you or owes you anything, put that on my account"* (Philemon 18)
 * Christ's self-offering is a voluntary, freely-chosen substitution
 
@@ -413,7 +413,7 @@
 * **Prem4** falls given the imputation of sin
 * *Prem6: "If God cannot punish Christ, Penal Substitution is false"*
 * **Prem6** falls on the modest version
-* Craig: "All of the crucial premises are eminently challengeable — there is no compelling objection to the justice of Penal Substitution"
+* Craig: "All of the crucial premises are eminently challengeable – there is no compelling objection to the justice of Penal Substitution"
 
 ---
 
@@ -430,7 +430,7 @@
   * P4: imputation
   * P6: modest version of Penal Substitution
 * 450 years on, Penal Substitution stands up to Socinus's strongest case and his modern imitators
-* Penal Substitution "defended" is not the same as "explained" — next we show how Christ's death actually *satisfies* divine justice
+* Penal Substitution "defended" is not the same as "explained" – next we show how Christ's death actually *satisfies* divine justice
 
 ---
 
@@ -449,14 +449,14 @@
 
 ---
 
-## Scotus' Acceptation Theory — and Why It Fails
+## Scotus' Acceptation Theory – and Why It Fails
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-* **John Duns Scotus** (medieval theologian): God could have accepted *any* sacrifice as satisfactory — even a goat, or a human being
+* **John Duns Scotus** (medieval theologian): God could have accepted *any* sacrifice as satisfactory – even a goat, or a human being
 * Penal substitution theorists reject this:
   * Scripture says *"it is impossible that the blood of bulls and goats should take away sins"* (Hebrews 10:4)
-  * Retributive justice demands **proportionality** — a judge sentencing a serial killer to community service is a travesty
+  * Retributive justice demands **proportionality** – a judge sentencing a serial killer to community service is a travesty
 * If retributive justice is essential to God's nature, Scotus' acceptation theory fails
 * The sacrifice must be proportional to the gravity of the offense
 
@@ -466,14 +466,14 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-* The sin of humanity is infinite in gravity — against an infinitely holy God
+* The sin of humanity is infinite in gravity – against an infinitely holy God
 * Therefore the sacrifice must be of **infinite worth**
 * Only a **God-man** can supply this:
-  * Truly human — so He can stand in our place
-  * Truly divine — so His suffering has infinite worth
+  * Truly human – so He can stand in our place
+  * Truly divine – so His suffering has infinite worth
 * Christ's suffering, though finite in duration, is of **infinite value** because of the divinity of the Sufferer
   * Objection: a one-time death and *temporary* forsakenness cannot equal *eternal* separation
-  * Answer: hell is eternal because a *finite* sinner can never finish paying — an *infinite* person discharges the same debt in finite time
+  * Answer: hell is eternal because a *finite* sinner can never finish paying – an *infinite* person discharges the same debt in finite time
 * This is why the Incarnation was necessary for our salvation
 
 ---
@@ -484,10 +484,10 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And about the ninth hour Jesus cried out with a loud voice, saying, 'Eli, Eli, lama sabachthani?' that is, 'My God, My God, why have You forsaken Me?'"</p><p style="text-align: right;"> <em>Matthew 27:46 (NKJV)</em></p>
 
-* The spiritual side of the penalty — God-forsakenness — Christ bore in His **human nature** as the sin-bearer ("made to be sin," 2 Corinthians 5:21; "a curse for us," Galatians 3:13)
-* He endured the **withdrawal of the Father's favorable presence** and the wrath due our sin — real, but only for the duration He bore it
+* The spiritual side of the penalty – God-forsakenness – Christ bore in His **human nature** as the sin-bearer ("made to be sin," 2 Corinthians 5:21; "a curse for us," Galatians 3:13)
+* He endured the **withdrawal of the Father's favorable presence** and the wrath due our sin – real, but only for the duration He bore it
 * This is **not** an ontological tear in the Trinity: the divine essence is indivisible, and the Father never loved the Son more than here (John 10:17)
-* It is judicial and experiential — not a breaking of God's eternal communion
+* It is judicial and experiential – not a breaking of God's eternal communion
 
 ---
 
@@ -499,7 +499,7 @@
 * Guilt in law is typically constituted by two elements:
   * *Actus reus*: a wrongful act
   * *Mens rea*: a blameworthy mental state
-* But we do not treat guilt as permanent — a person who has served his sentence is no longer guilty
+* But we do not treat guilt as permanent – a person who has served his sentence is no longer guilty
 * Craig: **Guilt is most simply and plausibly understood as liability to punishment**
 * When a court finds a person "guilty," it declares him liable to punishment
 
@@ -509,11 +509,11 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-* If guilt is liability to punishment, then punishment — once discharged — removes guilt
-* A person who has served his sentence no longer has the liability — he is no longer guilty in the legal sense
+* If guilt is liability to punishment, then punishment – once discharged – removes guilt
+* A person who has served his sentence no longer has the liability – he is no longer guilty in the legal sense
 * Similarly, a **pardon** cancels liability and thereby removes guilt
 * The question becomes: can a substitute discharge my liability?
-* Our own legal system says yes — in more cases than we might think
+* Our own legal system says yes – in more cases than we might think
 
 ---
 
@@ -535,7 +535,7 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-* Lewis thought criminal law rejected penal substitution — but he was wrong
+* Lewis thought criminal law rejected penal substitution – but he was wrong
 * **Vicarious liability** is Penal Substitution in criminal law:
   * The employee's crime is imputed to the employer
   * Either or both may be punished
@@ -571,14 +571,14 @@
 
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
-* Recall the distinction from the Biblical Case deck: a **substitute** acts *in place of* you; a **representative** acts *on your behalf*, so what he does binds you — and some roles (an ambassador, an MMO avatar) combine both
+* Recall the distinction from the Biblical Case deck: a **substitute** acts *in place of* you; a **representative** acts *on your behalf*, so what he does binds you – and some roles (an ambassador, an MMO avatar) combine both
 * **Francis Turretin** (17th century): Christ is both our *substitute* and our *representative* before God
-  * As substitute — He bore the suffering we deserved
-  * As representative — His punishment is counted as ours
+  * As substitute – He bore the suffering we deserved
+  * As representative – His punishment is counted as ours
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the love of Christ compels us, because we judge thus: that if One died for all, then all died;"</p><p style="text-align: right;"> <em>2 Corinthians 5:14 (NKJV)</em></p>
 
-* Because Christ represents us, His punishment counts as our punishment — and divine justice is truly satisfied
+* Because Christ represents us, His punishment counts as our punishment – and divine justice is truly satisfied
 
 ---
 
@@ -589,9 +589,9 @@
 * Consider a proxy at a **shareholders' meeting**
 * If you cannot attend, you authorize someone else to vote in your name
 * The proxy is both:
-  * Your **substitute** — he attends, not you
-  * Your **representative** — his votes *are* your votes
-* Craig: "We were not merely punished instead of us — we were punished by proxy"
+  * Your **substitute** – he attends, not you
+  * Your **representative** – his votes *are* your votes
+* Craig: "We were not merely punished instead of us – we were punished by proxy"
 * This is why divine justice is satisfied for us and not only for Christ
 
 ---
@@ -603,8 +603,8 @@
 * Turretin proposed two bases for our union with Christ as our representative:
   * **Incarnation:** Christ takes on human nature, uniting Himself with humanity
   * **Mystical union:** believers are joined to Christ as members of His body
-* The mystical union is explanatorily **circular** — you must already be in Christ to receive imputation, but imputation is the basis of being in Christ
-* Craig prefers the first option: union through the Incarnation — and, he adds, through **Christ's baptism**, where He identified with fallen humanity
+* The mystical union is explanatorily **circular** – you must already be in Christ to receive imputation, but imputation is the basis of being in Christ
+* Craig prefers the first option: union through the Incarnation – and, he adds, through **Christ's baptism**, where He identified with fallen humanity
 
 ---
 
@@ -613,7 +613,7 @@
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
 * Christ, being sinless, did not need John's baptism of repentance
-* He submitted to it anyway — expressing **solidarity with fallen sinful mankind**
+* He submitted to it anyway – expressing **solidarity with fallen sinful mankind**
 * By Incarnation and baptism, the *Logos* is voluntarily appointed as our proxy
 * Whether this has a parallel in human law is beside the point: God can make this arrangement for a divine person even if He forbids it among humans
 * The *Logos* has been freely appointed to represent us before the bar of divine justice
@@ -640,9 +640,9 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * **Hugo Grotius** exposed the central failing of Socinus' theology
-* Socinus thought of God as a **private creditor** — someone owed money who could simply forgive the debt
-* But God is not a private party in a personal dispute — He is **Ruler and Judge** of the universe
-* Today's atonement theorists often repeat Socinus' mistake — treating atonement in terms of personal relationships rather than legal ones
+* Socinus thought of God as a **private creditor** – someone owed money who could simply forgive the debt
+* But God is not a private party in a personal dispute – He is **Ruler and Judge** of the universe
+* Today's atonement theorists often repeat Socinus' mistake – treating atonement in terms of personal relationships rather than legal ones
 * The biblical picture is legal: God as Judge; sin as a crime; Christ as substitute
 
 ---
@@ -666,10 +666,10 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* Socinus assumed pardon precludes punishment — but in fact pardons are **typically given *after* the sentence has been fully served**
+* Socinus assumed pardon precludes punishment – but in fact pardons are **typically given *after* the sentence has been fully served**
 * In the U.S., you cannot even apply to the Office of Pardon Attorney until **five years after** your sentence has been fully served
-* Christ has fully borne our punishment — and **therefore** God can pardon us
-* Satisfaction of justice and divine forgiveness are not opposed — they work together
+* Christ has fully borne our punishment – and **therefore** God can pardon us
+* Satisfaction of justice and divine forgiveness are not opposed – they work together
 
 ---
 
@@ -677,10 +677,10 @@
 
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
-* A presidential pardon can be offered **conditionally** — if the person refuses the conditions, the pardon is inefficacious
+* A presidential pardon can be offered **conditionally** – if the person refuses the conditions, the pardon is inefficacious
 * God's pardon in Christ is offered **conditionally:** upon repentance and faith
   * If we freely accept the pardon, it is efficacious
-  * If we refuse, we remain liable for our sins — the pardon is granted but not received
+  * If we refuse, we remain liable for our sins – the pardon is granted but not received
 * This is why Christ's death does not imply universalism
 
 ---
@@ -690,7 +690,7 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * On December 1, 2024, **Joe Biden pardoned his son Hunter Biden** with an unusually broad 10-year retroactive sweep (Jan 1, 2014 to Dec 1, 2024)
-* Yet even this sweeping pardon covered only crimes **already committed** — not future crimes
+* Yet even this sweeping pardon covered only crimes **already committed** – not future crimes
 * One of the few firm conditions of presidential pardon: you cannot be pardoned for something you have not yet done
 * Craig: "Turretin is exactly on all fours with the American justice system" on this point
 
@@ -701,10 +701,10 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * **Turretin** takes the tense of the verbs seriously
-* God does not forgive your future sins — you are not yet guilty of them
-* But Christ's atonement is of **infinite value** — it is superabundant to cover any future sin once committed
+* God does not forgive your future sins – you are not yet guilty of them
+* But Christ's atonement is of **infinite value** – it is superabundant to cover any future sin once committed
 * Distinction: **redemption accomplished** (at the cross) vs. **redemption applied** (over time, as we repent and believe)
-* So future sins, when committed, fall under an already-sufficient atonement — not under a prior pardon
+* So future sins, when committed, fall under an already-sufficient atonement – not under a prior pardon
 
 ---
 
@@ -716,7 +716,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And you, being dead in your trespasses [...] He has made alive together with Him, having forgiven you all trespasses, having wiped out the handwriting of requirements that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross."</p><p style="text-align: right;"> <em>Colossians 2:13–14 (NKJV)</em></p>
 
-* The punishment that stood against us is set aside — because Christ has borne it
+* The punishment that stood against us is set aside – because Christ has borne it
 
 ---
 
@@ -749,7 +749,7 @@
   * **The love of God:** He gave Himself, not merely a law, a teacher, or a martyr
   * **The ground of assurance:** our standing rests on Christ's finished work, not our feelings
   * **The motive for sanctification:** we were bought with a price; we live in response
-* Craig: "Christ is punished in our place for our sins — thereby freeing us legally from condemnation"
+* Craig: "Christ is punished in our place for our sins – thereby freeing us legally from condemnation"
 
 ---
 
@@ -758,9 +758,9 @@
 ![](pics/PenalSubstitution.jpg style="float: right; width: 7rem")
 
 * Craig: "It is not at all implausible that only in a world which includes Christ's passion and atoning death would the optimal number of people come freely to love and know God"
-* A costly grace — won at the infinite price of the Son — draws hearts as no cheap pardon could
+* A costly grace – won at the infinite price of the Son – draws hearts as no cheap pardon could
 * Not only God's love and holiness, but especially **God's wisdom**, is manifest in the atoning death of Christ
-* The Cross is not a divine embarrassment to explain away — it is the radiant center of Christian faith
+* The Cross is not a divine embarrassment to explain away – it is the radiant center of Christian faith
 
 ---
 

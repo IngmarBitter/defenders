@@ -13,7 +13,7 @@
   * Doctrine of God (attributes, natural theology)
   * Doctrine of the Trinity
   * Doctrine of the Holy Spirit
-* Now: **Christology** — the doctrine of Christ
+* Now: **Christology** – the doctrine of Christ
 
 ---
 

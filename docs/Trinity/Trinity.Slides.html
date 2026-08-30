@@ -100,7 +100,7 @@ Ingmar Bitter, PhD
     But the Helper, the Holy Spirit, whom the Father will send in My name, **He** will teach you all things.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>John 14:26 (NKJV) – Spirit</em></p>
 
-* All three use personal pronouns and address each other—evidence of distinct self-conscious persons.
+* All three use personal pronouns and address each other – evidence of distinct self-conscious persons.
 
 ---
 
@@ -122,7 +122,7 @@ Ingmar Bitter, PhD
     As they ministered to the Lord and fasted, the Holy Spirit **said**, Now separate to Me Barnabas and Saul for the work to which I have called them.
 </p><p style="text-align: right; margin-top: -2em; margin-bottom: -0.5em;"> <em>Acts 13:2 (NKJV) – Spirit</em></p>
 
-* Each person performs personal acts—creating, sending, commanding, directing—not mere roles.
+* Each person performs personal acts – creating, sending, commanding, directing – not mere roles.
 
 ---
 
@@ -232,7 +232,7 @@ Ingmar Bitter, PhD
     But as it is written: Eye has not seen, nor ear heard, Nor have entered into the heart of man The things which God has prepared for those who love Him. But **God has revealed them to us through His Spirit**.
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: 0.51em;"> <em>1 Corinthians 2:9–10 (NKJV) – Spirit</em></p>
 
-* Divine knowledge belongs fully to each — no gradation, no limitation.
+* Divine knowledge belongs fully to each – no gradation, no limitation.
 
 ---
 
@@ -254,7 +254,7 @@ Ingmar Bitter, PhD
     Do you not know that **you are the temple of God and that the Spirit of God dwells in you**?
 </p><p style="text-align: right; margin-top: -1.5em; margin-bottom: -0.5em;"> <em>1 Corinthians 3:16 (NKJV) – Spirit</em></p>
 
-* Each indivisibly present everywhere—not through delegation but through their very nature.
+* Each indivisibly present everywhere – not through delegation but through their very nature.
 
 ---
 
@@ -394,7 +394,7 @@ Ingmar Bitter, PhD
 ## 2nd Century - Logos Christology II
 
 * **Athenagoras:** Son = "the mind and reason of the Father… first begotten"; Spirit as effluence/"ray"
-* **Irenaeus:** adopts Logos into Western theology — identifies Word with Son and Wisdom with Spirit
+* **Irenaeus:** adopts Logos into Western theology – identifies Word with Son and Wisdom with Spirit
 * **Why it matters:**
   * Explains Christ's pre-existence and divine agency
   * Introduces language (begotten, generation, procession) that shapes later councils
@@ -407,7 +407,7 @@ Ingmar Bitter, PhD
 
 * Competing options appear
   * Modalism/Monarchianism (Noetus, Praxeas, Sabellius)
-    * Preserve strict numerical unity but collapse personal distinction — resulted from trying to avoid tritheism
+    * Preserve strict numerical unity but collapse personal distinction – resulted from trying to avoid tritheism
   * Social/Logos strands
     * Preserve distinct persons but need accounts of sameness of God
 * Tertullian (Latin West): coins "trinitas" and presses for both unity (one substance) and distinction (three persons).
@@ -429,7 +429,7 @@ Ingmar Bitter, PhD
 ## 4th Century Overview
 
 * 4th c.: Arian controversy (Arius: Son creature/derived) forces precise language about essence and personhood.
-* Council of Nicaea (325): first ecumenical response — key terms (homoousios) adopted to protect Son's full divinity.
+* Council of Nicaea (325): first ecumenical response – key terms (homoousios) adopted to protect Son's full divinity.
 * Post‑Nicene/Cappadocians: refine hypostasis/ousia distinction (1 ousia, 3 hypostases) and defend Spirit's full deity.
 * Council of Constantinople (381): further clarifies and ratifies the fuller Creedal formula.
 
@@ -441,8 +441,8 @@ Ingmar Bitter, PhD
 |---------------------------------|--------------|--------------------------------------------------|
 | **οὐσί-α** (ousi-a, noun)       | *essentia*   | essence; the core properties of a thing          |
 | **οὐσί-α** (ousi-a, noun)       | *substantia* | substance; what a thing really is                |
-| **ὁμο-ούσι-ος**  (homo-ousi-os) | —            | same    substance/essence (adjective)            |
-| **ὁμοι-ούσι-ος** (homoi-ousi-os)| —            | similar substance/essence (adjective)            |
+| **ὁμο-ούσι-ος**  (homo-ousi-os) | –            | same    substance/essence (adjective)            |
+| **ὁμοι-ούσι-ος** (homoi-ousi-os)| –            | similar substance/essence (adjective)            |
 | **ὑπόστασις** (hypostasis)      | *persona*    | person; who someone is                           |
 | **φύσις** (physis)              | *natura*     | nature; kind of being (e.g., divine vs. human)   |
 
@@ -452,7 +452,7 @@ Ingmar Bitter, PhD
 
 ## Modalism (What/Why Rejected)
 
-* Modalism: Father, Son, Spirit = one person manifesting in different “modes” or roles 
+* Modalism: Father, Son, Spirit = one person manifesting in different “modes” or roles
   * avoids plural gods but erases interpersonal relations
 * Why problem: Scripture records I–Thou relations (prayer, obedience, sending). Modalism cannot account for genuine dialogue (e.g., Father speaking to Son).
 * Early refutation: Tertullian and others deploy plural pronouns and dialogical prooftexts to argue for personal distinctness.
@@ -461,7 +461,7 @@ Ingmar Bitter, PhD
 
 ## Arianism (Core Claims & Stakes)
 
-* Arius (Alexandria): Son is creaturely/derived — “there was when he was not.”
+* Arius (Alexandria): Son is creaturely/derived – “there was when he was not.”
 * Why it mattered: If Son is created → Son cannot mediate salvation in a way that secures worship or ultimate reconciliation (undermines atonement and worship).
 * Council outcome: Nicaea condemned Arian propositions and affirmed Son’s full divinity (same essence as the Father)
 * Arianism raises pastoral and liturgical stakes: it affects who may rightly be prayed to and worshiped.
@@ -471,7 +471,7 @@ Ingmar Bitter, PhD
 ## Nicene Creed (Key Lines & Why They Matter)
 
 * “God from God, Light from Light, true God from true God, begotten, not made, of one substance (**homoousios**) with the Father.”
-  * homoousios = “same essence” — Son shares divine nature, not a created being.
+  * homoousios = “same essence” – Son shares divine nature, not a created being.
   * begotten, not made = distinguishes filial relation from creaturely origination.
 * Anathemas appended: reject “there was when he was not” / Son as created.
 * The term homoousios was chosen to deny Arianism and to mark the difference between sameness of essence and identity of person.
@@ -542,7 +542,7 @@ Ingmar Bitter, PhD
 * Ancient: "person" = rational hypostasis (an individual who **knows**, **wills**, and **acts**).
 * Modern: "person" = a self-conscious agent (who **knows**, **wills**, **acts**, and has a first‑person point of view).
 * Substantial overlap: both views involve intellect, will, agency, and the capacity for interpersonal love.
-* Cappadocians: three hypostases with mutual knowledge, will, and love—very close to what we now call “persons.”
+* Cappadocians: three hypostases with mutual knowledge, will, and love – very close to what we now call “persons.”
 * Trinity (on the basis of Scripture): three "I"s in one divine nature.
 
 ---
@@ -555,7 +555,7 @@ Ingmar Bitter, PhD
     * **Heart**: emotions, capacity to love.
     * **Spirit**: personal communion with the other divine persons.
 * This model aims to preserve unity (one soul), equality (each fully divine), and real personal distinction.
-* Closest analogy: Cerberus — one living being with three consciousnesses.
+* Closest analogy: Cerberus – one living being with three consciousnesses.
   * But: creaturely, material, and sub‑rational; only a very rough pointer, not a pattern for deity.
 
 ---
