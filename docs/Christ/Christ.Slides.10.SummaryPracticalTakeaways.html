@@ -32,7 +32,7 @@
 
 ## Fully God, Fully Man
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/Trinity.and.JesusTrueGodTrueMan.png style="float: right; width: 10rem")
 
 * The New Testament affirms both the full **deity** and the full **humanity** of Jesus Christ
 * He is not a demigod, not God in a human costume, not a man adopted into divinity
@@ -54,7 +54,7 @@
 
 ## Why the God-Man?
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/DiedForOurSins.jpg style="float: right; width: 8rem")
 
 * The person exists for the work: only a **God-man** can be our Savior
 * **Truly human** – so He can stand in our place and die
@@ -124,8 +124,10 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
+* The crucifixion itself is bedrock – attested by friend and foe alike (Tacitus, Josephus, the Talmud)
 * The historical apologetic rests on **three facts** nearly all scholars grant: the empty tomb, the post-mortem appearances, and the origin of the disciples' belief
-* Run through the historian's criteria, every naturalistic rival – conspiracy, swoon, hallucination, legend – fails on scope, power, or plausibility
+* Run through McCullagh's criteria, every rival – conspiracy, swoon, Islam's substitution, wrong tomb, legend, hallucination – fails on scope, power, or plausibility
+* Nor is it "too improbable": as with a lottery win, the question is which is more improbable – the event, or the evidence arising without it
 * "**God raised Jesus from the dead**" best explains all three – especially given natural theology and Jesus' own radical claims
 
 ---
@@ -148,11 +150,12 @@
 
 ## Christ Alone
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/NoOtherName.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved."</p><p style="text-align: right;"> <em>Acts 4:12 (NKJV)</em></p>
 
-* **Christian particularism:** salvation is through Christ alone – universal in *scope*, particular in *means*
+* **Christian particularism:** salvation is through Christ alone – needed by all, offered to all, not accepted by all
+* The sting: not that Christianity is *different*, but that it says other worldviews are **wrong**
 * This is not exclusivism that shuts people out; God loves all and desires all to be saved
 * The fallacies against it (arrogance, cultural relativism) are self-defeating – the real challenge is the fate of the unevangelized
 
@@ -160,7 +163,7 @@
 
 ## No One Lost by Accident
 
-![](pics/ChristOverview.jpg style="float: right; width: 7rem")
+![](pics/HandsEarth.jpg style="float: right; width: 8rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And He has made from one blood every nation of men to dwell on all the face of the earth, and has determined their preappointed times and the boundaries of their dwellings, so that they should seek the Lord, in the hope that they might grope for Him and find Him, though He is not far from each one of us;"</p><p style="text-align: right;"> <em>Acts 17:26–27 (NKJV)</em></p>
 
@@ -202,7 +205,7 @@
 
 ## Worship
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/GodOutstretchedArms.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore God also has highly exalted Him and given Him the name which is above every name, that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."</p><p style="text-align: right;"> <em>Philippians 2:9–11 (NKJV)</em></p>
 
@@ -213,7 +216,7 @@
 
 ## Assurance
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/GiftOfFaith.jpg style="float: right; width: 7rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"There is therefore now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit."</p><p style="text-align: right;"> <em>Romans 8:1 (NKJV)</em></p>
 
@@ -225,7 +228,7 @@
 
 ## Hope
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/HeavenCity.jpg style="float: right; width: 7rem")
 
 * Christ is the **firstfruits** – His resurrection is the forerunner of ours
 * The grave is not the last word: we await glorious, immortal, imperishable bodies
@@ -236,7 +239,7 @@
 
 ## Holiness
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/MoralInfluence.jpg style="float: right; width: 8rem")
 
 * The cross is not only **pardon** but **transformation** – justification *and* sanctification
 * United to Christ in His death and resurrection, we are dead to sin and alive to God
@@ -247,7 +250,7 @@
 
 ## Mission
 
-![](pics/ChristWork.jpg style="float: right; width: 7rem")
+![](pics/DivineAppointments.jpg style="float: right; width: 7rem")
 
 * If salvation is through Christ alone, then love **compels** proclamation
 * Missions is not driven by guilt but by joy: God has gone ahead and prepared hearts – there are **divine appointments** waiting
