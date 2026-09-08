@@ -118,7 +118,9 @@ Resources
 
 [tinyUrl.com/CreeksideDefenders](https://ingmarbitter.github.io/defenders/CreeksideDefenders.html)
 
-[creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
+Group page: [creeksidechristian.churchcenter.com/groups/community-groups/creekside-defenders](https://creeksidechristian.churchcenter.com/groups/community-groups/creekside-defenders)
+
+Join link: [creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6](https://creeksidechristian.churchcenter.com/groups/join/CSvr6Z1Aj2MptxFEhv7rKDe6)
 
 
 ![](RevelationAndFoundations/foundationPics/CreeksideDefendersSignUp.jpg style="float: right; width: 9rem")
