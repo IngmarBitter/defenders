@@ -69,35 +69,35 @@ Topics
 8. [Doctrine of the Holy Spirit](Trinity/HolySpirit.Slides.html) <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
 9. [Doctrine of Christ](Christ/Christ.Slides.html) <small>Deity and Humanity of Christ, Incarnation, Death, Resurrection, and Access to Salvation through Christ</small>
 10. Doctrine of Creation vs Evolutionism
-   1. Creation out of nothing <small>the universe had a beginning – and a beginning needs a Cause</small>
-   2. The Days of Genesis <small>the historical 6x24h-day core, and what further facets other readings contribute – and where they fail</small>
-   3. Physics <small>origin and expansion of the universe, stars and heavy elements, fine-tuned constants – design needs a Designer</small>
-   4. Chemistry <small>the first living cell from inorganic matter? – life needs a Life-Giver</small>
-   5. Biology <small>irreducibly complex systems – inventions need an Inventor; man/ape differences, consciousness, morality</small>
+    1. Creation out of nothing <small>the universe had a beginning – and a beginning needs a Cause</small>
+    2. The Days of Genesis <small>the historical 6x24h-day core, and what further facets other readings contribute – and where they fail</small>
+    3. Physics <small>origin and expansion of the universe, stars and heavy elements, fine-tuned constants – design needs a Designer</small>
+    4. Chemistry <small>the first living cell from inorganic matter? – life needs a Life-Giver</small>
+    5. Biology <small>irreducibly complex systems – inventions need an Inventor; man/ape differences, consciousness, morality</small>
 11. Doctrine of Man <small>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?</small>
 12. Doctrine of Salvation
-   1. How Jesus’s death can be a substitute payment for our own guilt penalty
-   2. Baptism
-   3. Only Jesus leads to heaven
-   4. Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
-   5.  Can we throw away our salvation?
+    1. How Jesus’s death can be a substitute payment for our own guilt penalty
+    2. Baptism
+    3. Only Jesus leads to heaven
+    4. Who decides who believes? [Calvinism, Arminianism, Molinism](Molinism/Molinism.slides.html) <small>How to harmonize God's sovereignty and our free will.</small>
+    5.  Can we throw away our salvation?
 13. Doctrine of the Church <small>The role of believers as the body of Christ</small>
 14. Doctrine of the Last Things 
-   1.   Jesus Second Coming
-   2.   [Resurrection of the Saints, the New Heaven and Earth](LastThings/AfterDeath.html)
+    1.   Jesus Second Coming
+    2.   [Resurrection of the Saints, the New Heaven and Earth](LastThings/AfterDeath.html)
 15. Church practices 
-   1.  Communion
-   2.  Spiritual gifts & speaking in tongues
-   3.  Leadership & women
-   4.  Divorce and remarriage
-   5.  Alcohol
+    1.  Communion
+    2.  Spiritual gifts & speaking in tongues
+    3.  Leadership & women
+    4.  Divorce and remarriage
+    5.  Alcohol
 16. God’s will for me <small>How to make decisions that God approves and make Him happy</small>
 17. Tactics <small>How to share our believes in a gentle and respectful way @Tactics book</small>
 18. Social Issues
-   1.  Abortion <small>Wrong according to the Bible and secularly</small>
-   2.  Sex vs Gender
-   3.  Intolerance, Bigot, Homophobia, Transphobia <small>What it is, How to respond to being labelled as such</small>
-   4.  Islamophobia
+    1.  Abortion <small>Wrong according to the Bible and secularly</small>
+    2.  Sex vs Gender
+    3.  Intolerance, Bigot, Homophobia, Transphobia <small>What it is, How to respond to being labelled as such</small>
+    4.  Islamophobia
 19. False religions <small>Islam, Roman Catholic, LDS, Jehovah Witnesses Key believes, counter apologetics</small>
 20. 12 Rules for Life, Jesus’ edition <small>How Jesus would improve upon Jordan Peterson’s book</small>
 21. [5 Love Languages](5LoveLanguages/5LoveLanguages.slides.html) <small>Great relationship advice from a Christian councillor</small>
