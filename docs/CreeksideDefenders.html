@@ -69,11 +69,11 @@ Topics
 8. [Doctrine of the Holy Spirit](Trinity/HolySpirit.Slides.html) <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
 9. [Doctrine of Christ](Christ/Christ.Slides.html) <small>Deity and Humanity of Christ, Incarnation, Death, Resurrection, and Access to Salvation through Christ</small>
 10. Doctrine of Creation vs Evolutionism
-   1. Creation out of nothing
-   2. 6 Days and/or not (6 24h days, Day Age Theory, It's just a moral story)
-   3. Physics <small>Big Bang & Expansion of the Universe, creation of stars, heavy elements, Cosmological constants and configurations</small>
-   4. Chemistry <small>First living cell from inorganic matter</small>
-   5. Biology <small>Evolutionism & Creation, Irreducible Complex Systems, Man/Ape differences, variations between humans, Consciousness, morality</small>
+   1. Creation out of nothing <small>the universe had a beginning – and a beginning needs a Cause</small>
+   2. The Days of Genesis <small>the historical 6x24h-day core, and what further facets other readings contribute – and where they fail</small>
+   3. Physics <small>origin and expansion of the universe, stars and heavy elements, fine-tuned constants – design needs a Designer</small>
+   4. Chemistry <small>the first living cell from inorganic matter? – life needs a Life-Giver</small>
+   5. Biology <small>irreducibly complex systems – inventions need an Inventor; man/ape differences, consciousness, morality</small>
 11. Doctrine of Man <small>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?</small>
 12. Doctrine of Salvation
    1. How Jesus’s death can be a substitute payment for our own guilt penalty
