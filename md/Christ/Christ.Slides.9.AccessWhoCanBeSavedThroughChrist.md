@@ -9,9 +9,9 @@
 * [The Scandal of Particularism](#slide3)
 * [Answering the Pluralist](#slide9)
 * [The Real Problem: The Unevangelized](#slide15)
-* [A Soteriological Problem of Evil](#slide24)
-* [The Middle Knowledge Solution](#slide30)
-* [Practical Takeaways](#slide41)
+* [A Soteriological Problem of Evil](#slide25)
+* [The Middle Knowledge Solution](#slide31)
+* [Practical Takeaways](#slide42)
 
 ---
 
@@ -245,11 +245,22 @@
 
 ![](pics/SuppressTruth.jpg style="float: right; width: 7rem")
 
-* The sobering New Testament testimony: people generally do **not** measure up even to the light of general revelation
-* Creation makes God plain, "so that they are **without excuse**" (Romans 1:20) – yet men suppress the truth and turn to idols (Romans 1:18–23)
+* Creation makes God evident, "so that they are **without excuse**" (Romans 1:20) – yet men suppress the truth and turn to idols (Romans 1:18–23)
+  * The idols are not only carved images but **false gods** – Allah, the gods of Hinduism, and the rest
+  * Not isolated denial but **exchange**: "exchanged the truth of God for **the lie**" (Romans 1:25) – reverence aimed at a substitute
+  * Islam honors a Creator, then redefines Him so far that **Allah stands as a rival to the God of the Bible, not another name for Him**
+  * Holding to such a god unrepentant breaks the **first commandment** (Exodus 20:3) – not simple ignorance but **choosing the lesser**; God alone reads the individual heart
 * The verdict is universal: "**all have sinned** and fall short of the glory of God" (Romans 3:23)
-* So there is little ground for optimism that **many** – if any – are actually saved through general revelation alone
+
+---
+
+## Accessible, but Rarely Accessed
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+* People generally do **not** measure up even to the light they have – hence, not **many**, if any, are saved through general revelation alone
 * Salvation is universally **accessible** this way, but rarely **accessed**
+* So salvation without conscious knowledge of Christ is **possible, but hard** – far easier to hear the Gospel and believe
 * So the problem is not that God condemns the uninformed – it lies deeper
 
 ---
@@ -328,10 +339,13 @@
 
 ![](pics/EyeOverFork.jpg style="float: right; width: 10rem")
 
-* Developed by the Jesuit theologian **Luis Molina** (hence "Molinism")
+* Core idea of **Molinism**, after Jesuit **Luis Molina**
+* Three kinds of divine knowledge of the future:
+  * **Natural knowledge** – all logically possible truths: what **could** be
+  * **Middle knowledge** – all hypothetical truths, given some circumstance: what **would** be (between the other two → *middle* knowledge)
+  * **Free knowledge** – all actual truths in the world He created: what **will** be
 * **Middle knowledge** is God's knowledge of what *every possible person* would **freely** do in *any* circumstance He might place him in
-* It is not mere foreknowledge of the future; it is knowledge of all the true "counterfactuals of freedom"
-* With it, a sovereign God can providentially order history without ever overriding a free will – and it unlocks the solution
+  * With it, a sovereign God can providentially order history without ever overriding a free will – and it unlocks the solution
 
 ---
 
@@ -392,7 +406,7 @@
 
 ---
 
-## And This Is the Worst Case
+## God Is Not Limited to Missionaries
 
 ![](pics/DreamVision.jpg style="float: right; width: 7rem")
 
@@ -447,7 +461,8 @@
 * Objection (Hasker): doesn't this make evangelism pointless? ("Should Peter go to the mission field?")
 * No – through missions God brings the Gospel to a people group such that He has placed there **people who will respond** when they hear it. Missions **maximizes** the saved
 * The motivation is not guilt ("if I don't go, they're lost and it's on me") but **joy**: God has foreknown your obedience and set **divine appointments** in your path
-* Anyone who wants – or even would want – to be saved, will be. And missions can never **harm**: whoever responds to God's voice in nature and conscience will respond to it in the Gospel
+* Hearing the Gospel is therefore a **bonus gift** – not the only road to God, but by far the easiest one
+* Anyone who wants – or even *would* want, in some circumstance – to be saved, will be
 
 ---
 
