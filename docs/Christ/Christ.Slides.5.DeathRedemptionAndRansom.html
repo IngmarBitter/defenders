@@ -207,7 +207,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it."</p><p style="text-align: right;"> <em>Colossians 2:15 (NKJV)</em></p>
 
 * Salvation truly is **victory and liberation** – Christ genuinely defeats sin, death, and the powers
-* C. S. Lewis in Narnia: the White Witch's claim rests on the Emperor's "Deep Magic" – **God's own law and justice**; Aslan satisfies it by substitution
+* C. S. Lewis's Narnia pictures the logic, though imperfectly: Aslan frees Edmund by **substitution**, not by buying off the Witch – though Lewis grants her a lawful claim Scripture does not
 * So even the vivid "ransom to Satan" image reduces to **satisfying God's justice** – and rooted there, ransom loses nothing: we are truly set free, and can say *how*
 
 ---
