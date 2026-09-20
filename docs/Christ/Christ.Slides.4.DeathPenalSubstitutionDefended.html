@@ -10,9 +10,9 @@
 * [Objection 1: Incoherence](#slide8)
 * [Objection 2: Injustice](#slide19)
 * [Satisfaction of Divine Justice](#slide35)
-* [Representation](#slide45)
-* [Forgiveness and Pardon](#slide50)
-* [Practical Takeaways](#slide60)
+* [Representation](#slide46)
+* [Forgiveness and Pardon](#slide51)
+* [Practical Takeaways](#slide61)
 
 ---
 
@@ -488,6 +488,21 @@
 * He endured the **withdrawal of the Father's favorable presence** and the wrath due our sin – real, but only for the duration He bore it
 * This is **not** an ontological tear in the Trinity: the divine essence is indivisible, and the Father never loved the Son more than here (John 10:17)
 * It is judicial and experiential – not a breaking of God's eternal communion
+
+---
+
+## The Cry from the Cross
+
+![](pics/DivineJustice.jpg style="float: right; width: 7rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"My God, My God, why have You forsaken Me?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Matthew 27:46 (NKJV), quoting Psalm 22:1</em></p>
+
+* The words are the opening line of **Psalm 22** – a psalm that turns and ends in **vindication**
+* **Reading 1:** Christ points His hearers to the whole psalm, not reporting despair
+  * On this reading the Trinity-rupture objection never even arises
+* **Reading 2:** the desolation was genuinely experienced
+  * Then it was borne **in His human nature** – the classical reply (Aquinas)
+* Either way, the divine essence is untorn
 
 ---
 

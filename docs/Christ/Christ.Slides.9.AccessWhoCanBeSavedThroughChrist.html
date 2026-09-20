@@ -39,6 +39,7 @@
 * **Christian particularism:** salvation is through Christ alone – not "many independent roads to God"
 * The logic of the New Testament: given the **universality of sin** and the **uniqueness of Christ's atoning death**, there is no salvation apart from Him
 * This was as scandalous in the polytheistic Roman Empire – costing the early church torture and death – as it is in the modern West
+* Every other founder is dead and buried; the **resurrection** is what makes the claim more than a preference
 
 ---
 
@@ -429,6 +430,7 @@
 
 * God so orders history that **those who would respond to the Gospel are born where and when they will hear it**
 * Those who never hear it **would not have believed it anyway** – so no one is damned by geographical or historical accident
+* *Katoikias*: not borders but the actual **dwellings** people settle in
 * Paul's Areopagus speech is exactly this conclusion, reached by revelation
 
 ---

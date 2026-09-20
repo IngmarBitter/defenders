@@ -66,6 +66,7 @@
 * Jesus defines His entire mission in ransom terms – His life is the price that sets captives free
 * "The Son of Man" echoes Daniel 7:14, where all peoples serve Him – yet Jesus reverses it: He comes to **serve** and to **give**
 * "A ransom for many" echoes Isaiah 53:12 ("He bore the sin of many") – tying redemption back to the Suffering Servant
+* Hearers who knew slavery and ransom prices grasped it at once; for us it needs explaining
 * This was no later rationalization: Jesus Himself understood His death as a redemptive ransom
 
 ---

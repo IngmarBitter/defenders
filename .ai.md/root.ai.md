@@ -199,6 +199,32 @@ markdeepSlidesOptions = {
 
 **CRITICAL:** Ensure no duplicate content after the `<!-- Markdeep slides stuff -->` comment line.
 
+## CRITICAL: Slide Overflow Check (run after EVERY slide edit)
+
+Markdeep slides set `.slide-content { overflow: hidden }`, so anything that does not
+fit the slide box is **silently clipped** - no scrollbar, no warning, the text is
+simply gone when presenting. **Information on a slide is no good if it is not visible.**
+
+Never judge fit by character count or by eyeballing the markdown. Always measure:
+
+```
+node tools/check-slide-overflow.js                        # every deck under docs/
+node tools/check-slide-overflow.js docs/Christ            # one folder
+node tools/check-slide-overflow.js docs/Christ/X.html     # one deck
+```
+
+- Run it after any edit that adds or lengthens a line, enlarges an image, or adds a slide.
+- Exit code 0 = clean, 1 = something is clipped, 2 = setup problem (no browser found).
+- Output names the slide, how many pixels are cut, and the text that is being cut off.
+- It renders in headless Chrome (falls back to Edge; `CHROME_PATH` overrides). Both are
+  Blink, like the presenting browser. **Safari/WebKit cannot be checked on Windows** -
+  leave a little slack rather than trimming to exactly zero.
+- Title and section-divider slides are skipped: being vertically centered, they always
+  report a constant offset that is not a clip.
+- When a slide overflows, prefer splitting it or shortening a line over shrinking images;
+  check the "before" state (`git show HEAD:<path>`) to see whether the overflow is newly
+  introduced or pre-existing.
+
 ## Quality Checklist Before Presentation
 
 - [ ] All Scripture quotes verified against blueletterbible.org
@@ -207,3 +233,4 @@ markdeepSlidesOptions = {
 - [ ] No duplicate content in file
 - [ ] File synced to HTML
 - [ ] Navigation links working
+- [ ] `node tools/check-slide-overflow.js` reports no clipped slides

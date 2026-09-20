@@ -20,6 +20,7 @@ Ingmar Bitter, PhD
   * God is NOT one person just wearing three masks (modalism)
   * God is NOT three separate gods (tritheism)
   * Christ & the Holy Spirit are fully divine persons
+* Love needs an **other**: a tri-personal God is loving **before** creation, with no world yet to love
 * Worship, prayer, salvation shape depend on tri-personal reality
 * Verses → concept-inference → label “Trinity”
 
@@ -189,6 +190,20 @@ Ingmar Bitter, PhD
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Acts 5:3–4 (NKJV) – Spirit</em></p>
 
 * Each person explicitly called God.
+
+---
+
+## The Pierced Yahweh (Zechariah 12:10)
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
+    ...then they will look on **Me whom they pierced**. Yes, they will mourn for **Him** as one mourns for his only son.
+</p><p style="text-align: right; margin-top: -1em; margin-bottom: -0.5em;"> <em>Zechariah 12:10 (NKJV)</em></p>
+
+* Yahweh Himself is speaking – and says they pierced **Me** – then the text turns and mourns for **Him**
+* How do you pierce a spirit? The One pierced is the **visible** Yahweh, distinct from the Speaker
+* Not an isolated oddity: the suffering Messiah is already in Zechariah 9 and Isaiah 52–53
+* This is the Old Testament **"two powers in heaven"** pattern – plurality within the one God, before the New Testament names it
+* John applies the verse to the cross (John 19:37) and again to the return (Revelation 1:7)
 
 ---
 
@@ -557,6 +572,7 @@ Ingmar Bitter, PhD
 * This model aims to preserve unity (one soul), equality (each fully divine), and real personal distinction.
 * Closest analogy: Cerberus – one living being with three consciousnesses.
   * But: creaturely, material, and sub‑rational; only a very rough pointer, not a pattern for deity.
+* Closer: **dicephalic twins** (the Hensel sisters) – two rational persons, one body; God is spirit, so drop the body.
 
 ---
 
