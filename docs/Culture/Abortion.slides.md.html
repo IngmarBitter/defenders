@@ -7,7 +7,7 @@
 <small><em><span class="current-date"></span></em></small><br>
 Ingmar Bitter, PhD
 
-![](abortionPics/pregnantWoman.jpg style="float: center; width: 9rem")
+<img src="abortionPics/pregnantWoman.jpg" style="display: block; margin: 0.4em auto; width: 5.5rem;">
 
 ---
 
@@ -15,17 +15,13 @@ Ingmar Bitter, PhD
 
 ![](abortionPics/abortionDefinition.jpg style="float: right; width: 9rem")
 
-* Abortion is the termination of a pregnancy after, accompanied by, resulting in, or closely followed by the **death** of the embryo or fetus.
-  * Webster Dictionary
+* Abortion is the termination of a pregnancy after, accompanied by, resulting in, or closely followed by the **death** of the embryo or fetus. – *Webster Dictionary*
 
-* Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus.
-  * Wikipedia, Grok2
+* Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. – *Wikipedia, Grok2*
 
-* Abortion is the termination of a pregnancy because of miscarriage or as deliberate procedure for medical, personal or social reasons.
-  * Copilot/ChatGPT4
+* Abortion is the termination of a pregnancy because of miscarriage or as deliberate procedure for medical, personal or social reasons. – *Copilot/ChatGPT4*
 
-* Abortion is the termination of a pregnancy before a fetus can survive outside of the uterus. It can be a natural process, also known as a miscarriage, or it can be intentionally induced through medical or surgical procedures.
-  * Google AI
+* Abortion is the termination of a pregnancy before a fetus can survive outside of the uterus. It can be a natural process, also known as a miscarriage, or it can be intentionally induced through medical or surgical procedures. – *Google AI*
 
 ---
 
