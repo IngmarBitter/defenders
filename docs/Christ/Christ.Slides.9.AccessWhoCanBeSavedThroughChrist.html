@@ -9,9 +9,9 @@
 * [The Scandal of Particularism](#slide3)
 * [Answering the Pluralist](#slide9)
 * [The Real Problem: The Unevangelized](#slide15)
-* [A Soteriological Problem of Evil](#slide25)
-* [The Middle Knowledge Solution](#slide31)
-* [Practical Takeaways](#slide42)
+* [A Soteriological Problem of Evil](#slide27)
+* [The Middle Knowledge Solution](#slide33)
+* [Practical Takeaways](#slide44)
 
 ---
 
@@ -215,7 +215,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For there is **no partiality** with God. For as many as have sinned without law will also perish without law, and as many as have sinned in the law will be **judged by the law**"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 2:11–12 (NKJV)</em></p>
 
 * God does **not** judge those who never heard on whether they believed in a Christ they could not have known – that would be manifestly unfair
-* Each is judged by the law he actually had – for the unevangelized, the **light they do have**: God's general revelation in nature and in the conscience (Romans 2:14–15)
+* Each is judged by the law he actually had – for the unevangelized, the **light they do have**: God's general revelation in nature and in the conscience (Rom 2:14–15)
+* Conscience is not merely inherited culture – it can convict **against** it, even where a person has no vocabulary for the wrong he senses
+* But it only **names** the problem; it cannot fix it: "all have sinned" (Romans 3:23)
 
 ---
 
@@ -225,8 +227,11 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;"</p><p style="text-align: right;"> <em>Romans 2:7 (NKJV)</em></p>
 
-* A **real offer** of salvation to the uninformed – not an unreachable standard
-* The precedent: the **OT saints** – Abraham "believed God, and it was accounted to him for righteousness" (Romans 4:3); God "passed over" their sins in forbearance (Romans 3:25) until the cross redeemed them (Hebrews 9:15). The atonement reaches **backward** in time
+* A **real offer** of salvation to the uninformed – reachable
+* The precedent: the **OT saints** – saved before Calvary, by that same cross: the atonement reaches **backward**
+  * Abraham "believed God, and it was accounted to him for righteousness" (Rom 4:3)
+  * God "passed over" their sins until the cross redeemed them (Rom 3:25; Heb 9:15)
+* The blood is always applied at another time than the death – no one at the cross asked Him to die for them; if it reaches **forward** to us, it can reach **backward**
 * So the benefits of Christ's death can be applied **without conscious knowledge of Christ** – like a beneficiary of an unknown uncle's will
 
 ---
@@ -236,21 +241,43 @@
 ![](pics/HolyPagan.jpg style="float: right; width: 7rem")
 
 * Salvation through general revelation is **not works-based**: sensing one's guilt before the Creator and flinging oneself on His mercy
+* Worship of the unseen Creator is not by itself enough – it takes **repentance** for breaking the moral law written on the heart: "God, whoever You are, redeem me"
 * The "Holy Pagans" – **Job and Melchizedek** – were saved through Christ's death without conscious knowledge of Him or covenant membership
 * There could be modern "Jobs" – Craig points to **Socrates**, heeding the divine voice against the gods of Athens, and the Native American holy man **Black Elk**, whose Great Spirit testimony reads "just like Romans 1"
 
 ---
 
-## But Few Respond
+## Without Excuse
 
 ![](pics/SuppressTruth.jpg style="float: right; width: 7rem")
 
 * Creation makes God evident, "so that they are **without excuse**" (Romans 1:20) – yet men suppress the truth and turn to idols (Romans 1:18–23)
   * The idols are not only carved images but **false gods** – Allah, the gods of Hinduism, and the rest
   * Not isolated denial but **exchange**: "exchanged the truth of God for **the lie**" (Romans 1:25) – reverence aimed at a substitute
-  * Islam honors a Creator, then redefines Him so far that **Allah stands as a rival to the God of the Bible, not another name for Him**
-  * Holding to such a god unrepentant breaks the **first commandment** (Exodus 20:3) – not simple ignorance but **choosing the lesser**; God alone reads the individual heart
-* The verdict is universal: "**all have sinned** and fall short of the glory of God" (Romans 3:23)
+
+---
+
+## Why Idols?
+
+![](pics/ArrogantScientist.jpg style="float: right; width: 7rem")
+
+* Why exchange the Creator for a substitute? For **control and predictability**
+* An invisible God you cannot manage is uncomfortable; a rain-god, an animal, a carved image are levers you can pull
+* Israel and the golden calf: God did not answer on their timetable, so they **manufactured certainty** (Exodus 32)
+* The modern form is the same hunger – measure it, predict it, and you need not trust anyone
+* Most people simply inherit their gods; comparing them from first principles is a rare luxury
+
+---
+
+## Exchange, or Ignorance?
+
+![](pics/BornElsewhere.jpg style="float: right; width: 7rem")
+
+* **Islam** honors a Creator, then redefines Him so far that Allah stands as a **rival** to the God of the Bible, not another name
+* Holding to such a god unrepentant breaks the **first commandment** (Exodus 20:3) – not simple ignorance but **choosing the lesser**
+* By contrast, a man in true isolation, with no god handed down to him, is not exchanging but **ignorant** – the hard case this argument assumes
+* God alone reads the individual heart – we argue the principle, never the person
+* The verdict is universal either way: "**all have sinned** and fall short of the glory of God" (Romans 3:23)
 
 ---
 
@@ -364,9 +391,9 @@
 
 ![](pics/ResistibleGrace.jpg style="float: right; width: 7rem")
 
-* Two working assumptions, each defended elsewhere in Defenders:
-  * **Libertarian freedom** – God's grace is **resistible**; He draws but never overpowers the will
-  * **Middle knowledge** – part of divine omniscience (see the Doctrine of God)
+* Two working assumptions (see elsewhere in Defenders):
+  * **Middle knowledge** – God knows what we would do in any possible circumstance (see the Doctrine of God)
+  * **Libertarian freedom** – God's grace is **resistible**; He draws but never overpowers the will – and His knowing what you *would* choose does not cause it
 * The **Calvinist** road differs: with *irresistible* grace God could save all – so he must say God **preferred** not to. Craig finds that far harder to square with an all-loving God; the problem presses hardest on Calvinism
 * Reject middle knowledge if you will – but then you owe the problem a solution of your own
 
@@ -435,6 +462,7 @@
 * It can *sound* like "some people are created for damnation" – but that misunderstands the view
 * The counterfactuals of freedom are **contingent**, not part of anyone's nature: "if I were rich, I'd buy a Mercedes" might be true, but in another world I'd buy a BMW
 * A person who would reject Christ in one set of circumstances might freely receive Him in another
+* God's **foreknowing** is *not* God's **causing**: the forecast does *not* make the rain
 * No one is fated. The lost are lost by their **own free choice**, and God extends sufficient grace to all
 
 ---
@@ -454,15 +482,25 @@
 
 ---
 
+## Does This Make Missions Pointless?
+
+![](pics/PopulousWorld.jpg style="float: right; width: 7rem")
+
+* Objection (Hasker): doesn't this make evangelism pointless? ("Should Peter go to the mission field?")
+* No – God brings the Gospel to a people **because** He has placed there those who will respond when they hear it: missions **maximizes** the saved
+* Missions is not pointless but **targeted**: a missionary may go for the one person God means to reach
+* A village that does not respond still trains him for the next appointment
+* Not every sharing is an instant appointment – some seed lands much later
+
+---
+
 ## A Positive Motivation for Missions
 
 ![](pics/DivineAppointments.jpg style="float: right; width: 7rem")
 
-* Objection (Hasker): doesn't this make evangelism pointless? ("Should Peter go to the mission field?")
-* No – through missions God brings the Gospel to a people group such that He has placed there **people who will respond** when they hear it. Missions **maximizes** the saved
 * The motivation is not guilt ("if I don't go, they're lost and it's on me") but **joy**: God has foreknown your obedience and set **divine appointments** in your path
 * Hearing the Gospel is therefore a **bonus gift** – not the only road to God, but by far the easiest one
-* Anyone who wants – or even *would* want, in some circumstance – to be saved, will be
+* Anyone anywhere who wants – or even *would* want, in some circumstance – to be saved, will be
 
 ---
 

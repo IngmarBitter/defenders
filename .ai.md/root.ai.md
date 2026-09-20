@@ -88,11 +88,13 @@ When fixing encoding issues, systematically replace:
 
 Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Spirit in slide commentary text, matching the convention used in NKJV scripture quotes.
 
-### Full Book Names Only
+### Full Book Names Preferred
 
-**NEVER use abbreviations.** Always spell out: Exodus (NOT Ex), Numbers (NOT Num), Judges (NOT Judg), Chronicles (NOT Chr), Ezekiel (NOT Ezek), Corinthians (NOT Cor), etc.
+**Spell out book names by default:** Exodus (NOT Ex), Numbers (NOT Num), Judges (NOT Judg), Chronicles (NOT Chr), Ezekiel (NOT Ezek), Corinthians (NOT Cor), etc.
 
-- Exception (user-approved): when the full name would make a slide row overflow, an abbreviated inline reference (e.g. `1 Cor 9:18`) is permitted. Do not "fix" an existing abbreviation back to the full name without checking the row length.
+- This is a strong preference, not an unshakable rule. When the full name would push a slide row over, an abbreviated inline reference (e.g. `1 Cor 9:18`, `Rom 3:25f`) is permitted – fitting the row wins.
+- Block-quote attributions (the `<em>` label under a scripture quote) always use the full name; only inline references abbreviate.
+- Do not "fix" an existing abbreviation back to the full name without checking the row length.
 
 ### Scripture Quote Format (Slides)
 
@@ -201,7 +203,7 @@ markdeepSlidesOptions = {
 
 - [ ] All Scripture quotes verified against blueletterbible.org
 - [ ] All encoding issues fixed (no mojibake characters)
-- [ ] All book names spelled out in full
+- [ ] Book names spelled out in full, except inline refs abbreviated to fit a row
 - [ ] No duplicate content in file
 - [ ] File synced to HTML
 - [ ] Navigation links working
