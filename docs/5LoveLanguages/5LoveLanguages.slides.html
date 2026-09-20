@@ -232,7 +232,7 @@ Chapter 1 What happens to love after the wedding?
 
 ## Love Makes the Difference
 
-![](SelfWorth.png style="float: right; width: 11rem")
+![](SelfWorth.png style="float: right; width: 9rem")
 
 * Feeling loved is a basic need
   * => Also boosts self esteem & significance & security

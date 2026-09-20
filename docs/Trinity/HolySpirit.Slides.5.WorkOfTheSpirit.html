@@ -300,13 +300,13 @@
 
 ## NT Pattern: Permanent Spiritual Gifts
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"There are diversities of gifts, but the same Spirit. There are differences of ministries, but the same Lord. And there are diversities of activities, but it is the same God who works all in all. But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues. But one and the same Spirit works all these things, distributing to each one individually as He wills."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>1 Corinthians 12:4-11 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"There are diversities of gifts, but the same Spirit... But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom... to another prophecy, to another discerning of spirits, to another different kinds of tongues... But one and the same Spirit works all these things, distributing to each one individually as He wills."</p><p style="text-align: right; margin-top: -1.75em; margin-bottom: -0.75em;"> <em>1 Corinthians 12:4-11 (NKJV)</em></p>
 
 * The Spirit sovereignly distributes diverse gifts "as He wills"
 * Each believer receives a manifestation of the Spirit for the common good
 * Nine specific gifts listed - all from the same Spirit
 * **JWs:** Spiritual gifts ceased after the apostolic era; modern JWs don't have these gifts
-* **Illogical:** Paul emphasizes the Spirit "distributes...as He wills" - showing personal volition, not impersonal force. Claiming these gifts ceased contradicts the Spirit's ongoing role in the church
+* **Illogical:** "distributes...as He wills" shows personal volition, not impersonal force – and a ceasing of gifts contradicts the Spirit's ongoing role in the church
 
 ---
 
