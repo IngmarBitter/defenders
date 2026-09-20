@@ -45,10 +45,8 @@ Some say humanity’s true study should be itself, but I disagree. For God’s c
 
 * ***Knowing about* God**
   * Information, intellectual knowledge
-  * "The proper study of God's elect is God."
-    * Charles Spurgeon
-  * "Our purpose in life is to know God."
-    * J.I. Packer
+  * "The proper study of God's elect is God." – Charles Spurgeon
+  * "Our purpose in life is to know God." – J.I. Packer
 * ***Knowing* God**
   * Personal experience and involvement
     * Prophecy of wife vs actual marriage

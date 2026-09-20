@@ -136,7 +136,7 @@ Ingmar Bitter, PhD
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>1 Corinthians 8:5-6 (NKJV)</em></p>
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">
-    God, who at various times and in various ways spoke in time past to the fathers by the prophets, has in these last days spoken to us by His Son, whom He has appointed heir of all things, through whom also He made the worlds; who being the brightness of His glory and the express image of His person, and upholding all things by the word of His power, when He had by Himself purged our sins, sat down at the right hand of the Majesty on high.
+    God... has in these last days spoken to us by His Son, whom He has appointed heir of all things, through whom also He made the worlds; who being the brightness of His glory and the express image of His person, and upholding all things by the word of His power...
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>Hebrews 1:1-3a (NKJV)</em></p>
 
 * Universe creation and upholding by Christ

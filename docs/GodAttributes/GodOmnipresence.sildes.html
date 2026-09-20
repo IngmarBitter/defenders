@@ -40,7 +40,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/Omnipresence.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 0.78em; line-height: 1.15;">
     Where can I go from Your Spirit?  
     Or where can I flee from Your presence?  
     If I ascend into heaven, You are there;  

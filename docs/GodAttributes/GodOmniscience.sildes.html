@@ -32,7 +32,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodAndWorldDetails.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 0.85em; line-height: 1.2;">
     O LORD, You have searched me and known me. You know my sitting down and my rising up; You understand my thought afar off.<br>
     You comprehend my path and my lying down, <br> and are acquainted with all my ways.<br>
     For there is not a word on my tongue, <br> But behold, O LORD, You know it altogether.
@@ -196,7 +196,7 @@ Ingmar Bitter, PhD
 
 ![](OmniPics/GodRoadFork.jpg style="float: right; width: 9rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 0.85em; line-height: 1.2;">
     David inquired of the Lord about saving Keilah from the Philistines, and God assured him of victory.  
     After defeating the Philistines, David learned that Saul planned to attack Keilah.  
     David asked God if Saul would come and if the people of Keilah would betray him.  

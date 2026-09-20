@@ -197,6 +197,7 @@ We inherit from Adam ...
 [^2] Temptations are real.
 [^3] The being accountable for moral wrong doing. If inherited => infants need Jesus!?
 
+>>>
 >>> How can infants claim Jesus's sacrifice for them if they were too young to understand right and wrong, to believe and trust in Jesus?
 
 ---
@@ -211,8 +212,10 @@ We inherit from Adam ...
 [^2] Call to all. Pervenient grace for all, makes accepting possible.
 <br><br>
 
+>>>
 >>> 1 Seems unfair that the non-elect are prevented from accepting but are held accountable for not accepting
 
+>>>
 >>> 2 Like a prodical son soon after leaving. He was lost to the dad, the relationship broken and no desire by the son to restore the relationship. Pervenient grace makes reconsiliation an option to be considered.
 
 ---
@@ -229,6 +232,7 @@ We inherit from Adam ...
 [^1] faith only possible when spiritually alive => Regeneration must come first.
 [^2] man is spiritually alive before faith, but with a broken relationship
 
+>>>
 >>> choosing faith is what communicates to God that we are accepting His offer to re-establish the relationship
 
 ---
@@ -242,8 +246,8 @@ Both are simultaneous, part of the same package deal.
 | --------------------------------- | ------------ | -------- |
 | God regenerates and justifies[^1] | same[^2]     | same[^2] |
 
-![](Regeneration.jpg style="float:right; height: 5rem")
-![](Faith.jpg style="float:right; height: 5rem")
+<img src="Regeneration.jpg" style="float: right; height: 5rem; margin-left: 0.5em;">
+<img src="Faith.jpg" style="float: right; height: 5rem; margin-left: 0.5em;">
 [^1] regeneration -> faith <br>
 [^2] faith -> regeneration
 
@@ -276,11 +280,11 @@ Sanctification:
 ## Eternal Security
 
 **Once saved - always saved**<br>
-* An individual regenerated Christian cannot fall away from the faith and **cannot lose salvation**, because God is 100% responsible for saving people and for preserving their salvation. (Calvinism)
+* A regenerated Christian cannot fall away and **cannot lose salvation**: God is fully responsible for saving and for preserving. (Calvinism)
 
 **Once belief saved - always belief saves**<br>
 * The class of believers cannot lose salvation.<br> 
-* An individual regenerated Christian **can throw away salvation**: disavow the group of eternally secure believers by blaspheming God and becoming an apostate. (Arminianism and Molinism)<br>
+* An individual **can throw away salvation**: leave the group of secure believers by blaspheming God and becoming an apostate. (Arminianism and Molinism)<br>
 * God minimizes the apostates via the most effective Bible warnings + circumstances (Molinism)
 
 
