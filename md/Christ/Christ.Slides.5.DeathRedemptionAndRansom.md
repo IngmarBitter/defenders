@@ -47,13 +47,13 @@
 
 ![](pics/Redemption.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"I am the LORD; I will bring you out from under the burdens of the Egyptians, I will rescue you from their bondage, and I will **redeem** you with an outstretched arm and with great judgments."</p><p style="text-align: right;"> <em>Exodus 6:6 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"I will bring you out from under the burdens of the Egyptians... and I will **redeem** you with an outstretched arm and with great judgments."</p><p style="text-align: right;"> <em>Exodus 6:6 (NKJV)</em></p>
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"I have blotted out, like a thick cloud, your transgressions, And like a cloud, your sins. Return to Me, for I have **redeemed** you."</p><p style="text-align: right;"> <em>Isaiah 44:22 (NKJV)</em></p>
 
-* In the ancient world, **redemption** meant buying back captives or slaves – the payment was called a **ransom**
+* In the ancient world **redemption** meant buying back captives or slaves; the price was a **ransom**
 * God is Israel's Redeemer: His paradigmatic act was the Exodus, signaled by the Passover sacrifice
-* Note well: God redeemed Israel "with an outstretched arm" – He **defeated** the captor; He did **not pay Pharaoh**. Redemption language need not imply a payee
+* Note well: God redeemed Israel "with an outstretched arm" – He **defeated** the captor, He did **not pay Pharaoh**: redemption need not imply a payee
 
 ---
 

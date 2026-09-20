@@ -254,9 +254,8 @@
 * **Consequentialist justice:** punishment is justified by its future benefits
   * Prospective: deterrence, isolation, reformation of the offender
   * Through mid-20th century, this view dominated – and was a disaster for prisons
-  * Women once received longer sentences than men, on the theory that they were "more reformable" – extra time would result in reform success
+  * Women once got longer sentences than men, as "more reformable" – extra time meant more reform
 * **A quick consequentialist escape:** if God's justice is consequentialist, the objection dissolves immediately – punishing Christ saves the human race, the supreme good consequence
-* But this escape is biblically untenable – see next slide
 
 ---
 
@@ -466,14 +465,12 @@
 
 ![](pics/DivineJustice.jpg style="float: right; width: 7rem")
 
-* The sin of humanity is infinite in gravity – against an infinitely holy God
-* Therefore the sacrifice must be of **infinite worth**
+* Sin against an infinitely holy God is infinite in gravity, so the sacrifice must be of **infinite worth**
 * Only a **God-man** can supply this:
   * Truly human – so He can stand in our place
   * Truly divine – so His suffering has infinite worth
 * Christ's suffering, though finite in duration, is of **infinite value** because of the divinity of the Sufferer
-  * Objection: a one-time death and *temporary* forsakenness cannot equal *eternal* separation
-  * Answer: hell is eternal because a *finite* sinner can never finish paying – an *infinite* person discharges the same debt in finite time
+  * Objection: a one-time death cannot equal *eternal* separation. Answer: hell is endless because a *finite* sinner never finishes paying – an *infinite* person discharges it in finite time
 * This is why the Incarnation was necessary for our salvation
 
 ---
@@ -586,7 +583,7 @@
 
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
-* Recall the distinction from the Biblical Case deck: a **substitute** acts *in place of* you; a **representative** acts *on your behalf*, so what he does binds you – and some roles (an ambassador, an MMO avatar) combine both
+* Recall: a **substitute** acts *in place of* you; a **representative** acts *on your behalf*, so what he does binds you
 * **Francis Turretin** (17th century): Christ is both our *substitute* and our *representative* before God
   * As substitute – He bore the suffering we deserved
   * As representative – His punishment is counted as ours
@@ -784,11 +781,10 @@
 ![](pics/ChristWork.jpg style="float: right; width: 7rem")
 
 * **Ingmar Bitter**, slides content
-* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 18–24, primary theological source
-  * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
+* **William Lane Craig**, *Defenders 3*, Parts 18–24, primary theological source
 * **Joel Feinberg**, expressivist theory of punishment
 * **Hugo Grotius**, *A Defence of the Catholic Faith* (1617), ancient substitution
-* **Francis Turretin**, *Institutes of Elenctic Theology* (17th century), imputation, representation, divinity of Christ
+* **Francis Turretin**, *Institutes of Elenctic Theology*, imputation, representation, divinity of Christ
 * **David Lewis**, "Do We Believe in Penal Substitution?", *tu quoque*
 * **D. A. Carson**, "Atonement in Romans 3:21–26"
 * **R. W. Dale**, *The Atonement*, burning house illustration
