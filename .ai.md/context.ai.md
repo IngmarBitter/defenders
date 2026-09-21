@@ -54,6 +54,41 @@
 
 ## Todo
 
+**REVIEW PENDING — overflow-fix pass 2026-09-20 (commits 4153924, 60d6d5d, 13013a0, f76cbbf, 3e3759c):**
+42 slides across 22 decks were silently clipped by `.slide-content { overflow: hidden }`.
+All now pass `node tools/check-slide-overflow.js`. **Every edit below still needs a read-through
+for meaning** — wording was trimmed to reclaim rows, in several units without the author present.
+Highest priority first (units not recently taught / most judgment applied).
+
+- [ ] **Culture/Racism** — "Woke Anti Racism" carried the SAME block twice (draft with typos +
+      corrected copy). Draft removed, corrected copy kept. Confirm the surviving wording is the one wanted.
+- [ ] **Culture/Abortion** — the four definition sources (Webster, Wikipedia/Grok2, Copilot/ChatGPT4,
+      Google AI) moved from sub-bullets to inline attributions. Title image re-centered, 9rem -> 5.5rem.
+- [ ] **Culture/ClimateChange** — title image re-centered; references image 18rem -> 15rem.
+- [ ] **Molinism** — 4 presenter-note blocks were printing ON the slides (a standalone `>>>` block
+      needs a bare `>>>` line above it to parse as notes). Check the notes now read correctly in the
+      notes window. "Eternal Security" bullets shortened. "Regeneration + Justification" images
+      converted to raw `<img>` (two adjacent markdeep images get wrapped in a table).
+- [ ] **FineTuning** — "Chemical Evolution: First Cell" nested `=>` verdicts folded onto their
+      assess lines (wording condensed). Two very tall images shrunk (Combinations 9->6rem, LegoTower 5->3.4rem).
+- [ ] **GodAttributes** — Immutability title block –10em -> –20em (matches siblings);
+      Omnipresence + Omniscience psalm blocks scaled; InfiniteIdentity Hebrews 1:1-3a elided;
+      KnowingGod Spurgeon/Packer attributions inlined.
+- [ ] **RevelationAndFoundations** — Canonicity + Revelation101 conclusions: version stamp folded onto
+      the "Thoughts?" line, sub-bullets merged; Canonicity NT II: 1 Thessalonians 2:9-13 elided;
+      BibleInspiration: Supervision-theory notes merged.
+- [ ] **Trinity** — "Key Terms" table split into "What a Thing Is" / "Who Someone Is" (duplicate
+      ousia rows merged, new "one iota" line added); attributes table type 0.5/0.4em -> 0.46/0.37em.
+- [ ] **Trinity/HolySpirit deck 5** — 1 Corinthians 12:4-11 elided (kept "as He wills").
+- [ ] **5LoveLanguages** — SelfWorth image 11rem -> 9rem (no text change).
+- [ ] **NaturalTheology/LeibnitzContingency** — version stamp folded inline (no text change).
+- [ ] **Christ decks 3, 4, 5, 8, 9** — lowest risk, author present for these: Romans 3:24-25 /
+      Exodus 6:6 / 1 Thess quotes elided; Deck 4 lost a "see next slide" pointer and the
+      reasonablefaith URL from Credits; Deck 8 substitution + conspiracy bullets condensed.
+
+Note: all measurements are Chrome/Blink. **Safari is unverified** (no Safari on Windows) and several
+slides now sit within ~20px of the edge.
+
 **Deck 9 custom images:** complete for content slides. Slide 1 Outline stays imageless; slide 2 and Credits keep series icons (`ChristOverview.jpg`, `ChristWork.jpg`). User confirmed keep-as-is.
 
 **Dash switch DONE 2026-08-30 (branch `en-dashes`, awaiting merge):** all spaced em dashes in slide decks (md + html mirrors, 22 decks) replaced by spaced en dashes (1,586), 8 unspaced em dashes hand-normalized, NKJV quote blocks untouched (20 em dashes kept). root.ai.md dash rule updated. Structure.md working doc and Craig transcripts deliberately left as-is.
