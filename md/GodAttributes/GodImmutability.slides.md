@@ -2,7 +2,7 @@
 
 ![](OmniPics/GodUnchanging.jpg style="height: 100%; object-fit: cover; z-index: -2;")
 
-<p style="margin-top: -10em; text-align: center;">
+<p style="margin-top: -20em; text-align: center;">
 **God's Immutability**
 </p>
 <p style="margin-top: -1em; text-align: center;">
@@ -200,10 +200,9 @@ Ingmar Bitter, PhD
   * **Discipline**: When humanity is disobedient or unrepentant  
   * **Mercy**: When humanity is obedient or repentant  
 * Passages describing God "changing His mind" (e.g., Jonah 3:10, Exodus 32:14) are anthropomorphic:  
-  * They reflect human perspective, not literal changes in God  
+  * They reflect human perspective; His essence and purposes never change  
 * God's omniscience ensures He knows all outcomes and adjusts His actions accordingly  
   * E.g., He knew Nineveh would repent and Moses would intercede  
-* God's treatment of humanity changes as human attitudes and behaviors change, but His essence and purposes remain constant  
 
 ---
 

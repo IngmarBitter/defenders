@@ -7,7 +7,7 @@
 <small><em><span class="current-date"></span></em></small><br>
 Ingmar Bitter, PhD
 
-![](MLK.speech.jpg style="float: center; width: 9rem")
+<img src="MLK.speech.jpg" style="display: block; margin: 0.5em auto; width: 7rem;">
 
 ---
 
@@ -160,14 +160,6 @@ Ingmar Bitter, PhD
 ## Woke Anti Racism
 
 ![](BlackOnWhiteRacism.jpg style="float: right; width: 9rem")
-
-* Only whites can be racist - why? By what definition of racism?
-  * Maybe by: racism is discrimination of an inferior race by a superior race
-  * But that would be a last century definition that is obsolete and itself racist
-* Being white makes us automatically racist
-  * Either we acknolege it and need to subjucate us to blacks
-  * Or we deny being racist and are so deeply ingrained in racism that we dont even realize it.
-  * So in both cases we are racist. It's unfalsifiable.
 
 * Only whites can be racist - why? By what definition of racism?
   * Maybe by: racism is discrimination of an inferior race by a superior race.

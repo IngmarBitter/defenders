@@ -333,23 +333,18 @@ Ingmar Bitter, PhD
 
 <div style="margin-top: -1em;"></div>
 
-* **General Revelation:**
-  * Shows God's existence, glory and power
+* **General Revelation:** shows God's existence, glory and power
   * Basis for moral law and societal stability
 
-* **Natural Theology:**
-  * Human arguments for God’s existence
+* **Natural Theology:** human arguments for God’s existence
   * Provides rational justification
 
-* **Special Revelation:**
-  * Offers clearer and fuller knowledge of God
-  * Includes Jesus Christ, Holy Scripture, and particular revelations
+* **Special Revelation:** clearer and fuller knowledge of God
+  * Jesus Christ, Holy Scripture, and particular revelations
 
 * General and special revelation are both needed to understand God
 
-<p style="text-align: right; margin-top: 1em;">    <em>Thoughts?</em></p>
-
-<small>Version 2024.02.08</small>
+<p style="text-align: right; margin-top: 0;">    <em>Thoughts?</em> <small style="opacity: 0.5;">Version 2024.02.08</small></p>
 
 ---
 

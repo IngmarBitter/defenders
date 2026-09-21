@@ -178,13 +178,13 @@
 
 ![](pics/LambSacrifice.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"being justified freely by His grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed,"</p><p style="text-align: right;"> <em>Romans 3:24–25 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"being justified freely by His grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation by His blood, through faith, to demonstrate His righteousness..."</p><p style="text-align: right;"> <em>Romans 3:24–25 (NKJV)</em></p>
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Much more then, having now been justified by His blood, we shall be saved from wrath through Him."</p><p style="text-align: right;"> <em>Romans 5:9 (NKJV)</em></p>
 
-* **Propitiation** = extinguishing God's righteous wrath over sin-guilt by executing the just punishment for it – its object is **God Himself**
+* **Propitiation** = extinguishing God's wrath over sin-guilt by executing its just punishment – its object is **God Himself**
 * God "set forth" Christ as a propitiation: He provides the very sacrifice that satisfies His own justice
-* Two results of the one sacrifice: "justified by His blood" (expiation) and "saved from wrath" (propitiation) – inseparable, never one without the other
+* One sacrifice, two results: "justified by His blood" (expiation) and "saved from wrath" (propitiation) – never one without the other
 
 ---
 
@@ -493,7 +493,7 @@
 
 ![](pics/Representation.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic; line-height: 1.5;">
+<p style="font-family: 'EB Garamond', serif; font-style: italic; line-height: 1.25;">
 18 &ensp;Therefore just as through the <span style="color: #c05050;">trespass of one man</span><br>
 &emsp;&emsp;&ensp;came <span style="color: #c05050;">condemnation</span> <span style="color: #c05050;"><b>for all men</b></span>,<br>
 &emsp;&ensp;so through the <span style="color: #70b070;">righteous act of One</span><br>
@@ -504,8 +504,8 @@
 &emsp;&emsp;&ensp;<span style="color: #70b070;"><b>the many will be made righteous</b></span>.
 </p><p style="text-align: right;"> <em>Romans 5:18–19 (MEV)</em></p>
 
-* All/many **saved** is not universal salvation – but only **if they believe**
-* All/many **condemned** likewise is not universal – but only **if they sinned**
+* All/many **saved** is not universalism – only **if they believe**
+* All/many **condemned** likewise – only **if they sinned**
 * Christ's atoning work is **sufficient** for all – but must be received (Romans 5:17)
 
 ---
@@ -624,10 +624,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Moreover whom He predestined, these He also called; whom He called, these He also justified; and whom He justified, these He also glorified."</p><p style="text-align: right;"> <em>Romans 8:30 (NKJV)</em></p>
 
-* A mirror-image transaction (recall 2 Corinthians 5:21): our **sins** are imputed to Christ → He bears the penalty; Christ's **righteousness** is imputed to us → we are declared righteous
-* Imputation is purely **forensic** (a legal crediting) – our sins do not make Christ wicked; His righteousness does not instantly make us perfect
-* **Justification** = instantaneous legal declaration, apprehended by faith
-* **Sanctification** = the Spirit's progressive transformation of character over a lifetime
+* A mirror-image transaction (2 Corinthians 5:21): our **sins** imputed to Christ → He bears the penalty; His **righteousness** imputed to us → we are declared righteous
+* Imputation is purely **forensic** – our sins do not make Christ wicked, nor His righteousness make us instantly perfect
+* **Justification** = an instantaneous legal declaration, received by faith; **Sanctification** = the Spirit's progressive work over a lifetime
 * Christ achieved both: His death wins our justification; His Spirit works our sanctification
 
 ---

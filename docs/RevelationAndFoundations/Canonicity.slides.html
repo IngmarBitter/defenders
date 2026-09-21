@@ -175,7 +175,7 @@ Ingmar Bitter, PhD
 ![](CanonicityPics/LightOnWords.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">
-    9 For you remember, brethren, our labor and toil; for laboring night and day, that we might not be a burden to any of you, we preached to you the gospel of God. 10 You are witnesses, and God also, how devoutly and justly and blamelessly we behaved ourselves among you who believe; 11 as you know how we exhorted, and comforted, and charged every one of you, as a father does his own children, 12 that you would walk worthy of God who calls you into His own kingdom and glory. 13 For this reason we also thank God without ceasing, because when **you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God**, which also effectively works in you who believe.
+    9 For you remember, brethren, our labor and toil... we preached to you the gospel of God... 13 For this reason we also thank God without ceasing, because when **you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God**, which also effectively works in you who believe.
 </p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;">    <em>1 Thessalonians 2:9-13 (NKJV, emphasis added)</em></p>
 
 * Apostles' conviction
@@ -346,14 +346,10 @@ Ingmar Bitter, PhD
   * Inspired apostles to write (John 14:26)
   * Directed the church to recognize true Scripture
 * **Across OT and NT, the canon emerged through**:
-  * Apostolic/prophetic origin
-  * Consistency across all books
-  * Universal acceptance despite early disputes
+  * Apostolic/prophetic origin, consistency across books, universal acceptance despite early disputes
 * **Today’s Bible stands as God’s fully inspired revelation**
 
-<p style="text-align: right; margin-top: 1em;">    <em>Thoughts?</em></p>
-
-<small>Version 2024.03.01</small>
+<p style="text-align: right; margin-top: 0;">    <em>Thoughts?</em> <small style="opacity: 0.5;">Version 2024.03.01</small></p>
 
 ---
 

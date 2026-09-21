@@ -228,8 +228,8 @@
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
 * As old as the empty tomb itself: "His disciples came at night and stole Him away while we slept" – the story the guards were paid to spread (Matthew 28:11–15)
-* Revived by **Hermann Samuel Reimarus** (d. 1768): the disciples **stole the body** and faked the resurrection to continue the comfortable life of preaching (the posthumous "Wolfenbüttel Fragments," 1774–77)
-* To hold it, he had to demolish three things – the **guard** (found only in Matthew, "full of contradictions," invented), the **apostles' testimony** (contradictory, and suspiciously private), and the **prophecies** (too ambiguous, and question-begging)
+* Revived by **Hermann Samuel Reimarus** (d. 1768): the disciples **stole the body** and faked the resurrection to keep the comfortable life of preaching ("Wolfenbüttel Fragments," 1774–77)
+* To hold it he had to demolish three things – the **guard** (only in Matthew, invented), the **apostles' testimony** (contradictory, suspiciously private), and the **prophecies** (too ambiguous)
 * His verdict: Christianity is a fraud
 
 ---
@@ -287,10 +287,10 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-* **Its strength:** a *supernatural* swap concedes the whole record – the crucifixion unfolded exactly as every witness and historian reports, so attestation (Josephus, Tacitus) cannot touch it
-* **And that is the fatal flaw:** an illusion perfect enough to fool everyone leaves **no possible evidence** either way – nothing can count against the theory, but nothing can count for it either; it rests solely on a text six centuries later
-* ***Ad hoc*:** for **600 years** every record – Christian, Jewish, and pagan – knows only followers of a crucified Jesus; the "faithful Muslims who knew better" (one tradition even has a disciple **volunteer** for the swap) left not a single line of written record until ~AD 630
-* The fallback is no better: a deception so total it fooled the faithful too means God **erased Islam for six centuries**, then restarted it through Muhammad – either way, **force-fitting** theory to data
+* **Its strength:** a *supernatural* swap concedes the whole record, so attestation (Josephus, Tacitus) cannot touch it
+* **And that is the fatal flaw:** an illusion that fools everyone leaves **no possible evidence** either way – nothing counts against it, and nothing for it
+* ***Ad hoc*:** for **600 years** every record – Christian, Jewish, pagan – knows only followers of a crucified Jesus, and those "who knew better" left not one line until ~AD 630
+* The fallback is no better: a deception that fooled the faithful too means God **erased Islam for six centuries**, then restarted it
 
 ---
 
@@ -624,14 +624,14 @@
 ![](pics/ChristWork.jpg style="float: right; width: 7rem")
 
 * **Ingmar Bitter**, slides content
-* **William Lane Craig**, *Defenders 3: Doctrine of Christ*, Parts 33–46, primary theological source
+* **William Lane Craig**, *Defenders 3*, Parts 33–46, primary theological source
   * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4/doctrine-of-christ
-  * Also *Reasonable Faith* and the 2006 Craig–Ehrman debate, the lottery illustration on believing the improbable
-* **C. B. McCullagh**, *Justifying Historical Descriptions*, the criteria for the best explanation
-* **J. Warner Wallace**, *Cold-Case Christianity*, the conspiracy conditions and motive analysis
-* **N. T. Wright**, *The Resurrection of the Son of God*, on the origin of the disciples' belief
+  * Also *Reasonable Faith* and the 2006 Craig–Ehrman debate (the lottery illustration)
+* **C. B. McCullagh**, *Justifying Historical Descriptions*, criteria for the best explanation
+* **J. Warner Wallace**, *Cold-Case Christianity*, conspiracy conditions and motive
+* **N. T. Wright**, *The Resurrection of the Son of God*, origin of the disciples' belief
 * **Wolfhart Pannenberg**, on the resurrection as divine vindication
-* **Reimarus, Strauss, Lüdemann, and Dale Allison**, skeptics engaged as foils
+* **Reimarus, Strauss, Lüdemann, Dale Allison**, skeptics engaged as foils
 
 ---
 

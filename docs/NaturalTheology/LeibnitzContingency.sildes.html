@@ -234,9 +234,7 @@ Ingmar Bitter, PhD
 4. Therefore, the explanation of the existence of the universe is God.
 
    * Sound & Valid Logical Argument
-   * God must be: Immaterial, Uncaused, Necessary, Omnipotent, Unembodied Mind, Conscious, Selfaware, Personal
-
-<small>Version 2025.07.27</small>
+   * God must be: Immaterial, Uncaused, Necessary, Omnipotent, Unembodied Mind, Conscious, Selfaware, Personal <small style="opacity: 0.5;">Version 2025.07.27</small>
 
 <!-- Markdeep slides stuff -->
 <script>

@@ -7,13 +7,13 @@
 <small><em><span class="current-date"></span></em></small><br>
 Ingmar Bitter, PhD
 
-![](TreeDryLush.jpg style="float: center; width: 9rem")
+<img src="TreeDryLush.jpg" style="display: block; margin: 0.5em auto; width: 7rem;">
 
 ---
 
 ## Climate Change
 
-![](ReferencesAll90.jpg style="float: right; height: 18rem")
+<img src="ReferencesAll90.jpg" style="float: right; height: 15rem; margin-left: 0.5em;">
 
 * Anthropogenic Global Warming (AGW)
   * Warming caused by humans

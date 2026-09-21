@@ -98,6 +98,7 @@
 * The cross moves us **because** it first accomplished something real
 * Strip away the objective penalty borne, and the demonstration is empty – a death for no reason inspires nothing
 * Dale's child in the burning house: the rescue stirs us only if there truly was someone to save
+* But running in when the mother already holds the baby is **theater**, not love
 * So moral influence is the **fruit** of penal substitution, not a rival to it – real, but **rooted**
 
 ---

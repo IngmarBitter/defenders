@@ -138,7 +138,7 @@ Ingmar Bitter, PhD
 
 ## First Cell DNA by Chance ?
 
-![](Combinations.jpg style="float: right; width: 9rem")
+<img src="Combinations.jpg" style="float: right; width: 6rem; margin-left: 0.5em;">
 
 * A minimal cell is about 1ym3 in size
 * The earth surface area is 510,000,000km^2 or ~10e24m^2 or 10e36ym^2
@@ -172,7 +172,7 @@ Ingmar Bitter, PhD
 
 ## First Cell DNA by Law ?
 
-![](LegoTower.png style="float: right; width: 5rem")
+<img src="LegoTower.png" style="float: right; width: 3.4rem; margin-left: 0.5em;">
 
 * DNA base pairs are of four types: ATCG
 * All four attach with identical bonding to the DNA helix backbone
@@ -189,17 +189,12 @@ Ingmar Bitter, PhD
 * How did life start on Earth?
   * Observe the existence of: DNA and the first cell are fine-tuned for life
   * Assume it exists because of chance, law, or design
-    * Assess chance
-      * => Too complex and improbable to possible be by chance
-    * Assess law
-      * => No law that makes DNA sequence what it needs to be 
-      * => Chemical laws that need to be **violated** for first cell self-assembly
-    * Assess design
-      * Specified Complexity clearly present
+    * Assess chance => too complex and improbable to be by chance
+    * Assess law => no law makes the DNA sequence what it must be, and self-assembly needs chemical laws **violated**
+    * Assess design => Specified Complexity clearly present
   * Believe the one that makes the most sense
     * => The fine-tuning for life must have been designed
-    * Inference to the best explanation
-      * meaningful even when no designer in sight
+    * Inference to the best explanation – meaningful even with no designer in sight
 
 ---
 

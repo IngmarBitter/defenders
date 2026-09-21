@@ -45,8 +45,8 @@
 
 ![](pics/Trinity.and.JesusTrueGodTrueMan.png style="float: right; width: 22rem")
 
-* **Chalcedon (451):** one person in two complete natures – "without confusion, without change, without division, without separation"
-* Craig's model: the *Logos* as the archetypal soul of the man Jesus, with the divine largely **subconscious** during His earthly life – He had a genuine human consciousness that grew, was tempted, and prayed
+* **Chalcedon (451):** one person in two complete natures – "without confusion, change, division, or separation"
+* Craig's model: the *Logos* as the archetypal soul of the man Jesus, the divine largely **subconscious** in His earthly life – a genuine human consciousness that grew, was tempted, and prayed
 * The incarnation is **addition**, not subtraction: the Son assumed humanity without ceasing to be God
 
 ---
@@ -119,8 +119,9 @@
   * He was not legally innocent once sin was imputed – and He bore it voluntarily
 * **"Finite suffering cannot pay an eternal penalty"**
   * Infinite in **value** by the divinity of His person – it need not be eternal in duration
-* **"The cross tears the Trinity apart"**
-  * Forsakenness borne in His **human nature** – judicial, not a rupture in the divine essence
+* **"Jesus forsaken tears the Trinity apart"** (Matthew 27:46, quoting Psalm 22)
+  * On the common reading Christ points to the psalm, which ends in vindication – no tear
+  * And if the desolation was real, it was borne in His **human nature** – judicial, not a tear in the divine essence
 
 ---
 

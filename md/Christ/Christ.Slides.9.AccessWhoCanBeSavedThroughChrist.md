@@ -39,6 +39,7 @@
 * **Christian particularism:** salvation is through Christ alone – not "many independent roads to God"
 * The logic of the New Testament: given the **universality of sin** and the **uniqueness of Christ's atoning death**, there is no salvation apart from Him
 * This was as scandalous in the polytheistic Roman Empire – costing the early church torture and death – as it is in the modern West
+* Every other founder is dead and buried; the **resurrection** is what makes the claim more than a preference
 
 ---
 
@@ -202,8 +203,8 @@
 * Objection: even the worst sins deserve only **finite** punishment, so eternal hell over-punishes
 * Two replies that do different work:
   * **Infinite gravity:** to reject Christ is to **reject God Himself** – not a tally of finite acts, but a sin against an infinite Person
-  * **Self-perpetuating rejection:** the lost do not turn neutral at death – fixed in rejection of God, they go on rejecting Him, and that continued rejection is continued sin; the punishment lasts as long as the refusal
-* So hell is not "finite crimes, infinite sentence" – no more than heaven is "finite faith, infinite reward" – it is the just desert of rejecting God, and of a refusal that never ends
+  * **Self-perpetuating rejection:** the lost do not turn neutral at death – fixed in rejection, they go on rejecting, and that is continued sin; the punishment lasts as long as the refusal
+* So hell is not "finite crimes, infinite sentence" – no more than heaven is "finite faith, infinite reward"
 * Answered as well – but the final problem, still ahead, is harder to resolve compellingly
 
 ---
@@ -429,6 +430,7 @@
 
 * God so orders history that **those who would respond to the Gospel are born where and when they will hear it**
 * Those who never hear it **would not have believed it anyway** – so no one is damned by geographical or historical accident
+* *Katoikias*: not borders but the actual **dwellings** people settle in
 * Paul's Areopagus speech is exactly this conclusion, reached by revelation
 
 ---

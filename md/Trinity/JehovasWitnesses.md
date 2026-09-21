@@ -82,6 +82,12 @@
   - Use the whole-bible pattern: one God + three divine persons acting, speaking, creating, and saving together.  
   - The Trinity is seen as a doctrine *inferred* from the data of Scripture, then labeled and systematized.
 
+- **Conversation strategy on John 1:1 (from the classroom)**
+  - Do *not* open on the Greek grammar fight over "a god" in the New World Translation. It is the argument they are drilled for, and it strands the conversation in a technical dispute neither side can settle across a doorstep.
+  - Open instead with the clause they also accept: **"In the beginning was the Word"** – and ask *who that Word is*.
+  - Then work the Old Testament backdrop, where the Word of the LORD is not a message but **someone who shows up**: Genesis 16 (the Angel of the LORD who is addressed as God), 1 Samuel 3 (the LORD comes and stands and calls Samuel), and the rest of the pattern.
+  - Let the identification do the work: if the Word was already there "in the beginning," and the Word of the LORD appears and speaks as God throughout the Old Testament, the grammar of verse 1 is no longer carrying the argument alone.
+
 ### 2. Key Texts and How They Are Read
 
 Below are a few representative texts and brief comments on how each side typically handles them. For a fuller treatment and verse tables, see *Trinity.Slides.md*.
@@ -89,6 +95,10 @@ Below are a few representative texts and brief comments on how each side typical
 - **John 1:1–3**
   - *JWs*: translate "the Word was a god"; argue the absence of the article before "God" in Greek implies an indefinite, lesser "godlike" being, subordinate to Jehovah, through whom all other things were made.  
   - *Evangelicals*: see the anarthrous predicate ("and God was the Word") as qualitative, stressing that the Word fully shares the divine nature. The Word is distinct *from* God the Father ("with God") yet *is* God in essence.
+
+- **Zechariah 12:10 ("Me whom they pierced")**
+  - *JWs*: generally treat the piercing as done *to Jehovah's representative*, so that looking on "Me" means looking on the one Jehovah sent; and read Revelation 1:7 as symbolic.
+  - *Evangelicals*: Yahweh speaks in the first person and says they pierced **Me**, then the text mourns for **Him** – a distinction within the one God. A spirit cannot be pierced, so the Pierced One is the visible Yahweh. John applies the verse to the crucified Jesus (John 19:37) and again in Revelation 1:7. Treating the same author's same piercing language as literal in the Gospel and symbolic in Revelation is special pleading.
 
 - **John 8:58 ("before Abraham was, I am")**
   - *JWs*: usually take this as a claim to pre-existence, not to sharing the divine name of Exodus 3:14. Jesus is older than Abraham as the first created spirit son.  

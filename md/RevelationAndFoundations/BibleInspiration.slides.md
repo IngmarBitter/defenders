@@ -95,7 +95,7 @@ Ingmar Bitter, PhD
 * Not altering thoughts or teachings, but words
 * Emphasizes the importance of preserving the integrity of God's original word
 
-<p style="text-align: right; margin-top: 1em;">    <em>Thoughts?</em></p>
+<p style="text-align: right; margin-top: 0;">    <em>Thoughts?</em></p>
 
 ---
 
@@ -366,8 +366,7 @@ Ingmar Bitter, PhD
   * **Dictation** theory: God tells the author what to write
     * Fails to explain human reporting and emotion expression
   * **Supervision** theory: Holy Spirit supervises the writing
-    * Allows for human authorship and divine inspiration
-    * OK, but how exactly? Mystery!?
+    * Allows human authorship and divine inspiration – but how exactly? Mystery!?
 
 <p style="text-align: right; margin-top: 1em;">    <em>Thoughts?</em></p>
 
