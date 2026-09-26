@@ -18,7 +18,7 @@ You are building ONE Markdeep slide deck for Ingmar Bitter's church apologetics 
 - Write exactly one file: `R/md/Creation/Creation.Slides.<N>.<Subtitle>.md` (name given in your task). Then copy it to `R/docs/Creation/<same base name>.html` (identical content, only the extension changes).
 - Append the Markdeep tail copied verbatim from the end of Deck 1 (everything from `<!-- Markdeep slides stuff -->` on) after the last `---`.
 - CRLF line endings. US English. ASCII straight quotes and apostrophes. Spaced en dash ( – ), never em dashes (except inside verbatim NKJV). Unicode ellipsis …, `[...]` for omissions inside scripture. Full book names (abbreviate inline only if a line would overflow). Capitalize He/Him/His for God.
-- Size: about 25–40 slides (Deck 2 may be 45–60). Keep bullets short – 16:9 slides at font size 28 with a right-floated image hold about 5–6 short bullets; a slide with a scripture quote holds about 3 bullets.
+- Size: no ceiling – take as many slides as a proper representation of the ideas needs; never cut content to hit a count. Keep bullets short – 16:9 slides at font size 28 with a right-floated image hold about 5–6 short bullets; a slide with a scripture quote holds about 3 bullets.
 - Do NOT edit any other file (no TOC, no CreeksideDefenders.md, no structure doc, no other deck). Do NOT git commit. Ingmar's coordinator does that.
 
 ## Scripture (critical)
@@ -39,6 +39,9 @@ You are building ONE Markdeep slide deck for Ingmar Bitter's church apologetics 
 2. Outline anchors: title is slide #0; count `---` separators to verify each `#slideN` points at its `# Section` divider (e.g. `awk 'BEGIN{n=0} /^---\r?$/{n++} /^# /{print n": "$0}' file`).
 3. `python -c` scan: 0 em dashes (outside NKJV quotes), 0 curly quotes, no `...` except `[...]`.
 4. Every image path exists in `R/docs/Creation/pics/`.
+
+## Motivation slide (science decks 3–7)
+Right after "Where We Are": "Why This Deck: Has Science Disproven the Bible?" – Psalm 111:2, then: schools and universities teach science has disproven the Bible; science done well supports creation and with it the Bible; then the deck's own claim in one line.
 
 ## Navigation slide (last content slide)
 ```

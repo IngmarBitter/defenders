@@ -6,14 +6,14 @@
 
 ## Outline
 
-* [What "Evolution" Means](#slide3)
-* [Mutations and Natural Selection](#slide7)
-* [Irreducible Complexity](#slide14)
-* [The Cambrian Explosion](#slide19)
-* [Common Ancestry or Common Design](#slide23)
-* [Theistic Evolution](#slide30)
-* [Craig's Integration](#slide35)
-* [Practical Takeaways](#slide39)
+* [What "Evolution" Means](#slide4)
+* [Mutations and Natural Selection](#slide8)
+* [Irreducible Complexity](#slide15)
+* [The Cambrian Explosion](#slide20)
+* [Common Ancestry or Common Design](#slide24)
+* [Theistic Evolution](#slide31)
+* [Craig's Integration](#slide36)
+* [Practical Takeaways](#slide40)
 
 ---
 
@@ -25,6 +25,18 @@
 * Now: given life, how did the **diversity and complexity** of living things arise?
 * This is an evidence deck: state the claim, weigh the evidence, answer the rival view
 * Human origins come next (Deck 7) – here we stay with plants, animals, and cells
+
+---
+
+## Why This Deck: Has Science Disproven the Bible?
+
+![](pics/BibleAndScienceBooks.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The works of the LORD are great, **Studied by all who have pleasure in them**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 111:2 (NKJV)</em></p>
+
+* Schools and universities teach it as settled: **science has disproven the Bible** – the earth is old, life evolved, Genesis is myth
+* Science done well – observations first, assumptions named – **supports creation**, and with it the Bible
+* This deck: mutations and selection **vary kinds, they do not build them** – the design is real
 
 ---
 

@@ -6,13 +6,13 @@
 
 ## Outline
 
-* [The Question](#slide3)
-* [The Rules of the Game](#slide7)
-* [Step 1: The Building Blocks](#slide12)
-* [Step 2: The First Cell](#slide19)
-* [Information](#slide25)
-* [The Verdict](#slide30)
-* [Practical Takeaways](#slide34)
+* [The Question](#slide4)
+* [The Rules of the Game](#slide8)
+* [Step 1: The Building Blocks](#slide13)
+* [Step 2: The First Cell](#slide20)
+* [Information](#slide26)
+* [The Verdict](#slide31)
+* [Practical Takeaways](#slide35)
 
 ---
 
@@ -25,6 +25,18 @@
 * Textbooks still say: chemicals in a "primordial soup" + lightning + time → the first cell
 * We ask what the chemistry actually shows – and why the best explanation is a **Life-Giver**
 * The Fine-Tuning deck gave a one-slide summary ([Chemical Evolution: First Cell](../FineTuning/FineTuning.slides.html)) – this deck opens it up
+
+---
+
+## Why This Deck: Has Science Disproven the Bible?
+
+![](pics/BibleAndScienceBooks.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The works of the LORD are great, **Studied by all who have pleasure in them**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 111:2 (NKJV)</em></p>
+
+* Schools and universities teach it as settled: **science has disproven the Bible** – the earth is old, life evolved, Genesis is myth
+* Science done well – observations first, assumptions named – **supports creation**, and with it the Bible
+* This deck: the chemistry of life says life **does not make itself** – it needs a Life-Giver
 
 ---
 

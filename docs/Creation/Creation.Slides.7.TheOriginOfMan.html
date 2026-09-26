@@ -6,13 +6,13 @@
 
 ## Outline
 
-* [The Question](#slide3)
-* ["Ape-Men": What the Fossils Show](#slide6)
-* [The 98% Claim](#slide13)
-* [What Sets Humans Apart](#slide17)
-* [The Historical Adam](#slide22)
-* [A Young-Earth Response](#slide29)
-* [Practical Takeaways](#slide35)
+* [The Question](#slide4)
+* ["Ape-Men": What the Fossils Show](#slide7)
+* [The 98% Claim](#slide14)
+* [What Sets Humans Apart](#slide18)
+* [The Historical Adam](#slide23)
+* [A Young-Earth Response](#slide30)
+* [Practical Takeaways](#slide36)
 
 ---
 
@@ -25,6 +25,18 @@
 * Evolution: man descends from ape-like ancestors
 * Scripture: God **made man** in His image
 * And who was Adam – a real man, and if so, when did he live?
+
+---
+
+## Why This Deck: Has Science Disproven the Bible?
+
+![](pics/BibleAndScienceBooks.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The works of the LORD are great, **Studied by all who have pleasure in them**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 111:2 (NKJV)</em></p>
+
+* Schools and universities teach it as settled: **science has disproven the Bible** – the earth is old, life evolved, Genesis is myth
+* Science done well – observations first, assumptions named – **supports creation**, and with it the Bible
+* This deck: the fossils and the genes say man is **not a made-over ape** but made in God's image
 
 ---
 

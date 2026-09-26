@@ -6,11 +6,11 @@
 
 ## Outline
 
-* [Recap: A Beginning and a Design](#slide3)
-* [The Big Bang](#slide7)
-* [Distant Starlight](#slide17)
-* [Stars and Heavy Elements](#slide29)
-* [Practical Takeaways](#slide34)
+* [Recap: A Beginning and a Design](#slide4)
+* [The Big Bang](#slide8)
+* [Distant Starlight](#slide18)
+* [Stars and Heavy Elements](#slide30)
+* [Practical Takeaways](#slide35)
 
 ---
 
@@ -25,6 +25,18 @@
   * Does the **Big Bang** fit the Bible?
   * How can we see stars **billions of light-years** away in a young universe?
 * Method: state the claim, give the evidence, answer the rival view
+
+---
+
+## Why This Deck: Has Science Disproven the Bible?
+
+![](pics/BibleAndScienceBooks.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The works of the LORD are great, **Studied by all who have pleasure in them**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 111:2 (NKJV)</em></p>
+
+* Schools and universities teach it as settled: **science has disproven the Bible** – the earth is old, life evolved, Genesis is myth
+* Science done well – observations first, assumptions named – **supports creation**, and with it the Bible
+* This deck: the heavens **declare a beginning and a Designer** – and starlight is a question to study, not a proof against the text
 
 ---
 
