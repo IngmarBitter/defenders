@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1189.2671"
+   height="1025"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="GenesisInterpretations.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3934"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#808080;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3934-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#808080;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92523855"
+     inkscape:cx="297.2816"
+     inkscape:cy="486.1171"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1577"
+     inkscape:window-x="1432"
+     inkscape:window-y="698"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       originx="294.58206"
+       originy="-143.31439"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(294.58206,-143.31439)">
+    <rect id="rectMythoHistory" x="405.42" y="543.31" width="317" height="100" style="fill:none;stroke:#9955ff;stroke-width:2.5" />
+    <text id="textMythoHistory" xml:space="preserve" x="563.42" y="606.31" style="font-weight:bold;font-size:40px;font-family:Calibri;text-anchor:middle;fill:#808080">Mytho-History*</text>
+
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#06db9d;fill-opacity:1;stroke:none"
+       x="-50.484318"
+       y="530.67078"
+       id="text3101"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="-50.484318"
+         y="530.67078"
+         id="tspan3186"
+         style="font-size:40px;line-height:1.25">Obsolete</tspan><tspan
+         sodipodi:role="line"
+         x="-50.484318"
+         y="580.67078"
+         id="tspan3188"
+         style="font-size:40px;line-height:1.25">Science</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#e0e000;fill-opacity:1;stroke:none"
+       x="305.23969"
+       y="170.50189"
+       id="text3105"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3107"
+         x="305.23969"
+         y="170.50189"
+         style="font-size:40px;line-height:1.25">day=24h</tspan></text>
+    <path
+       style="fill:#e60000;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 502.46079,237.37162 10.6066,-10.60661 10.6066,10.60661 3.53554,-3.53554 -10.60661,-10.6066 10.60661,-10.6066 -3.53554,-3.53554 -10.6066,10.60661 -10.6066,-10.60661 -3.53554,3.53554 10.60661,10.6066 -10.60661,10.6066 z"
+       id="path3172"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#36ff36;stroke:#808080;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 220.72817,220.60144 14.14214,14.14214 24.74874,-24.74874 -3.53554,-3.53553 -21.2132,21.2132 -10.6066,-10.6066 -3.53554,3.53553"
+       id="path3174"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       id="text3178"
+       y="354.89499"
+       x="-52.012875"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1579f0;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="354.89499"
+         x="-52.012875"
+         sodipodi:role="line"
+         id="tspan3184"
+         style="font-size:40px;line-height:1.25">Accurate</tspan><tspan
+         y="404.89499"
+         x="-52.012875"
+         sodipodi:role="line"
+         id="tspan3190"
+         style="font-size:40px;line-height:1.25">Science</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       x="483.00134"
+       y="415.74802"
+       id="text3192"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3194"
+         x="483.00134"
+         y="415.74802"
+         style="font-size:40px;line-height:1.25">Day-Age</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       x="-271.30615"
+       y="308.75406"
+       id="text3196"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3198"
+         x="-271.30615"
+         y="308.75406"
+         style="font-size:40px;line-height:1.25;fill:#d204a9">Literal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       x="-274.36313"
+       y="775.70636"
+       id="text3200"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3202"
+         x="-274.36313"
+         y="775.70636"
+         style="font-size:40px;line-height:1.25;fill:#e60000">Figurative</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       x="191.06068"
+       y="320.9819"
+       id="text3212"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3214"
+         x="191.06068"
+         y="320.9819"
+         style="font-size:40px;line-height:1.25">YEC†</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       x="149.02728"
+       y="450.90317"
+       id="text3216"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3218"
+         x="149.02728"
+         y="450.90317"
+         style="font-size:40px;line-height:1.25">Day-Gap*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="384.43817"
+       y="864.35852"
+       id="text3220"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3222"
+         x="384.43817"
+         y="864.35852"
+         style="font-size:40px;line-height:1.25">Literary</tspan><tspan
+         sodipodi:role="line"
+         x="384.43817"
+         y="914.35852"
+         id="tspan3224"
+         style="font-size:40px;line-height:1.25">Framework*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="567.33899"
+       y="735.20154"
+       id="text3226"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="567.33899"
+         y="735.20154"
+         id="tspan3230"
+         style="font-size:40px;line-height:1.25">Creation Myth*‡</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3232"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3234"><rect
+           id="rect3236"
+           width="194.11765"
+           height="132.97823"
+           x="230.03705"
+           y="790.99121" /></flowRegion><flowPara
+         id="flowPara3238"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="208.63824"
+       y="557.89722"
+       id="text3313"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="208.63824"
+         y="557.89722"
+         id="tspan3317"
+         style="font-size:40px;line-height:1.25">Literal Naive*‡</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="223.15887"
+       y="411.92679"
+       id="text3336"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="223.15887"
+         y="411.92679"
+         id="tspan3340"
+         style="font-size:40px;line-height:1.25">Verse 1-2 Gap*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="211.69519"
+       y="774.94208"
+       id="text3342"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3344"
+         x="211.69519"
+         y="774.94208"
+         style="font-size:36px;line-height:1.25">Revelation-Day*‡</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e0e000;fill-opacity:1;stroke:none"
+       x="371.42194"
+       y="238.44373"
+       id="text3346"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3348"
+         x="371.42194"
+         y="238.44373"
+         style="font-size:40px;line-height:1.25">?</tspan></text>
+    <rect
+       ry="0"
+       y="180.27228"
+       x="63.347065"
+       height="631.85126"
+       width="285.03458"
+       id="rect3361"
+       style="fill:none;stroke:#36ff36;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#e60000;stroke-width:2.06398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3363"
+       width="353.44583"
+       height="631.85126"
+       x="388.43994"
+       y="181.9147"
+       ry="0"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       ry="0"
+       y="821.76648"
+       x="239.12289"
+       height="124.86378"
+       width="285.03458"
+       id="rect3365"
+       style="fill:none;stroke:#e0e000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#e60000;stroke-width:2.00689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3367"
+       width="1030.783"
+       height="262.47617"
+       x="-293.57861"
+       y="693.41418"
+       ry="0"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       ry="0"
+       y="253.41418"
+       x="-293.57861"
+       height="364.57523"
+       width="1023.7195"
+       id="rect3369"
+       style="fill:none;stroke:#d204a9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       ry="0"
+       y="492.98685"
+       x="-156.21068"
+       height="111.54762"
+       width="487.65259"
+       id="rect3371"
+       style="fill:none;stroke:#06db9d;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#1579f0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3373"
+       width="825.06384"
+       height="188.4257"
+       x="-150.86099"
+       y="276.70618"
+       ry="0"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#87fe79;fill-opacity:1;stroke:none"
+       x="820.03241"
+       y="311.811"
+       id="text3375"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3377"
+         x="820.03241"
+         y="311.811"
+         style="font-size:40px;line-height:1.25">Young</tspan><tspan
+         sodipodi:role="line"
+         x="820.03241"
+         y="361.811"
+         id="tspan3385"
+         style="font-size:40px;line-height:1.25">Earth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#df9708;fill-opacity:1;stroke:none"
+       x="820.79663"
+       y="447.84622"
+       id="text3379"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3381"
+         x="820.79663"
+         y="447.84622"
+         style="font-size:40px;line-height:1.25">Old</tspan><tspan
+         sodipodi:role="line"
+         x="820.79663"
+         y="497.84622"
+         id="tspan3383"
+         style="font-size:40px;line-height:1.25">Earth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="563.24683"
+       y="789.46271"
+       id="text3387"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3389"
+         x="563.24683"
+         y="789.46271"
+         style="font-size:40px;line-height:1.25">Functional Creation*</tspan></text>
+    <rect
+       style="fill:none;stroke:#36ff36;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3393"
+       width="823.02356"
+       height="85.556076"
+       x="70.661453"
+       y="282.70465"
+       ry="0"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       ry="0"
+       y="372.95578"
+       x="68.399429"
+       height="239.89211"
+       width="825.28558"
+       id="rect3395"
+       style="fill:none;stroke:#df9708;stroke-width:1.28802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="-59.610947"
+       y="176.54007"
+       id="text3397"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         x="-59.610947"
+         y="176.54007"
+         style="font-size:48px;line-height:1.25">Genesis Interpretations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
+       x="-286.49637"
+       y="998.10095"
+       id="text3280"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3282"
+         x="-286.49637"
+         y="998.10095"
+         style="font-size:40px;line-height:1.25">* Compatible with Evolution and old age fossils</tspan><tspan
+         sodipodi:role="line"
+         x="-286.49637"
+         y="1048.101"
+         id="tspan3283"
+         style="font-size:40px;line-height:1.25">+ Compatible with old age fossils</tspan><tspan sodipodi:role="line" x="-286.49637" y="1098.101" id="tspanDagger" style="font-size:40px;line-height:1.25">† No death before the fall</tspan><tspan sodipodi:role="line" x="-286.49637" y="1148.101" id="tspanDoubleDagger" style="font-size:40px;line-height:1.25">‡ Historical Adam not affirmed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+       x="631.18854"
+       y="402.79996"
+       id="text3285"
+       inkscape:export-filename="D:\me\bible\Defenders\GenesisInterpretations.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3287"
+         x="631.18854"
+         y="402.79996"
+         style="font-size:40px;line-height:1.25">+</tspan></text>
+  </g>
+</svg>

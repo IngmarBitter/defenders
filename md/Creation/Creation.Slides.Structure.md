@@ -92,7 +92,7 @@ One big deck in the **hypothesis-trial pattern** (root.ai.md mode (c)): nine riv
   - Literary framework (Blocher, Kline) – facet: structure
   - Functional / cosmic temple (Walton) – facet: purpose
   - Creation myth (Miller and Soden) – facet: polemic against ANE myths; ANE parallels, Egyptian and Babylonian (Craig Excursus 9–12)
-  - Mytho-history (Craig Excursus 13–20: etiological motifs, genealogies, genre, non-literal elements) – steelman, then answer: figurative *and* historical, not figurative *instead of* historical. Not on the 2015 diagram; add it to the figurative region.
+  - Mytho-history (Craig Excursus 13–20: etiological motifs, genealogies, genre, non-literal elements) – steelman, then answer: figurative *and* historical, not figurative *instead of* historical. On the diagram it straddles the Literal edge in the ✗ column, above Creation Myth.
 - **Part 4 – The Diamond**
   - Adam in the New Testament – Jesus and Paul read Genesis as history (Craig Man 12–14; CMI).
   - The Diamond slide: the historical 6 × 24h core with the structural, purposive, polemic and Sabbath facets (fed by the Part 3 verdicts). Reuse the atonement diamond image idea.
