@@ -68,17 +68,16 @@ Topics
 7. [Doctrine of the Trinity](Trinity/Trinity.Slides.html) <small>One God, Three persons: Father Son Holy Spirit, History of Explanations, Possible Model</small>
 8. [Doctrine of the Holy Spirit](Trinity/HolySpirit.Slides.html) <small>Deity, Personhood, Role in Salvation, Ministry to believers</small>
 9. [Doctrine of Christ](Christ/Christ.Slides.html) <small>Deity and Humanity of Christ, Incarnation, Death, Resurrection, and Access to Salvation through Christ</small>
-10. Doctrine of Creation <small>God made everything, visible and invisible – and still upholds and governs it</small>
+10. Doctrine of Creation vs Evolutionism <small>God made everything, visible and invisible – and still upholds and governs it</small>
     1. Creation out of Nothing <small>God alone is eternal; everything else had a beginning and depends on Him every moment</small>
-    2. The Days of Genesis: Reading the Text <small>the range of interpretations and what Scripture itself says</small>
-    3. The Days of Genesis: The Diamond <small>history, structure, purpose and Sabbath pattern hold together – and which readings fail</small>
-    4. Physics <small>a universe with a beginning, fine-tuned for life, and the starlight question – design needs a Designer</small>
-    5. Geology <small>the Flood, fossils, and the age of the Earth – what the rocks record</small>
-    6. Chemistry <small>the first living cell from lifeless matter? – life needs a Life-Giver</small>
-    7. Biology <small>mutations, natural selection, irreducible complexity, common ancestry – inventions need an Inventor</small>
-    8. The Origin of Man <small>Adam and Eve, apes and "ape-men", and what sets humans apart</small>
-    9. Miracles <small>does science rule them out? The Creator can act in His creation</small>
-    10. Angels and Demons <small>the invisible creation: their nature, fall and work – spiritual warfare without fear or fascination</small>
+    2. The Days of Genesis <small>each interpretation tried against the text – history, structure, purpose and Sabbath pattern hold together like a diamond</small>
+    3. Physics <small>a universe with a beginning, fine-tuned for life, and the starlight question – design needs a Designer</small>
+    4. Geology <small>the Flood, fossils, and the age of the Earth – what the rocks record</small>
+    5. Chemistry <small>the first living cell from lifeless matter? – life needs a Life-Giver</small>
+    6. Biology <small>mutations, natural selection, irreducible complexity, common ancestry – inventions need an Inventor</small>
+    7. The Origin of Man <small>Adam and Eve, apes and "ape-men", and what sets humans apart</small>
+    8. Miracles <small>does science rule them out? The Creator can act in His creation</small>
+    9. Angels and Demons <small>the invisible creation: their nature, fall and work – spiritual warfare without fear or fascination</small>
 11. Doctrine of Man <small>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?</small>
 12. Doctrine of Salvation
     1. How Jesus’s death can be a substitute payment for our own guilt penalty
