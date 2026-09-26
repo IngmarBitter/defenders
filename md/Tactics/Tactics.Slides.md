@@ -111,7 +111,7 @@ Ingmar Bitter, PhD
 
 ## Navigation
 
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 

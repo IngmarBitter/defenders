@@ -372,7 +372,7 @@
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
 * Next: [Baptism of/by the Holy Spirit](HolySpirit.Slides.6.BaptismOfTheSpirit.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 

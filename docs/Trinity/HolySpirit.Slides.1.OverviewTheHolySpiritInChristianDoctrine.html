@@ -41,7 +41,7 @@
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
 * Next: [Personhood of the Holy Spirit](HolySpirit.Slides.2.PersonhoodOfTheSpirit.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 

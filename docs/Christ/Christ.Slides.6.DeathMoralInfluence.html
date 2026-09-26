@@ -156,7 +156,7 @@
 * [Return to Christ Overview](Christ.Slides.html)
 * Prev: [Christ's Death: Redemption and Ransom](Christ.Slides.5.DeathRedemptionAndRansom.html)
 * Next: [The Resurrection: Biblical Evidence](Christ.Slides.7.ResurrectionBiblicalEvidence.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 
