@@ -60,7 +60,7 @@
 - `md/Creation/Notes/` – Ingmar's earlier teaching material: `Series2/` (docx → md of Craig Series 2 notes/outlines, with media), `Ingmar/` (Hugh Ross review, Day-Age questions, Noah's flood), `Talks/` (Calvin Smith, CMI 2015), `Pptx/` (text + notes of 6 decks from C:/_/me/bible/PPTX).
 - `md/Creation/Sources/` – external YEC/ID sources plus opposing views (Genesis/Physics/Chemistry/Biology subfolders), 29 files + README (YEC/ID, plus RTB and BioLogos as opposing views). Key-point bullets were agent-written – verify against the article text before using them on slides. Chemistry is thin (4 files); RNA world, blood clotting, and morality only appear inside larger articles.
 - Images copied to `docs/Creation/pics/`: GenesisInterpretations, BibleNatureTheologyScience, day-age-timeline, DayAgeOfficialTimeLine, FatManSpandexYomDay1, BigBangModel.
-- Craig Creation 10-24 (providence, miracles, angels) also fetched. Structure plan written: `md/Creation/Creation.Slides.Structure.md` (8 decks; open questions at bottom) – AWAITING Ingmar review.
+- Craig Creation 10-24 (providence, miracles, angels) also fetched. Structure plan written: `md/Creation/Creation.Slides.Structure.md` (10 decks, approved 2026-09-25; decisions at bottom). Topic 10 in CreeksideDefenders.md reworded to 10.1-10.10. Notes also now include `GodScience/` (Ingmar 13-part God vs/via Science course + 2004 lessons + topic decks, from C:/_/me/bible/GodScience) and `CreationSuperConference/2011, 2017/`. NEXT: build Deck 1.
 
 
 **REVIEW PENDING — overflow-fix pass 2026-09-20 (commits 4153924, 60d6d5d, 13013a0, f76cbbf, 3e3759c):**
