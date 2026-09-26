@@ -6,10 +6,11 @@ Source material and planning for the "Doctrine of Creation vs Evolutionism" slid
 
 | Folder | Contents |
 |--------|----------|
-| `Craig/` | William Lane Craig, Defenders Series 4 transcripts (converted from the reasonablefaith.org PDFs): `Craig.Creation.01-24` (creatio ex nihilo, conservation, providence, miracles, angels and demons), `Craig.Excursus.01-30` (Genesis 1–11 interpretations, mytho-history, origin of life, evolution), `Craig.Man.12-19` (historical Adam) |
+| `Craig/` | William Lane Craig, Defenders Series 4 transcripts (converted from the reasonablefaith.org PDFs): `Craig.Creation.01-24` (creatio ex nihilo, conservation, providence, miracles, angels and demons), `Craig.Excursus.01-30` (Genesis 1–11 interpretations, mytho-history, origin of life, evolution), `Craig.Man.12-19` (historical Adam); from Series 3, `Craig.Salvation.01-05, 18-21` (election, Calvinism vs Arminianism, perseverance) |
 | `Sources/` | External articles – YEC and ID (CMI, AiG, ICR, Discovery Institute, STR) plus opposing views (RTB, BioLogos), in `Genesis/`, `Physics/`, `Chemistry/`, `Biology/`. See [Sources/README.md](Sources/README.md) |
 | `Notes/Series2/` | Ingmar's notes and outlines from teaching Craig's Defenders Series 2 (docx → md, with `media/`) |
 | `Notes/GodScience/` | Ingmar's "God vs/via Science" course (`Course.00-12`), the 2004 "God and Science" lessons (`Lesson.1-9`), and single-topic decks (`Topic.*`) |
+| `Notes/Providence/` | Ingmar's TULIP decks and notes from `C:/_/me/bible/Calvinism` (election, limited atonement, irresistible grace, perseverance, free will, infant salvation, foreknowledge), plus total depravity, predestination, election, middle knowledge, and eternal security write-ups |
 | `Notes/CreationSuperConference/` | Talks from the 2011 and 2017 Creation Super Conferences |
 | `Notes/Ingmar/` | Ingmar's own write-ups (Hugh Ross review, Day-Age questions, Noah's Flood, Satan's origin, science and faith) |
 | `Notes/Talks/` | Other speakers (Calvin Smith, David Garcia) |

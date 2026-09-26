@@ -23,16 +23,16 @@ Compress and link back instead of repeating:
 | Universe had a beginning (Big Bang, BGV, thermodynamics) | Kalam (5.2) | 1 recap slide + link |
 | Fine-tuned constants | FineTuning (5.3) | 1 recap slide + link |
 | First cell / chemical evolution | FineTuning "Chemical Evolution: First Cell" | Deck 5 expands; Fine-Tuning slide referenced |
-| Providence: Calvinism / Arminianism / Molinism | Molinism (12.4) | **not a new deck** – Craig Creation 10–12 used to review the Molinism deck |
-| Hume on miracles, intrinsic probability of the resurrection | Christ Deck 8 (lottery pair) | Deck 8 gives the general case; Christ Deck 8 is the application |
+| Providence: Calvinism / Arminianism / Molinism, TULIP | Molinism deck (former Topic 12.4) | **moves here** as Deck 8 – the detailed Molinism treatment lives in the Creation unit |
+| Hume on miracles, intrinsic probability of the resurrection | Christ Deck 8 (lottery pair) | Deck 9 gives the general case; Christ Deck 8 is the application |
 
 ## Where Craig Creation 10–24 Fit
 
 Craig treats all three topics under the Doctrine of Creation – how God relates to what He has made. Recommendation:
 
-- **Providence (parts 10–12)** → the existing Molinism deck (Topic 12.4) already covers this content. Use these parts to review and update that deck; no new deck.
-- **Miracles (parts 13–18)** → **Deck 8 in this unit**, "Miracles: Does Science Rule Them Out?" It comes naturally after the science decks: natural law is not a closed system, and the Creator can act in His creation.
-- **Angels and Demons (parts 19–24)** → **Deck 9 in this unit**, "The Invisible Creation: Angels and Demons" (Colossians 1:16 "visible and invisible"). This could instead become its own Topic, but it fits here as the last part of what God created.
+- **Providence (parts 10–12)** → **Deck 8 in this unit**, "Providence: God's Decree and Human Freedom" – the most detailed treatment of Calvinism vs Arminianism vs Molinism, including every TULIP point. The Molinism deck (former Topic 12.4) moves here; Topic 12 keeps salvation from the believer's side and refers back.
+- **Miracles (parts 13–18)** → **Deck 9 in this unit**, "Miracles: Does Science Rule Them Out?" It comes naturally after the science decks: natural law is not a closed system, and the Creator can act in His creation.
+- **Angels and Demons (parts 19–24)** → **Deck 10 in this unit**, "The Invisible Creation: Angels and Demons" (Colossians 1:16 "visible and invisible"). This could instead become its own Topic, but it fits here as the last part of what God created.
 
 ## Deck Series
 
@@ -47,8 +47,9 @@ Craig treats all three topics under the Doctrine of Creation – how God relates
 | 5 | Chemistry: The Origin of Life | 10.5 | Craig Excursus 24–26; Sources/Chemistry; GodScience Course.09, InformationBrickWall, Topic.OriginOfLife (+ Don Wallar); CSC 2017 OriginOfLife |
 | 6 | Biology: Mutations, Design, and Common Ancestry | 10.6 | Craig Excursus 27–30; Sources/Biology; GodScience Course.02–05, Lesson.6.MacroEvolution; CSC 2011 IncredibleDesignInNature, GreatestHoaxOnEarth |
 | 7 | The Origin of Man | 10.7 | Craig Man 15–19; GodScience Course.08, Topic.OriginOfMan, Topic.FactsAboutApemen; CMI chimp-DNA |
-| 8 | Miracles: Does Science Rule Them Out? | 10.8 | Craig Creation 13–18; GodScience Course.11 |
-| 9 | The Invisible Creation: Angels and Demons | 10.9 | Craig Creation 19–24; Ingmar/SatansOriginAndMission |
+| 8 | Providence: God's Decree and Human Freedom | 10.8 | Craig Creation 10–12; Craig.Salvation 01–05, 18–21 (Series 3); Molinism deck (`md/Molinism/`); Notes/Providence (Calvinism folder: TULIP decks, free will, foreknowledge) |
+| 9 | Miracles: Does Science Rule Them Out? | 10.9 | Craig Creation 13–18; GodScience Course.11 |
+| 10 | The Invisible Creation: Angels and Demons | 10.10 | Craig Creation 19–24; Ingmar/SatansOriginAndMission |
 
 Topic numbers refer to the reworded Topic 10 in `md/CreeksideDefenders.md`.
 
@@ -158,14 +159,28 @@ One big deck in the **facet-cutting pattern**: the Diamond comes first, as the t
   - Craig's Homo heidelbergensis proposal (Man 15–19), steelmanned.
   - The YEC response: Adam about 6,000 years ago per the genealogies (Deck 2 reference).
 
-### Deck 8 – Miracles: Does Science Rule Them Out?
+### Deck 8 – Providence: God's Decree and Human Freedom
+
+Mode (b), exclusive interpretations: steelman each view, keep the Scripture bullets cutting both ways, and let the verdict emerge in the revisit.
+
+- What providence is: God's governance of all that happens (Craig Creation 10); ordinary vs extraordinary providence (the bridge to Deck 9).
+- The three views stated (Creation 10): Calvinism (universal causal determinism + compatibilist freedom), Arminianism (libertarian freedom + simple foreknowledge), Molinism (libertarian freedom + middle knowledge).
+- Middle knowledge and the logical order of God's knowledge (natural → middle → free); links back to God's Omniscience deck.
+- Scripture reviewed once, cutting both ways (sovereignty texts and freedom/responsibility texts).
+- TULIP point by point, each as providence applied to salvation – Calvinist claim, Arminian/Molinist answer (ROSES), from the Molinism deck and the Calvinism folder decks:
+  - Total depravity; Unconditional election; Limited atonement; Irresistible grace; Perseverance of the saints (the detailed "can we throw away our salvation?" stays in Topic 12.4, which refers back)
+- Revisit (Creation 11–12): Craig's critique of Calvinism, the Arminian account, why Molinism reconciles sovereignty and freedom.
+- Where Molinism already does work in the series: inspiration and canon (Revelation decks), the unevangelized (Christ Deck 9).
+- Takeaways.
+
+### Deck 9 – Miracles: Does Science Rule Them Out?
 
 - Definition; ordinary vs extraordinary providence (Craig Creation 13).
 - The 18th-century crucible: Newton's world-machine, Spinoza, Hume (Creation 14–17).
 - Why "in principle" objections fail; intrinsic probability (Creation 18) → link to Christ Deck 8.
 - Takeaways: a Creator who made nature can act in it.
 
-### Deck 9 – The Invisible Creation: Angels and Demons
+### Deck 10 – The Invisible Creation: Angels and Demons
 
 - The nature and work of angels (Craig Creation 19–20).
 - Satan: names, origin (Isaiah 14, Ezekiel 28 debate), nature and work of demons (Creation 21–24).
@@ -173,7 +188,7 @@ One big deck in the **facet-cutting pattern**: the Diamond comes first, as the t
 
 ## Decisions
 
-- Providence stays in the Molinism deck (review with Craig Creation 10–12); no new deck.
+- Providence is Deck 8 of this unit, the most detailed Molinism treatment including TULIP; the Molinism deck moves here and Topic 12.4 is dropped from the Doctrine of Salvation.
 - Angels and Demons, Miracles, Geology, and the Origin of Man are decks in this unit.
 - Genesis is one big deck in the facet-cutting pattern: the Diamond first, then per view "The Facet" (explanation, strengths, facet kept) and "Polishing the Facet" (weaknesses cut away).
-- Topic 10 in `CreeksideDefenders.md` is reworded and renumbered to match this plan (10.1–10.9).
+- Topic 10 in `CreeksideDefenders.md` is reworded and renumbered to match this plan (10.1–10.10).

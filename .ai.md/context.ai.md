@@ -54,6 +54,8 @@
 
 ## Todo
 
+**Topic 12.1 "Saved by Faith" – intent for when we build it (Ingmar, 2026-09-26):** focus: if you believe, you are saved, period – by faith, not works; real faith produces works as a consequence. Brief detour: what moves us to believe – libertarian free will, or faith as God's gift experienced as our own choice (compatibilism)? Details → 10.8 Providence; rest assured, all views agree that whoever believes is saved. Anchor texts: John 3:16, Romans 10:9, Ephesians 2:8–10, James 2:17. Christ's substitution is covered in Christ Decks 3–4 (refer, don't repeat).
+
 **Creation unit (Topic 10) — source collection IN PROGRESS 2026-09-25:**
 - Stance (Ingmar): "diamond" reading of Genesis 1 – historical/literal 6-day timeline, poetic, moral, hyperbolic facets hold together (non-exclusive, like the atonement motifs). Reject only modern-science force-fits onto Gen 1 (concordism). Craig (Series 4) is the main source for (a) text-only hermeneutics / range of interpretations; creation.com, AiG, ICR, DI etc. for (b) reconciling with science. Craig was on the fence in Series 2; his case against 6 days was weak.
 - `md/Creation/Craig/` – 47 Series 4 transcripts (PDF → md): `Craig.Creation.01-09` (ex nihilo, continuing creation, conservation; parts 10-24 providence/miracles/angels skipped as off-topic), `Craig.Excursus.01-30` (Genesis 1-11 interpretations, mytho-history, origin of life, evolution), `Craig.Man.12-19` (historical Adam).
