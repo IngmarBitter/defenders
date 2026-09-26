@@ -57,7 +57,7 @@ Topics
    6. [Immutable & Holy & Loving](GodAttributes/GodRelational.sildes.html)
 5. God must exist
    1. [Properly Basic Belief](NaturalTheology/ProperlyBasicBelief.sildes.html)
-   2. [Kalam Cosmological Argument](Kalam/Kalam.slides.html)
+   2. [Kalam Cosmological Argument](NaturalTheology/KalamCosmological.slides.html)
    3. [Teleological Argument from Fine-Tuning](FineTuning/FineTuning.slides.html)
    4. [Moral Argument](MoralArgument/MoralArgument.slides.html) from Absolute Moral Values
    5. [Ontological Argument](NaturalTheology/Ontological.slides.html)
