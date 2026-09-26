@@ -124,7 +124,7 @@
 ![](pics/TakingAwalk.jpg style="float: right; width: 8rem")
 
 * The **words** are figurative, the **event** is real:
-* "God walked in the garden" (Genesis 3:8) → real daily closeness and conversation between God and Adam, in a real place
+* "The LORD God walking in the garden" (Genesis 3:8) → real daily closeness and conversation between God and Adam, in a real place
 * "Formed from the dust" (Genesis 2:7) → a body really made of the earth – "to dust you shall return" (Genesis 3:19)
 * An anthropomorphism is a figure **of** something – not a figure of nothing
 
@@ -223,7 +223,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"This is the history of the heavens and the earth when they were created, **in the day** that the LORD God made the earth and the heavens,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Genesis 2:4 (NKJV)</em></p>
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the LORD God had not caused it to rain on the earth, and there was no man to till the ground; but **a mist went up from the earth** and watered the whole face of the ground."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 2:5–6 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] For the LORD God had not caused it to rain on the earth, and there was no man to till the ground; but **a mist went up from the earth** and watered the whole face of the ground."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 2:5–6 (NKJV)</em></p>
 
 * "In the day" (be-yom) – a Hebrew idiom for **"when"**: yom used broadly, with no number and no evening-morning
 
@@ -256,7 +256,7 @@
 
 ![](pics/BibleWithSeeds.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"See, I have given you every herb that yields seed [...] to you it shall be for food. **Also, to every beast of the earth**, to every bird of the air, and to everything that creeps on the earth, in which there is life, **I have given every green herb for food**"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Genesis 1:29–30 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] See, I have given you every herb that yields seed [...] to you it shall be for food. **Also, to every beast of the earth**, to every bird of the air, and to everything that creeps on the earth, in which there is life, **I have given every green herb for food** [...]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Genesis 1:29–30 (NKJV)</em></p>
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Every moving thing that lives shall be food for you. I have given you all things, **even as the green herbs**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 9:3 (NKJV)</em></p>
 
@@ -270,7 +270,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"but of the tree of the knowledge of good and evil you shall not eat, for **in the day that you eat of it you shall surely die**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Genesis 2:17 (NKJV)</em></p>
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, just as through one man sin entered the world, and **death through sin**, and thus death spread to all men, because all sinned"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 5:12 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, just as through one man sin entered the world, and **death through sin**, and thus death spread to all men, because all sinned—"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 5:12 (NKJV)</em></p>
 
 * "In the day" again means **"when"** – dying began that day
 * Romans 5 speaks of physical death (Christ died, 5:6–10) – death is the **penalty**, not part of "very good"
@@ -281,7 +281,7 @@
 
 ![](pics/Fern.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"**Cursed is the ground for your sake**; [...] Both **thorns and thistles** it shall bring forth for you [...] For dust you are, And to dust you shall return."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Genesis 3:17–19 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] **Cursed is the ground for your sake**; [...] Both **thorns and thistles** it shall bring forth for you [...] For dust you are, And to dust you shall return."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Genesis 3:17–19 (NKJV)</em></p>
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the creation was subjected to futility [...] For we know that **the whole creation groans** and labors with birth pangs together until now."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:20, 22 (NKJV)</em></p>
 
@@ -369,7 +369,7 @@
 * **No sun until day 4** → God made light on day 1; the text itself has day and night before the sun – no concordism needed
 * **Trees in one day** → "Let the earth bring forth" is a creative command, like "Let there be"; God made mature trees as He made a mature Adam
 * **Adam naming the animals** → livestock, birds, and beasts of the field – a few hundred kinds, an hour or two
-* "At last" (Genesis 2:23, NKJV "This is now") → after the animals, finally a fitting partner
+* "At last" (Genesis 2:23 RSV; NKJV "This is now") → after the animals, finally a fitting partner
 
 ---
 
@@ -422,7 +422,7 @@
 
 ![](pics/Lightning.jpg style="float: right; width: 11rem")
 
-* Verse 2 is a circumstantial clause – "Now the earth **was**", not "**became**" (AiG; Craig agrees)
+* Verse 2 is a circumstantial clause – "Now the earth **was**", not "**became**" (AiG); Craig: a prior life world is "utterly foreign to the text", though he leaves a bare time gap before verse 3 open
 * Exodus 20:11: the heavens and the earth were made **in six days** – no ages before them
 * Craig: a prior life world is "utterly foreign to the text" – "concordism at its very worst" (Excursus 4)
 * Cut away: **a pre-Adamic world, death, and a fallen Satan before "very good"** (Genesis 1:31)
@@ -480,7 +480,7 @@
 
 * Yom **can** stretch – but can it stretch **here**? Number + evening + morning, 6 times
 * "In my father's day, he spent six days crossing the country" – context decides, and Genesis 1 decides for 24 hours
-* Craig agrees: yom here means a 24-hour day, "It does not mean 'age'" (Excursus 5)
+* Craig agrees: yom here means a 24-hour day, "It does not mean 'age'" – "but the 24 hour days could be" a figure for long ages (Excursus 5); yet the days sit inside the narrative, so the narrative claims them (Where Is the Vehicle?)
 * Day 7 does not continue: Exodus 20:11 commands **one day** of rest, not an unending one
 * If only modern science can reveal Genesis, Moses, David, and the apostles could not understand it
 
@@ -587,7 +587,7 @@
 * Lego: pieces (material cause), maker (efficient), blueprint (formal), a home for Lego people (final cause) – **all four**, not only the last
 * **Bara** means God as efficient cause – birds and sea creatures are made on day 5 (Craig, Excursus 8)
 * On Walton's view the land, plants, fish, birds, animals, and man were **not made** in the creation week
-* Craig: purely functional reading "implausible, not to say outlandish"; the seven days follow the Sabbath, not a temple dedication
+* Craig: purely functional reading "implausible (not to say ridiculous)" – it would make every statement about darkness, sea, dry land, and plants literally false; the seven days follow the Sabbath, not a temple dedication
 * Cut away: **function instead of material origins**
 
 ---
@@ -609,7 +609,7 @@
 
 ![](pics/GreekPhilosophy.jpg style="float: right; width: 8rem")
 
-* The "Egyptian myth" is a mosaic cobbled from 2,000 years of inscriptions (Craig)
+* Miller and Soden admit the "Egyptian myth" is a mosaic they had to assemble from bits across 2,000 years of inscriptions (Craig, Excursus 9)
 * "Parallelomania": parallels must be real, causal, and one-directional – rarely shown (Craig, Excursus 10–12)
 * A polemic against false stories **works only if the true story is true** (CMI)
 * Genesis 1:1 is no title but an independent sentence (Deck 1)

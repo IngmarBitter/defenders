@@ -165,7 +165,7 @@
 
 ![](pics/Dominos.jpg style="float: right; width: 8rem")
 
-* Building blocks must be linked into chains – proteins average about 400 amino acids
+* Building blocks must be linked into chains – proteins average about 330 amino acids
 * National Academy of Sciences: "Two amino acids do not spontaneously join in water. Rather, the **opposite** reaction is thermodynamically favored"
 * Undirected energy **destroys** faster than it builds – UV destroys amino acids 10,000 times faster or more than it makes them
 * Dilution: the oceans could never reach the concentrations required
@@ -209,7 +209,7 @@
 * But **RNA** can do a bit of both: carry information and catalyze some reactions
 * So perhaps the first life was RNA alone, which later "invented" DNA and proteins
 * It is the most prominent origin-of-life hypothesis today
-* Biochemist Harold Bernhardt calls it "the worst theory of the early evolution of life (except for all the others)"
+* Biochemist Harold Bernhardt titled his 2012 paper "The RNA world hypothesis: the worst theory of the early evolution of life (except for all the others)"
 
 ---
 
@@ -241,7 +241,7 @@
 
 ![](pics/Science.jpg style="float: right; width: 10rem")
 
-* Simplest free-living cell: a few hundred genes – a minimum genome of 387 protein genes and 43 RNA genes
+* Simplest known cell (Mycoplasma genitalium): 482 genes – and it is a parasite living off other cells; a computed bare minimum is 387 protein genes + 43 RNA genes, probably too weak to survive
 * It needs a membrane, an ATP motor, and DNA copying, **repair**, and reading machines all at once
 * DNA is highly reactive – about a million bases are damaged in a human cell each day; without repair, information decays
 * Cell biologist Franklin Harold: how cells came to exist "is, for all practical purposes, **unknown**"
@@ -252,6 +252,7 @@
 ## Not Enough Tries
 
 ![](pics/ChanceLawDesign.jpg style="float: right; width: 7rem")
+
 * Sarfati: 387 enzymes with ~10 fixed positions each → about **1E-5035** – like guessing a 5,000-digit PIN
 * Minimal cell ≈ 500 proteins of ≈ 330 amino acids: about **1E214500** combinations
 * Even granting 4 billion years: 1 km of Earth's surface packed with cell-sized trials, one per nanosecond, gives at most **1E71** tries
@@ -319,7 +320,7 @@
 
 ![](pics/EvidenceScales.jpg style="float: right; width: 8rem")
 
-* Craig, who accepts an old earth, weighs three Christian views:
+* Craig – an old-earth progressive creationist – weighs three Christian views:
   * **Theistic necessitism:** God built laws that make life inevitable – but the failed lab work and empty space count against necessitism
   * **Supervisionism:** unbroken natural causes, steered by God's providence – immune to refutation, but no such causes are in view
   * **Creation:** God acted **directly** to create life

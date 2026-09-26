@@ -284,10 +284,10 @@
 ![](pics/ArkSize.jpg style="float: right; width: 11rem")
 
 * Genesis 7:19–23 (Deck 2): **all** the high mountains under the **whole** heaven covered 15 cubits deep – water cannot stand that high in one valley for a year
-* Why build a 500-railcar Ark for 120 years? Noah could have **moved**
+* Why build a 500-railcar Ark for decades? Noah could have **moved**
 * Why take animals – and **birds** – if they lived elsewhere?
 * The Flood lasted **a year and ten days** (Genesis 7:11; 8:14)
-* Every church father read it as global
+* The church read it as global until 19th-century geology
 
 ---
 
@@ -394,7 +394,7 @@
 * Animals and people spread from Ararat and Babel
 * Marsupials reached Australia early, before the placental mammals – who then could not follow when the seas rose
 * Aborigines crossed by boat or raft on the narrow straits
-* Jaguar and leopard can still have cubs together – hard to square with 100 million years apart
+* Jaguar (America) and leopard (Africa) can still have cubs together – they parted recently, not millions of years ago
 
 ---
 
@@ -417,7 +417,7 @@
 
 ## "Hasn't Science Proven Millions of Years?"
 
-![](pics/EvidenceScales.jpg style="float: right; width: 10rem")
+![](pics/EvidenceScales.jpg style="float: right; width: 8rem")
 
 * Ask: **what was observed, and what was assumed?** No one watched the rock form
 * Dating methods fail on rocks of **known** age and disagree with each other on the same rock

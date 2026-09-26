@@ -21,7 +21,7 @@
 
 ![](pics/cell.jpg style="float: right; width: 11rem")
 
-* Deck 5: chemistry cannot explain **the first cell** – even Craig agrees a creationist account of life's origin is "eminently reasonable"
+* Deck 5: chemistry cannot explain **the first cell** – even Craig agrees a creationist account of life's origin is "eminently plausible"
 * Now: given life, how did the **diversity and complexity** of living things arise?
 * This is an evidence deck: state the claim, weigh the evidence, answer the rival view
 * Human origins come next (Deck 7) – here we stay with plants, animals, and cells
@@ -98,7 +98,7 @@
 
 ![](pics/ATCG-list.jpg style="float: right; width: 11rem")
 
-* Most mutations are harmful or neutral – they cause disease
+* Most mutations are harmful (disease) or neutral
 * "Beneficial" ones typically **break** something that happens to help:
   * Flightless island birds; Belgian Blue cattle (broken myostatin control gene)
   * Antibiotic resistance: a pump that no longer takes in the drug, a disabled control gene, a less specific enzyme
@@ -135,7 +135,7 @@
 
 ![](pics/CatDogTalking.jpg style="float: right; width: 10rem")
 
-* Not a "lawn" of fixed species – creationists **reject** fixity; Linnaeus himself dropped it
+* Not a "lawn" of fixed species – the Creation view **rejects** fixity; Linnaeus himself dropped it
 * God created the original **kinds** with great built-in ability to adapt
 * Since then mutation and selection produced the many **species** we see – dogs, cats, finch beaks
 * Kind (baramin: bara "create" + min "kind"): species that can **hybridize** belong to one kind – liger, zonkey, wholphin
@@ -177,7 +177,7 @@
 * Miller and Dawkins: the flagellum evolved from the **Type III secretory system** (T3SS), a protein pump
 * But the T3SS shares only about **a quarter** of the flagellar parts, and does not explain the motor
 * It serves parasites that attack cells that came later; flagella are far more widespread
-* So even evolutionary experts think the pump came **from** the flagellum (Minnich, Nguyen et al.)
+* Minnich (flagellum expert) – and even evolutionary researchers (Nguyen et al., Mecsas and Strauss) – say the pump devolved **from** the flagellum
 * Dembski: finding Hawaii does not show you can walk from Los Angeles to Tokyo
 
 ---
@@ -267,7 +267,7 @@
 
 * Common design predicts **shared subsets**; common ancestry predicts that all trees agree
 * Yet trees conflict: "phylogenetic conflict is common … the norm rather than the exception"
-* Cytochrome c: man closer to kangaroo than to horse; insulin: man closer to pig than to chimp
+* Different genes give different trees – "phylogenetic conflict is common, and frequently the norm" (*Biological Reviews* 2012, cited in *Darwin's Doubt*)
 * Paramecium uses a **different code** – a change that would scramble every protein at once
 * "Junk DNA" and "pseudogenes" keep turning out to have **regulatory functions** – shared function, not shared scars
 
@@ -381,7 +381,7 @@
 ![](pics/CatEatsMouse.jpg style="float: right; width: 10rem")
 
 * "Design flaws" keep turning out to be **good design**: the "backward" retina needs its blood supply; Müller cells act as optical fibers
-* Much apparent cruelty evolved **within** kinds – even creationists allow that
+* Much apparent cruelty evolved **within** kinds – even Creation advocates allow that
 * Pain hierarchy (Murray): insects likely feel no pain; animals are not aware that **they** are in pain
 * Death as ecosystem "scene-setting" for man's free response to God
 * Answer: the first two points we share; but Scripture places the groaning of creation **after** the curse (Romans 8:20), not in God's "very good"

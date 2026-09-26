@@ -63,7 +63,7 @@
 
 ![](pics/PoliticsOverScience.jpg style="float: right; width: 8rem")
 
-* **Java Man** (1891): an ape-like skullcap and a human thighbone found 45 feet apart – "a giant gibbon" (Rudolf Virchow)
+* **Java Man** (1891): a skullcap and a thighbone found 45 feet apart, joined into one "missing link" – two different creatures
 * **Piltdown Man** (1912): "Darwin Theory Proved True" (*New York Times*) – in 1953 exposed as a fraud: a human skull with an ape jaw
 * **Nebraska Man** (1922): used in the 1925 Scopes trial – an extinct **pig's tooth**
 * **Ramapithecus**: "ideally structured to be an ancestor of hominids" (*Time*, 1977) – now regarded as an ape related to the orangutan
@@ -127,7 +127,7 @@
 * Buried **together with modern humans** at four sites (Marvin Lubenow)
 * Heavy brow and stocky build: an isolated people in a harsh, cold climate
 * Homo erectus and Heidelberg Man also look **human in all traits** – Erectus even built boats
-* Here creationists and Craig agree: **Neanderthals were human**
+* Here the Creation side and Craig agree: **Neanderthals were human**
 
 ---
 
@@ -150,7 +150,7 @@
 
 ![](pics/dna-art.jpg style="float: right; width: 8rem")
 
-* Insertions and deletions (indels) are dropped from the comparisons – include them and Britten's 95% becomes about **87%**
+* Britten counted indels and got 95% – add the DNA his alignments left out and it is about **87%**; most later studies dropped the indels again
 * Only about **70%** of the chimp genome could be aligned to the human genome at all
 * The chimp genome is about **8% larger** than ours
 * 1,480 human genes have no counterpart in the chimp; the Y chromosomes differ dramatically
@@ -231,7 +231,7 @@
 
 * Craig reads Genesis 1–11 as **mytho-history** – but still insists on a real Adam and Eve
 * The **genealogies** end in people who were plainly historical
-* Paul's teaching on Adam "bursts the bounds of a purely literary figure" (Deck 2)
+* Craig: Paul's teaching on Adam "bursts the bounds of a purely literary figure" (Man 19; Deck 2)
 * So Adam and Eve are **the ancestors of every human being** who has ever lived
 * Craig then asks: if Adam was real, **when** did he live?
 
@@ -307,7 +307,7 @@
 * Craig is right: Adam and Eve were **real people**, the ancestors of all humans
 * Right that the gospel needs them (Deck 2: Adam in the New Testament)
 * Right that Neanderthals and Heidelberg Man were **fully human**, not ape-men
-* Right that the genetic case against a first couple **fails**
+* Right that a first couple is possible – but his answer covers only a couple older than 500,000 years; a recent Adam needs its own answer (created diversity, measured mutation rates)
 * The dispute is not whether Adam lived, but **how** he was made and **when**
 
 ---
@@ -344,7 +344,7 @@
 
 * Jesus puts man at the **beginning** – not billions of years in
 * 750,000 years of death, disease, and fossils **before** Adam's sin – death before the Fall (Deck 2)
-* The ages rest on dating methods that are revised when a fossil does not fit (skull 1470, Lucy) – Deck 4
+* The ages rest on dating methods that are revised when a fossil does not fit (skull 1470, Lucy) – see Deck 4 on discordant dates
 
 ---
 
@@ -382,7 +382,7 @@
 * Ask: **which fossil** is the ancestor? Most "ape-men" turned out to be apes, humans, or hoaxes
 * Ask: **98% of what?** The figure leaves out much of the genome
 * Ask: where do **your conscience, your mind, and your words** come from?
-* Christians differ on Adam's date – Craig and young-earth creationists alike affirm a **real Adam**, father of us all
+* Christians differ on Adam's date – Craig and young-earth Christians alike affirm a **real Adam**, father of us all
 * Scripture's answer is simple: God made man, male and female, from the beginning
 
 ---
