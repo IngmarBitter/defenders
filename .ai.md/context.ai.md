@@ -54,6 +54,15 @@
 
 ## Todo
 
+**Creation unit (Topic 10) — source collection IN PROGRESS 2026-09-25:**
+- Stance (Ingmar): "diamond" reading of Genesis 1 – historical/literal 6-day timeline, poetic, moral, hyperbolic facets hold together (non-exclusive, like the atonement motifs). Reject only modern-science force-fits onto Gen 1 (concordism). Craig (Series 4) is the main source for (a) text-only hermeneutics / range of interpretations; creation.com, AiG, ICR, DI etc. for (b) reconciling with science. Craig was on the fence in Series 2; his case against 6 days was weak.
+- `md/Creation/Craig/` – 47 Series 4 transcripts (PDF → md): `Craig.Creation.01-09` (ex nihilo, continuing creation, conservation; parts 10-24 providence/miracles/angels skipped as off-topic), `Craig.Excursus.01-30` (Genesis 1-11 interpretations, mytho-history, origin of life, evolution), `Craig.Man.12-19` (historical Adam).
+- `md/Creation/Notes/` – Ingmar's earlier teaching material: `Series2/` (docx → md of Craig Series 2 notes/outlines, with media), `Ingmar/` (Hugh Ross review, Day-Age questions, Noah's flood), `Talks/` (Calvin Smith, CMI 2015), `Pptx/` (text + notes of 6 decks from C:/_/me/bible/PPTX).
+- `md/Creation/Sources/` – external YEC/ID sources plus opposing views (Genesis/Physics/Chemistry/Biology subfolders), 29 files + README (YEC/ID, plus RTB and BioLogos as opposing views). Key-point bullets were agent-written – verify against the article text before using them on slides. Chemistry is thin (4 files); RNA world, blood clotting, and morality only appear inside larger articles.
+- Images copied to `docs/Creation/pics/`: GenesisInterpretations, BibleNatureTheologyScience, day-age-timeline, DayAgeOfficialTimeLine, FatManSpandexYomDay1, BigBangModel.
+- NEXT: write `md/Creation/Creation.Slides.Structure.md` plan (5 decks per Topics 10.1-10.5; link back to Kalam/FineTuning decks for overlap; 10.2 in mode (a) non-exclusive/diamond), get approval, then build.
+
+
 **REVIEW PENDING — overflow-fix pass 2026-09-20 (commits 4153924, 60d6d5d, 13013a0, f76cbbf, 3e3759c):**
 42 slides across 22 decks were silently clipped by `.slide-content { overflow: hidden }`.
 All now pass `node tools/check-slide-overflow.js`. **Every edit below still needs a read-through
