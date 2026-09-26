@@ -108,7 +108,7 @@ Use the template margins for new quotes. Some slides have hand-adjusted margin v
 **Bold emphasis permitted:** You may use markdown `**` (preferred) or `<b>` tags inside scripture quotes to highlight the words most relevant to the slide's topic. The base text must still be NKJV verbatim.
 
 **Non-biblical primary sources** (e.g. the Qur'an) may use the same quote styling when the slide engages that source directly; attribute clearly (e.g. `Qur'an, Surah 4:157`). The NKJV verification protocol applies only to Bible quotes.
-If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1.5em;` on intermediate reference lines and `margin-bottom: -0.75em;` on the final one.
+If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1.5em;` on intermediate reference lines and `margin-bottom: -0.75em;` on the final one. Exception: when the intermediate quote's last line is short, `scripture-quote-layout.js` pulls its reference up beside that line, and `-1.5em` then drags the next quote over it (garbled text) – use a positive margin there (`margin-bottom: 0.75em;` between the quotes). The overflow checker does not detect this overlap; look at the slide.
 
 ### Ellipsis in Scripture Quotes
 
