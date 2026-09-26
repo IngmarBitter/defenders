@@ -349,7 +349,7 @@
 ## Navigation
 
 * [Return to Creation Overview](Creation.Slides.html)
-* Next: The Days of Genesis
+* Next: [The Days of Genesis](Creation.Slides.2.TheDaysOfGenesis.html)
 * [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---

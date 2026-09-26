@@ -70,15 +70,15 @@ Topics
 9. [Doctrine of Christ](Christ/Christ.Slides.html) <small>Deity and Humanity of Christ, Incarnation, Death, Resurrection, and Access to Salvation through Christ</small>
 10. [Doctrine of Creation vs Evolutionism](Creation/Creation.Slides.html) <small>God made everything, visible and invisible – and still upholds and governs it</small>
     1. [Creation out of Nothing](Creation/Creation.Slides.1.CreationOutOfNothing.html) <small>God alone is eternal; everything else had a beginning and depends on Him every moment</small>
-    2. The Days of Genesis <small>a diamond: the historical six days at the core, and every interpretation polished into a facet – structure, purpose, Sabbath pattern</small>
-    3. Physics <small>a universe with a beginning, fine-tuned for life, and the starlight question – design needs a Designer</small>
-    4. Geology <small>the Flood, fossils, and the age of the Earth – what the rocks record</small>
-    5. Chemistry <small>the first living cell from lifeless matter? – life needs a Life-Giver</small>
-    6. Biology <small>mutations, natural selection, irreducible complexity, common ancestry – inventions need an Inventor</small>
-    7. The Origin of Man <small>Adam and Eve, apes and "ape-men", and what sets humans apart</small>
-    8. [Providence](Molinism/Molinism.slides.html) <small>God's decree and human freedom – Calvinism, Arminianism, Molinism, and TULIP</small>
-    9. Miracles <small>does science rule them out? The Creator can act in His creation</small>
-    10. Angels and Demons <small>the invisible creation: their nature, fall and work – spiritual warfare without fear or fascination</small>
+    2. [The Days of Genesis](Creation/Creation.Slides.2.TheDaysOfGenesis.html) <small>a diamond: the historical six days at the core, and every interpretation polished into a facet – structure, purpose, Sabbath pattern</small>
+    3. [Physics](Creation/Creation.Slides.3.PhysicsBeginningDesignAndStarlight.html) <small>a universe with a beginning, fine-tuned for life, and the starlight question – design needs a Designer</small>
+    4. [Geology](Creation/Creation.Slides.4.GeologyTheFloodFossilsAndTheAgeOfTheEarth.html) <small>the Flood, fossils, and the age of the Earth – what the rocks record</small>
+    5. [Chemistry](Creation/Creation.Slides.5.ChemistryTheOriginOfLife.html) <small>the first living cell from lifeless matter? – life needs a Life-Giver</small>
+    6. [Biology](Creation/Creation.Slides.6.BiologyMutationsDesignAndCommonAncestry.html) <small>mutations, natural selection, irreducible complexity, common ancestry – inventions need an Inventor</small>
+    7. [The Origin of Man](Creation/Creation.Slides.7.TheOriginOfMan.html) <small>Adam and Eve, apes and "ape-men", and what sets humans apart</small>
+    8. [Providence](Creation/Creation.Slides.8.ProvidenceGodsDecreeAndHumanFreedom.html) <small>God's decree and human freedom – Calvinism, Arminianism, Molinism, and TULIP</small>
+    9. [Miracles](Creation/Creation.Slides.9.MiraclesDoesScienceRuleThemOut.html) <small>does science rule them out? The Creator can act in His creation</small>
+    10. [Angels and Demons](Creation/Creation.Slides.10.TheInvisibleCreationAngelsAndDemons.html) <small>the invisible creation: their nature, fall and work – spiritual warfare without fear or fascination</small>
 11. Doctrine of Man <small>Made in God’s Image. Where do we come from? Why are we here? Where we go when we die?</small>
 12. Doctrine of Salvation
     1. Saved by Faith <small>believe and you are saved – by faith, not by works, because Christ paid our penalty</small>
