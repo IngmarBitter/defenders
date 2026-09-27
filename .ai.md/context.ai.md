@@ -1,6 +1,7 @@
 ## Summary
 
 - **Current focus (2026-09-26): Creation unit, Topic 10 – all 10 decks drafted and reviewed; obvious errors fixed and committed; big-picture items await Ingmar – see the FULL REVIEW block under Todo.**
+- **Deck 1 TAUGHT 2026-09-27, first half (through "The Scripture in One Line Each"); second half (definition, beginning, objections, conservation, takeaways) next week. Class-report changes applied: bara caveat, "Get your own dirt", new slides "The Translation Fork" and "Why 'the Word'? And 'a God'?" (Memra, JW), Islam whale-stack corrected to later tradition not Quran, myth-pool line on the recap. Deck 1 now 40 slides. Review findings for all decks live in `md/Creation/Todo.md` (70 numbered items).**
 - Deck 9 images DONE 2026-08-30: 16 Grok-generated slide-specific images (painterly, golden light, single concept, no text; all 3:4 portrait at 7rem) replaced the remaining generic icons; clipart `Faith.jpg` replaced by `GiftOfFaith.jpg`. Only "Where We Are" and Credits keep the generic deck icons. Prompts were written per slide by Claude, rendered in Grok.
 - Fetched and wrote all 51 Craig Doctrine of Christ transcripts (Parts 1-51) as markdown files in `md/Christ/`
 - Created 4 summary files: `Craig.Summary1.Incarnation.md`, `Craig.Summary2.Death.md`, `Craig.Summary3.Resurrection.md`, `Craig.Summary4.Access.md`

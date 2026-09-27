@@ -95,6 +95,7 @@ Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Sp
 - This is a strong preference, not an unshakable rule. When the full name would push a slide row over, an abbreviated inline reference (e.g. `1 Cor 9:18`, `Rom 3:25f`) is permitted – fitting the row wins.
 - Block-quote attributions (the `<em>` label under a scripture quote) always use the full name; only inline references abbreviate.
 - Do not "fix" an existing abbreviation back to the full name without checking the row length.
+- General rule for all abbreviations (verse → v., versus → vs., etc.): do not abbreviate, unless the abbreviation keeps a line from breaking over to the next row.
 
 ### Scripture Quote Format (Slides)
 

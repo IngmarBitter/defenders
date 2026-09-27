@@ -8,11 +8,11 @@
 
 * [Why It Matters](#slide3)
 * [The Scripture](#slide6)
-* [What Creation Is](#slide16)
-* [The Case for a Beginning](#slide19)
-* [Objections](#slide22)
-* [God Keeps It in Being](#slide29)
-* [Practical Takeaways](#slide33)
+* [What Creation Is](#slide18)
+* [The Case for a Beginning](#slide21)
+* [Objections](#slide24)
+* [God Keeps It in Being](#slide31)
+* [Practical Takeaways](#slide35)
 
 ---
 
@@ -40,6 +40,8 @@
 * So whatever exists besides God was **made by God** – there is no second thing that was always there
 * This is **creatio ex nihilo** – creation out of nothing – and it lies at the very heart of the Doctrine of Creation
 * No rival eternal matter, no second eternal god: God has no competitor
+* A scientist to God: "I can make man too" – and scoops up a handful of dust
+  * God: "**Get your own dirt**"
 
 ---
 
@@ -65,7 +67,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"In the beginning God created **the heavens and the earth**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:1 (NKJV)</em></p>
 
 * "The heavens and the earth" is a Hebrew idiom for **the whole universe** – Hebrew had no single word for "everything physical"
-* **Bara** (created) has only God as its subject and does not presuppose a material to work on
+* **Bara** (created) has only God as its subject and does not presuppose a material to work on – the verb alone does not prove *ex nihilo*; its exclusive subject and the context do
 * No preexisting material, no warring gods, no primordial dragons – as in the pagan myths of Israel's neighbors
 * Just God, who creates everything
 
@@ -84,14 +86,25 @@
 
 ---
 
+## The Translation Fork
+
+![](pics/LightOnWords.jpg style="float: right; width: 10rem")
+
+* The Hebrew was written without vowels; the Masoretic pointing is from the 10th century AD
+* So both are grammatically possible: "**In the beginning** God created" and "**When** God began to create" (JPS)
+* The fork does not decide *ex nihilo*: "when" only threatens it if one smuggles in "the earth of verse 2 = uncreated stuff" – nothing in the text forces that
+* Westermann's three arguments still favor the independent sentence
+
+---
+
 ## Not Just a Title
 
 ![](pics/RosetteNebula.jpg style="float: right; width: 7rem")
 
-* Could verse 1 be a chapter heading, with creation really starting in verse 3?
-* No: verse 2 begins with "**and**" – verse 1 is the background for verse 2, not a heading above it
-* As a title it would even be wrong: verses 2ff never describe the Earth's creation – the Earth already exists in verse 2
+* Could v. 1 be a chapter heading → creation starts in v. 3?
+* No: verse 2 opens with a disjunctive vav (and, now, or but – same function; NKJV leaves it out): "The earth was…" describes the state of what verse 1 made, not a new act
 * Verse 1: God creates **the whole universe**; verse 2: the focus narrows to **the Earth**, which God then makes a home for man
+* As a title it would even be wrong: verses 2ff never create the Earth – it already exists in verse 2
 * "Without form and void" (tohu wabohu) means **uninhabited**, not chaos – the same words describe a war-ravaged land (Jeremiah 4:23); God "formed it to be inhabited" (Isaiah 45:18)
 
 ---
@@ -116,9 +129,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Before the mountains were brought forth, Or ever You had formed the earth and the world, **Even from everlasting to everlasting, You are God**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 90:2 (NKJV)</em></p>
 
 * God alone is everlasting; even the mountains, so firm and steadfast, were made
-* "He hangs the earth on **nothing**" (Job 26:7)
+* "He hangs the earth on **nothing**" (Job 26:7) – later Islamic tradition, not the Quran (11:7: God's throne "upon the water"), stacked it on a bull and a fish
 * Wisdom was with the Lord "when there were **no depths**" (Proverbs 8:24) – before the waters of Genesis 1:2
-* Between the Testaments: God "made them out of what did not exist" (2 Maccabees 7:28) – Jewish belief before Christ
+* Between the Testaments: "made them out of what did not exist" (2 Maccabees 7:28) – Jewish belief before Christ
 
 ---
 
@@ -146,6 +159,18 @@
 
 ---
 
+## Why "the Word"? And "a God"?
+
+![](pics/LightOnWords.jpg style="float: right; width: 10rem")
+
+* The Old Testament already has the visible LORD and "the word of the LORD" coming to people (1 Samuel 3)
+* The Aramaic Targums have God act by His **Memra** (Word): Onkelos, "created through the Word of the LORD"
+* So John names a category his hearers already knew – and says the Word became flesh: Jesus is **the LORD, the Son**
+* Jehovah's Witnesses read John 1:1 as "the Word was **a** god" (NWT)
+  * Answer without a grammar debate: verse 3 – if **all** things were made through Him, He is not among the made; the Alpha and Omega is no creature (Revelation 22:13)
+
+---
+
 ## Visible and Invisible
 
 ![](pics/GodWithEarthAndAngles.jpg style="float: right; width: 10rem")
@@ -167,6 +192,7 @@
 * **Psalm 90:2, Job 26:7, Proverbs 8:24** – before anything existed, God was; the earth hangs on nothing
 * **Hebrews 11:3, Romans 4:17, Revelation 4:11** – not made from visible things; He calls what does not exist
 * **John 1:3, Colossians 1:16, Hebrews 1:2** – all things, visible and invisible, through **Christ**, who also holds them together
+* Genesis does not remix the local myth pool – that novelty is itself a reason to take it as revelation, not invention
 
 ---
 
