@@ -8,11 +8,11 @@
 
 * [Why It Matters](#slide3)
 * [The Scripture](#slide6)
-* [What Creation Is](#slide15)
-* [The Case for a Beginning](#slide18)
-* [Objections](#slide21)
-* [God Keeps It in Being](#slide26)
-* [Practical Takeaways](#slide30)
+* [What Creation Is](#slide16)
+* [The Case for a Beginning](#slide19)
+* [Objections](#slide22)
+* [God Keeps It in Being](#slide29)
+* [Practical Takeaways](#slide33)
 
 ---
 
@@ -92,7 +92,7 @@
 * No: verse 2 begins with "**and**" – verse 1 is the background for verse 2, not a heading above it
 * As a title it would even be wrong: verses 2ff never describe the Earth's creation – the Earth already exists in verse 2
 * Verse 1: God creates **the whole universe**; verse 2: the focus narrows to **the Earth**, which God then makes a home for man
-* "Without form and void" (tohu wabohu) means **uninhabited**, not chaos – the same words describe a war-ravaged land (Jeremiah 4:23)
+* "Without form and void" (tohu wabohu) means **uninhabited**, not chaos – the same words describe a war-ravaged land (Jeremiah 4:23); God "formed it to be inhabited" (Isaiah 45:18)
 
 ---
 
@@ -152,9 +152,21 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For by Him all things were created that are in heaven and that are on earth, **visible and invisible**, whether thrones or dominions or principalities or powers. All things were created through Him and for Him. And He is before all things, and **in Him all things consist**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Colossians 1:16–17 (NKJV)</em></p>
 
-* "All things" includes the invisible creation – angels and spiritual powers (Deck 10)
+* "All things" incl. the invisible creation – angels and spiritual powers (Deck 10)
 * John 1, Colossians 1, and Hebrews 1: three authors, one teaching – the cosmic Christ was central to the earliest church
 * "Consist" (Greek *synestēken*) means **hold together**: He not only made all things, He keeps them together – more on this later
+
+---
+
+## The Scripture in One Line Each
+
+![](pics/OpenBible.jpg style="float: right; width: 10rem")
+
+* **Genesis 1:1** – an independent sentence: God created the whole universe, from no prior stuff
+* **Isaiah 44:24, Psalm 33:9** – He did it **alone**, by His word
+* **Psalm 90:2, Job 26:7, Proverbs 8:24** – before anything existed, God was; the earth hangs on nothing
+* **Hebrews 11:3, Romans 4:17, Revelation 4:11** – not made from visible things; He calls what does not exist
+* **John 1:3, Colossians 1:16, Hebrews 1:2** – all things, visible and invisible, through **Christ**, who also holds them together
 
 ---
 
@@ -171,6 +183,7 @@
   * *t* is the **first** time it exists
   * its existing at *t* is a **tensed fact** – a real becoming
 * God **creates** it if God brings about that it comes into being; **out of nothing** if it has no material cause
+  * Aristotle: the **material cause** is the stuff a thing is made from (the wood of a table); the **efficient cause** is its maker (the carpenter)
 * So creation is **not a change**: there is no "something" that goes from not existing to existing – it is an **absolute beginning**
 
 ---
@@ -194,9 +207,10 @@
 
 ![](pics/BookThink.jpg style="float: right; width: 8rem")
 
-* The early church fathers were steeped in Greek philosophy – but on one doctrine they **broke decisively** with it
+* The church fathers were steeped in Greek philosophy – but on one doctrine they **broke decisively** with it
 * Aristotle taught that the universe and its matter are **eternal in the past**
-* The fathers saw that eternal matter contradicts creation out of nothing – and argued against it
+* The pagan myths assumed the same: gods and world born from an eternal watery chaos (slide 5) – an **absolute beginning** defies both camps
+* The fathers saw that eternal matter contradicts creation out of nothing – and argued against both
 * A long tradition of argument followed: **John Philoponus** (6th century), then Islamic and medieval thinkers
 * It closed with **Immanuel Kant** (1781): time cannot be infinite in the past
 
@@ -220,6 +234,17 @@
 
 ---
 
+## Two Opposite Families
+
+![](pics/TwoViews.jpg style="float: right; width: 8rem")
+
+* Objections to the **ex nihilo**: creation from nothing is **impossible** – nothing has no potential, everything has a material cause
+* Objections to the **creatio**: coming from nothing is **easy** – so no Creator is needed
+* Polar opposites – yet both are pressed against the doctrine (Craig)
+* We take them in that order: two of each
+
+---
+
 ## "Nothing Has No Potential"
 
 ![](pics/Arguments.jpg style="float: right; width: 8rem")
@@ -235,11 +260,14 @@
 
 ![](pics/EvidenceScales.jpg style="float: right; width: 8rem")
 
-* **Objection** (Wes Morriston): all our experience says whatever begins to exist has a **material** cause – so the universe must too
+* **Objection** (Wes Morriston): all experience says whatever begins to exist has a **material** cause (stuff it is made from) – so the universe must too
 * **Answer:** "Everything that begins to exist has a cause" is the modest claim; "…a **material** cause" is a bigger one – the objector must prove it
-* The causal principle rests on more than experience: something cannot come from nothing, or anything and everything would
-* And the evidence is **overridden** here: the cause of the whole physical world cannot itself be material
-* So the universe's origin needs an efficient cause of enormous power – **not** a material cause
+* A poem only in the poet's mind has no material cause – it is caused by the poet's **mind**
+* Insisting on material causes for everything implies an infinite reach back into the past – contradicted by the **absolute beginning** of the universe
+* So the cause is not the stuff – the only kind left is a **maker**: an efficient cause with the power to bring all matter into being
+
+>>>
+>>> Poem caveat: a materialist will say the poem is a pattern of brain activity, so the brain is its material cause. The example assumes mind is not just matter, so use it to show what we mean, not as a proof against Morriston. Strictly, what comes into being is the poet's act of thinking the poem, and that act is the analogy to creation: a mind bringing something about by willing it.
 
 ---
 
@@ -264,6 +292,19 @@
 * Why would the laws of physics even hold if there were truly nothing?
 * Zero net energy needs no cause? That is like saying your debts balance your assets, so your finances need no explanation
 * Notably, Vilenkin himself insists the universe **had a beginning** (the Borde–Guth–Vilenkin theorem)
+
+---
+
+## Four Objections, Four Answers
+
+![](pics/Arguments.jpg style="float: right; width: 8rem")
+
+* Against the *ex nihilo* – "it cannot be done":
+  * **Nothing has no potential** → the potential lay in God's power, not in nothing
+  * **Everything has a material cause** → a poem has none; endless matter contradicts the beginning – so a maker
+* Against the *creatio* – "it needs no one":
+  * **Nothing can do anything** → nothing is not anything; Krauss's "nothing" is a quantum vacuum, which is something
+  * **Zero energy, no cause needed** → nothing to prevent it is also nothing to permit it; balanced books still need explaining
 
 ---
 
@@ -299,6 +340,7 @@
 ![](pics/DivineChess.jpg style="float: right; width: 7rem")
 
 * God is the cause of everything that happens – not the **only** cause, but no created cause works **without** Him
+* It follows from conservation: to keep a wad of cotton in being as the flame turns it from white to black, God must concur in what the flame does to it
 * The furnace of Daniel 3: the flames stayed flames, but God withdrew His concurrence, so they could not burn
 * How does this fit human freedom?
   * Aquinas: God acts **on** the will, moving it to choose – the Molinists said this leads to determinism
