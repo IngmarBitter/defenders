@@ -209,7 +209,7 @@
 
 * The church fathers were steeped in Greek philosophy – but on one doctrine they **broke decisively** with it
 * Aristotle taught that the universe and its matter are **eternal in the past**
-* The pagan myths assumed the same: gods and world born from an eternal watery chaos (slide 5) – an **absolute beginning** defies both camps
+* The pagan myths assumed the same: gods and world born from an eternal watery chaos (slide 7) – an **absolute beginning** defies both camps
 * The fathers saw that eternal matter contradicts creation out of nothing – and argued against both
 * A long tradition of argument followed: **John Philoponus** (6th century), then Islamic and medieval thinkers
 * It closed with **Immanuel Kant** (1781): time cannot be infinite in the past
