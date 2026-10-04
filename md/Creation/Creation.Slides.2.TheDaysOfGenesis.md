@@ -150,7 +150,7 @@
 * The **words** are figurative, the **event** is real:
 * "The LORD God walking in the garden" (Genesis 3:8) → real daily closeness and conversation between God and Adam, in a real place
 * "Formed from the dust" (Genesis 2:7) → a body really made of the earth – "to dust you shall return" (Genesis 3:19)
-* An anthropomorphism is a figure **of** something – not a figure of nothing
+* An anthropomorphism is a figure **of something** – not a figure **of nothing**
 
 ---
 
