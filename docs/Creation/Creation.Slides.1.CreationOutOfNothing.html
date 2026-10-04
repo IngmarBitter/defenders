@@ -356,6 +356,7 @@
 
 * Tradition calls conservation "continuing creation" – but if God **created** us anew each moment, we would be a new person every instant
 * That leads to **occasionalism**: God the only cause, and nothing really lasting or acting
+  * The standard Sunni-Islam doctrine since al-Ghazali (1095): fire does not burn cotton – God creates the burning each time
 * Better: the same power, but a different object – in conservation God acts on **something that already exists**, so it persists
 * **Sustenance**: if things like numbers exist timelessly, they too depend on God – not created at a time, not conserved over time, but sustained
 
