@@ -6,12 +6,12 @@
 
 ## Outline
 
-* [The Diamond](#slide3)
-* [How to Read Genesis](#slide7)
-* [The Text, Once](#slide17)
-* [Cutting the Facets](#slide29)
-* [The Finished Diamond](#slide61)
-* [Practical Takeaways](#slide65)
+* [The Diamond](#slide5)
+* [How to Read Genesis](#slide9)
+* [The Text, Once](#slide19)
+* [Cutting the Facets](#slide31)
+* [The Finished Diamond](#slide63)
+* [Practical Takeaways](#slide67)
 
 ---
 
@@ -25,6 +25,30 @@
 * Many interpretations – each held by respected, saved Christians
 * This is not a question to settle before coming to Christ
 * But it matters for how we read the whole Bible – so we read carefully
+
+---
+
+## Has Science Disproven the Bible?
+
+![](pics/BibleAndScienceBooks.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] **The heavens declare** the glory of God; And the firmament shows His handiwork. [...] **The law of the LORD is perfect**, converting the soul; The testimony of the LORD is sure, making wise the simple; [...]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 19:1, 7 (NKJV)</em></p>
+
+* The secular message, from school to university: science has **disproven** the Bible – reducing it to a fairy tale for emotional comfort, nothing to do with reality
+* Every view in this deck, however different, answers: **No** – the Bible is God's infallible word to us, nature is His creation for us
+* He made both, so they are **consistent**: proper science and proper theology reflect that and agree with each other
+
+---
+
+## Two Books, Human Readers
+
+![](pics/BibleNatureTheologyScience.svg style="float: right; width: 11rem")
+
+* What we actually have is **manmade science** and **manmade theology** – both can carry human error
+* Errors on either side produce **apparent** contradictions between the two books
+* Each view shows how an alleged contradiction dissolves once the error is corrected – in science, in theology, or in both
+* Those corrections are manmade too, so they can be the **wrong** changes
+* Our method: weigh the pros and cons of each view – and along the way build a unified **best-of-all** view
 
 ---
 
@@ -323,6 +347,7 @@
   * **"The Facet"** – the view stated fairly, its strengths, the true facet it adds
   * **"Polishing the Facet"** – its weaknesses, tested with T1, T2, T3 and the texts we just read; cut away
 * We start with the core and end with the closest rival
+* Each view corrects an error in science, in theology, or in both (slides 3–4) – we keep what is right and build the best of all
 
 ---
 
