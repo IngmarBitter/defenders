@@ -54,6 +54,17 @@
 
 ## Todo
 
+**Topic 12.1 "Saved by Faith" – intent for when we build it (Ingmar, 2026-09-26):** focus: if you believe, you are saved, period – by faith, not works; real faith produces works as a consequence. Brief detour: what moves us to believe – libertarian free will, or faith as God's gift experienced as our own choice (compatibilism)? Details → 10.8 Providence; rest assured, all views agree that whoever believes is saved. Anchor texts: John 3:16, Romans 10:9, Ephesians 2:8–10, James 2:17. Christ's substitution is covered in Christ Decks 3–4 (refer, don't repeat).
+
+**Creation unit (Topic 10) — source collection IN PROGRESS 2026-09-25:**
+- Stance (Ingmar): "diamond" reading of Genesis 1 – historical/literal 6-day timeline, poetic, moral, hyperbolic facets hold together (non-exclusive, like the atonement motifs). Reject only modern-science force-fits onto Gen 1 (concordism). Craig (Series 4) is the main source for (a) text-only hermeneutics / range of interpretations; creation.com, AiG, ICR, DI etc. for (b) reconciling with science. Craig was on the fence in Series 2; his case against 6 days was weak.
+- `md/Creation/Craig/` – 47 Series 4 transcripts (PDF → md): `Craig.Creation.01-09` (ex nihilo, continuing creation, conservation; parts 10-24 providence/miracles/angels skipped as off-topic), `Craig.Excursus.01-30` (Genesis 1-11 interpretations, mytho-history, origin of life, evolution), `Craig.Man.12-19` (historical Adam).
+- `md/Creation/Notes/` – Ingmar's earlier teaching material: `Series2/` (docx → md of Craig Series 2 notes/outlines, with media), `Ingmar/` (Hugh Ross review, Day-Age questions, Noah's flood), `Talks/` (Calvin Smith, CMI 2015), `Pptx/` (text + notes of 6 decks from C:/_/me/bible/PPTX).
+- `md/Creation/Sources/` – external YEC/ID sources plus opposing views (Genesis/Physics/Chemistry/Biology subfolders), 29 files + README (YEC/ID, plus RTB and BioLogos as opposing views). Key-point bullets were agent-written – verify against the article text before using them on slides. Chemistry is thin (4 files); RNA world, blood clotting, and morality only appear inside larger articles.
+- Images copied to `docs/Creation/pics/`: GenesisInterpretations, BibleNatureTheologyScience, day-age-timeline, DayAgeOfficialTimeLine, FatManSpandexYomDay1, BigBangModel.
+- Craig Creation 10-24 (providence, miracles, angels) also fetched. Structure plan written: `md/Creation/Creation.Slides.Structure.md` (9 decks, approved 2026-09-25; decisions at bottom; Genesis = one big hypothesis-trial deck mapped by Ingmar's GenesisInterpretations diagram). Topic 10 "Doctrine of Creation vs Evolutionism" reworded to 10.1-10.9. Notes also now include `GodScience/` (Ingmar 13-part God vs/via Science course + 2004 lessons + topic decks, from C:/_/me/bible/GodScience) and `CreationSuperConference/2011, 2017/`. NEXT: build Deck 1.
+
+
 **REVIEW PENDING — overflow-fix pass 2026-09-20 (commits 4153924, 60d6d5d, 13013a0, f76cbbf, 3e3759c):**
 42 slides across 22 decks were silently clipped by `.slide-content { overflow: hidden }`.
 All now pass `node tools/check-slide-overflow.js`. **Every edit below still needs a read-through
