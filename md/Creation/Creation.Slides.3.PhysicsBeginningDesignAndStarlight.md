@@ -6,11 +6,11 @@
 
 ## Outline
 
-* [Recap: A Beginning and a Design](#slide3)
-* [The Big Bang](#slide7)
-* [Distant Starlight](#slide17)
-* [Stars and Heavy Elements](#slide29)
-* [Practical Takeaways](#slide34)
+* [Recap: A Beginning and a Design](#slide4)
+* [The Big Bang](#slide8)
+* [Distant Starlight](#slide18)
+* [Stars and Heavy Elements](#slide30)
+* [Practical Takeaways](#slide35)
 
 ---
 
@@ -25,6 +25,18 @@
   * Does the **Big Bang** fit the Bible?
   * How can we see stars **billions of light-years** away in a young universe?
 * Method: state the claim, give the evidence, answer the rival view
+
+---
+
+## Why This Deck: Has Science Disproven the Bible?
+
+![](pics/BibleAndScienceBooks.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The works of the LORD are great, **Studied by all who have pleasure in them**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 111:2 (NKJV)</em></p>
+
+* Schools and universities teach it as settled: **science has disproven the Bible** – the earth is old, life evolved, Genesis is myth
+* Science done well – observations first, assumptions named – **supports creation**, and with it the Bible
+* This deck: the heavens **declare a beginning and a Designer** – and starlight is a question to study, not a proof against the text
 
 ---
 
@@ -153,7 +165,7 @@
 * Ross: "The entire process of stellar evolution is by **natural process alone**. We do not have to invoke Divine intervention at any stage"
 * Scripture: the heavens were made **by His word** (Psalm 33:6)
 * Jason Lisle (AiG): the Big Bang was an attempt to explain origins **without God** – so it cannot simply be "added" to the Bible
-* Its first moment is a miracle; everything after is naturalism
+* For Ross the stars form by natural process alone; Genesis 1:16 and Psalm 33:6 say God made them
 
 ---
 
@@ -193,7 +205,7 @@
 * If light travels at a fixed speed, how can we see them in a universe thousands of years old?
 * A light-year is a **distance**, not a time – but the problem is real
 * Distance measures are sound observational science – space really is huge (Psalm 19:1)
-* Creationists must acknowledge it and answer it (Danny Faulkner, AiG)
+* Those who hold a young creation must acknowledge it and answer it (Danny Faulkner, AiG)
 
 ---
 
@@ -219,7 +231,7 @@
 * Strength: God did create a functioning, mature world
 * **Open problem**: we see **events** in the light – exploding stars (SN 1987A), eclipsing binaries in Andromeda
 * Light made in transit would show events that **never happened** – God painting fiction
-* That seems out of character for God; most creation scientists reject this view
+* That seems out of character for God; most creation scientists do not favor this view
 
 ---
 

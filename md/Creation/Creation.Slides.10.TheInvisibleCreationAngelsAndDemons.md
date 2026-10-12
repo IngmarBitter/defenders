@@ -220,7 +220,7 @@
 
 ![](pics/EveReachingForFruit.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Take up a lamentation for **the king of Tyre** [...] You were the seal of perfection, Full of wisdom and perfect in beauty. **You were in Eden, the garden of God** [...] You were **the anointed cherub** who covers [...] You were perfect in your ways from the day you were created, Till iniquity was found in you."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Ezekiel 28:12–15 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] Take up a lamentation for **the king of Tyre** [...] You were the seal of perfection, Full of wisdom and perfect in beauty. **You were in Eden, the garden of God** [...] You were **the anointed cherub** who covers [...] You were perfect in your ways from the day you were created, Till iniquity was found in you."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Ezekiel 28:12–15 (NKJV)</em></p>
 
 * The frame: "you are **a man, and not a god**" (28:2); "by the abundance of your **trading** [...] you sinned" (28:16)
 
@@ -230,7 +230,7 @@
 
 ![](pics/Lightning.jpg style="float: right; width: 11rem")
 
-* The traditional reading, held by many church fathers and evangelicals
+* The traditional reading, held by many evangelicals
 * The language **exceeds any human king**: a throne above the stars, "like the Most High"; in Eden, an anointed cherub, perfect "from the day you were created"
 * The prophet **looks through** the king to the spiritual power behind him – as Daniel 10 shows real "princes" behind Persia and Greece
 * It fits the rest of Scripture: pride as the devil's sin (1 Timothy 3:6), a fall from heaven (Luke 10:18), the Eden serpent (Revelation 12:9)
@@ -243,7 +243,7 @@
 
 * Craig's reading: both texts are addressed to **named earthly kings**, Babylon and Tyre
 * Isaiah 14 continues: "Is this **the man** who made the earth tremble?" (14:16)
-* Ezekiel 28 condemns **trade** and violence – not fitting an angel before the fall
+* Ezekiel 28 condemns **trade** and violence – not applicable to an angel
 * The high language is **hyperbole** for royal pride – the king who claims "I am a god"
 * Critics say the prophets borrowed a myth of an angelic fall – but no such myth is known: shapes in the clouds
 * So an angelic fall may be **true**, but reading it into these texts is eisegesis
@@ -434,9 +434,10 @@
 
 * **1** God created everything **out of nothing** and keeps it in being
 * **2** Genesis 1–11 is a **diamond**: six real days at its core, every true facet kept
-* **3–4** Physics and geology fit a **young, created** world shaped by the Flood
+* **3** Physics: the universe **began** and is **fine-tuned** – starlight is an open question, not a defeater
+* **4** Geology: the rocks read as **one great catastrophe** – the Flood, not millions of years
 * **5–7** Life, living kinds, and **man in God's image** need a Creator – not chance
-* **8–9** God **governs** all He made and is free to act in it by miracle
+* **8–9** God **governs** all He made without cancelling our freedom, and is free to act in it by miracle
 * **10** The **invisible creation** too is His – and Christ has triumphed over its rebels
 
 ---

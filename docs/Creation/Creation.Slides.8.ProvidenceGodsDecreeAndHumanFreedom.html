@@ -47,7 +47,7 @@
 
 ## Ordinary and Extraordinary Providence
 
-![](pics/GodCosmosClock.jpg style="float: right; width: 8rem")
+![](pics/GodCosmosClock.jpg style="float: right; width: 10rem")
 
 * **Extraordinary providence**: miracles – God acts apart from secondary natural causes (Deck 9)
 * **Ordinary providence**: God governs through natural causes and free creatures – the topic of this deck
@@ -244,9 +244,9 @@
 
 ## Five Points, Two Flowers
 
-![](pics/TulipsAndRoses.jpg style="float: right; width: 9rem")
+![](pics/TulipsAndRoses.jpg style="float: right; width: 8rem")
 
-* **TULIP** – the five points of Calvinism (Synod of Dort, 1619), each providence applied to salvation
+* **TULIP** – the five points of Calvinism (Canons of Dort, 1618–1619, answering the five Arminian articles; the acronym is modern), each providence applied to salvation
 * **ROSES** – the non-Calvinist answer (Arminianism and Molinism):
   * **T**otal depravity ↔ **R**adical depravity
   * **U**nconditional election ↔ **S**overeign election
@@ -258,7 +258,7 @@
 
 ## T – Total Depravity
 
-![](pics/OriginalSin.jpg style="float: right; width: 9rem")
+![](pics/OriginalSin.jpg style="float: right; width: 10rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And you He made alive, who were **dead in trespasses and sins**,"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Ephesians 2:1 (NKJV)</em></p>
 
@@ -274,7 +274,7 @@
 
 * **Calvinist**: before creation God chose individuals for salvation for no reason but His will (Ephesians 1:4–5)
 * **Sovereign election** (Arminian): God sovereignly chose a **people** – all who are **in Christ**; individuals share it by faith
-* "Chosen" often means set apart for a task – Saul and Judas were chosen, yet fell (John 6:70)
+* "Chosen" often means set apart for a task – King Saul (1 Samuel 15) and Judas were chosen, yet fell (John 6:70)
 * **Molinist**: corporate **and** individual – God chose the world in which He knew each of the elect would freely believe
 * Craig: corporate election fits Romans 9–10, but Acts 13:48 and Paul's call (Galatians 1:15) are individual
 
@@ -425,7 +425,7 @@
 ![](pics/GodLookingIn.jpg style="float: right; width: 10rem")
 
 * **Inspiration**: God knew what Paul or Luke would freely write in given circumstances – every word God's and theirs ([Inspiration](../RevelationAndFoundations/BibleInspiration.slides.html#slide24))
-* **Canon**: middle knowledge guided which books the church would recognize ([Canonicity](../RevelationAndFoundations/Canonicity.slides.html))
+* **Canon**: middle knowledge guided which books the church would recognize ([Canonicity](../RevelationAndFoundations/Canonicity.slides.html#slide17))
 * **The unevangelized**: those who never hear would not have believed if they had heard ([Christ Deck 9](../Christ/Christ.Slides.9.AccessWhoCanBeSavedThroughChrist.html#slide33))
 * **Perseverance**: God knows which warnings keep the elect free and faithful (Topic 12.4)
 

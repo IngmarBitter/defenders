@@ -90,7 +90,7 @@
 
 ![](pics/ChristOverview.jpg style="float: right; width: 7rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Jesus of Nazareth, **a Man attested by God** to you by miracles, wonders, and signs which God did through Him in your midst, as you yourselves also know"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 2:22 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] Jesus of Nazareth, **a Man attested by God** to you by miracles, wonders, and signs which God did through Him in your midst, as you yourselves also know [...]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Acts 2:22 (NKJV)</em></p>
 
 * Jesus' miracles are signs of the **in-breaking of God's kingdom**
 * The culminating miracle: the **resurrection**, by which God vindicates His Son
@@ -199,7 +199,7 @@
 
 * Quantum indeterminacy is no real help: it turns miracles into **freaks of nature**, not acts of God
 * Better: laws of nature describe what happens **all else being equal** (*ceteris paribus*) – when nothing interferes
-* Potassium and chloride combust – yet not in our bodies, because other factors interfere; no law is broken
+* Potassium and chlorine react violently – yet both sit in our bodies, as ions, because other factors interfere; no law is broken
 * A miracle is interference by a **supernatural** agent – the law's conditions simply do not apply
 
 ---
@@ -276,7 +276,7 @@
 
 ![](pics/GodTouchingMan.jpg style="float: right; width: 11rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The body is sown in corruption, it is raised in incorruption. It is sown in dishonor, **it is raised in glory**. It is sown in weakness, it is raised in power."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 15:42–43 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] The body is sown in corruption, it is raised in incorruption. It is sown in dishonor, **it is raised in glory**. It is sown in weakness, it is raised in power."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 15:42–43 (NKJV)</em></p>
 
 * Not a resuscitation but a **transformation** – no critic argues Jesus rose, but naturally
 * Two millennia of science have only confirmed it is **naturally impossible**
@@ -305,14 +305,14 @@
 
 * Probability theorists after Hume (Condorcet to Mill) saw that weighing only the event's improbability against the witness's reliability is **wrong**
 * Mill: ask how probable the testimony would be **if the event had not occurred**
-* The lottery report shows why – see [Christ Deck 8](../Christ/Christ.Slides.8.ResurrectionDefeatingAlternatives.html), "Believing the Improbable"
+* The lottery report shows why – see [Christ Deck 8](../Christ/Christ.Slides.8.ResurrectionDefeatingAlternatives.html#slide49), "Believing the Improbable: The Lottery"
 * Hume never considered this factor at all
 
 ---
 
 ## Bayes' Theorem in Plain Words
 
-![](pics/MathObjectsExistence.jpg style="float: right; width: 8rem")
+![](pics/MathObjectsExistence.jpg style="float: right; width: 10rem")
 
 * Odds of R (resurrection) on all evidence = **intrinsic probability** × **explanatory power**
   * Intrinsic probability: how likely R is on background knowledge alone

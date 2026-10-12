@@ -6,13 +6,13 @@
 
 ## Outline
 
-* [Two Ways to Read the Rocks](#slide3)
-* [Radiometric Dating](#slide8)
-* [Carbon-14](#slide15)
-* [Fossils](#slide19)
-* [The Global Flood](#slide25)
-* [The Ice Age](#slide35)
-* [Practical Takeaways](#slide39)
+* [Two Ways to Read the Rocks](#slide4)
+* [Radiometric Dating](#slide9)
+* [Carbon-14](#slide16)
+* [Fossils](#slide20)
+* [The Global Flood](#slide26)
+* [The Ice Age](#slide36)
+* [Practical Takeaways](#slide40)
 
 ---
 
@@ -25,6 +25,18 @@
 * Now the rocks – where "millions of years" is most firmly rooted in the public mind
 * This is an evidence deck: state the claim, give the evidence, answer the rival view
 * The key is **Noah's Flood**: get the Flood right, and you get the age of the Earth right
+
+---
+
+## Why This Deck: Has Science Disproven the Bible?
+
+![](pics/BibleAndScienceBooks.jpg style="float: right; width: 8rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"The works of the LORD are great, **Studied by all who have pleasure in them**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 111:2 (NKJV)</em></p>
+
+* Schools and universities teach it as settled: **science has disproven the Bible** – the earth is old, life evolved, Genesis is myth
+* Science done well – observations first, assumptions named – **supports creation**, and with it the Bible
+* This deck: the rocks and fossils read as **one great catastrophe** – the Flood – not as millions of years
 
 ---
 
@@ -284,10 +296,10 @@
 ![](pics/ArkSize.jpg style="float: right; width: 11rem")
 
 * Genesis 7:19–23 (Deck 2): **all** the high mountains under the **whole** heaven covered 15 cubits deep – water cannot stand that high in one valley for a year
-* Why build a 500-railcar Ark for 120 years? Noah could have **moved**
+* Why build a 500-railcar Ark for decades? Noah could have **moved**
 * Why take animals – and **birds** – if they lived elsewhere?
 * The Flood lasted **a year and ten days** (Genesis 7:11; 8:14)
-* Every church father read it as global
+* The church read it as global until 19th-century geology
 
 ---
 
@@ -394,7 +406,7 @@
 * Animals and people spread from Ararat and Babel
 * Marsupials reached Australia early, before the placental mammals – who then could not follow when the seas rose
 * Aborigines crossed by boat or raft on the narrow straits
-* Jaguar and leopard can still have cubs together – hard to square with 100 million years apart
+* Jaguar (America) and leopard (Africa) can still have cubs together – they parted recently, not millions of years ago
 
 ---
 
@@ -417,7 +429,7 @@
 
 ## "Hasn't Science Proven Millions of Years?"
 
-![](pics/EvidenceScales.jpg style="float: right; width: 10rem")
+![](pics/EvidenceScales.jpg style="float: right; width: 8rem")
 
 * Ask: **what was observed, and what was assumed?** No one watched the rock form
 * Dating methods fail on rocks of **known** age and disagree with each other on the same rock

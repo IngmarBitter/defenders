@@ -100,7 +100,7 @@
 
 ![](pics/HandsEarth.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"I am the LORD, who makes all things, Who stretches out the heavens **all alone**, Who spreads abroad the earth by Myself [...]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Isaiah 44:24 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] I am the LORD, who makes all things, Who stretches out the heavens **all alone**, Who spreads abroad the earth by Myself [...]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Isaiah 44:24 (NKJV)</em></p>
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For **He spoke, and it was done**; He commanded, and it stood fast."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 33:9 (NKJV)</em></p>
 
@@ -275,7 +275,7 @@
 
 ![](pics/JesusHoldingEarth.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"You alone are the LORD; You have made heaven, The heaven of heavens, with all their host, The earth and everything on it, The seas and all that is in them, And **You preserve them all**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Nehemiah 9:6 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"You alone are the LORD; You have made heaven, The heaven of heavens, with all their host, The earth and everything on it, The seas and all that is in them, And **You preserve them all**. [...]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Nehemiah 9:6 (NKJV)</em></p>
 
 * Christ is "upholding all things by the word of His power" (Hebrews 1:3); "in Him all things consist" (Colossians 1:17)
 * "In Him we live and move and **have our being**" (Acts 17:28) – we exist in God
