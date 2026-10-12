@@ -255,8 +255,19 @@ The cause of the universe is the Big Bang !?
 * If quantum fluctuations were possible as a source for matter:
   * Small fluctuations would be vastly more frequent than large ones.
   * The matter for the entire universe would require a huge fluctuation.
+
+---
+
+## (1) Objection: Uncaused Vacuum Particles II
+
+![](NatTheoPics/Spiral14.jpg style="float: right; width: 9rem")
+
+* If quantum fluctuations were possible as a source for matter:
   * It would be much more likely for a single brain with a universe simulation (Boltzmann brain) to fluctuate into existence.
   * Rationality would force us to believe we are Boltzmann brains rather than part of a larger universe—which defeats this objection.
+* And the vacuum itself is either eternal or had a beginning:
+  * Eternal: it would long since have produced its universe, which would have reached heat death by now.
+  * Begun: then the vacuum needs a cause – the question has only moved.
 
 ---
 
