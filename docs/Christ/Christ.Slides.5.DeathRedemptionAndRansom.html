@@ -246,7 +246,7 @@
 * [Return to Christ Overview](Christ.Slides.html)
 * Prev: [Christ's Death: Penal Substitution Defended](Christ.Slides.4.DeathPenalSubstitutionDefended.html)
 * Next: [Christ's Death: Moral Influence](Christ.Slides.6.DeathMoralInfluence.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 

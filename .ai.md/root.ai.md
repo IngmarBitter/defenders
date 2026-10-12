@@ -16,6 +16,7 @@
 ## General rules
 
 - Focus on the task at hand; avoid scope creep but suggest relevant improvements when they prevent bugs or improve maintainability
+- If Ingmar asks for something that is not optimal, say so right away and give the better alternative; if it is wrong, say that it is wrong and why – do not silently apply it
 - When editing is sufficient, prefer it over creating new files
 - NEVER proactively create documentation files unless explicitly requested
 - Unless there is minimal scope in your response, first make a list of todo items, then work on each in turn showing progress along the way
@@ -95,6 +96,7 @@ Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Sp
 - This is a strong preference, not an unshakable rule. When the full name would push a slide row over, an abbreviated inline reference (e.g. `1 Cor 9:18`, `Rom 3:25f`) is permitted – fitting the row wins.
 - Block-quote attributions (the `<em>` label under a scripture quote) always use the full name; only inline references abbreviate.
 - Do not "fix" an existing abbreviation back to the full name without checking the row length.
+- General rule for all abbreviations (verse → v., versus → vs., etc.): do not abbreviate, unless the abbreviation keeps a line from breaking over to the next row.
 
 ### Scripture Quote Format (Slides)
 
@@ -108,7 +110,7 @@ Use the template margins for new quotes. Some slides have hand-adjusted margin v
 **Bold emphasis permitted:** You may use markdown `**` (preferred) or `<b>` tags inside scripture quotes to highlight the words most relevant to the slide's topic. The base text must still be NKJV verbatim.
 
 **Non-biblical primary sources** (e.g. the Qur'an) may use the same quote styling when the slide engages that source directly; attribute clearly (e.g. `Qur'an, Surah 4:157`). The NKJV verification protocol applies only to Bible quotes.
-If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1.5em;` on intermediate reference lines and `margin-bottom: -0.75em;` on the final one.
+If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1.5em;` on intermediate reference lines and `margin-bottom: -0.75em;` on the final one. Exception: when the intermediate quote's last line is short, `scripture-quote-layout.js` pulls its reference up beside that line, and `-1.5em` then drags the next quote over it (garbled text) – use a positive margin there (`margin-bottom: 0.75em;` between the quotes). The overflow checker does not detect this overlap; look at the slide.
 
 ### Ellipsis in Scripture Quotes
 

@@ -797,7 +797,7 @@
 * [Return to Christ Overview](Christ.Slides.html)
 * Prev: [Christ's Death: The Biblical Case for Penal Substitution](Christ.Slides.3.DeathPenalSubstitutionBiblicalCase.html)
 * Next: [Christ's Death: Redemption and Ransom](Christ.Slides.5.DeathRedemptionAndRansom.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 
