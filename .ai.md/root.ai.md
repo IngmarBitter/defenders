@@ -16,6 +16,7 @@
 ## General rules
 
 - Focus on the task at hand; avoid scope creep but suggest relevant improvements when they prevent bugs or improve maintainability
+- If Ingmar asks for something that is not optimal, say so right away and give the better alternative; if it is wrong, say that it is wrong and why – do not silently apply it
 - When editing is sufficient, prefer it over creating new files
 - NEVER proactively create documentation files unless explicitly requested
 - Unless there is minimal scope in your response, first make a list of todo items, then work on each in turn showing progress along the way
@@ -95,6 +96,7 @@ Capitalize pronouns (He, Him, His) when referring to God, Christ, or the Holy Sp
 - This is a strong preference, not an unshakable rule. When the full name would push a slide row over, an abbreviated inline reference (e.g. `1 Cor 9:18`, `Rom 3:25f`) is permitted – fitting the row wins.
 - Block-quote attributions (the `<em>` label under a scripture quote) always use the full name; only inline references abbreviate.
 - Do not "fix" an existing abbreviation back to the full name without checking the row length.
+- General rule for all abbreviations (verse → v., versus → vs., etc.): do not abbreviate, unless the abbreviation keeps a line from breaking over to the next row.
 
 ### Scripture Quote Format (Slides)
 

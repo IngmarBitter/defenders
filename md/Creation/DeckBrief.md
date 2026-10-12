@@ -64,7 +64,7 @@ Deck file names/titles:
 9 Creation.Slides.9.MiraclesDoesScienceRuleThemOut – Miracles: Does Science Rule Them Out?
 10 Creation.Slides.10.TheInvisibleCreationAngelsAndDemons – The Invisible Creation: Angels and Demons
 
-Deck 10 has no Next. Cross-references to other decks in bullets: "(Deck N)" or a relative link to the file.
+Deck 10 has no Next. Cross-references to other decks in bullets are relative links labeled with the deck's short title only, e.g. `the [Geology](Creation.Slides.4.GeologyTheFloodFossilsAndTheAgeOfTheEarth.html) deck`; never "Deck N".
 
 ## Credits slide
 Format as in Deck 1: **Ingmar Bitter**, slides content; **William Lane Craig**, *Defenders ...*, Parts ..., with the reasonablefaith.org URL sub-bullet (if Craig is used); then the other authors/organizations actually used (bold name, work, role).
