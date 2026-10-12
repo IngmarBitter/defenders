@@ -664,7 +664,7 @@
 * [Return to Christ Overview](Christ.Slides.html)
 * Prev: [The Incarnation: Two Natures, One Person](Christ.Slides.2.IncarnationTwoNaturesOnePerson.html)
 * Next: [Christ's Death: Penal Substitution Defended](Christ.Slides.4.DeathPenalSubstitutionDefended.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 

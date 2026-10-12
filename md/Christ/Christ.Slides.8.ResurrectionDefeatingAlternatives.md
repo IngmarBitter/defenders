@@ -640,7 +640,7 @@
 * [Return to Christ Overview](Christ.Slides.html)
 * Prev: [The Resurrection: Biblical Evidence](Christ.Slides.7.ResurrectionBiblicalEvidence.html)
 * Next: [Access: Who Can Be Saved Through Christ?](Christ.Slides.9.AccessWhoCanBeSavedThroughChrist.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 

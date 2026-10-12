@@ -104,7 +104,7 @@
 ## Navigation
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 

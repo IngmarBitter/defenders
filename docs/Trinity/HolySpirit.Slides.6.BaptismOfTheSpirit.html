@@ -179,7 +179,7 @@
 
 * [Return to Holy Spirit Overview](HolySpirit.Slides.html)
 * Next: [Fullness of the Holy Spirit](HolySpirit.Slides.7.FullnessOfTheSpirit.html)
-* [Creekside Defenders Main Page](http://tinyurl.com/CreeksideDefenders)
+* [Creekside Defenders Main Page](../CreeksideDefenders.html)
 
 ---
 
