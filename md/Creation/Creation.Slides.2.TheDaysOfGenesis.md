@@ -75,7 +75,7 @@
 
 * The secular tower rests on **millions of years** – taught everywhere as fact, so many Christians make room for them
 * If we take the millions of years as given – where do they fit in the Christian tower?
-* Between Genesis 1:1 and 1:2, or spread across the six days – either way they contradict a week of 24-hour days
+* Between Genesis 1:1 and 1:2, between the days, or the days stretched into ages – any way they contradict a week of 24-hour days
 * So Genesis 1 must be reread to mean something it does not plainly say – no longer "in six days the LORD made the heavens and the earth" (Exodus 20:11 – slide 27)
   * We can still live with such a Creation – but we can no longer defend from the text what we say it means, so it is **crossed out as a support**
 
@@ -156,7 +156,7 @@
 * American Atheists' Christmas campaign: "You KNOW it's a myth" – Adam, Eve, and the talking snake
 * Their own logic: no Adam and Eve, no Original Sin, "no need for atonement and no need for a redeemer" – "no need for a savior"
 * They see the tower exactly as we do – and they aim at its foundation
-* Barna: 70% of children from Christian homes leave the church by age 18 – the foundation was never laid
+* LifeWay Research (2017): 66% of young adults who attended church as teens drop out between 18 and 22 – the foundation was never laid
 
 ---
 
@@ -195,7 +195,7 @@
 * Christ's death (Christ Decks 3–6) is a **diamond with many facets**:
   * **Penal Substitution** at the center – the penalty truly borne
   * **Satisfaction**, **Ransom**, **Moral Influence** – each truly so
-* Several true motifs held together, **none cancelling another**
+* Several true motifs held together, **none canceling another**
 * A jeweler trims each rough facet until it fits the symmetric whole – so each view here is **cut to the shape that fits the others**
 * And the finished stone outshines the sum of its facets – the whole is **more** than the parts
 
@@ -243,7 +243,7 @@
 
 ![](pics/GenesisInterpretations.svg style="float: right; width: 15rem")
 
-* The atonement is the precedent: several true facets, none cancelling another, each cut to fit the whole
+* The atonement is the precedent: several true facets, none canceling another, each cut to fit the whole
 * Genesis 1–11 likewise: **historical** core (six 24-hour days, a real Adam) plus **literary**, **purposive**, **polemic**, and **moral** facets
 * Ten views: five keep the day at 24 hours, five do not – the chart sorts them by science, by age, and by literal or figurative reading
 
@@ -438,7 +438,7 @@
 * **(T2) Compatibility:** a facet must stand **alongside the historical timeline** the genre establishes (slide 38) – a view that must replace it cuts into the core
 * So every view is a rough stone: we find its facet and polish off the rest
 * Typical rough surface: "structure *instead of* sequence", "function *instead of* matter", "myth *instead of* history", "ages *instead of* days"
-* A third tool **keeps** a figurative reading when it stays compatible with the history
+* **(T3) Referent:** a figurative reading is **kept** when it adds meaning without removing the history (next slides)
 
 ---
 
@@ -506,7 +506,7 @@
 
 * **Exegesis** reads out of the text; **eisegesis** and **concordism** read into it
 * **T1**: does it come from the text as its first readers heard it? **T2**: can it stand beside the historical timeline?
-* The keeping tool: **every figure has a referent** – figurative words, real events; real things, figurative meaning
+* **T3**: **every figure has a referent** – figurative words, real events; real things, figurative meaning
 * Even "the LORD is my rock" needs a real rock – and when the vehicle sits **inside the narrative**, the narrative claims it
 
 ---
@@ -521,7 +521,7 @@
 
 * Ten views, one after another – for each:
   * **The view** – stated fairly, its strengths, the true facet it adds
-  * **Polishing** (most kept) or **Cutting** (most goes) – its weaknesses, tested with T1, T2, the referent rule, and the texts we read
+  * **Polishing** (most kept) or **Cutting** (most goes) – its weaknesses, tested with T1, T2, T3, and the texts we read
 * Core first, closest rival last – the chart sorts by science, age, and reading, not by this order
 * Each view corrects an error in science or theology (slides 3–4) – we keep what is right and build the best of all
 
@@ -544,7 +544,7 @@
 
 ![](pics/ChurchOrdinaryDays.jpg style="float: right; width: 7rem")
 
-* Hebrew had other words for long ages (e.g. **olam**) – the author did not use them
+* Hebrew had other words for long ages (for example **olam**) – the author did not use them
 * The church's standard reading was **six ordinary days** – most fathers (Basil: "twenty-four hours fill up the space of one day"), Luther, Calvin
 * The rare deviation went the other way: Origen and Augustine, allegorizing under Greek influence, made creation **instant** – and Augustine still held the earth under 6,000 years
 * No long-age reading of the days arises from the text before the rise of old-earth geology (around 1800)
@@ -578,7 +578,7 @@
 ![](pics/LightBeforeSun.jpg style="float: right; width: 7rem")
 
 * **No sun, no sunrise and sunset – days 1–3 cannot be ordinary days** → God made light on day 1, and the text itself has day and night before the sun
-  * A directional light on an Earth already turning gives ordinary days from day 1 (slide 24) – spinning it up on day 4 would tear crust from mantle and throw the air into storm
+  * A directional light on an Earth already turning gives ordinary days from day 1 (slide 24)
 * **Trees cannot grow to full size in a day** → no creation day ran on ordinary natural law; each had miraculous activity, and accelerated growth fits that pattern – God's later miracles never make anyone wait either (Sarfati); the text keeps command and result inside day 3
 * **The waters cannot drain off the land in a day – the Flood took 150 days (Genesis 8:3)** → that was runoff; day 3 was a command – "and it was so"
 
@@ -758,7 +758,7 @@
 * Day-age puts Adam 50,000 to 200,000 years ago – up to **194,000 extra years** over the Bible's chronology
 * Not from Adam to Joseph: every father's age is given
 * Not since Jesus. So between Joseph and Jesus?
-* Not Joseph to Jesus either: 430 years in Egypt (Exodus 12:40), the temple begun 480 years after the Exodus in about 966 BC (1 Kings 6:1) – Joseph entered Egypt about 1880 BC
+* Not Joseph to Jesus either: 430 years in Egypt (Exodus 12:40), the temple begun 480 years after the Exodus in about 966 BC (1 Kings 6:1) – Jacob's family entered Egypt about 1876 BC
 * From Adam to Jesus the Bible counts the years – no room for 194,000 more
 * Cut away: **ages instead of days** – concordism
 
@@ -822,7 +822,7 @@
 
 ---
 
-## FC – Cutting: The Things Made
+## Functional Creation – Cutting: The Things Made
 
 ![](pics/CosmosTemple.jpg style="float: right; width: 7rem")
 
@@ -943,7 +943,7 @@
 
 ## Mytho-History – Polishing: "Fantastic"
 
-![](pics/GodUmlimitedPower.jpg style="float: right; width: 8rem")
+![](pics/GodUnlimitedPower.jpg style="float: right; width: 8rem")
 
 * Craig: the fruit are not miraculous – they work "even contrary to God's will" (Excursus 19) → then a **created** property, like bread nourishing or hemlock killing; God's command opposed the eating, not the tree's working
 * The knowledge of good and evil came from the **act** of disobedience, not from chemistry (Genesis 3:7)
@@ -954,9 +954,9 @@
 
 ## Mytho-History – Polishing: The Verdict
 
-![](pics/GodUmlimitedPower.jpg style="float: right; width: 8rem")
+![](pics/GodUnlimitedPower.jpg style="float: right; width: 8rem")
 
-* **The talking serpent:** Craig says a miracle here would make God "the author of the Fall" – but a creature used by a fallen creature is no miracle of God (cf. Judas, John 13:27)
+* **The talking serpent:** Craig says a miracle here would make God "the author of the Fall" – but a creature used by a fallen creature is no miracle of God (compare Judas, John 13:27)
 * Deciding what God may have done by what seems plausible is **concordism in reverse** – modern plausibility read into the text
 * Genre is found from the text: Genesis 1–11 uses the same narrative form as Genesis 12–50
 * Polished off: **"figurative, so it did not happen"** – the referents stay; only the "palpably false" test goes
@@ -1012,7 +1012,8 @@
 * **Purpose:** the cosmos as God's temple (Walton)
 * **Polemic:** God alone, against the myths (Miller and Soden)
 * **Figure:** the trees, the rib, the days carry meaning (Craig) – every figure with its referent
-* **Moral:** the Sabbath pattern – **also kept:** revelation, sequence, first state (Revelation-Day, Day-Age, Gap)
+* **Moral:** the Sabbath pattern
+* **Also kept:** the author meant days (Literal Naive), a first state (Gap), real days of divine action (Day-Gap), sequence (Day-Age), revelation (Revelation-Day)
 * The whole outshines the sum of its facets: God layered all of these into **one artful text** – that is the achievement
 
 ---
@@ -1068,7 +1069,8 @@
 * **William Lane Craig**, *Defenders 4: Excursus on Creation*, Parts 1–21, and *Doctrine of Man*, Parts 12–14
   * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4
 * **CMI**: **Calvin Smith**, *Genesis: The Missing Piece of the Puzzle* (2015), the two towers and images; **Sarfati**; with **AiG** and **ICR** articles
-* **Ross**, **Walton**, **Blocher**, **Kline**, **Lennox**, **Miller and Soden** – the views; **Barr**, **Aquinas**, **Augustine** – the reading rules
+* **Ross**, **Walton**, **Blocher**, **Kline**, **Lennox**, **Miller and Soden** – the views; with **von Rad**, **Pannenberg**, **Chalmers**, **Scofield**, **Pember**, **Jacobsen**, **Wenham**, **Sarna**
+* **Barr**, **Aquinas**, **Augustine** – the reading rules; **Davis Young**, **Provine**, **LifeWay Research** – the stakes
 
 ---
 

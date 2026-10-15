@@ -129,7 +129,7 @@ Ingmar Bitter, PhD
 
 ## Nothing Too Hard for God (Jeremiah 32:26-27)
 
-![](OmniPics/GodUmlimitedPower.jpg style="float: right; width: 9rem")
+![](OmniPics/GodUnlimitedPower.jpg style="float: right; width: 9rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">
     Then the word of the LORD came to Jeremiah, saying, “Behold, I am the LORD, the God of all flesh. Is there anything too hard for Me?”

@@ -217,7 +217,7 @@
 
 ## If God Exists, Miracles Are Possible
 
-![](pics/GodUmlimitedPower.jpg style="float: right; width: 8rem")
+![](pics/GodUnlimitedPower.jpg style="float: right; width: 8rem")
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Ah, Lord GOD! Behold, **You have made the heavens and the earth** by Your great power and outstretched arm. **There is nothing too hard for You**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Jeremiah 32:17 (NKJV)</em></p>
 
