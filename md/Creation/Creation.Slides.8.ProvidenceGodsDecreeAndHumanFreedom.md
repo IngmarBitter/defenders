@@ -11,8 +11,8 @@
 * [The Scripture](#slide13)
 * [TULIP and ROSES](#slide22)
 * [The Revisit](#slide29)
-* [Molinism at Work in the Series](#slide38)
-* [Practical Takeaways](#slide40)
+* [Molinism at Work in the Series](#slide40)
+* [Practical Takeaways](#slide42)
 
 ---
 
@@ -401,6 +401,29 @@
 * Option 1 (**congruism**): for each person some grace would win him – but perhaps no **feasible** world combines them all
 * Option 2: God could create a world where all freely believe, yet prefers one where some reject Him – as close to Calvinism as possible, **with** freedom
 * Either way: individuals are predestined, and freedom stays intact
+
+---
+
+## Why Create Those Who Will Reject Him?
+
+![](pics/ScaleImbalance.jpg style="float: right; width: 7rem")
+
+* God foreknows who would freely love Him – **before** He creates anyone
+* So why not simply **leave out** those who never would?
+* Is creating them anyway not God, avoidably, creating them **for destruction**?
+* Answer 1 (Craig): people are **not separable** – each free choice is made in circumstances that include everyone else; leave out the lost, and the saved may no longer freely believe
+  * A world of only the saved may not be **feasible**
+
+---
+
+## Leaving Out the Lost: Two More Answers
+
+![](pics/AlternateChoices.jpg style="float: right; width: 8rem")
+
+* Answer 2: **a real alternative** – a free choice needs a live option to reject; in a world where no one ever rejects Christ, that option looks empty – seeing rejection and its cost may be part of the circumstances in which others freely choose
+  * Freedom needs rejection to be **possible**, not **actual** – in heaven no one rejects; so this supports answer 1, it does not stand alone
+* Answer 3: **not created for destruction** – God gives every person sufficient grace and wants all saved (1 Timothy 2:4; 2 Peter 3:9); the lost refuse freely – perhaps in **any** world God could make
+* Leaving them out would let those who refuse God **veto** the joy of those who accept Him ([Christ Deck 9](../Christ/Christ.Slides.9.AccessWhoCanBeSavedThroughChrist.html#slide38))
 
 ---
 
