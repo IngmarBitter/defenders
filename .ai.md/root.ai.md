@@ -116,6 +116,13 @@ If you stack multiple scripture quotes on the same slide, use `margin-bottom: -1
 
 When omitting text within quotes, use `[...]` format with a space before and after.
 
+## Slide Wording: Idea First
+
+- Lead each bullet with the idea; put the attribution after it, in parentheses: `* The days are a literary frame, not a chronology (Blocher, Kline)` – not `* Blocher, Kline: the days are a literary frame`
+- The same for Scripture speakers: `* "From the beginning of the creation" (Jesus, Mark 10:6)`, not `* Jesus: "from the beginning …"`
+- A view's proponents go in the last bullet of its statement slide: `* Proponents: John Walton, *The Lost World of Genesis One*`
+- Exceptions: bullets whose point is the person (an admission, "Ross loves God's Word"), and labels in a list of replies addressed to proponents
+
 ## Markdeep Slide Numbering
 
 The title slide (first `#` heading) is slide **#0**. The first `##` content slide is **#1**, and so on.

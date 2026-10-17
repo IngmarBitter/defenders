@@ -73,13 +73,13 @@
 
 ![](pics/diamond.png style="float: right; width: 10rem")
 
-* The same holds for the days of Genesis – all true at the same time:
+* The same might hold for interpreting Genesis – many views can be true, at least in part, at the same time – each adds a facet:
   * **Historical** – six real 24-hour days, a real Adam: **the core**
   * **Literary** – careful structure: forming, then filling
   * **Purposive** – creation ordered for function, a home for man
   * **Polemic** (a pointed attack on a rival view) – a sharp answer to the pagan myths
   * **Moral** – the Sabbath pattern for our work week
-* This is the thesis of the deck; the rest of the deck shows why it holds
+* Our thesis: these are true and **synergetic** facets – together more than their sum; the rest of the deck shows why
 
 ---
 
@@ -87,7 +87,7 @@
 
 ![](pics/Sunset.jpg style="float: right; width: 10rem")
 
-* **Young-Earth Creation (YEC)** – literal, accurate: six 24-hour days a few thousand years ago – whatever science the text touches, it gets right
+* **Young-Earth Creation (YEC)**: six 24-hour days a few thousand years ago, told accurately – whatever science the text touches, it gets right
 * **Literal Naive**: six 24-hour days, told in the obsolete science of Moses' day
 * **Verse 1–2 Gap**: ages and a ruined world between Genesis 1:1 and 1:2, then six 24-hour days
 * **Day-Gap**: six 24-hour days of divine action, separated by long ages
@@ -125,7 +125,7 @@
 
 ![](pics/Sunset.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"God called the light Day, and the darkness He called Night. **So the evening and the morning were the first day**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:5 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"**God called the light Day**, and the darkness He called Night. **So the evening and the morning were the first day**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:5 (NKJV)</em></p>
 
 * **Yom** (day) defined on its first use: the light period, and light plus dark together
 * Each day: a **number** plus **evening and morning** – repeated six times
@@ -138,7 +138,7 @@
 
 ![](pics/Cosmos.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then God said, 'Let there be lights in the firmament of the heavens to divide the day from the night; and let them be for signs and seasons, and **for days and years**; and let them be for lights in the firmament of the heavens to give light on the earth'; and it was so. **Then God made two great lights**: the greater light to rule the day, and the lesser light to rule the night. He made the stars also. [...] So the evening and the morning were the fourth day."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:14–16, 19 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then God said, 'Let there be lights in the firmament of the heavens to divide the day from the night; and let them be **for signs** and seasons, and **for days and years**; and let them be for lights in the firmament of the heavens to give light on the earth'; and it was so. **Then God made two great lights**: the greater light to rule the day, and the lesser light to rule the night. He made the stars also. [...] So the evening and the morning were the fourth day."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:14–16, 19 (NKJV)</em></p>
 
 * Command, making, and result – all **within day 4**
 * "Days and years" – here yom is clearly the ordinary day
@@ -193,7 +193,7 @@
 
 * Jesus places the first man and woman at **the beginning of creation** – not billions of years after it
 * On a young earth, humans come on day 6 of a history of thousands of years: "the beginning"
-* On an old earth, humans arrive at the very end: 99.999 % of history without them
+* On an old earth, humans arrive at the very end: 99.999% of history without them
 
 ---
 
@@ -203,7 +203,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"[...] See, I have given you every herb that yields seed [...] to you it shall be for food. **Also, to every beast of the earth**, to every bird of the air, and to everything that creeps on the earth, in which there is life, **I have given every green herb for food** [...]"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: 0.75em;"> <em>Genesis 1:29–30 (NKJV)</em></p>
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Every moving thing that lives shall be food for you. I have given you all things, **even as the green herbs**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 9:3 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"**Every moving thing that lives shall be food for you**. I have given you all things, even as the green herbs."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 9:3 (NKJV)</em></p>
 
 * Plants for man **and** beast at the start; meat is added only after the Flood
 * Plants are not nephesh chayyah ("living soul") life – eating plants is not death in the Hebrew sense (CMI)
@@ -239,7 +239,7 @@
 
 ![](pics/UssherBibleTimeline.jpg style="float: right; width: 11rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And Adam lived one hundred and thirty years, and begot a son in his own likeness, after his image, and named him Seth. [...] So all the days that Adam lived were nine hundred and thirty years; and he died."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 5:3, 5 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And **Adam lived one hundred and thirty years, and begot a son** in his own likeness, after his image, and named him Seth. [...] So all the days that Adam lived were nine hundred and thirty years; and he died."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 5:3, 5 (NKJV)</em></p>
 
 * Genesis 5 and 11 give the **father's age at the son's birth** – chronogenealogies, unique in ancient literature
 * Even if a name were skipped, **the years are still counted**: Adam to Abraham is about 2,000 years
@@ -250,10 +250,10 @@
 
 ![](pics/OldTestamentWorldMap.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And the waters prevailed exceedingly on the earth, and **all the high hills under the whole heaven were covered**. [...] All in whose nostrils was the breath of the spirit of life, all that was on the dry land, died."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 7:19, 22 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"And the waters prevailed exceedingly on the earth, and **all the high hills under the whole heaven were covered**. [...] All in whose nostrils was the breath of the spirit of life, **all that was on the dry land, died**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 7:19, 22 (NKJV)</em></p>
 
 * "All", "whole heaven", "covered" – how could global be said more clearly?
-* Peter: those who deny it "willfully forget" a world that "perished, being flooded with water" (2 Peter 3:5–6)
+* Those who deny it "willfully forget" a world that "perished, being flooded with water" (2 Peter 3:5–6)
 * A local flood needs no ark for birds and animals; the geology follows in the [Geology](Creation.Slides.4.GeologyTheFloodFossilsAndTheAgeOfTheEarth.html) deck
 
 ---
@@ -267,7 +267,7 @@
 * **Genesis 2:4**: "in the day" is the idiom "when" – no number, no evening, no morning
 * **Mark 10:6**: the first pair "from the beginning of the creation"
 * **Genesis 1:29–30, 9:3**: plants for all, meat only after the Flood; **Genesis 2:17, Romans 5:12**: death came through sin
-* **Genesis 3:17–19, Romans 8**: thorns and groaning after the fall; **Genesis 5, 11**: the years are counted; **Genesis 7:19**: "all the high hills"
+* **Genesis 3, Romans 8**: thorns and groaning after the fall; **Genesis 5, 11**: the years are counted; **Genesis 7, 2 Peter 3**: a global Flood
 
 ---
 
@@ -303,11 +303,11 @@
 ![](pics/FacetCutting.jpg style="float: right; width: 7rem")
 
 * **(T1) Exegesis:** a view's **true facet** is what the text itself backs, read as the author and his first audience read it
-* Eisegesis and concordism are cut: what is imposed on the text from outside – the rough surface that does not shine
+* Eisegesis and concordism are cut: the rough surface imposed from outside
 * **(T2) Compatibility:** a facet must stand **alongside the historical timeline** the genre establishes (slide 26) – a view that must replace it cuts into the core
 * So every view is a rough stone: we find its facet and polish off the rest
 * Typical rough surface: "structure *instead of* sequence", "function *instead of* matter", "myth *instead of* history", "ages *instead of* days"
-* **(T3) Referent:** a figurative reading is **kept** when it adds meaning without removing the history (next slides)
+* **(T3) Referent:** a figurative reading is **kept** if the history stays (next slides)
 
 ---
 
@@ -316,8 +316,8 @@
 ![](pics/BookThink.jpg style="float: right; width: 8rem")
 
 * A figurative meaning **rides on something concrete** – so a figurative reading can be **kept**: it adds meaning without removing the thing it refers to
-* Aquinas: all the senses of Scripture are "founded on the literal" (*Summa Theologiae* I, q.1, a.10)
-* Augustine: every sign (*signum*) points to a thing (*res*)
+* All the senses of Scripture are "founded on the literal" (Aquinas, *Summa Theologiae* I, q.1, a.10)
+* Every sign (*signum*) points to a thing (*res*) (Augustine)
 * Two kinds of figure in Genesis 1–3 – and neither empties the history
 
 ---
@@ -402,7 +402,7 @@
 
 * God created everything in **six consecutive 24-hour days**, then rested one day
 * Moses recorded **God's historically accurate account**, as God revealed it to him
-* **Yom with a number**: 359 times in the Old Testament outside Genesis – always an ordinary day
+* **Yom with a number**: 359 times in the Old Testament outside Genesis 1 – always an ordinary day
 * **Yom with evening and morning**: always an ordinary day
 * Exodus 20:11: the same six days ground our work week
 * Facet kept: **the historical timeline – the core**
@@ -425,7 +425,7 @@
 
 ![](pics/SixOrdinaryDays.jpg style="float: right; width: 7rem")
 
-* Craig (Excursus 3), fairly: "a perfectly feasible interpretation" – but not the only one. His reasons, all about the word yom:
+* "A perfectly feasible interpretation" – but not the only one (Craig, fairly, Excursus 3). His reasons, all about the word yom:
   * **Even if yom means 24 hours here, the wider context may use the days as a metaphor for something longer** → gladly, as a layer **on top of** the literal history – never in its place (the diamond)
   * **"In the day" (Genesis 2:4) uses yom broadly** → yes, as the idiom "when" – no number, no evening-morning
   * **Hosea 6:2 "third day" is non-literal** → the "two … three" idiom (Job 5:19; Amos 1:3): the numbers are not counted, but "quick and sure" only works with short days (Sarfati)
@@ -446,10 +446,10 @@
 
 ![](pics/LightBeforeSun.jpg style="float: right; width: 7rem")
 
-* **No sun, no sunrise and sunset – days 1–3 cannot be ordinary days** → God made light on day 1, and the text itself has day and night before the sun
+* **No sun – days 1–3 cannot be ordinary days** → God made light on day 1; the text has day and night before the sun
   * A directional light on an Earth already turning gives ordinary days from day 1 (slide 12)
-* **Trees cannot grow to full size in a day** → no creation day ran on ordinary natural law; each had miraculous activity, and accelerated growth fits that pattern – God's later miracles never make anyone wait either (Sarfati); the text keeps command and result inside day 3
-* **The waters cannot drain off the land in a day – the Flood took 150 days (Genesis 8:3)** → that was runoff; day 3 was a command – "and it was so"
+* **Trees cannot grow to full size in a day** → no creation day ran on natural law; accelerated growth fits that pattern – God's miracles never make anyone wait (Sarfati); command and result both fall in day 3
+* **Water cannot drain off land in a day – the Flood took 150 days (Genesis 8:3)** → that was runoff; day 3 was a command: "and it was so"
 
 ---
 
@@ -467,9 +467,10 @@
 ![](pics/SmithTwoTowers.png style="float: right; width: 11rem")
 
 * Every worldview is a tower of supporting beliefs – a tile bears weight only if it is **defensible from the foundation** (adapted from Calvin Smith)
-* The Christian tower rises from Genesis – Creation, Fall, Flood, Law – to Virgin Birth, **Cross**, Resurrection, Restoration; the atheist tower rises from evolution to heat death
-* YEC's argument: once the plain history of Genesis 1 is optional, **the same method** can reread any plain history in the Bible – "science must be allowed to modify our exegesis of Scripture" (Davis Young, geologist)
-* The core of the gospel is not touched – but its **defensibility** is: tile after tile can be crossed out as a support
+* The Christian tower rises from Genesis – Creation, Fall, Flood, Law – to Virgin Birth, **Cross**, Resurrection – and to Restoration
+* The atheist tower rises from evolution to heat death
+* "Science must be allowed to modify our exegesis of Scripture" (Davis Young, geologist at the conservative Reformed Calvin College)
+  * YEC: if allowed for Genesis, then also for the New Testament and the accounts of Jesus
 
 ---
 
@@ -477,10 +478,13 @@
 
 ![](pics/SmithCrossAlone.png style="float: right; width: 7rem")
 
-* The Cross is not dropped – "Christ died for our sins" stays (1 Corinthians 15:3)
-* But it now stands on nothing: an **unsupported belief**
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For **as in Adam all die**, even so **in Christ all shall be made alive**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Corinthians 15:22 (NKJV)</em></p>
+
+* Applied tile by tile, science-led exegesis reinterprets, or calls myth, **every tile but the Cross**: Creation, Fall, Flood, Law, Virgin Birth, Resurrection, Restoration
+* The core of the gospel is not touched – but its **defensibility** is
+* The Cross now stands on nothing: an **unsupported belief**
 * The atheist's question: you gave up everything else in the Bible when science objected – how can you be sure about the cross?
-* Paul ties the cross to Genesis: "as in Adam all die, even so in Christ all shall be made alive" (1 Corinthians 15:22) – the first Adam and the last Adam are **real history, or neither is**
+* Paul ties the cross to Genesis: either the first Adam and the last Adam are **both real history, or neither is**
 
 ---
 
@@ -502,10 +506,10 @@
 
 ![](pics/MosesLimitedScience.jpg style="float: right; width: 7rem")
 
-* God created in six literal 24-hour days, and Moses **described it with the limited science of his time** (von Rad, Pannenberg)
-* Von Rad: the account "is completely bound to the cosmological knowledge of its time" and means to convey it – a theology that used the science it had
+* God created in six 24-hour days, and Moses **described it with the limited science of his time** (von Rad, Pannenberg)
+* The account "is completely bound to the cosmological knowledge of its time" and means to convey it – a theology that used the science it had (von Rad)
 * Its strength: it hears the text honestly – the author **meant ordinary days**
-* James Barr, Oxford professor of Hebrew and no believer in Genesis: no professor of Hebrew "at any world-class university" doubts the writer meant six days "of 24 hours" (letter, 1984) – a hostile witness
+* No professor of Hebrew "at any world-class university" doubts the writer meant six days "of 24 hours" – a hostile witness: James Barr, Oxford professor of Hebrew and no believer in Genesis (letter, 1984)
 * Facet kept: **the author meant ordinary days**
 
 ---
@@ -524,11 +528,11 @@
 
 ![](pics/RuinedPreAdamicEarth.jpg style="float: right; width: 7rem")
 
-* Thomas Chalmers (1814), Scofield Reference Bible (1909)
 * Between Genesis 1:1 and 1:2:
   * **Billions of years** and a pre-Adamic world
   * The fall of Satan
   * A judgment ("Lucifer's flood") that left the earth ruined and empty – the gap reading of "without form and void"
+* Proponents: Thomas Chalmers (1814), Scofield Reference Bible (1909)
 
 ---
 
@@ -539,7 +543,7 @@
 * Why read a gap into the text?
   * The verb hayah is read as "the earth **became** without form and void"
   * Isaiah 45:18: God "did not create it in vain (tohu)" – so, they argue, it must have **become** tohu
-  * Pember: fossil death cannot follow a "very good" creation – so it must come **before** it
+  * Fossil death cannot follow a "very good" creation – so it must come **before** it (Pember)
 * Then six literal 24-hour days of re-creation – explaining the fossils within a literal week
 * Facet kept: **Genesis 1:2 describes a real first state** – "without form and void": unformed and unfilled, uninhabited (see [Creation out of Nothing](Creation.Slides.1.CreationOutOfNothing.html))
 
@@ -552,7 +556,7 @@
 * Verse 2 is a circumstantial clause – "Now the earth **was**", not "**became**" (AiG; Craig agrees on the clause, though he leaves a bare time gap before verse 3 open)
 * Exodus 20:11: the heavens and the earth were made **in six days** – no ages before them
 * Mark 10:6: man and woman "from the beginning of the creation" – not at the end of a billions-of-years timeline (slide 17)
-* Craig: a prior life world is "utterly foreign to the text" – "concordism at its very worst" (Excursus 4)
+* A prior life world is "utterly foreign to the text" – "concordism at its very worst" (Craig, Excursus 4)
 * Cut away: **a pre-Adamic world, death, and a fallen Satan before "very good"** (Genesis 1:31)
 
 ---
@@ -561,11 +565,11 @@
 
 ![](pics/LongAgesClock.jpg style="float: right; width: 7rem")
 
-* John Lennox, *Seven Days That Divide the World*
 * Six real 24-hour days of creative acts, **separated by long ages** in which things develop
 * Takes the days seriously as days
 * Takes God's direct creative acts seriously
 * Facet kept: **real days of divine action**
+* Proponents: John Lennox, *Seven Days That Divide the World*
 
 ---
 
@@ -585,7 +589,7 @@
 
 ![](pics/day-age-timeline.png style="float: right; width: 11rem")
 
-* Hugh Ross / Reasons to Believe: six consecutive **long ages** matching the secular scientific timeline
+* Six consecutive **long ages** matching the secular scientific timeline (Hugh Ross, Reasons to Believe)
 * Yom **can** mean a long period; day 7 is still going on; day 6 seems too full for 24 hours
 * Ross loves God's Word and God's world, and RTB reaches people who struggle with young-earth views
 * Facet kept: **a real sequence of creative acts** – God really made, in order
@@ -610,9 +614,9 @@
 
 ![](pics/YomStretched.jpg style="float: right; width: 7rem")
 
-* Yom **can** stretch – but can it stretch **here**? Number + evening + morning, 6 times
+* Yom **can** stretch – but can it stretch **here**? Number + evening + morning, six times
 * "In my father's day, he spent six days crossing the country" – context decides, and Genesis 1 decides for 24 hours
-* Craig agrees: yom here means a 24-hour day, "It does not mean 'age'" – "but the 24 hour days could be" a figure for long ages (Excursus 5); yet the days sit inside the narrative, so the narrative claims them (Where Is the Vehicle?)
+* Yom here means a 24-hour day, "It does not mean 'age'" – "but the 24 hour days could be" a figure for long ages (Craig agrees, Excursus 5); yet the days sit inside the narrative, so the narrative claims them (Where Is the Vehicle?)
 * Day 7 does not continue (slides 14, 39); day 6 is not too full (slide 41)
 * If only modern science can reveal the meaning of Genesis, then Moses, David, and the apostles could not have understood it
 
@@ -670,7 +674,7 @@
 
 ![](pics/GodSpheresOfPower.jpg style="float: right; width: 8rem")
 
-* Craig (Excursus 5): the proclamations **presuppose** what came before – "Let the earth bring forth" needs dry land
+* The proclamations **presuppose** what came before – "Let the earth bring forth" needs dry land (Craig, Excursus 5)
 * "God saw that it was good" means the work was **done** that day, not ages later
 * Exodus 20:11: "in six days the LORD **made**" – not "told"
 * Cut away: **the days as days of telling instead of days of making**
@@ -681,10 +685,10 @@
 
 ![](pics/FormingFilling.jpg style="float: right; width: 7rem")
 
-* Henri Blocher, Meredith Kline: the days are a **literary frame**, not a chronology
+* The days are a **literary frame**, not a chronology (Henri Blocher, Meredith Kline)
 * Days 1–3 **form** the realms (light, sky and sea, land); days 4–6 **fill** them (lights, birds and fish, animals and man)
 * A real pattern, noticed since the Middle Ages
-* Kline's argument: day 4 describes the **same event** as day 1 in more detail – so the days cannot be a sequence
+* Day 4 describes the **same event** as day 1 in more detail – so the days cannot be a sequence (Kline)
 * Facet kept: **structure – forming (days 1–3) and filling (days 4–6)**
 
 ---
@@ -705,22 +709,22 @@
 
 ![](pics/HeavenCity.jpg style="float: right; width: 7rem")
 
-* John Walton, *The Lost World of Genesis One*
 * Ancient readers thought of creation as **giving function**: like a building that becomes a restaurant when it opens
 * Seven literal days **inaugurate the cosmos as God's temple**; on day 7 God takes up residence
 * It reminds us that God had a **purpose** for everything He made
 * Facet kept: **purpose – creation as God's temple, ordered for function**
+* Proponents: John Walton, *The Lost World of Genesis One*
 
 ---
 
-## Functional Creation – Cutting: The Things Made
+## FC – Cutting: The Things Made
 
 ![](pics/CosmosTemple.jpg style="float: right; width: 7rem")
 
 * Lego: pieces (material cause), maker (efficient), blueprint (formal), a home for Lego people (final cause) – **all four**, not only the last
 * The objects of **bara** in Genesis 1 – heavens and earth, sea creatures, man – are material things that come into being when created (Craig, Excursus 7)
 * On Walton's view the land, plants, fish, birds, animals, and man were **not made** in the creation week
-* Craig: what would an eyewitness have seen that week? Walton admits the world lacked only humans in God's image and God's presence – everything else looked the same (Excursus 7)
+* What would an eyewitness have seen that week? Walton admits the world lacked only humans in God's image and God's presence – everything else looked the same (Craig, Excursus 7)
 
 ---
 
@@ -729,7 +733,7 @@
 ![](pics/CosmosTemple.jpg style="float: right; width: 7rem")
 
 * On Walton's reading the week only assigned functions to things already there – so "Let there be light", "let the dry land appear", "let the earth bring forth" describe no event: every such statement is **literally false** (Craig, Excursus 7)
-* Craig: the purely functional reading is therefore "implausible (not to say ridiculous)"
+* The purely functional reading is therefore "implausible (not to say ridiculous)" (Craig)
 * Day 7: if God made nothing in six days, He has nothing to **rest** from – so Walton must turn resting into **residing** in His temple
 * But Exodus 20:11 grounds our Sabbath in God's rest from **work** done in six days; "reside" is read into the text (Craig, Excursus 8)
 * Cut away: **function instead of material origins**
@@ -740,12 +744,12 @@
 
 ![](pics/Pyramids.jpg style="float: right; width: 10rem")
 
-* Miller and Soden, *In the Beginning … We Misunderstood* (Craig, Excursus 9)
 * Genesis recasts Egyptian creation stories to **correct their theology**:
   * God is uncreated, alone, sovereign over all – no other gods
   * Man, not the sun, is the crown of creation – God's image
   * Weekly Sabbath rest instead of the sun god's daily fight with chaos
 * Facet kept: **polemic** – a pointed attack on the rival stories: **Genesis answers the ancient Near Eastern myths**
+* Proponents: Miller and Soden, *In the Beginning … We Misunderstood* (Craig, Excursus 9)
 
 ---
 
@@ -766,7 +770,7 @@
 
 ![](pics/CoffeeAndCream.jpg style="float: right; width: 7rem")
 
-* Craig (Excursus 13–21): Genesis 1–11 is **myth** in the scholar's sense – a traditional sacred narrative that anchors present realities in the primeval past
+* Genesis 1–11 is **myth** in the scholar's sense – a traditional sacred narrative that anchors present realities in the primeval past (Craig, Excursus 13–21)
 * But with a real **interest in history**: the genealogies arrange it on a line of time (Jacobsen; Wenham: "proto-history")
 * Real people and events "clothed in the metaphorical language of myth" – blended like **coffee and cream**, not sortable like marbles in a bag: which parts are which cannot be told apart
 * Adam and his sin are **historical** (Romans 5) – Craig affirms this firmly
@@ -801,7 +805,7 @@
 
 ![](pics/EveReachingForFruit.jpg style="float: right; width: 10rem")
 
-* Craig reads features as figurative because they seem **"palpably false"** if literal (Excursus 19–20) – but each has a referent:
+* Features read as figurative because they seem **"palpably false"** if literal (Craig, Excursus 19–20) – but each has a referent:
   * **Trees:** the tree of life returns, real, in Revelation 2:7; 22:2
   * **Serpent:** "that serpent of old, called the Devil and Satan" (Revelation 12:9)
   * **Cherubim:** real beings – in the tabernacle (Exodus 25), seen by Ezekiel (Ezekiel 1; 10)
@@ -816,7 +820,7 @@
 
 * **A rainless Earth "fantastic"?** The text supplies how it was watered – "a mist went up" (Genesis 2:6)
 * **Genesis 1 and 2 inconsistent?** Genesis 2 **zooms in on day 6**: a garden, a man, a naming, a woman – a close-up, not a second order
-* **Plants (2:5):** Craig calls "shrub and grain of the field = cultivated plants" too clever by half (Excursus 20) – but 2:5 states conditions (no rain, no tiller), not causes: the garden is planted for the man (2:8)
+* **Plants (2:5):** "shrub and grain of the field = cultivated plants" is too clever by half (Craig, Excursus 20) – but 2:5 states conditions (no rain, no tiller), not causes: the garden is planted for the man (2:8)
 * **Animals (2:19):** "formed" can be pluperfect (NIV "had formed"); only beasts of the field and birds are brought to be named
 
 ---
@@ -825,7 +829,7 @@
 
 ![](pics/ScrollWithGoldLetters.jpg style="float: right; width: 10rem")
 
-* Craig (Excursus 15): add up the years and Noah is alive when Abraham is born; Shem outlives Abraham – "seems crazy"
+* Add up the years and Noah is alive when Abraham is born; Shem outlives Abraham – "seems crazy" (Craig, Excursus 15)
 * That is exactly what Ussher's chart shows, and nothing in the text objects – incredulity, not exegesis
 * Counted years with fathers' ages are chronicle style, not myth – even Jacobsen marks numbers as the historian's interest
 * The 10 + 10 symmetry (Sarna) is the author's arrangement of real names – Jude 14 still counts Enoch "the seventh from Adam"
@@ -836,7 +840,7 @@
 
 ![](pics/GodUnlimitedPower.jpg style="float: right; width: 8rem")
 
-* Craig: the fruit are not miraculous – they work "even contrary to God's will" (Excursus 19) → then a **created** property, like bread nourishing or hemlock killing; God's command opposed the eating, not the tree's working
+* The fruit are not miraculous – they work "even contrary to God's will" (Craig, Excursus 19) → then a **created** property, like bread nourishing or hemlock killing; God's command opposed the eating, not the tree's working
 * The knowledge of good and evil came from the **act** of disobedience, not from chemistry (Genesis 3:7)
 * God guards the tree of life because it is real and works (Genesis 3:22–24) – and it returns "for the healing of the nations" (Revelation 22:2)
 * A real tree of life is **no harder** for the Creator than a real Adam
@@ -847,7 +851,7 @@
 
 ![](pics/GodUnlimitedPower.jpg style="float: right; width: 8rem")
 
-* **The talking serpent:** Craig says a miracle here would make God "the author of the Fall" – but a creature used by a fallen creature is no miracle of God (compare Judas, John 13:27)
+* **The talking serpent:** a miracle here would make God "the author of the Fall" (Craig) – but a creature used by a fallen creature is no miracle of God (compare Judas, John 13:27)
 * Deciding what God may have done by what seems plausible is **concordism in reverse** – modern plausibility read into the text
 * Genre is found from the text: Genesis 1–11 uses the same narrative form as Genesis 12–50
 * Polished off: **"figurative, so it did not happen"** – the referents stay; only the "palpably false" test goes
@@ -886,10 +890,10 @@
 
 ![](pics/JesusReadingScrolls.jpg style="float: right; width: 10rem")
 
-* Jesus: "from the beginning of the creation" (Mark 10:6) – marriage grounded in the first pair
+* "From the beginning of the creation" (Jesus, Mark 10:6) – marriage grounded in the first pair
 * Luke 3 traces Jesus' genealogy back to Adam; "from one blood" all nations (Acts 17:26)
-* Paul: through one man sin and death entered (Romans 5:12); "as in Adam all die" (1 Corinthians 15:22)
-* Craig: an act inside a fiction cannot have effects outside it – so Adam is **historical** (Man 14)
+* Through one man sin and death entered (Paul, Romans 5:12); "as in Adam all die" (1 Corinthians 15:22)
+* An act inside a fiction cannot have effects outside it – so Adam is **historical** (Craig, Doctrine of Man 14)
 * Jesus and Paul read Genesis as **history**
 
 ---
@@ -905,7 +909,7 @@
 * **Figure:** the trees, the rib, the days carry meaning (Craig) – every figure with its referent
 * **Moral:** the Sabbath pattern
 * **Also kept:** the author meant days (Literal Naive), a first state (Gap), real days of divine action (Day-Gap), sequence (Day-Age), revelation (Revelation-Day)
-* The whole outshines the sum of its facets: God layered all of these into **one artful text** – that is the achievement
+* The whole outshines its facets: God layered all of these into **one artful text**
 
 ---
 
@@ -913,7 +917,7 @@
 
 ![](pics/GodCreated.jpg style="float: right; width: 11rem")
 
-* Craig's ten truths (Excursus 21) – common ground with other Christians:
+* Ten truths, condensed – common ground with other Christians (Craig, Excursus 21):
   * God is one, the transcendent Creator; He designed the world and its life
   * Man is the pinnacle of creation, able to know God; male and female, equal, made for marriage
   * Work is good; human discovery is our God-given calling – the root of science
@@ -959,9 +963,9 @@
 * **Ingmar Bitter**, slides content; Series 2 notes, Day-Age questions, Hugh Ross review
 * **William Lane Craig**, *Defenders 4: Excursus on Creation*, Parts 1–21, and *Doctrine of Man*, Parts 12–14
   * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4
-* **CMI**: **Calvin Smith**, *Genesis: The Missing Piece of the Puzzle* (2015), the two towers; **Sarfati**; with **AiG** and **ICR** articles
-* **Ross**, **Walton**, **Blocher**, **Kline**, **Lennox**, **Miller and Soden** – the views; with **von Rad**, **Pannenberg**, **Chalmers**, **Scofield**, **Pember**, **Jacobsen**, **Wenham**, **Sarna**
-* **Barr**, **Aquinas**, **Augustine** – the reading rules; **Davis Young** – the method
+* **Creation Ministries International (CMI)**: **Calvin Smith**, *Genesis: The Missing Piece of the Puzzle* (2015), the two towers; **Sarfati**; with **AiG** and **ICR** articles
+* **Ross**, **Walton**, **Blocher**, **Kline**, **Lennox**, **Miller and Soden** – the views; **Barr** – the hostile witness; with **von Rad**, **Pannenberg**, **Chalmers**, **Scofield**, **Pember**, **Jacobsen**, **Wenham**, **Sarna**
+* **Aquinas**, **Augustine** – the reading rules; **Davis Young** – the method
 
 ---
 

@@ -474,14 +474,13 @@
 
 ## Credits
 
-![](pics/ArkOnHill.jpg style="float: right; width: 10rem")
+![](pics/ArkOnHill.jpg style="float: right; width: 7rem")
 
 * **Ingmar Bitter**, slides content; *God vs/via Science* courses 6, 7, 12
 * **Mike Riddle** (Train2Equip, ICR), *Dating Fossils and Rocks*, *The Fossil Record*
-* **Creation Ministries International**, Creation Super Conference 2017, *The Flood*
+* **Creation Ministries International**, Creation Super Conference 2017, *The Flood*; **Calvin Smith**, castle images
 * **RATE team** (ICR, CRS): helium, carbon-14, discordant dates; **Steve Austin**, Mount St. Helens
-* **John Baumgardner**, Catastrophic Plate Tectonics
-* **Calvin Smith** (CMI), *Genesis: The Missing Piece of the Puzzle* (2015) – the castle images; **LifeWay Research** (2017) – the dropout figure
+* **John Baumgardner**, Catastrophic Plate Tectonics; **LifeWay Research** (2017), dropout figure
 * **Lawson Schroeder**, **Tas Walker**, **Dominic Statham** (CMI), Ice Age and migration
 * **Reasons to Believe**, the local-flood view (steelmanned)
 
