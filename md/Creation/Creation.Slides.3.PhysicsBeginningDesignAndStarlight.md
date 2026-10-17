@@ -112,7 +112,7 @@
 
 ## The Opposing View: Big Bang Creation
 
-![](pics/GodUmlimitedPower.jpg style="float: right; width: 8rem")
+![](pics/GodUnlimitedPower.jpg style="float: right; width: 8rem")
 
 * **Hugh Ross** (Reasons to Believe), astronomer, fairly stated:
   * The Big Bang was a major factor in his coming to Christ: a beginning implies a **Beginner**
