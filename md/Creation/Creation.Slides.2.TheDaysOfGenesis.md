@@ -6,13 +6,12 @@
 
 ## Outline
 
-* [What Rests on Genesis](#slide5)
-* [The Diamond](#slide17)
-* [The Text, Once](#slide23)
-* [How to Read Genesis](#slide36)
-* [Cutting the Facets](#slide46)
-* [The Finished Diamond](#slide87)
-* [Practical Takeaways](#slide91)
+* [The Diamond](#slide5)
+* [The Text, Once](#slide11)
+* [How to Read Genesis](#slide24)
+* [Cutting the Facets](#slide34)
+* [The Finished Diamond](#slide77)
+* [Practical Takeaways](#slide81)
 
 ---
 
@@ -50,137 +49,6 @@
 * Each view shows how an alleged contradiction dissolves once the error is corrected – in science, in theology, or in both
 * Those corrections are manmade too, so they can be the **wrong** changes
 * Our method: weigh the pros and cons of each view – and along the way build a unified **best-of-all** view
-
----
-
-# What Rests on Genesis
-
----
-
-## Two Worldviews, Two Towers
-
-![](pics/SmithTwoTowers.png style="float: right; width: 11rem")
-
-* Every worldview is a tower of supporting beliefs – a tile bears weight only if it is **defensible from the foundation itself** (adapted from Calvin Smith)
-* Smith traces the **worst case of a method**: once the plain sense of Genesis 1 is optional, every tile that rests on that sense can be crossed out
-* The Christian tower rises from Genesis – **Creation, Fall, Flood, Law** – to Virgin Birth, **Cross**, Resurrection, Restoration
-* The atheist tower: cosmic, geological, chemical, biological, human **evolution** – ending in heat death
-  * Foundation: an accidental beginning, no God, natural causes only; top: no hope, no purpose (Provine: no gods, no ethics, no free will)
-
----
-
-## Lost: Creation – Room for Millions of Years
-
-![](pics/SmithLostCreation.png style="float: right; width: 7rem")
-
-* The secular tower rests on **millions of years** – taught everywhere as fact, so many Christians make room for them
-* If we take the millions of years as given – where do they fit in the Christian tower?
-* Between Genesis 1:1 and 1:2, between the days, or the days stretched into ages – any way they contradict a week of 24-hour days
-* So Genesis 1 must be reread to mean something it does not plainly say – no longer "in six days the LORD made the heavens and the earth" (Exodus 20:11 – slide 27)
-  * We can still live with such a Creation – but we can no longer defend from the text what we say it means, so it is **crossed out as a support**
-
----
-
-## Lost: The Fall
-
-![](pics/SmithLostFall.png style="float: right; width: 7rem")
-
-* The millions of years are the ages of the rock layers – and the layers are full of fossils: death, suffering, disease, laid down **before Adam**
-* Then death did not enter through sin
-  * The Fall tile is crossed out as a support
-* Two verses go with it: "the wages of sin is death" (Romans 6:23); "through one man sin entered the world, and death through sin" (Romans 5:12 – slide 31)
-
----
-
-## Lost: Judgment
-
-![](pics/SmithLostJudgment.png style="float: right; width: 7rem")
-
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"For this they willfully forget: that by the word of God the heavens were of old, and the earth standing out of water and in the water, by which the world that then existed perished, being flooded with water."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>2 Peter 3:5–6 (NKJV)</em></p>
-
-* Peter says they **willfully forget** a real world that perished in water – the same method that empties Genesis 1 empties this judgment too
-* Those same layers, read as slow ages, leave no year-long world-covering Flood – it becomes local, or a legend
-  * Worst case: the Judgment tile is crossed out as a support
-* The rocks themselves are the business of the [Geology](Creation.Slides.4.GeologyTheFloodFossilsAndTheAgeOfTheEarth.html) deck
-
----
-
-## Lost: The Law
-
-![](pics/SmithLostLaw.png style="float: right; width: 7rem")
-
-* The fourth commandment gives its own reason: "For in six days the LORD made the heavens and the earth [...] and rested the seventh day" (Exodus 20:11)
-* That reason is the same plain week as Genesis 1. If we may read the week away there, we may read the reason away here – **the same method, any passage**
-* The command can stay on the page, but it is no longer **defensible from the text God gave for it**
-  * Worst case: the Law tile is crossed out as a support – and the whole lower column now bears no weight
-
----
-
-## Lost: The Miracles
-
-![](pics/SmithLostMiracles.png style="float: right; width: 7rem")
-
-* If that method is allowed – "science must be allowed to modify our exegesis of Scripture" (Davis Young, geologist at the conservative Reformed Calvin College) – it does not stop at Genesis
-* A virgin birth and an empty tomb are just as "unscientific"
-  * Worst case: both arms, Virgin Birth and Resurrection, are crossed out as supports
-
----
-
-## Lost: Restoration
-
-![](pics/SmithLostRestoration.png style="float: right; width: 7rem")
-
-* If death was always there, it is not an intruder – so what is there to restore?
-* "The times of restoration of all things" (Acts 3:21) – a creation "delivered from the bondage of corruption" (Romans 8:21), where "there shall be no more death" (Revelation 21:4)
-* But a restoration returns to a former state – and on this view a deathless world never existed
-* The blessed hope has lost its shape
-  * The top tile, Restoration, is crossed out as a support
-
----
-
-## The Cross Alone
-
-![](pics/SmithCrossAlone.png style="float: right; width: 7rem")
-
-* The Cross is not dropped – "Christ died for our sins" stays (1 Corinthians 15:3)
-* But it now stands on nothing: an **unsupported belief**
-* The atheist's question: you gave up everything else in the Bible when science objected – how can you be sure about the cross?
-* And Paul ties the cross to Genesis: "as in Adam all die, even so in Christ all shall be made alive" (1 Corinthians 15:22) – the first Adam and the last Adam are **real history, or neither is**
-
----
-
-## The Other Side Knows It
-
-![](pics/CastlesTheProblem.jpg style="float: right; width: 10rem")
-
-* American Atheists' Christmas campaign: "You KNOW it's a myth" – Adam, Eve, and the talking snake
-* Their own logic: no Adam and Eve, no Original Sin, "no need for atonement and no need for a redeemer" – "no need for a savior"
-* They see the tower exactly as we do – and they aim at its foundation
-* LifeWay Research (2017): 66% of young adults who attended church as teens drop out between 18 and 22 – the foundation was never laid
-
----
-
-## Start with the Right Foundation
-
-![](pics/CastlesTheSolution.jpg style="float: right; width: 10rem")
-
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"If the foundations are destroyed, What can the righteous do?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 11:3 (NKJV)</em></p>
-
-* Same evidence, two stories: the fossil is a **fact**, its age tag is an **interpretation**
-* Aim where the battle is: the atheist fires at our foundation while we answer the symptoms; the solution fires back at theirs – and rebuilds ours as "the Repairer of the Breach" (Isaiah 58:12)
-* So the days of Genesis are not a side issue: they are where the foundation is laid – which is why this deck reads them so carefully
-
----
-
-## What Rests on Genesis – In One Line Each
-
-![](pics/SmithCrossAlone.png style="float: right; width: 7rem")
-
-* A tile bears weight only if it is **defensible from the foundation** – the Christian tower is built up from Genesis
-* Millions of years cross out **Creation**; fossils before Adam cross out **the Fall**; ages instead of a Flood cross out **Judgment**
-* Same method: empty Genesis 1 and Exodus 20:11 goes with it (**the Law**); a scientific veto over exegesis takes **the miracles**; no deathless past, no **Restoration**
-* The **Cross** is left standing on nothing – and the atheists say so themselves
-* So start with the right foundation: the days of Genesis are where it is laid
 
 ---
 
@@ -385,6 +253,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And the waters prevailed exceedingly on the earth, and **all the high hills under the whole heaven were covered**. [...] All in whose nostrils was the breath of the spirit of life, all that was on the dry land, died."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 7:19, 22 (NKJV)</em></p>
 
 * "All", "whole heaven", "covered" – how could global be said more clearly?
+* Peter: those who deny it "willfully forget" a world that "perished, being flooded with water" (2 Peter 3:5–6)
 * A local flood needs no ark for birds and animals; the geology follows in the [Geology](Creation.Slides.4.GeologyTheFloodFossilsAndTheAgeOfTheEarth.html) deck
 
 ---
@@ -435,7 +304,7 @@
 
 * **(T1) Exegesis:** a view's **true facet** is what the text itself backs, read as the author and his first audience read it
 * Eisegesis and concordism are cut: what is imposed on the text from outside – the rough surface that does not shine
-* **(T2) Compatibility:** a facet must stand **alongside the historical timeline** the genre establishes (slide 38) – a view that must replace it cuts into the core
+* **(T2) Compatibility:** a facet must stand **alongside the historical timeline** the genre establishes (slide 26) – a view that must replace it cuts into the core
 * So every view is a rough stone: we find its facet and polish off the rest
 * Typical rough surface: "structure *instead of* sequence", "function *instead of* matter", "myth *instead of* history", "ages *instead of* days"
 * **(T3) Referent:** a figurative reading is **kept** when it adds meaning without removing the history (next slides)
@@ -578,7 +447,7 @@
 ![](pics/LightBeforeSun.jpg style="float: right; width: 7rem")
 
 * **No sun, no sunrise and sunset – days 1–3 cannot be ordinary days** → God made light on day 1, and the text itself has day and night before the sun
-  * A directional light on an Earth already turning gives ordinary days from day 1 (slide 24)
+  * A directional light on an Earth already turning gives ordinary days from day 1 (slide 12)
 * **Trees cannot grow to full size in a day** → no creation day ran on ordinary natural law; each had miraculous activity, and accelerated growth fits that pattern – God's later miracles never make anyone wait either (Sarfati); the text keeps command and result inside day 3
 * **The waters cannot drain off the land in a day – the Flood took 150 days (Genesis 8:3)** → that was runoff; day 3 was a command – "and it was so"
 
@@ -590,6 +459,28 @@
 
 * **Adam could not name all the animals in one day** → only livestock, birds, and beasts of the field – a few hundred kinds, an hour or two
 * **"At last" (Genesis 2:23 RSV) means a long wait** → it marks the end of the search, not a span (NKJV "This is now"): after the animals, finally a fitting partner
+
+---
+
+## YEC: The Cost of Dropping It
+
+![](pics/SmithTwoTowers.png style="float: right; width: 11rem")
+
+* Every worldview is a tower of supporting beliefs – a tile bears weight only if it is **defensible from the foundation** (adapted from Calvin Smith)
+* The Christian tower rises from Genesis – Creation, Fall, Flood, Law – to Virgin Birth, **Cross**, Resurrection, Restoration; the atheist tower rises from evolution to heat death
+* YEC's argument: once the plain history of Genesis 1 is optional, **the same method** can reread any plain history in the Bible – "science must be allowed to modify our exegesis of Scripture" (Davis Young, geologist)
+* The core of the gospel is not touched – but its **defensibility** is: tile after tile can be crossed out as a support
+
+---
+
+## YEC: The Cross Left Alone
+
+![](pics/SmithCrossAlone.png style="float: right; width: 7rem")
+
+* The Cross is not dropped – "Christ died for our sins" stays (1 Corinthians 15:3)
+* But it now stands on nothing: an **unsupported belief**
+* The atheist's question: you gave up everything else in the Bible when science objected – how can you be sure about the cross?
+* Paul ties the cross to Genesis: "as in Adam all die, even so in Christ all shall be made alive" (1 Corinthians 15:22) – the first Adam and the last Adam are **real history, or neither is**
 
 ---
 
@@ -660,7 +551,7 @@
 
 * Verse 2 is a circumstantial clause – "Now the earth **was**", not "**became**" (AiG; Craig agrees on the clause, though he leaves a bare time gap before verse 3 open)
 * Exodus 20:11: the heavens and the earth were made **in six days** – no ages before them
-* Mark 10:6: man and woman "from the beginning of the creation" – not at the end of a billions-of-years timeline (slide 29)
+* Mark 10:6: man and woman "from the beginning of the creation" – not at the end of a billions-of-years timeline (slide 17)
 * Craig: a prior life world is "utterly foreign to the text" – "concordism at its very worst" (Excursus 4)
 * Cut away: **a pre-Adamic world, death, and a fallen Satan before "very good"** (Genesis 1:31)
 
@@ -685,7 +576,7 @@
 * "Evening and morning": each day ends and the next begins – **no room for a gap** (Craig, Excursus 4)
 * Nothing in the local or wider biblical context marks gaps; Lennox does not defend them from the text
 * It does not even fit the fossil dates: birds (day 5) before land animals (day 6)
-* Ages of developing life between the days imply death before "very good" – which contradicts Genesis 1:31 and Romans 5:12 (slides 26, 31)
+* Ages of developing life between the days imply death before "very good" – which contradicts Genesis 1:31 and Romans 5:12 (slides 14, 19)
 * Cut away: **ages inserted between the days**
 
 ---
@@ -722,7 +613,7 @@
 * Yom **can** stretch – but can it stretch **here**? Number + evening + morning, 6 times
 * "In my father's day, he spent six days crossing the country" – context decides, and Genesis 1 decides for 24 hours
 * Craig agrees: yom here means a 24-hour day, "It does not mean 'age'" – "but the 24 hour days could be" a figure for long ages (Excursus 5); yet the days sit inside the narrative, so the narrative claims them (Where Is the Vehicle?)
-* Day 7 does not continue (slides 26, 51); day 6 is not too full (slide 53)
+* Day 7 does not continue (slides 14, 39); day 6 is not too full (slide 41)
 * If only modern science can reveal the meaning of Genesis, then Moses, David, and the apostles could not have understood it
 
 ---
@@ -866,7 +757,7 @@
 * "Parallelomania": parallels must be real, causal, and one-directional – rarely shown (Craig, Excursus 10–12)
 * A polemic against false stories **works only if the true story is true** (CMI)
 * Genesis has neither **theogony** (how the gods were born) nor **theomachy** (war among the gods) – the engines of the Egyptian and Babylonian stories (Craig)
-* "Myth instead of history" would also remove the historical Adam (slide 88)
+* "Myth instead of history" would also remove the historical Adam (slide 78)
 * Cut away: **myth instead of history**
 
 ---
@@ -888,7 +779,7 @@
 
 * It sees the **figurative layer** truly: anthropomorphisms, the trees, the rib, the days carry real meaning
 * The **genealogies anchor** the history – real people who lived and died
-* Its central truths are ours too (slide 90)
+* Its central truths are ours too (slide 80)
 * Facet kept: **the figurative layer – and the genealogical anchor**
 * The **closest rival** to the diamond
 
@@ -1068,9 +959,9 @@
 * **Ingmar Bitter**, slides content; Series 2 notes, Day-Age questions, Hugh Ross review
 * **William Lane Craig**, *Defenders 4: Excursus on Creation*, Parts 1–21, and *Doctrine of Man*, Parts 12–14
   * Full notes: https://www.reasonablefaith.org/podcasts/defenders-podcast-series-4
-* **CMI**: **Calvin Smith**, *Genesis: The Missing Piece of the Puzzle* (2015), the two towers and images; **Sarfati**; with **AiG** and **ICR** articles
+* **CMI**: **Calvin Smith**, *Genesis: The Missing Piece of the Puzzle* (2015), the two towers; **Sarfati**; with **AiG** and **ICR** articles
 * **Ross**, **Walton**, **Blocher**, **Kline**, **Lennox**, **Miller and Soden** – the views; with **von Rad**, **Pannenberg**, **Chalmers**, **Scofield**, **Pember**, **Jacobsen**, **Wenham**, **Sarna**
-* **Barr**, **Aquinas**, **Augustine** – the reading rules; **Davis Young**, **Provine**, **LifeWay Research** – the stakes
+* **Barr**, **Aquinas**, **Augustine** – the reading rules; **Davis Young** – the method
 
 ---
 

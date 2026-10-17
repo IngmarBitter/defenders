@@ -6,13 +6,13 @@
 
 ## Outline
 
-* [Two Ways to Read the Rocks](#slide4)
-* [Radiometric Dating](#slide9)
-* [Carbon-14](#slide16)
-* [Fossils](#slide20)
-* [The Global Flood](#slide26)
-* [The Ice Age](#slide36)
-* [Practical Takeaways](#slide40)
+* [Two Ways to Read the Rocks](#slide6)
+* [Radiometric Dating](#slide11)
+* [Carbon-14](#slide18)
+* [Fossils](#slide22)
+* [The Global Flood](#slide28)
+* [The Ice Age](#slide38)
+* [Practical Takeaways](#slide42)
 
 ---
 
@@ -37,6 +37,29 @@
 * Schools and universities teach it as settled: **science has disproven the Bible** – the earth is old, life evolved, Genesis is myth
 * Science done well – observations first, assumptions named – **supports creation**, and with it the Bible
 * This deck: the rocks and fossils read as **one great catastrophe** – the Flood – not as millions of years
+
+---
+
+## The Other Side Knows It
+
+![](pics/CastlesTheProblem.jpg style="float: right; width: 10rem")
+
+* American Atheists' Christmas campaign: "You KNOW it's a myth" – Adam, Eve, and the talking snake
+* Their own logic: no Adam and Eve, no Original Sin, "no need for atonement and no need for a redeemer" – "no need for a savior"
+* They see the tower exactly as we do – and they aim at its foundation
+* LifeWay Research (2017): 66% of young adults who attended church as teens drop out between 18 and 22 – the foundation was never laid
+
+---
+
+## Start with the Right Foundation
+
+![](pics/CastlesTheSolution.jpg style="float: right; width: 10rem")
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"If the foundations are destroyed, What can the righteous do?"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Psalm 11:3 (NKJV)</em></p>
+
+* Same evidence, two stories: the fossil is a **fact**, its age is an **interpretation** – it follows from the starting assumptions
+* Aim where the battle is: the atheist fires at the foundation, so answering the symptoms is not enough – the starting assumptions themselves must be examined
+* This deck does that for the rocks: the long-age reading and the Flood reading, each from its own assumptions
 
 ---
 
@@ -458,6 +481,7 @@
 * **Creation Ministries International**, Creation Super Conference 2017, *The Flood*
 * **RATE team** (ICR, CRS): helium, carbon-14, discordant dates; **Steve Austin**, Mount St. Helens
 * **John Baumgardner**, Catastrophic Plate Tectonics
+* **Calvin Smith** (CMI), *Genesis: The Missing Piece of the Puzzle* (2015) – the castle images; **LifeWay Research** (2017) – the dropout figure
 * **Lawson Schroeder**, **Tas Walker**, **Dominic Statham** (CMI), Ice Age and migration
 * **Reasons to Believe**, the local-flood view (steelmanned)
 
