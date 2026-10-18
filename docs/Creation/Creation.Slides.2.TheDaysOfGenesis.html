@@ -87,7 +87,7 @@
 
 ![](pics/Sunset.jpg style="float: right; width: 10rem")
 
-* **Young-Earth Creation (YEC)**: six 24-hour days a few thousand years ago, told accurately – whatever science the text touches, it gets right
+* **Young-Earth Creation (YEC)**: six 24-hour days about 6,000 years ago, told accurately – whatever science the text touches, it gets right
 * **Literal Naive**: six 24-hour days, told in the obsolete science of Moses' day
 * **Verse 1–2 Gap**: ages and a ruined world between Genesis 1:1 and 1:2, then six 24-hour days
 * **Day-Gap**: six 24-hour days of divine action, separated by long ages
