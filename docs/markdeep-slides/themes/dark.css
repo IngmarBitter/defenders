@@ -112,6 +112,8 @@ a[href^="#citation-"] {
 .md h2 {
     font-size: 1.5rem;
     position: relative;
+    margin-top: calc(13.4px - 0.2em);
+    margin-bottom: calc(13.4px - 0.4em);
 }
 
 /*.md h2:after {
