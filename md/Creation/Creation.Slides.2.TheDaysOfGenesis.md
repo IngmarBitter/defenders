@@ -587,6 +587,28 @@
 
 ---
 
+## Revelation-Day
+
+![](pics/MosesReceivingDays.jpg style="float: right; width: 7rem")
+
+* God created over long ages; then over **six literal days He revealed** to Moses what He had done, one day's account per day
+* Related: **days of divine fiat** – six days of proclamation, fulfilled later over ages
+* Its strength: it answers **how Moses knew** – no human was there, so God must have revealed it
+* Facet kept: **God revealed the account** – Moses was not there
+
+---
+
+## Revelation-Day – Cutting
+
+![](pics/GodSpheresOfPower.jpg style="float: right; width: 8rem")
+
+* The proclamations **presuppose** what came before – "Let the earth bring forth" needs dry land (Craig, Excursus 5)
+* "God saw that it was good" means the work was **done** that day, not ages later
+* Exodus 20:11: "in six days the LORD **made**" – not "told"
+* Cut away: **the days as days of telling instead of days of making**
+
+---
+
 ## Day-Age
 
 ![](pics/day-age-timeline.png style="float: right; width: 11rem")
@@ -658,28 +680,6 @@
 * Not Joseph to Jesus either: 430 years in Egypt (Exodus 12:40), the temple begun 480 years after the Exodus in about 966 BC (1 Kings 6:1) – Jacob's family entered Egypt about 1876 BC
 * From Adam to Jesus the Bible counts the years – no room for 194,000 more
 * Cut away: **ages instead of days** – concordism
-
----
-
-## Revelation-Day
-
-![](pics/MosesReceivingDays.jpg style="float: right; width: 7rem")
-
-* God created over long ages; then over **six literal days He revealed** to Moses what He had done, one day's account per day
-* Related: **days of divine fiat** – six days of proclamation, fulfilled later over ages
-* Its strength: it answers **how Moses knew** – no human was there, so God must have revealed it
-* Facet kept: **God revealed the account** – Moses was not there
-
----
-
-## Revelation-Day – Cutting
-
-![](pics/GodSpheresOfPower.jpg style="float: right; width: 8rem")
-
-* The proclamations **presuppose** what came before – "Let the earth bring forth" needs dry land (Craig, Excursus 5)
-* "God saw that it was good" means the work was **done** that day, not ages later
-* Exodus 20:11: "in six days the LORD **made**" – not "told"
-* Cut away: **the days as days of telling instead of days of making**
 
 ---
 
