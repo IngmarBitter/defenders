@@ -127,7 +127,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"**God called the light Day**, and the darkness He called Night. **So the evening and the morning were the first day**."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:5 (NKJV)</em></p>
 
-* **Yom** (day) defined on its first use: the light period, and light plus dark together
+* **Yom** (day) defined on its first use – one word for both: the light period ("God called the light Day"), and light plus dark together ("the first day")
 * Each day: a **number** plus **evening and morning** – repeated six times
 * Light and day exist **before the sun** (day 4)
 * Evening and morning before the sun: a **directional** light, and an Earth already **rotating** from day one – not set spinning on day 4
@@ -138,11 +138,11 @@
 
 ![](pics/Cosmos.jpg style="float: right; width: 10rem")
 
-<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then God said, 'Let there be lights in the firmament of the heavens to divide the day from the night; and let them be **for signs** and seasons, and **for days and years**; and let them be for lights in the firmament of the heavens to give light on the earth'; and it was so. **Then God made two great lights**: the greater light to rule the day, and the lesser light to rule the night. He made the stars also. [...] So the evening and the morning were the fourth day."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:14–16, 19 (NKJV)</em></p>
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then God said, 'Let there be lights in the firmament of the heavens [...]; and let them be **for signs** and seasons, and **for days and years**; and let them be for lights [...] **to give light** on the earth'; and it was so. **Then God made two great lights**: the greater light to rule the day, and the lesser light to rule the night. [...] So the evening and the morning were the fourth day."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:14–16, 19 (NKJV)</em></p>
 
-* Command, making, and result – all **within day 4**
-* "Days and years" – here yom is clearly the ordinary day
+* Command, making, and result – all **within day 4**; "days and years" – here yom is clearly the ordinary day
 * "For signs": the lights **mark and rule** the days – they do not make them; the day has existed since day 1, as a clock does not make time
+* The lesser light also "gives light" – bright, not necessarily self-luminous
 
 ---
 
@@ -158,6 +158,7 @@
 * Day 7 has no "evening and morning"
 * Day 7 has no creative work
   * God's work of creating is finished – God is resting
+  * He rests from creating, not from upholding: "My Father has been working until now" (John 5:17)
 
 ---
 
@@ -169,6 +170,7 @@
 
 * The same word, the same number: **six days** of work, **one day** of rest
 * Repeated as a perpetual sign: "for in six days the LORD made the heavens and the earth" (Exodus 31:17)
+* No known parallel in the ancient Near East: a weekly rest for all, servants and animals included
 
 ---
 
@@ -404,7 +406,7 @@
 * Moses recorded **God's historically accurate account**, as God revealed it to him
 * **Yom with a number**: 359 times in the Old Testament outside Genesis 1 – always an ordinary day
 * **Yom with evening and morning**: always an ordinary day
-* Exodus 20:11: the same six days ground our work week
+* Exodus 20:11: the same six days ground our work week – a pattern only ordinary days can set; ages cannot be imitated
 * Facet kept: **the historical timeline – the core**
 
 ---
@@ -628,7 +630,7 @@
 
 * **Day 1:** sun and stars and first life are read into "the heavens and the earth"; rachaph (hovering) does not mean creating life
 * **Day 2:** hundreds of millions of years of rain, never once clear? And "no rain" (Genesis 2:5)
-* **Day 3:** flowering plants appear in the fossils 130 million years ago; who pollinates without animals?
+* **Day 3:** flowering plants appear in the fossils 130 million years ago; who pollinates without animals? A day without the sun is no problem for plants; an age is
 * **Day 4:** verses 14–15 on day 4, verse 16 on day 1, verses 17–18 on day 4?
 * **Overlapping days:** contradicts evening-morning and the Exodus work week
 
