@@ -193,7 +193,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"But **from the beginning of the creation**, God 'made them male and female.'"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Mark 10:6 (NKJV)</em></p>
 
-* Jesus places the first man and woman at **the beginning of creation** – not billions of years after it
+* Jesus places the first man and woman **at the beginning**, within the creation period – not at the end of a long history
 * On a young earth, humans come on day 6 of a history of thousands of years: "the beginning"
 * On an old earth, humans arrive at the very end: 99.999% of history without them
 
