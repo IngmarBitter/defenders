@@ -300,6 +300,7 @@
 * **Historical:** Adam and Eve were real people, with a lineage all the way to Jesus; God really made all things in the creation week
 * **Symbolic:** Adam = "man", Eve = "mother of all living", God breathing into Adam, God walking with Adam
 * Genesis 1 uses the Hebrew narrative verb form (waw-consecutive) of history, not the parallelism of Hebrew poetry (CMI)
+* No rhyme, but **highly patterned** – six repeated refrains, sevens ("good" 7 times, "God" 35), forming then filling – easy to remember and retell
 
 ---
 
