@@ -221,7 +221,9 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Therefore, just as through one man sin entered the world, and **death through sin**, and thus death spread to all men, because all sinned—"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 5:12 (NKJV)</em></p>
 
 * "In the day" again means **"when"** – dying began that day
-* Romans 5 speaks of physical death (Christ died, 5:6–10) – death is the **penalty**, not part of "very good"
+* Death came **through sin** and spread to **all men** – before the fall, no human died
+* Not spiritual death only: the sentence is "to dust you shall return" (Genesis 3:19), and the remedy is bodily resurrection (1 Corinthians 15:21–22)
+* So: **no human skeletons before Adam and Eve**
 
 ---
 
