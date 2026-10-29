@@ -207,7 +207,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"**Every moving thing that lives shall be food for you**. I have given you all things, even as the green herbs."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 9:3 (NKJV)</em></p>
 
-* Plants for man **and** beast at the start; meat is added only after the Flood
+* Plants for man **and** beast at the start; meat is added **for man** after the Flood
 * Plants are not nephesh chayyah ("living soul") life – eating plants is not death in the Hebrew sense (CMI)
 
 ---
@@ -302,7 +302,7 @@
 * **Historical:** Adam and Eve were real people, with a lineage all the way to Jesus; God really made all things in the creation week
 * **Symbolic:** Adam = "man", Eve = "mother of all living", God breathing into Adam, God walking with Adam
 * Genesis 1 uses the Hebrew narrative verb form (waw-consecutive) of history, not the parallelism of Hebrew poetry (CMI)
-* No rhyme, but **highly patterned** – six repeated refrains, sevens ("good" 7 times, "God" 35), forming then filling – easy to remember and retell
+* No rhyme, but **highly patterned** – refrains on all six days, sevens ("good" 7 times, "God" 35), forming then filling – easy to remember and retell
 
 ---
 
@@ -409,7 +409,7 @@
 ![](pics/SixDaysCreation.jpg style="float: right; width: 7rem")
 
 * God created everything in **six consecutive 24-hour days**, then rested one day
-* Moses recorded **God's historically accurate account**, as God revealed it to him
+* Moses recorded **God's historically accurate account**, as God revealed it
 * **Yom with a number**: 359 times in the Old Testament outside Genesis 1 – always an ordinary day
 * **Yom with evening and morning**: always an ordinary day
 * Exodus 20:11: the same six days ground our work week – a pattern only ordinary days can set; ages cannot be imitated
@@ -514,11 +514,12 @@
 
 ![](pics/MosesLimitedScience.jpg style="float: right; width: 7rem")
 
-* God created in six 24-hour days, and Moses **described it with the limited science of his time** (von Rad, Pannenberg)
+* God created in six 24-hour days, and Moses **described it with the limited science of his time**
 * The account "is completely bound to the cosmological knowledge of its time" and means to convey it – a theology that used the science it had (von Rad)
 * Its strength: it hears the text honestly – the author **meant ordinary days**
 * No professor of Hebrew "at any world-class university" doubts the writer meant six days "of 24 hours" – a hostile witness: James Barr, Oxford professor of Hebrew and no believer in Genesis (letter, 1984)
 * Facet kept: **the author meant ordinary days**
+* Proponents: Gerhard von Rad, Wolfhart Pannenberg
 
 ---
 
@@ -588,7 +589,7 @@
 * "Evening and morning": each day ends and the next begins – **no room for a gap** (Craig, Excursus 4)
 * Nothing in the local or wider biblical context marks gaps; Lennox does not defend them from the text
 * It does not even fit the fossil dates: birds (day 5) before land animals (day 6)
-* Ages of developing life between the days imply death before "very good" – which contradicts Genesis 1:31 and Romans 5:12 (slides 14, 19)
+* Ages of developing life between the days imply death before "very good" – which contradicts Genesis 1:31 (slide 14)
 * Cut away: **ages inserted between the days**
 
 ---
@@ -619,10 +620,11 @@
 
 ![](pics/day-age-timeline.png style="float: right; width: 11rem")
 
-* Six consecutive **long ages** matching the secular scientific timeline (Hugh Ross, Reasons to Believe)
+* Six consecutive **long ages** matching the secular scientific timeline
 * Yom **can** mean a long period; day 7 is still going on; day 6 seems too full for 24 hours
-* Ross loves God's Word and God's world, and RTB reaches people who struggle with young-earth views
+* Ross loves God's Word and God's world, and his ministry reaches people who struggle with young-earth views
 * Facet kept: **a real sequence of creative acts** – God really made, in order
+* Proponents: Hugh Ross, Reasons to Believe (RTB)
 
 ---
 
@@ -671,7 +673,7 @@
 * Millions of years of **predation, disease, and extinction** – then called "very good" (Genesis 1:31)?
 * Plant food for man and beast (Genesis 1:29–30); meat only in Genesis 9:3 – fossil predators must come **after** the fall
 * Fossil **thorns** are dated long before man – but thorns came with the curse (Genesis 3:18)
-* Death is the penalty for sin (Romans 5:12) – not a tool of creation
+* Death is an **enemy** (1 Corinthians 15:26) – not a tool of creation
 * The curse on "every beast" (Genesis 3:14): on day-age, what changed? Nothing
 
 ---
@@ -693,11 +695,12 @@
 
 ![](pics/FormingFilling.jpg style="float: right; width: 7rem")
 
-* The days are a **literary frame**, not a chronology (Henri Blocher, Meredith Kline)
+* The days are a **literary frame**, not a chronology
 * Days 1–3 **form** the realms (light, sky and sea, land); days 4–6 **fill** them (lights, birds and fish, animals and man)
 * A real pattern, noticed since the Middle Ages
 * Day 4 describes the **same event** as day 1 in more detail – so the days cannot be a sequence (Kline)
 * Facet kept: **structure – forming (days 1–3) and filling (days 4–6)**
+* Proponents: Henri Blocher, Meredith Kline
 
 ---
 
@@ -778,10 +781,11 @@
 
 ![](pics/CoffeeAndCream.jpg style="float: right; width: 7rem")
 
-* Genesis 1–11 is **myth** in the scholar's sense – a traditional sacred narrative that anchors present realities in the primeval past (Craig, Excursus 13–21)
+* Genesis 1–11 is **myth** in the scholar's sense – a traditional sacred narrative that anchors present realities in the primeval past
 * But with a real **interest in history**: the genealogies arrange it on a line of time (Jacobsen; Wenham: "proto-history")
 * Real people and events "clothed in the metaphorical language of myth" – blended like **coffee and cream**, not sortable like marbles in a bag: which parts are which cannot be told apart
-* Adam and his sin are **historical** (Romans 5) – Craig affirms this firmly
+* Adam and his sin are **historical** (Romans 5) – affirmed firmly
+* Proponents: William Lane Craig (Excursus 13–21)
 
 ---
 
