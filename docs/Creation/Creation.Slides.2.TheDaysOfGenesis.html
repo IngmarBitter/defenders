@@ -247,6 +247,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And **Adam lived one hundred and thirty years, and begot a son** in his own likeness, after his image, and named him Seth. [...] So all the days that Adam lived were nine hundred and thirty years; and he died."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 5:3, 5 (NKJV)</em></p>
 
 * Genesis 5 and 11 give the **father's age at the son's birth** – chronogenealogies, unique in ancient literature
+  * Lamech, Noah's father, could hear the creation account **from Adam** – 56 years overlap
 * Even if a name were skipped, **the years are still counted**
   * ~2,000 years Adam to Abraham
   * ~2,000 years Abraham to Christ
