@@ -236,6 +236,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"For the creation was subjected to futility [...] For we know that **the whole creation groans** and labors with birth pangs together until now."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Romans 8:20, 22 (NKJV)</em></p>
 
 * Thorns, toil, and death come **after** the fall – the whole creation shares the curse
+  * So fossils of thorns must be **younger than the fall**
 
 ---
 
