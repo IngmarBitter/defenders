@@ -272,11 +272,11 @@
 ![](pics/OpenBible.jpg style="float: right; width: 7rem")
 
 * **Genesis 1**: yom numbered, with evening and morning – an **ordinary day**; day 4 **makes** the lights that mark the days
-* **Genesis 1:31, 2:2**: creation incl. man is "very good", then rest
+* **Genesis 1:31, 2:2**: creation including man is "very good", then rest
 * **Exodus 20:11**: "in six days the LORD made" – the Sabbath rests on the week
 * **Genesis 2:4**: "in the day" is the idiom "when" – no number, no evening, no morning
 * **Mark 10:6**: the first pair "from the beginning of the creation"
-* **Genesis 1:29–30, 9:3**: plants for all, meat only after the Flood
+* **Genesis 1:29–30, 9:3**: plants for all, meat for man only after the Flood
 * **Genesis 2:17, Romans 5:12**: physical death came through sin
 * **Genesis 3, Romans 8**: thorns and groaning after the fall
 * **Genesis 5, 11**: the years are counted; **Genesis 7, 2 Peter 3**: a global Flood
@@ -676,7 +676,7 @@
 ![](pics/CatEatsMouse.jpg style="float: right; width: 10rem")
 
 * Millions of years of **predation, disease, and extinction** – then called "very good" (Genesis 1:31)?
-* Plant food for man and beast (Genesis 1:29–30); meat only in Genesis 9:3 – fossil predators must come **after** the fall
+* Plant food for man and beast (Genesis 1:29–30) – fossil predators must come **after** the fall
 * Fossil **thorns** are dated long before man – but thorns came with the curse (Genesis 3:18)
 * Death is an **enemy** (1 Corinthians 15:26) – not a tool of creation
 * The curse on "every beast" (Genesis 3:14): on day-age, what changed? Nothing
