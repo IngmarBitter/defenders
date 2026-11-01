@@ -269,14 +269,17 @@
 
 ## The Text – In One Line Each
 
-![](pics/OpenBible.jpg style="float: right; width: 10rem")
+![](pics/OpenBible.jpg style="float: right; width: 7rem")
 
-* **Genesis 1**: yom defined on day 1, numbered with evening and morning; day 4 **makes** the lights that mark the days; "very good", then rest
+* **Genesis 1**: yom numbered, with evening and morning – an **ordinary day**; day 4 **makes** the lights that mark the days
+* **Genesis 1:31, 2:2**: creation incl. man is "very good", then rest
 * **Exodus 20:11**: "in six days the LORD made" – the Sabbath rests on the week
 * **Genesis 2:4**: "in the day" is the idiom "when" – no number, no evening, no morning
 * **Mark 10:6**: the first pair "from the beginning of the creation"
-* **Genesis 1:29–30, 9:3**: plants for all, meat only after the Flood; **Genesis 2:17, Romans 5:12**: death came through sin
-* **Genesis 3, Romans 8**: thorns and groaning after the fall; **Genesis 5, 11**: the years are counted; **Genesis 7, 2 Peter 3**: a global Flood
+* **Genesis 1:29–30, 9:3**: plants for all, meat only after the Flood
+* **Genesis 2:17, Romans 5:12**: physical death came through sin
+* **Genesis 3, Romans 8**: thorns and groaning after the fall
+* **Genesis 5, 11**: the years are counted; **Genesis 7, 2 Peter 3**: a global Flood
 
 ---
 
