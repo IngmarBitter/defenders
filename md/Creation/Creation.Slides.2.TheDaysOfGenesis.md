@@ -438,7 +438,7 @@
 
 ![](pics/SixOrdinaryDays.jpg style="float: right; width: 7rem")
 
-* "A perfectly feasible interpretation" – but not the only one (Craig, fairly, Excursus 3). His reasons, all about the word yom:
+* "A perfectly feasible interpretation", Craig concedes – but not the only one (Excursus 3). His reasons, all about the word yom:
   * **Even if yom means 24 hours here, the wider context may use the days as a metaphor for something longer** → gladly, as a layer **on top of** the literal history – never in its place (the diamond)
   * **"In the day" (Genesis 2:4) uses yom broadly** → yes, as the idiom "when" – no number, no evening-morning
   * **Hosea 6:2 "third day" is non-literal** → the "two … three" idiom (Job 5:19; Amos 1:3): the numbers are not counted, but "quick and sure" only works with short days (Sarfati)
