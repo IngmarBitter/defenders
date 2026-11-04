@@ -40,6 +40,7 @@
 * **Incorporeal**: minds without bodies
 * Not all angels serve God: there is "the devil and his angels" (Matthew 25:41)
 * Critics call Satan a legend or a "vehicle of moral teaching" – but Jesus and the apostles treat him as a **real person** (Thompson)
+  * Jesus' temptation is a dialogue between two persons (Matthew 4:1–11); the whole book of Job depends on a real Satan
 
 ---
 
@@ -200,6 +201,7 @@
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"Then God saw **everything** that He had made, and indeed it was **very good**. So the evening and the morning were the sixth day."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Genesis 1:31 (NKJV)</em></p>
 
 * God did not **create** Satan evil – Satan **became** evil
+* "I make peace and create **calamity**" (Isaiah 45:7) – judgment on the wicked, not moral evil (Thompson)
 * But Scripture never explains his origin directly: in Genesis 3 the serpent simply appears
 * So we piece together the clues – starting with two famous and disputed texts
 
@@ -245,7 +247,6 @@
 * Isaiah 14 continues: "Is this **the man** who made the earth tremble?" (14:16)
 * Ezekiel 28 condemns **trade** and violence – not applicable to an angel
 * The high language is **hyperbole** for royal pride – the king who claims "I am a god"
-* Critics say the prophets borrowed a myth of an angelic fall – but no such myth is known: shapes in the clouds
 * So an angelic fall may be **true**, but reading it into these texts is eisegesis
 
 ---
@@ -256,8 +257,9 @@
 
 * Both sides agree the text is **addressed to a king**; they differ on whether it **also** points past him
 * Both sides agree Satan **fell through pride** – the question is only which texts teach it
+* A third view – the prophets borrowed a pagan myth of an angelic fall – fails: no such myth is known, shapes in the clouds (Craig)
 * So the doctrine should **not rest** on Isaiah 14 and Ezekiel 28 alone
-* A careful position: the texts are about the kings first; the Satan reading is possible and ancient, but **not certain**
+* My position, softer than Craig's "eisegesis": the texts are about the kings first; the Satan reading is possible and ancient, but **not certain**
 * The clear texts come next – and they settle the doctrine by themselves
 
 ---
@@ -270,6 +272,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"And the angels who **did not keep their proper domain**, but left their own abode, He has reserved in everlasting chains under darkness for the judgment of the great day;"</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>Jude 6 (NKJV)</em></p>
 
+* Possibly the "sons of God" of Genesis 6:1–4 (Craig)
 * Some are chained; others, with Satan, still roam – within limits
 
 ---
@@ -280,7 +283,7 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"not a novice, lest being **puffed up with pride** he fall into the same condemnation as the devil."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>1 Timothy 3:6 (NKJV)</em></p>
 
-* "The devil has **sinned from the beginning**" (1 John 3:8); "I saw Satan fall like lightning from heaven" (Luke 10:18)
+* "The devil has **sinned from the beginning**" (1 John 3:8); "I saw Satan fall like lightning from heaven" (Luke 10:18 – a past fall, or the disciples' mission? Craig: unclear)
 * "Elect angels" (1 Timothy 5:21) implies others who are not
 * So: angels created good, with **free will**; some, led by Satan, rebelled in pride
 
@@ -293,7 +296,7 @@
 * Angels were present and **rejoicing** when the Earth's foundations were laid (Job 38:4–7) – created early, likely on day 1
 * Many say they also fell **before** the Earth was made (Thompson)
 * But at the end of day 6 everything was still "**very good**" (Genesis 1:31)
-* So the fall came **after day 6 and before Genesis 3** – any time before Satan tempted Eve
+* My inference: the fall came **after day 6 and before Genesis 3** – any time before Satan tempted Eve
 * This rules out the gap theory's pre-Adamic fall of Satan and ruined world (Deck 2)
 
 ---
@@ -306,8 +309,9 @@
 
 * Origen hoped even Satan would be saved – the church rejected it
 * Christ took on **flesh and blood**, not angelic nature (Hebrews 2:14) – His atonement is for humans
-* The elect angels are sealed in their choice; God may know the fallen would never repent
-* Hell was **not prepared for people** – no human needs to go there
+* Angels were made at an **epistemic distance**, free to rebel; the elect are now sealed by a fuller vision of God (Craig)
+* Demons know their end: "torment us before the time?" (Matthew 8:29)
+* Hell was **not prepared for people** – only rejecting God's grace takes them there (Craig)
 
 ---
 
@@ -359,9 +363,9 @@
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">"whose minds **the god of this age has blinded**, who do not believe, lest the light of the gospel of the glory of Christ, who is the image of God, should shine on them."</p><p style="text-align: right; margin-top: -1.25em; margin-bottom: -0.75em;"> <em>2 Corinthians 4:4 (NKJV)</em></p>
 
-* Unbelievers are in "the snare of the devil" (2 Timothy 2:26) – so correct them "in humility"
+* Unbelievers are "taken captive by him to do his will" (2 Timothy 2:26) – impaired in **mind and will**
+* So correct them "in humility", with the Spirit's fruit, and pray God grants repentance (2 Timothy 2:25)
 * Satan takes away the word that was sown (Mark 4:15)
-* Demons know their end: "Have You come here to torment us before the time?" (Matthew 8:29)
 
 ---
 
@@ -424,7 +428,7 @@
 * **No fascination**: do not rejoice that spirits obey – rejoice that your **names are written in heaven** (Luke 10:20)
 * **No denial**: a real enemy – be sober and vigilant (1 Peter 5:8)
 * **No angel worship**: angels are fellow servants who point to God (Colossians 2:18; Revelation 22:8–9)
-* Not every trouble is a demon – but none is outside God's providence (Deck 8)
+* Not every trouble is a demon: "each one is tempted when he is drawn away by his own desires" (James 1:14) – and none is outside God's providence (Deck 8)
 
 ---
 
