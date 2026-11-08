@@ -31,11 +31,23 @@ God sometimes ...
 
 <p style="font-family: 'EB Garamond', serif; font-style: italic;">
     But you, O Lord, are a God merciful and gracious, slow to anger and abounding in steadfast love and faithfulness.
-</p><p style="text-align: right; margin-top: -1em; margin-bottom: -1em;"> <em>Psalm 86:15 (NKJV)</em></p>
+</p><p style="text-align: right; margin-top: 0.25em; margin-bottom: 0.5em;"> <em>Psalm 86:15 (NKJV)</em></p>
 
 * God punishing sin quickly is the exception, not the rule
 * God typically does not give an explanation why it did happen
 * Feelings of hurt, anger, confusion are normal and valid
+
+---
+
+## Innocent and still suffering
+
+![](EvilPics/woman.crying.jpg style="float: right; width: 8rem")
+
+* Job's friends: "you suffer, so you sinned"
+  - God rebuked them, Job 42:7
+* Jesus: most loved, wholly innocent, suffered the most
+* Faithfulness can even add suffering, 2 Timothy 3:12
+* God promises redemption, not insulation
 
 ---
 
@@ -79,6 +91,23 @@ Suffering gets us ready to =>
 * help others in the future
 * become Jesus hands and feet
 * act upon Jesus's behalf
+
+---
+
+## Better or bitter
+
+![](EvilPics/bootcamp.jpg style="float: right; width: 8rem")
+
+* Pain is not the poison, bitterness is
+  - refusing to forgive, letting the wound define us, Hebrews 12:15
+* Chosen hardship (training) and unchosen (illness, loss) can both go either way
+* Growth is not automatic: many are broken or hardened
+
+<p style="font-family: 'EB Garamond', serif; font-style: italic;">
+    But as for you, you meant evil against me; but God meant it for good
+</p><p style="text-align: right; margin-top: 0.25em; margin-bottom: 0.5em;"> <em>Genesis 50:20 (NKJV)</em></p>
+
+* God works evil toward good (Romans 8:28), He does not call it good
 
 ---
 
