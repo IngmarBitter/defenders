@@ -263,6 +263,7 @@
 
 * "All", "whole heaven", "covered" – how could global be said more clearly?
 * Those who deny it "willfully forget" a world that "perished, being flooded with water" (2 Peter 3:5–6)
+* "Never again shall there be a flood to destroy the earth" (Genesis 9:11) – yet local floods come every year
 * A local flood needs no ark for birds and animals; the geology follows in the [Geology](Creation.Slides.4.GeologyTheFloodFossilsAndTheAgeOfTheEarth.html) deck
 
 ---
