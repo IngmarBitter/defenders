@@ -462,7 +462,7 @@
 
 * **No sun – days 1–3 cannot be ordinary days** → God made light on day 1; the text has day and night before the sun
   * A directional light on an Earth already turning gives ordinary days from day 1 (slide 12)
-* **Trees cannot grow to full size in a day** → no creation day ran on natural law; accelerated growth fits that pattern – God's miracles never make anyone wait (Sarfati); command and result both fall in day 3
+* **Trees cannot grow to full size in a day** → no creation day ran on natural law; mature from the start, like the wine at Cana, made without the years (Sarfati); command and result both fall in day 3
 * **Water cannot drain off land in a day – the Flood took 150 days (Genesis 8:3)** → that was runoff; day 3 was a command: "and it was so"
 
 ---
@@ -608,6 +608,7 @@
 * Related: **days of divine fiat** – six days of proclamation, fulfilled later over ages
 * Its strength: it answers **how Moses knew** – no human was there, so God must have revealed it
 * Facet kept: **God revealed the account** – Moses was not there
+* Proponents: P. J. Wiseman, *Creation Revealed in Six Days* (1948)
 
 ---
 
@@ -654,7 +655,7 @@
 
 * Yom **can** stretch – but can it stretch **here**? Number + evening + morning, six times
 * "In my father's day, he spent six days crossing the country" – context decides, and Genesis 1 decides for 24 hours
-* Yom here means a 24-hour day, "It does not mean 'age'" – "but the 24 hour days could be" a figure for long ages (Craig agrees, Excursus 5); yet the days sit inside the narrative, so the narrative claims them (Where Is the Vehicle?)
+* Craig agrees yom here "does not mean 'age'" – though the 24-hour days could be a figure for long ages (Excursus 5); yet the days sit inside the narrative, so the narrative claims them (Where Is the Vehicle?)
 * Day 7 does not continue (slides 14, 39); day 6 is not too full (slide 41)
 * If only modern science can reveal the meaning of Genesis, then Moses, David, and the apostles could not have understood it
 
